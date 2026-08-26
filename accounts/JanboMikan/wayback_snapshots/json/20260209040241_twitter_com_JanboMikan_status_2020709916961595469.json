@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020451059546653027",
+    "created_at": "2026-02-09T04:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020709916961595469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "933314979800870913",
+          "start": 0,
+          "username": "luoluo_miaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020709916961595469",
+    "in_reply_to_user_id": "933314979800870913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020451059546653027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoluo_miaomiao 可爱宝宝🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020451059546653027].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020451059546653027",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020451059546653027"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020451059546653027",
+        "created_at": "2026-02-09T04:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020709916961595469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "933314979800870913",
+              "start": 0,
+              "username": "luoluo_miaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020709916961595469",
+        "in_reply_to_user_id": "933314979800870913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020451059546653027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoluo_miaomiao 可爱宝宝🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4991,
+          "following_count": 313,
+          "like_count": 8060,
+          "listed_count": 23,
+          "media_count": 131,
+          "tweet_count": 4118
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-22T12:43:26.000Z",
+        "description": "打工含糖小跨妹一只，想拥有可爱的外表和可爱的内心，想永远爱与被爱",
+        "id": "933314979800870913",
+        "location": "北京",
+        "name": "落落莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019081971042004992/8mQt0f-D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 184,
+          "like_count": 55,
+          "listed_count": 7,
+          "media_count": 59,
+          "tweet_count": 110
+        },
+        "username": "luoluo_miaomiao",
+        "verified": true
+      }
+    ]
+  }
+}

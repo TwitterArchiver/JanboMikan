@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1982680468387688642",
+    "created_at": "2025-10-27T06:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982700194333708620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982700194333708620",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982680468387688642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 你就是天生干这一行的😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_1982680458648264704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PlX1jWoAAihnM.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1982680468387688642",
+        "created_at": "2025-10-27T06:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982700194333708620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982700194333708620",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982680468387688642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 你就是天生干这一行的😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982680458648264704"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "conversation_id": "1982680468387688642",
+        "created_at": "2025-10-27T05:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982680468387688642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYOo1C5CMy",
+              "end": 38,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1982680468387688642/photo/1",
+              "media_key": "3_1982680458648264704",
+              "start": 15,
+              "url": "https://t.co/mYOo1C5CMy"
+            },
+            {
+              "display_url": "x.com/Distorted_ming…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Distorted_ming/status/1982679711722709237",
+              "start": 39,
+              "url": "https://t.co/ixfyiU70UN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982680468387688642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982679711722709237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗓子不适合学伪音不然集满了🥺 https://t.co/mYOo1C5CMy https://t.co/ixfyiU70UN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 91,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/互动可以哦但是不要过于涩涩/没回信息是在忙不要催🥺/属性偏M（微量S）/评论感兴趣的会互动/微信号：wunaisan26（备注自己推的ID看情况会加）",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907845496347176964/FhI661I3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 67,
+          "like_count": 2940,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 712
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011765718354968698",
+    "created_at": "2026-01-16T08:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T09:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012083695541510294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012083695541510294",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011765718354968698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 泼水节到咯😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2011765713745428481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-s6QgMbQAEbcS4.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011765718354968698",
+        "created_at": "2026-01-16T08:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012083695541510294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012083695541510294",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011765718354968698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 泼水节到咯😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011765713745428481"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2011765718354968698",
+        "created_at": "2026-01-15T11:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011765718354968698"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZb8AhgZ12",
+              "end": 40,
+              "expanded_url": "https://x.com/mingji_A/status/2011765718354968698/photo/1",
+              "media_key": "3_2011765713745428481",
+              "start": 17,
+              "url": "https://t.co/rZb8AhgZ12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011765718354968698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 999,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全体保持湿润，绝不干燥😋\n#男娘 https://t.co/rZb8AhgZ12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3921,
+          "following_count": 278,
+          "like_count": 5975,
+          "listed_count": 18,
+          "media_count": 102,
+          "tweet_count": 2899
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 1506,
+          "like_count": 68207,
+          "listed_count": 8,
+          "media_count": 102,
+          "tweet_count": 12974
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036825733415211411",
+    "created_at": "2026-03-26T11:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037123325512867936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1998960156273754112",
+          "start": 0,
+          "username": "shuitu0601"
+        },
+        {
+          "end": 23,
+          "id": "965583779380129792",
+          "start": 12,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037123325512867936",
+    "in_reply_to_user_id": "1998960156273754112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037020074410992110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuitu0601 @mario_2333 哇还有活埋x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036825733415211411",
+        "created_at": "2026-03-26T11:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037123325512867936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1998960156273754112",
+              "start": 0,
+              "username": "shuitu0601"
+            },
+            {
+              "end": 23,
+              "id": "965583779380129792",
+              "start": 12,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123325512867936",
+        "in_reply_to_user_id": "1998960156273754112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037020074410992110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuitu0601 @mario_2333 哇还有活埋x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998960156273754112",
+        "conversation_id": "2036825733415211411",
+        "created_at": "2026-03-26T04:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037020074410992110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "965583779380129792",
+              "start": 12,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037020074410992110",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037008541450694935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mario_2333 那推特上的蜜柑可以种吗？我想种几个等丰收🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9441,
+          "following_count": 416,
+          "like_count": 13296,
+          "listed_count": 37,
+          "media_count": 193,
+          "tweet_count": 6863
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T03:37:06.000Z",
+        "description": "呜呜呜，怎么就把我大号封了捏。窝不仅在推上是只橘猫，现实生活中也是个大胖橘⋯⋯",
+        "id": "1998960156273754112",
+        "name": "水上@二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034571041490825216/DU7bYnOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 164,
+          "like_count": 17879,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1149
+        },
+        "username": "shuitu0601",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 260,
+          "like_count": 42432,
+          "listed_count": 15,
+          "media_count": 903,
+          "tweet_count": 13629
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

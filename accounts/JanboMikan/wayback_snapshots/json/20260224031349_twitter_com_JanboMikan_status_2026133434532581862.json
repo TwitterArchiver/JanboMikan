@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025878512499073175",
+    "created_at": "2026-02-24T03:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026133434532581862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "baimengmeng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026133434532581862",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025878512499073175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimengmeng233 一种既像学生又很成熟的感觉x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025878509755990016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1dxWQagAAsXEh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025878512499073175",
+        "created_at": "2026-02-24T03:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026133434532581862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "baimengmeng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026133434532581862",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025878512499073175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimengmeng233 一种既像学生又很成熟的感觉x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025878509755990016"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "conversation_id": "2025878512499073175",
+        "created_at": "2026-02-23T10:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025878512499073175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMkEeZvOCe",
+              "end": 80,
+              "expanded_url": "https://x.com/baimengmeng233/status/2025878512499073175/photo/1",
+              "media_key": "3_2025878509755990016",
+              "start": 57,
+              "url": "https://t.co/bMkEeZvOCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025878512499073175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1312,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "之前买的cos服这套还没出呢....但是可以日常穿也感觉挺好看.... #男娘 ＃伪娘 ＃可爱的男孩子 ＃mtf https://t.co/bMkEeZvOCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 349,
+          "like_count": 9664,
+          "listed_count": 26,
+          "media_count": 152,
+          "tweet_count": 5061
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子（失业状态）",
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "pinned_tweet_id": "2025099855190978827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025079308826607616/RHqNbAWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 736,
+          "like_count": 10412,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 6868
+        },
+        "username": "baimengmeng233",
+        "verified": false
+      }
+    ]
+  }
+}

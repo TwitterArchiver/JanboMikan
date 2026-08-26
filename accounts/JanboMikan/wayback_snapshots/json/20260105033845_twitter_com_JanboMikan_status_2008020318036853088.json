@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007436795508895744"
+      ],
+      "media_source_tweet_id": [
+        "2007768972498776483"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008020318036853088",
+    "created_at": "2026-01-05T03:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T04:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008020318036853088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgQfX0WvKK",
+          "end": 79,
+          "expanded_url": "https://x.com/JanboMikan/status/2007768972498776483/photo/1",
+          "media_key": "3_2007436795508895744",
+          "start": 56,
+          "url": "https://t.co/JgQfX0WvKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008020318036853088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007768972498776483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 项目周会。\n导师：这周可以稍微歇一歇了，难的都做了。\n我：那女的呢。\n导师：？ https://t.co/JgQfX0WvKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2007436795508895744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vZITFbMAAAFt5.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007436795508895744"
+          ],
+          "media_source_tweet_id": [
+            "2007768972498776483"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008020318036853088",
+        "created_at": "2026-01-05T03:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008020318036853088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgQfX0WvKK",
+              "end": 79,
+              "expanded_url": "https://x.com/JanboMikan/status/2007768972498776483/photo/1",
+              "media_key": "3_2007436795508895744",
+              "start": 56,
+              "url": "https://t.co/JgQfX0WvKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008020318036853088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007768972498776483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 项目周会。\n导师：这周可以稍微歇一歇了，难的都做了。\n我：那女的呢。\n导师：？ https://t.co/JgQfX0WvKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007436795508895744"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2007768972498776483",
+        "created_at": "2026-01-04T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007768972498776483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgQfX0WvKK",
+              "end": 63,
+              "expanded_url": "https://x.com/JanboMikan/status/2007768972498776483/photo/1",
+              "media_key": "3_2007436795508895744",
+              "start": 40,
+              "url": "https://t.co/JgQfX0WvKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007768972498776483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 14238,
+          "like_count": 553,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "项目周会。\n导师：这周可以稍微歇一歇了，难的都做了。\n我：那女的呢。\n导师：？ https://t.co/JgQfX0WvKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 242,
+          "like_count": 4934,
+          "listed_count": 13,
+          "media_count": 89,
+          "tweet_count": 2337
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

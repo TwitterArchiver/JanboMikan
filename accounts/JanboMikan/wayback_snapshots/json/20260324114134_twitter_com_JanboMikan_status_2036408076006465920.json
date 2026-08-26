@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036035233687158839",
+    "created_at": "2026-03-24T11:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036408076006465920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567903529943339009",
+          "start": 0,
+          "username": "_gray_dust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036408076006465920",
+    "in_reply_to_user_id": "1567903529943339009",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036348152257581415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gray_dust_ pia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036035233687158839",
+        "created_at": "2026-03-24T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036408076006465920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567903529943339009",
+              "start": 0,
+              "username": "_gray_dust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036408076006465920",
+        "in_reply_to_user_id": "1567903529943339009",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036348152257581415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gray_dust_ pia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567903529943339009",
+        "conversation_id": "2036035233687158839",
+        "created_at": "2026-03-24T07:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036348152257581415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036348152257581415",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036035233687158839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 拍我脸上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9408,
+          "following_count": 415,
+          "like_count": 13104,
+          "listed_count": 37,
+          "media_count": 191,
+          "tweet_count": 6788
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:52:12.000Z",
+        "description": "❗❗❗❗本账号含有🔞❗❗❗❗\nFGO牢玩家。混杂大量日常/吐槽/黑泥/抽象擦边文案/偶尔还会传个一两张cos照❗但主要还是拿来看涩涩的号，请务必分辨清楚闲聊完全OK！虽然本人有点社恐很难主动开启话题（）点了follow的话可能会来视坚你👁️👁️（？）需要互fo直接私信踹我就好\n那么有没有可爱的男孩子呢🤤🤤🤤",
+        "id": "1567903529943339009",
+        "location": "南极洲迦勒底",
+        "name": "Dust",
+        "pinned_tweet_id": "1925368369978486871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880178391338319872/RqDR6zuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 318,
+          "like_count": 35355,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 11102
+        },
+        "username": "_gray_dust_",
+        "verified": false
+      }
+    ]
+  }
+}

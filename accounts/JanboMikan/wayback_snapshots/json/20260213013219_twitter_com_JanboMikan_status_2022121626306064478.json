@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021902100599595321",
+    "created_at": "2026-02-13T01:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022121626306064478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992627685798137856",
+          "start": 0,
+          "username": "Yuiko114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022121626306064478",
+    "in_reply_to_user_id": "1992627685798137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022116853976576424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiko114514 50还不够满减😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2022116848242933760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAAj1HaQAArOuh.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021902100599595321",
+        "created_at": "2026-02-13T01:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022121626306064478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992627685798137856",
+              "start": 0,
+              "username": "Yuiko114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022121626306064478",
+        "in_reply_to_user_id": "1992627685798137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022116853976576424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiko114514 50还不够满减😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022116848242933760"
+          ]
+        },
+        "author_id": "1992627685798137856",
+        "conversation_id": "2021902100599595321",
+        "created_at": "2026-02-13T01:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022116853976576424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9XGlGnokz",
+              "end": 41,
+              "expanded_url": "https://x.com/Yuiko114514/status/2022116853976576424/photo/1",
+              "media_key": "3_2022116848242933760",
+              "start": 18,
+              "url": "https://t.co/o9XGlGnokz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022116853976576424",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021902100599595321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan V50谢谢 https://t.co/o9XGlGnokz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5400,
+          "following_count": 321,
+          "like_count": 8510,
+          "listed_count": 24,
+          "media_count": 138,
+          "tweet_count": 4400
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "清水男娘 随便拍拍 只会原图直出",
+        "id": "1992627685798137856",
+        "location": "月ノ森女子学園",
+        "name": "家人",
+        "pinned_tweet_id": "1995167599957881148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992629855440224256/7UVZdLxH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 236,
+          "like_count": 624,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 618
+        },
+        "username": "Yuiko114514",
+        "verified": false
+      }
+    ]
+  }
+}

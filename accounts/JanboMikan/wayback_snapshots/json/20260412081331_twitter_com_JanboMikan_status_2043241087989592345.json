@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2042920605775729036",
+    "created_at": "2026-04-12T08:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043241087989592345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827958813603102720",
+          "start": 0,
+          "username": "pFDQtVKpfG28461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043241087989592345",
+    "in_reply_to_user_id": "1827958813603102720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043219395741364735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pFDQtVKpfG28461 来当我室友x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2042920605775729036",
+        "created_at": "2026-04-12T08:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043241087989592345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "pFDQtVKpfG28461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043241087989592345",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043219395741364735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pFDQtVKpfG28461 来当我室友x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2042920605775729036",
+        "created_at": "2026-04-12T06:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043219395741364735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043219395741364735",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042920605775729036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan xm室友（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10724,
+          "following_count": 449,
+          "like_count": 14997,
+          "listed_count": 39,
+          "media_count": 215,
+          "tweet_count": 7644
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "双相/mtf/重度焦虑强迫抑郁/精分/偶尔od/不鉴证/不割手/噶啦给墓/hjh我操你妈！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/murasame_ayachi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/murasame_ayachi",
+                "start": 0,
+                "url": "https://t.co/q7MH3PADuT"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🍬",
+        "pinned_tweet_id": "2042697167903822070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 638,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/q7MH3PADuT",
+        "username": "pFDQtVKpfG28461",
+        "verified": false
+      }
+    ]
+  }
+}

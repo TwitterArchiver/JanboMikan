@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2077325266658136538",
+    "created_at": "2026-07-15T09:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077325439723569559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077325439723569559",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077325266658136538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 剩下服的意思是不要的可以寄给我😋x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077325232030040064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQkStobQAA3Bh7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2077325266658136538",
+        "created_at": "2026-07-15T09:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077325439723569559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077325439723569559",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077325266658136538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 剩下服的意思是不要的可以寄给我😋x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077325232030040064"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2077325266658136538",
+        "created_at": "2026-07-15T09:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077325266658136538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9gc0NtFU4",
+              "end": 41,
+              "expanded_url": "https://x.com/maruko00o/status/2077325266658136538/photo/1",
+              "media_key": "3_2077325232030040064",
+              "start": 18,
+              "url": "https://t.co/I9gc0NtFU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077325266658136538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盛夏服的意思是穿上就跟在盛夏一样热 https://t.co/I9gc0NtFU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15456,
+          "following_count": 598,
+          "like_count": 21029,
+          "listed_count": 52,
+          "media_count": 357,
+          "tweet_count": 11123
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/hbHmqxl0mf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko000o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko000o",
+                "start": 67,
+                "url": "https://t.co/hbHmqxl0mf"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41475,
+          "following_count": 943,
+          "like_count": 25517,
+          "listed_count": 227,
+          "media_count": 1116,
+          "tweet_count": 8063
+        },
+        "url": "",
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

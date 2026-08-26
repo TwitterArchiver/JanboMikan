@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2078797006055895265",
+    "created_at": "2026-07-19T13:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078829854221623363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956917582864277504",
+          "start": 0,
+          "username": "qianhebro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078829854221623363",
+    "in_reply_to_user_id": "1956917582864277504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078814779880431998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianhebro 那不敢了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2078797006055895265",
+        "created_at": "2026-07-19T13:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078829854221623363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956917582864277504",
+              "start": 0,
+              "username": "qianhebro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078829854221623363",
+        "in_reply_to_user_id": "1956917582864277504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078814779880431998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianhebro 那不敢了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956917582864277504",
+        "conversation_id": "2078797006055895265",
+        "created_at": "2026-07-19T12:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078814779880431998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078814779880431998",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078797006055895265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 慢慢来喔嘻嘻嘻～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15526,
+          "following_count": 602,
+          "like_count": 21210,
+          "listed_count": 52,
+          "media_count": 362,
+          "tweet_count": 11223
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T03:15:41.000Z",
+        "description": "这里是千鹤，一个普普通通的小男生。",
+        "id": "1956917582864277504",
+        "location": "天上之恩施于人间。",
+        "name": "千鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956918009752064000/cZTF2DJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 155,
+          "like_count": 12722,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "qianhebro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008856136850743680",
+    "created_at": "2026-01-07T15:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008924913311289372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4455570672",
+          "start": 0,
+          "username": "cchong_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008924913311289372",
+    "in_reply_to_user_id": "4455570672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008923542889628087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cchong_x 😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-07T15:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008924913311289372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4455570672",
+              "start": 0,
+              "username": "cchong_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008924913311289372",
+        "in_reply_to_user_id": "4455570672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008923542889628087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cchong_x 😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4455570672",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-07T15:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008923542889628087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008923542889628087",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008903985672159501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 😋看你的表情  似乎已经有答案了呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 248,
+          "like_count": 5202,
+          "listed_count": 14,
+          "media_count": 93,
+          "tweet_count": 2500
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T18:35:05.000Z",
+        "description": "高浓度JK混合适量二次元调配而成🍹",
+        "id": "4455570672",
+        "location": "萨门",
+        "name": "懒虫虫虫虫虫虫",
+        "pinned_tweet_id": "1961384929591525572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967461971349188608/ZVbrrvkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 730,
+          "like_count": 6018,
+          "listed_count": 22,
+          "media_count": 336,
+          "tweet_count": 2715
+        },
+        "username": "cchong_x",
+        "verified": false
+      }
+    ]
+  }
+}

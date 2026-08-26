@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2072636401078661317",
+    "created_at": "2026-07-02T16:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072712599310073896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072712599310073896",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072684715036061706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe 图灵派"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2072636401078661317",
+        "created_at": "2026-07-02T16:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072712599310073896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072712599310073896",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072684715036061706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe 图灵派"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782063289675255808",
+        "conversation_id": "2072636401078661317",
+        "created_at": "2026-07-02T14:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072684715036061706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072684715036061706",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072636401078661317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 细节数据结构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14792,
+          "following_count": 576,
+          "like_count": 20259,
+          "listed_count": 52,
+          "media_count": 340,
+          "tweet_count": 10717
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "爱哭鬼。",
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "川蝉🍥",
+        "pinned_tweet_id": "2072158795758027041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1655,
+          "like_count": 41811,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 4773
+        },
+        "url": "",
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      }
+    ]
+  }
+}

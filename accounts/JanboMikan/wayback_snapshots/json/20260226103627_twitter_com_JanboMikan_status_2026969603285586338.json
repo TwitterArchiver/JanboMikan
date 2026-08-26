@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026951585692262870",
+    "created_at": "2026-02-26T10:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026969603285586338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026969603285586338",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026951585692262870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 菌子不器：指菌子不能用来当挂件，否则孢子会弥散到空气中导致中毒😋x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2026951575365931009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEtt_Ka0AENtE-.jpg",
+        "width": 2742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026951585692262870",
+        "created_at": "2026-02-26T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026969603285586338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026969603285586338",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026951585692262870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 菌子不器：指菌子不能用来当挂件，否则孢子会弥散到空气中导致中毒😋x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026951575365931009"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2026951585692262870",
+        "created_at": "2026-02-26T09:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026951585692262870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1uv3gPvI8",
+              "end": 28,
+              "expanded_url": "https://x.com/maruko00o/status/2026951585692262870/photo/1",
+              "media_key": "3_2026951575365931009",
+              "start": 5,
+              "url": "https://t.co/n1uv3gPvI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026951585692262870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1037,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "放学别走 https://t.co/n1uv3gPvI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6892,
+          "following_count": 365,
+          "like_count": 9949,
+          "listed_count": 33,
+          "media_count": 156,
+          "tweet_count": 5248
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38096,
+          "following_count": 936,
+          "like_count": 22344,
+          "listed_count": 212,
+          "media_count": 917,
+          "tweet_count": 5649
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2030455087240519874",
+    "created_at": "2026-03-08T13:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030632763532132717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 25,
+          "id": "1138224528784384000",
+          "start": 10,
+          "username": "lulululuilyilu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030632763532132717",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030610707243282486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @lulululuilyilu 那我让你穿latex😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2030455087240519874",
+        "created_at": "2026-03-08T13:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030632763532132717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 25,
+              "id": "1138224528784384000",
+              "start": 10,
+              "username": "lulululuilyilu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030632763532132717",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030610707243282486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @lulululuilyilu 那我让你穿latex😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2030455087240519874",
+        "created_at": "2026-03-08T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030610707243282486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 27,
+              "id": "1138224528784384000",
+              "start": 12,
+              "username": "lulululuilyilu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030610707243282486",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030546186638438548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @lulululuilyilu 我要责到你改用LaTeX😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7433,
+          "following_count": 392,
+          "like_count": 10908,
+          "listed_count": 33,
+          "media_count": 168,
+          "tweet_count": 5797
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/毛绒玩具饲养员/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Ted_noncommute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ted_noncommute",
+                "end": 23,
+                "expanded_url": "https://t.me/ted_noncommute",
+                "start": 0,
+                "url": "https://t.co/7gqKcdxvvf"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "Copenhagen, Denmark",
+        "name": "Ted",
+        "pinned_tweet_id": "1990718236422189238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 1643,
+          "like_count": 44838,
+          "listed_count": 16,
+          "media_count": 432,
+          "tweet_count": 9897
+        },
+        "url": "https://t.co/7gqKcdxvvf",
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-10T23:20:49.000Z",
+        "description": "挣扎求生中的淡推人 爱人@Cerynitis_271  丨 欢迎木桶饭 男娘 搞 CS/AI 的 以及其他有意思的人 和我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Cerynitis_271"
+              }
+            ]
+          }
+        },
+        "id": "1138224528784384000",
+        "location": "Beijing",
+        "name": "依露",
+        "pinned_tweet_id": "1652535863245692929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792146145868931072/Jc1z_ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 1164,
+          "like_count": 5433,
+          "listed_count": 39,
+          "media_count": 21,
+          "tweet_count": 3327
+        },
+        "username": "lulululuilyilu",
+        "verified": false
+      }
+    ]
+  }
+}

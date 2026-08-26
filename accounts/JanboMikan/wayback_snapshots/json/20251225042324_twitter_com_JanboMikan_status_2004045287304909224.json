@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2003866531550445718",
+    "created_at": "2025-12-25T04:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T05:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004045287304909224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3292210117",
+          "start": 0,
+          "username": "Ye_Chika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004045287304909224",
+    "in_reply_to_user_id": "3292210117",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003866531550445718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ye_Chika prpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003866528152977409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88p_YvagAEy1Ma.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003866528203350016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88p_Y7bIAAXOpo.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2003866531550445718",
+        "created_at": "2025-12-25T04:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T05:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004045287304909224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3292210117",
+              "start": 0,
+              "username": "Ye_Chika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004045287304909224",
+        "in_reply_to_user_id": "3292210117",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003866531550445718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ye_Chika prpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003866528152977409",
+            "3_2003866528203350016"
+          ]
+        },
+        "author_id": "3292210117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2003866531550445718",
+        "created_at": "2025-12-24T16:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003866531550445718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwM1Tb56T1",
+              "end": 100,
+              "expanded_url": "https://x.com/Ye_Chika/status/2003866531550445718/photo/1",
+              "media_key": "3_2003866528152977409",
+              "start": 77,
+              "url": "https://t.co/lwM1Tb56T1"
+            },
+            {
+              "display_url": "pic.x.com/lwM1Tb56T1",
+              "end": 100,
+              "expanded_url": "https://x.com/Ye_Chika/status/2003866531550445718/photo/1",
+              "media_key": "3_2003866528203350016",
+              "start": 77,
+              "url": "https://t.co/lwM1Tb56T1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003866531550445718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2503,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "乱穿袜子致歉\n是原神的米卡的衣服，穿上靴子感觉腿挺好看的就换了个白丝，结果发现啊，可能我还挺适合出鸣潮的菲比的，大概\n对了，圣诞节到了，那祝大家圣诞快乐 https://t.co/lwM1Tb56T1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 215,
+          "like_count": 4096,
+          "listed_count": 8,
+          "media_count": 82,
+          "tweet_count": 1891
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-25T08:05:32.000Z",
+        "description": "一个路过的女装少年，记不记住其实都不太重要啦",
+        "id": "3292210117",
+        "location": "初星学园",
+        "name": "叶千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911481242920386561/9928KjJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7751,
+          "following_count": 421,
+          "like_count": 2802,
+          "listed_count": 34,
+          "media_count": 387,
+          "tweet_count": 1672
+        },
+        "username": "Ye_Chika",
+        "verified": false
+      }
+    ]
+  }
+}

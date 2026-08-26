@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985521077980925952",
+        "3_1985521078077440001"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1985648220618293469",
+    "created_at": "2025-11-04T10:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985648220618293469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 154,
+          "start": 151,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2CxQWCzzQ",
+          "end": 178,
+          "expanded_url": "https://x.com/JanboMikan/status/1985648220618293469/photo/1",
+          "media_key": "3_1985521077980925952",
+          "start": 155,
+          "url": "https://t.co/D2CxQWCzzQ"
+        },
+        {
+          "display_url": "pic.x.com/D2CxQWCzzQ",
+          "end": 178,
+          "expanded_url": "https://x.com/JanboMikan/status/1985648220618293469/photo/1",
+          "media_key": "3_1985521078077440001",
+          "start": 155,
+          "url": "https://t.co/D2CxQWCzzQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985648220618293469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男娘控症状的不同级别\nL1：这个小男娘真可爱，关注了！\nL2：我要抓住Ta亲亲抱抱贴贴啃啃！\nL3：为什么Ta在和别人聊天，能不能心里只有我啊，我要把你关起来！\nL4：所有男娘都是身外之物...我决定，成为男娘！！\nL5：男娘这种生物的美好...就该让全世界都明白——这就是「全人类男娘化计划」！！\n\n#男娘 https://t.co/D2CxQWCzzQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985521077980925952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4385pMakAA9ZOG.jpg",
+        "width": 672
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1985521078077440001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4385pjbQAEQoRD.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985521077980925952",
+            "3_1985521078077440001"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1985648220618293469",
+        "created_at": "2025-11-04T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985648220618293469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2CxQWCzzQ",
+              "end": 178,
+              "expanded_url": "https://x.com/JanboMikan/status/1985648220618293469/photo/1",
+              "media_key": "3_1985521077980925952",
+              "start": 155,
+              "url": "https://t.co/D2CxQWCzzQ"
+            },
+            {
+              "display_url": "pic.x.com/D2CxQWCzzQ",
+              "end": 178,
+              "expanded_url": "https://x.com/JanboMikan/status/1985648220618293469/photo/1",
+              "media_key": "3_1985521078077440001",
+              "start": 155,
+              "url": "https://t.co/D2CxQWCzzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985648220618293469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男娘控症状的不同级别\nL1：这个小男娘真可爱，关注了！\nL2：我要抓住Ta亲亲抱抱贴贴啃啃！\nL3：为什么Ta在和别人聊天，能不能心里只有我啊，我要把你关起来！\nL4：所有男娘都是身外之物...我决定，成为男娘！！\nL5：男娘这种生物的美好...就该让全世界都明白——这就是「全人类男娘化计划」！！\n\n#男娘 https://t.co/D2CxQWCzzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 99,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016103896868127143",
+    "created_at": "2026-01-27T11:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016110362769375410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1873945013346066439",
+          "start": 0,
+          "username": "yumesame0571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016110362769375410",
+    "in_reply_to_user_id": "1873945013346066439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016105684996391125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumesame0571 杂技高手！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016103896868127143",
+        "created_at": "2026-01-27T11:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016110362769375410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873945013346066439",
+              "start": 0,
+              "username": "yumesame0571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016110362769375410",
+        "in_reply_to_user_id": "1873945013346066439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016105684996391125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumesame0571 杂技高手！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873945013346066439",
+        "conversation_id": "2016103896868127143",
+        "created_at": "2026-01-27T11:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016105684996391125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016105684996391125",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016103896868127143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我选择用脚🥴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 284,
+          "like_count": 6890,
+          "listed_count": 21,
+          "media_count": 118,
+          "tweet_count": 3477
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T04:11:31.000Z",
+        "description": "不动声色见你如是才自在\n\n不动于心见你如是才无憾 / 打雀日记👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+teZ4vgZHzPA4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+teZ4vgZHzPA4MTI1",
+                "start": 0,
+                "url": "https://t.co/dgEkO01EqX"
+              }
+            ]
+          }
+        },
+        "id": "1873945013346066439",
+        "location": "Long live the emperor",
+        "name": "koeno",
+        "pinned_tweet_id": "2014721238174990393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992028522534297600/-WRqs0jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 151,
+          "like_count": 2262,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 5798
+        },
+        "url": "https://t.co/dgEkO01EqX",
+        "username": "yumesame0571",
+        "verified": false
+      }
+    ]
+  }
+}

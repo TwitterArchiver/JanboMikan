@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001167325085753815",
+    "created_at": "2025-12-17T06:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001180324869628394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001180324869628394",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001167325085753815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo 谷歌太会营销了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001167325085753815",
+        "created_at": "2025-12-17T06:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001180324869628394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001180324869628394",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001167325085753815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo 谷歌太会营销了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2001167325085753815",
+        "created_at": "2025-12-17T05:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001167325085753815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minchoi/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/minchoi/status/2001097091146203417",
+              "start": 4,
+              "url": "https://t.co/egOhZcvVKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001167325085753815",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001097091146203417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚡⚡⚡ https://t.co/egOhZcvVKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 211,
+          "like_count": 3511,
+          "listed_count": 9,
+          "media_count": 70,
+          "tweet_count": 1515
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "喜欢你们❤️喜欢千世❤️喜欢小翎❤️喜欢自己❤️ | 老公❤️:@Fisa_wo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "Fisa_wo"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "小翎妹妹的怀里",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000130035823644672/TXnj3b6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1052,
+          "like_count": 17419,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 4934
+        },
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

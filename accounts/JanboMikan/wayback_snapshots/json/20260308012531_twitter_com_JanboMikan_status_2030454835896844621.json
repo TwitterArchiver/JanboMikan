@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030454618677993472",
+        "3_2030454623719583744"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2030454835896844621",
+    "created_at": "2026-03-08T01:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030454835896844621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2CjPXWvL2l",
+          "end": 109,
+          "expanded_url": "https://x.com/JanboMikan/status/2030454835896844621/photo/1",
+          "media_key": "3_2030454618677993472",
+          "start": 86,
+          "url": "https://t.co/2CjPXWvL2l"
+        },
+        {
+          "display_url": "pic.x.com/2CjPXWvL2l",
+          "end": 109,
+          "expanded_url": "https://x.com/JanboMikan/status/2030454835896844621/photo/1",
+          "media_key": "3_2030454623719583744",
+          "start": 86,
+          "url": "https://t.co/2CjPXWvL2l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030454835896844621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是ジャンボ蜜柑！🍊\n主更：JK/穿搭自拍+好玩的原创文案（尽量日更）\n喜欢的话欢迎点个关注~\n称呼随意：蜜柑酱/杂鱼酱等，都可以！感谢支持！\n（26.3.8置顶更新） https://t.co/2CjPXWvL2l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2030454618677993472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2ft8baYAA1-D-.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2030454623719583744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2fuPNa8AA1nb8.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030454618677993472",
+            "3_2030454623719583744"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2030454835896844621",
+        "created_at": "2026-03-08T01:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030454835896844621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CjPXWvL2l",
+              "end": 109,
+              "expanded_url": "https://x.com/JanboMikan/status/2030454835896844621/photo/1",
+              "media_key": "3_2030454618677993472",
+              "start": 86,
+              "url": "https://t.co/2CjPXWvL2l"
+            },
+            {
+              "display_url": "pic.x.com/2CjPXWvL2l",
+              "end": 109,
+              "expanded_url": "https://x.com/JanboMikan/status/2030454835896844621/photo/1",
+              "media_key": "3_2030454623719583744",
+              "start": 86,
+              "url": "https://t.co/2CjPXWvL2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030454835896844621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是ジャンボ蜜柑！🍊\n主更：JK/穿搭自拍+好玩的原创文案（尽量日更）\n喜欢的话欢迎点个关注~\n称呼随意：蜜柑酱/杂鱼酱等，都可以！感谢支持！\n（26.3.8置顶更新） https://t.co/2CjPXWvL2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7323,
+          "following_count": 390,
+          "like_count": 10821,
+          "listed_count": 33,
+          "media_count": 168,
+          "tweet_count": 5745
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

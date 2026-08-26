@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2060677600641683875",
+    "created_at": "2026-05-30T15:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060752992358514837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044663276882075648",
+          "start": 0,
+          "username": "Kirara_Sana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060752992358514837",
+    "in_reply_to_user_id": "2044663276882075648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060743004009451738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Sana 十块钱也是钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2060677600641683875",
+        "created_at": "2026-05-30T15:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060752992358514837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044663276882075648",
+              "start": 0,
+              "username": "Kirara_Sana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060752992358514837",
+        "in_reply_to_user_id": "2044663276882075648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060743004009451738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Sana 十块钱也是钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044663276882075648",
+        "conversation_id": "2060677600641683875",
+        "created_at": "2026-05-30T15:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060743004009451738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060743004009451738",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060677600641683875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 什么叫被钱砸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13633,
+          "following_count": 531,
+          "like_count": 18520,
+          "listed_count": 46,
+          "media_count": 297,
+          "tweet_count": 9727
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T06:25:12.000Z",
+        "description": "一起，起飞吧。三代目。\n男性 | 音游吃 | osu 5 digit player | open to everything.",
+        "id": "2044663276882075648",
+        "location": "白鷺市",
+        "name": "雲母さな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044663748993163265/tHmYA7E1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 124,
+          "like_count": 2805,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 350
+        },
+        "username": "Kirara_Sana",
+        "verified": false
+      }
+    ]
+  }
+}

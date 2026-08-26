@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046906873006162256",
+    "created_at": "2026-04-22T15:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046971265479753794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966769306240512007",
+          "start": 0,
+          "username": "Epyq59QJZV90802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046971265479753794",
+    "in_reply_to_user_id": "1966769306240512007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046971104561123459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epyq59QJZV90802 那很好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2046971102505938944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhNX1ZbMAAN41p.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046906873006162256",
+        "created_at": "2026-04-22T15:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046971265479753794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966769306240512007",
+              "start": 0,
+              "username": "Epyq59QJZV90802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046971265479753794",
+        "in_reply_to_user_id": "1966769306240512007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046971104561123459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epyq59QJZV90802 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046971102505938944"
+          ]
+        },
+        "author_id": "1966769306240512007",
+        "conversation_id": "2046906873006162256",
+        "created_at": "2026-04-22T15:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046971104561123459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xidug98Lae",
+              "end": 39,
+              "expanded_url": "https://x.com/Epyq59QJZV90802/status/2046971104561123459/photo/1",
+              "media_key": "3_2046971102505938944",
+              "start": 16,
+              "url": "https://t.co/xidug98Lae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046971104561123459",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046906873006162256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 如圖： https://t.co/xidug98Lae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11522,
+          "following_count": 467,
+          "like_count": 16116,
+          "listed_count": 43,
+          "media_count": 234,
+          "tweet_count": 8157
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T07:42:14.000Z",
+        "description": "",
+        "id": "1966769306240512007",
+        "name": "入機王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042592482115088384/lLVrIOfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 204
+        },
+        "username": "Epyq59QJZV90802",
+        "verified": false
+      }
+    ]
+  }
+}

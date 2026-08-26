@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986365866758578176",
+        "3_1986365866745995268"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1987097765688594815",
+    "created_at": "2025-11-08T10:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987097765688594815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHd57JKrEn",
+          "end": 144,
+          "expanded_url": "https://x.com/JanboMikan/status/1987097765688594815/photo/1",
+          "media_key": "3_1986365866758578176",
+          "start": 121,
+          "url": "https://t.co/SHd57JKrEn"
+        },
+        {
+          "display_url": "pic.x.com/SHd57JKrEn",
+          "end": 144,
+          "expanded_url": "https://x.com/JanboMikan/status/1987097765688594815/photo/1",
+          "media_key": "3_1986365866745995268",
+          "start": 121,
+          "url": "https://t.co/SHd57JKrEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987097765688594815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在不一边看点下饭视频就没法吃饭了。\n渐渐变成了不选好视频势必不开始吃。\n甚至一旦选不到好的视频，就会出现一手拿着筷子，另一只手在屏幕上使劲翻的僵持局面。\n否则，就仿佛干吃稀饭没有榨菜一样。\n所以对于现代人来说，视频是不是俨然已成了一种菜？ https://t.co/SHd57JKrEn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1986365866758578176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9O0obIAApbRV.jpg",
+        "width": 541
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1986365866745995268",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9O0lbIAQfc6e.jpg",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986365866758578176",
+            "3_1986365866745995268"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1987097765688594815",
+        "created_at": "2025-11-08T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987097765688594815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHd57JKrEn",
+              "end": 144,
+              "expanded_url": "https://x.com/JanboMikan/status/1987097765688594815/photo/1",
+              "media_key": "3_1986365866758578176",
+              "start": 121,
+              "url": "https://t.co/SHd57JKrEn"
+            },
+            {
+              "display_url": "pic.x.com/SHd57JKrEn",
+              "end": 144,
+              "expanded_url": "https://x.com/JanboMikan/status/1987097765688594815/photo/1",
+              "media_key": "3_1986365866745995268",
+              "start": 121,
+              "url": "https://t.co/SHd57JKrEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987097765688594815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在不一边看点下饭视频就没法吃饭了。\n渐渐变成了不选好视频势必不开始吃。\n甚至一旦选不到好的视频，就会出现一手拿着筷子，另一只手在屏幕上使劲翻的僵持局面。\n否则，就仿佛干吃稀饭没有榨菜一样。\n所以对于现代人来说，视频是不是俨然已成了一种菜？ https://t.co/SHd57JKrEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 106,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

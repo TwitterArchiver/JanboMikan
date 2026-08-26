@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998346901385581044",
+    "created_at": "2025-12-09T15:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998422300618793046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854773584407019520",
+          "start": 0,
+          "username": "KyoukoSueharaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998422300618793046",
+    "in_reply_to_user_id": "1854773584407019520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998421833054609839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyoukoSueharaN 有酒便是友！x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998346901385581044",
+        "created_at": "2025-12-09T15:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998422300618793046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854773584407019520",
+              "start": 0,
+              "username": "KyoukoSueharaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998422300618793046",
+        "in_reply_to_user_id": "1854773584407019520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998421833054609839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyoukoSueharaN 有酒便是友！x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854773584407019520",
+        "conversation_id": "1998346901385581044",
+        "created_at": "2025-12-09T15:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998421833054609839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998421833054609839",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998346901385581044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 有奶就是娘！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 182,
+          "like_count": 2766,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T06:31:23.000Z",
+        "description": "Personal ID of @moe_nodocchi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "moe_nodocchi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodocchi.moe",
+                "end": 23,
+                "expanded_url": "http://nodocchi.moe",
+                "start": 0,
+                "url": "https://t.co/BCxW5GmdV0"
+              }
+            ]
+          }
+        },
+        "id": "1854773584407019520",
+        "location": "Beijing",
+        "name": "Kyouko Suehara",
+        "pinned_tweet_id": "1988995361831264572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988162416635768834/HcoZmdOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 62,
+          "like_count": 60574,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/BCxW5GmdV0",
+        "username": "KyoukoSueharaN",
+        "verified": false
+      }
+    ]
+  }
+}

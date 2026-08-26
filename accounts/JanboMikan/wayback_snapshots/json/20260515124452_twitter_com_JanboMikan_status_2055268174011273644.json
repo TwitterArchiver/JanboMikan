@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2055217409376878835",
+    "created_at": "2026-05-15T12:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055268174011273644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055268174011273644",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055217409376878835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 上身放液氮降降温，下身放微波炉转转。\n中间切断。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055217403274084354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWZVtpaQAI00ym.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055217409376878835",
+        "created_at": "2026-05-15T12:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055268174011273644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055268174011273644",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055217409376878835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 上身放液氮降降温，下身放微波炉转转。\n中间切断。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055217403274084354"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2055217409376878835",
+        "created_at": "2026-05-15T09:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055217409376878835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyUAdpgxNT",
+              "end": 30,
+              "expanded_url": "https://x.com/maruko00o/status/2055217409376878835/photo/1",
+              "media_key": "3_2055217403274084354",
+              "start": 7,
+              "url": "https://t.co/LyUAdpgxNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055217409376878835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2316,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "上身热下身凉 https://t.co/LyUAdpgxNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12915,
+          "following_count": 496,
+          "like_count": 17574,
+          "listed_count": 43,
+          "media_count": 272,
+          "tweet_count": 9083
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/hbHmqxl0mf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko000o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko000o",
+                "start": 67,
+                "url": "https://t.co/hbHmqxl0mf"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40190,
+          "following_count": 937,
+          "like_count": 24479,
+          "listed_count": 222,
+          "media_count": 1036,
+          "tweet_count": 7144
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

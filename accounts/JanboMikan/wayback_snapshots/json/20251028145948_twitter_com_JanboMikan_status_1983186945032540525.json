@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1983054796706730408",
+    "created_at": "2025-10-28T14:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T15:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983186945032540525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1712850322736218112",
+          "start": 0,
+          "username": "HhQqXxHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983186945032540525",
+    "in_reply_to_user_id": "1712850322736218112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983054796706730408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhQqXxHh 镜子上OPEN的意思是主包是OPEN的吗🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1983054787282436096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4U50oYbgAAjWG-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1983054796706730408",
+        "created_at": "2025-10-28T14:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983186945032540525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1712850322736218112",
+              "start": 0,
+              "username": "HhQqXxHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983186945032540525",
+        "in_reply_to_user_id": "1712850322736218112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983054796706730408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhQqXxHh 镜子上OPEN的意思是主包是OPEN的吗🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983054787282436096"
+          ]
+        },
+        "author_id": "1712850322736218112",
+        "conversation_id": "1983054796706730408",
+        "created_at": "2025-10-28T06:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983054796706730408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "清水",
+              "probability": 0.6516,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "男の娘ᅠ"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJuxqlXwHu",
+              "end": 44,
+              "expanded_url": "https://x.com/HhQqXxHh/status/1983054796706730408/photo/1",
+              "media_key": "3_1983054787282436096",
+              "start": 21,
+              "url": "https://t.co/MJuxqlXwHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983054796706730408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1057,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清水？也算吧\n#男娘 #男の娘ᅠ #伪娘 https://t.co/MJuxqlXwHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 92,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T15:18:46.000Z",
+        "description": "会在推特更新恶心的自拍，事164/62的debu死宅，上学中望周知",
+        "id": "1712850322736218112",
+        "location": "二次元",
+        "name": "宵黑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828830692387540994/T56mCu45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 221,
+          "like_count": 103,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 186
+        },
+        "username": "HhQqXxHh",
+        "verified": false
+      }
+    ]
+  }
+}

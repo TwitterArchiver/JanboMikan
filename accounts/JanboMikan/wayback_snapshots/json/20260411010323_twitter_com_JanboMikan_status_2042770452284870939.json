@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2042603886767411398",
+    "created_at": "2026-04-11T01:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042770452284870939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042770452284870939",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042603886767411398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina 一眼还以为是调酒师x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2042603775391907840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjJT8EbQAAObh_.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2042603886767411398",
+        "created_at": "2026-04-11T01:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042770452284870939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042770452284870939",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042603886767411398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina 一眼还以为是调酒师x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042603775391907840"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2042603886767411398",
+        "created_at": "2026-04-10T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042603886767411398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLb5uVkVIA",
+              "end": 48,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2042603886767411398/photo/1",
+              "media_key": "3_2042603775391907840",
+              "start": 25,
+              "url": "https://t.co/XLb5uVkVIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042603886767411398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3446,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "管他呢，怎么说也是周五，明天就算死，也要做醉鬼。 https://t.co/XLb5uVkVIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10669,
+          "following_count": 442,
+          "like_count": 14912,
+          "listed_count": 39,
+          "media_count": 214,
+          "tweet_count": 7610
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男//发点女装日常//都内一般会社員//120% sub//169cm 55+Kg//不扩列//提问箱📦在下面//不首先不礼貌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Minato-ku, Tokyo",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2034579525712109919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036264214055239680/68LPc4D1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10890,
+          "following_count": 547,
+          "like_count": 7412,
+          "listed_count": 43,
+          "media_count": 226,
+          "tweet_count": 5986
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

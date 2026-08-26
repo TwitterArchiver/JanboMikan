@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008856136850743680",
+    "created_at": "2026-01-08T00:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T01:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009054070934523974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586278709715406849",
+          "start": 0,
+          "username": "LQY_001245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009054070934523974",
+    "in_reply_to_user_id": "1586278709715406849",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008962296442450068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LQY_001245 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-08T00:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009054070934523974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586278709715406849",
+              "start": 0,
+              "username": "LQY_001245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009054070934523974",
+        "in_reply_to_user_id": "1586278709715406849",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008962296442450068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LQY_001245 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586278709715406849",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-07T18:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T19:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008962296442450068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008962296442450068",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008856136850743680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 神人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 249,
+          "like_count": 5236,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 2515
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T08:48:22.000Z",
+        "description": "我是绿清依，对的，那个特别绿的人就是我\nwelcome to my Discord：https://t.co/nTH9MlaHD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/XAqEFHqxm7",
+                "end": 65,
+                "expanded_url": "https://discord.gg/XAqEFHqxm7",
+                "start": 42,
+                "url": "https://t.co/nTH9MlaHD7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/steam-LQY/",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/steam-LQY/",
+                "start": 0,
+                "url": "https://t.co/CepxyA0tmR"
+              }
+            ]
+          }
+        },
+        "id": "1586278709715406849",
+        "location": "North of Moon",
+        "name": "Qingyi Midori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924360093711114241/8TAQLgio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 71,
+          "like_count": 848,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 379
+        },
+        "url": "https://t.co/CepxyA0tmR",
+        "username": "LQY_001245",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062123843125489937",
+    "created_at": "2026-06-04T13:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062522710480257242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741025501681184768",
+          "start": 0,
+          "username": "Kurumifafa"
+        },
+        {
+          "end": 21,
+          "id": "1499442786453663745",
+          "start": 12,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 31,
+          "id": "1812363069487742976",
+          "start": 22,
+          "username": "mingji_A"
+        },
+        {
+          "end": 44,
+          "id": "1408736706338033668",
+          "start": 32,
+          "username": "ACE_yumoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062522710480257242",
+    "in_reply_to_user_id": "1741025501681184768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062476531805610373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kurumifafa @Ted_yeet @mingji_A @ACE_yumoooo 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062123843125489937",
+        "created_at": "2026-06-04T13:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062522710480257242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741025501681184768",
+              "start": 0,
+              "username": "Kurumifafa"
+            },
+            {
+              "end": 21,
+              "id": "1499442786453663745",
+              "start": 12,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 31,
+              "id": "1812363069487742976",
+              "start": 22,
+              "username": "mingji_A"
+            },
+            {
+              "end": 44,
+              "id": "1408736706338033668",
+              "start": 32,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062522710480257242",
+        "in_reply_to_user_id": "1741025501681184768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062476531805610373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kurumifafa @Ted_yeet @mingji_A @ACE_yumoooo 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741025501681184768",
+        "conversation_id": "2062123843125489937",
+        "created_at": "2026-06-04T10:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062476531805610373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1499442786453663745",
+              "start": 12,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 31,
+              "id": "1812363069487742976",
+              "start": 22,
+              "username": "mingji_A"
+            },
+            {
+              "end": 44,
+              "id": "1408736706338033668",
+              "start": 32,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062476531805610373",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062123843125489937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @Ted_yeet @mingji_A @ACE_yumoooo 羡慕面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13958,
+          "following_count": 530,
+          "like_count": 18826,
+          "listed_count": 47,
+          "media_count": 306,
+          "tweet_count": 9902
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T09:16:57.000Z",
+        "description": "希望我喜欢的人变得幸福｜最爱的人@moe_suki1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "moe_suki1"
+              }
+            ]
+          }
+        },
+        "id": "1741025501681184768",
+        "location": "孱陵路33号",
+        "name": "花蓝不是花篮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920748864497123328/9argo1vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 217,
+          "like_count": 6758,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 389
+        },
+        "username": "Kurumifafa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 1720,
+          "like_count": 52062,
+          "listed_count": 19,
+          "media_count": 516,
+          "tweet_count": 12119
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 2589,
+          "like_count": 95091,
+          "listed_count": 25,
+          "media_count": 215,
+          "tweet_count": 21506
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 223,
+          "like_count": 1824,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 295
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

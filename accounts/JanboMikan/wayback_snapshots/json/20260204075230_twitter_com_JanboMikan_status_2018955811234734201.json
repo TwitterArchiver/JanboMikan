@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2018504718293618955",
+    "created_at": "2026-02-04T07:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018955811234734201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389761207872147458",
+          "start": 0,
+          "username": "E3MzyYxxKgt1N1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018955811234734201",
+    "in_reply_to_user_id": "1389761207872147458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018906438836588750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E3MzyYxxKgt1N1v 🍊汁水多😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2018504718293618955",
+        "created_at": "2026-02-04T07:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018955811234734201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389761207872147458",
+              "start": 0,
+              "username": "E3MzyYxxKgt1N1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018955811234734201",
+        "in_reply_to_user_id": "1389761207872147458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018906438836588750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E3MzyYxxKgt1N1v 🍊汁水多😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389761207872147458",
+        "conversation_id": "2018504718293618955",
+        "created_at": "2026-02-04T04:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018906438836588750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018906438836588750",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018504718293618955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我真的在看到一个小橘子……🍊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 304,
+          "like_count": 7572,
+          "listed_count": 23,
+          "media_count": 124,
+          "tweet_count": 3868
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T01:58:10.000Z",
+        "description": "我也想变得可爱！\n/社恐女绿/没什么门槛但是给我点钱会开心/先天小m圣体/不对恋爱抱有任何想法/骨科脑子/ \n怪怪的算命🥺…我觉得还算挺灵光的/ 坚决不涉及现实",
+        "id": "1389761207872147458",
+        "location": "（不会叫的布谷）",
+        "name": "布谷爱吃白切鸡",
+        "pinned_tweet_id": "1737471718564724737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957305735353860096/VzVcKoBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 722,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1585
+        },
+        "username": "E3MzyYxxKgt1N1v",
+        "verified": false
+      }
+    ]
+  }
+}

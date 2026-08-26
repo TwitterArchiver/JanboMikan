@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2013079227537514966",
+    "created_at": "2026-01-19T08:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013161998603710467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1815294652989521920",
+          "start": 0,
+          "username": "miyuuuuuua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013161998603710467",
+    "in_reply_to_user_id": "1815294652989521920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013138522065047580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuuuuuua 😎😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2013079227537514966",
+        "created_at": "2026-01-19T08:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013161998603710467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1815294652989521920",
+              "start": 0,
+              "username": "miyuuuuuua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013161998603710467",
+        "in_reply_to_user_id": "1815294652989521920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013138522065047580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuuuuuua 😎😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815294652989521920",
+        "conversation_id": "2013079227537514966",
+        "created_at": "2026-01-19T06:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013138522065047580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013138522065047580",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013079227537514966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 换成我换成我换成我换成我呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4036,
+          "following_count": 279,
+          "like_count": 6152,
+          "listed_count": 18,
+          "media_count": 106,
+          "tweet_count": 3037
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T07:56:44.000Z",
+        "description": "常驻地消失了/不是mtf也不是ts/泛性恋/Switch（？/180 65/偶尔会有（其实是很多）碎碎念/欢迎私信",
+        "id": "1815294652989521920",
+        "location": "麦子地里",
+        "name": "Miyuuuuuua",
+        "pinned_tweet_id": "2003291791815254068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874418838483402752/g-uJclB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 283,
+          "like_count": 456,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 117
+        },
+        "username": "miyuuuuuua",
+        "verified": false
+      }
+    ]
+  }
+}

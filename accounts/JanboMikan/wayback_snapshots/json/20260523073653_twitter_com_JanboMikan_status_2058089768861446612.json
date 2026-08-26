@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058064065717830117",
+    "created_at": "2026-05-23T07:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058089768861446612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1155016285849178114",
+          "start": 0,
+          "username": "SunriserO5"
+        },
+        {
+          "end": 21,
+          "id": "1812363069487742976",
+          "start": 12,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058089768861446612",
+    "in_reply_to_user_id": "1155016285849178114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058075550422565096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunriserO5 @mingji_A 有的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058064065717830117",
+        "created_at": "2026-05-23T07:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058089768861446612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1155016285849178114",
+              "start": 0,
+              "username": "SunriserO5"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058089768861446612",
+        "in_reply_to_user_id": "1155016285849178114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058075550422565096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunriserO5 @mingji_A 有的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1155016285849178114",
+        "conversation_id": "2058064065717830117",
+        "created_at": "2026-05-23T06:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058075550422565096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058075550422565096",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058064065717830117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 汉阳廷有火锅了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13153,
+          "following_count": 513,
+          "like_count": 17960,
+          "listed_count": 45,
+          "media_count": 283,
+          "tweet_count": 9345
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-27T07:25:16.000Z",
+        "description": "勇敢不是没有恐惧，而是在怒惧之中仍然继续选择走向真实。",
+        "id": "1155016285849178114",
+        "name": "SunriserO5🌅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942654704455946240/kM78hsyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 354,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 100
+        },
+        "username": "SunriserO5",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 2548,
+          "like_count": 93965,
+          "listed_count": 22,
+          "media_count": 198,
+          "tweet_count": 20638
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

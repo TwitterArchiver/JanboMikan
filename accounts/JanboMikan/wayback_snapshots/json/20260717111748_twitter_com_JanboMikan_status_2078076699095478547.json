@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2077347448008134956",
+    "created_at": "2026-07-17T11:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078076699095478547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "718796360250691585",
+          "start": 0,
+          "username": "lpngpkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078076699095478547",
+    "in_reply_to_user_id": "718796360250691585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077937738649669847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lpngpkl 这也是校服吗x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2077347448008134956",
+        "created_at": "2026-07-17T11:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078076699095478547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "718796360250691585",
+              "start": 0,
+              "username": "lpngpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078076699095478547",
+        "in_reply_to_user_id": "718796360250691585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077937738649669847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lpngpkl 这也是校服吗x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "718796360250691585",
+        "conversation_id": "2077347448008134956",
+        "created_at": "2026-07-17T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077937738649669847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077937738649669847",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077347448008134956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 男娘校服！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15481,
+          "following_count": 599,
+          "like_count": 21115,
+          "listed_count": 52,
+          "media_count": 360,
+          "tweet_count": 11173
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-09T13:43:01.000Z",
+        "description": "welcome to DM me tecnical issue\nr18 @pinkeye404\nFacebook marketplace https://t.co/Eugy7lD4PT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "pinkeye404"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 92,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 69,
+                "url": "https://t.co/Eugy7lD4PT"
+              }
+            ]
+          }
+        },
+        "id": "718796360250691585",
+        "name": "我是工程师，不是写代码的（移步fb了）",
+        "pinned_tweet_id": "1716108985252663473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435341372379136/1PFZ5R8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 676,
+          "like_count": 3724,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "lpngpkl",
+        "verified": false
+      }
+    ]
+  }
+}

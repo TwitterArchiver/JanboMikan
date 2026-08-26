@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048391447901347840"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2048391469787201910",
+    "created_at": "2026-04-26T13:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048391469787201910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1511574513967722505",
+          "start": 18,
+          "username": "_Genshin_Ganyu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ka6hPREQro",
+          "end": 58,
+          "expanded_url": "https://x.com/JanboMikan/status/2048391469787201910/photo/1",
+          "media_key": "3_2048391447901347840",
+          "start": 35,
+          "url": "https://t.co/Ka6hPREQro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048391469787201910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严肃学习中（认真摆拍中）😎\n\n📷: @_Genshin_Ganyu_ https://t.co/Ka6hPREQro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048391447901347840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1ZK0UboAAN-IF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048391447901347840"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2048391469787201910",
+        "created_at": "2026-04-26T13:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048391469787201910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1511574513967722505",
+              "start": 18,
+              "username": "_Genshin_Ganyu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ka6hPREQro",
+              "end": 58,
+              "expanded_url": "https://x.com/JanboMikan/status/2048391469787201910/photo/1",
+              "media_key": "3_2048391447901347840",
+              "start": 35,
+              "url": "https://t.co/Ka6hPREQro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048391469787201910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃学习中（认真摆拍中）😎\n\n📷: @_Genshin_Ganyu_ https://t.co/Ka6hPREQro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12020,
+          "following_count": 478,
+          "like_count": 16454,
+          "listed_count": 42,
+          "media_count": 241,
+          "tweet_count": 8341
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "一般路过热心市民 | 椰羊老师 | BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美",
+        "pinned_tweet_id": "2041811802737238261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3779,
+          "following_count": 917,
+          "like_count": 2610,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      }
+    ]
+  }
+}

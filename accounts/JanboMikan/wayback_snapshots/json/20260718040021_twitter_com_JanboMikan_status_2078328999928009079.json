@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2078072233990279383",
+    "created_at": "2026-07-18T04:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078328999928009079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078328999928009079",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078139182057410921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ dbq😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2078072233990279383",
+        "created_at": "2026-07-18T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078328999928009079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078328999928009079",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078139182057410921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ dbq😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510601261019631618",
+        "conversation_id": "2078072233990279383",
+        "created_at": "2026-07-17T15:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078139182057410921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078139182057410921",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078072233990279383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 😭不喜欢今天的文案换一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15487,
+          "following_count": 601,
+          "like_count": 21148,
+          "listed_count": 52,
+          "media_count": 360,
+          "tweet_count": 11187
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860270225895424/t-qcmhuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 598,
+          "like_count": 115053,
+          "listed_count": 20,
+          "media_count": 1454,
+          "tweet_count": 7544
+        },
+        "url": "",
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008025959023452380",
+    "created_at": "2026-01-05T13:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T14:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008174301074309597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1090136700741812224",
+          "start": 0,
+          "username": "Alice__486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008174301074309597",
+    "in_reply_to_user_id": "1090136700741812224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008025959023452380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice__486 勒肉嘿嘿~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2008025490997526528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93wi4rWQAAV89a.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008025959023452380",
+        "created_at": "2026-01-05T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008174301074309597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1090136700741812224",
+              "start": 0,
+              "username": "Alice__486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008174301074309597",
+        "in_reply_to_user_id": "1090136700741812224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008025959023452380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice__486 勒肉嘿嘿~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008025490997526528"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "2008025959023452380",
+        "created_at": "2026-01-05T04:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008025959023452380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "女装"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMVNkoXnZp",
+              "end": 39,
+              "expanded_url": "https://x.com/Alice__486/status/2008025959023452380/photo/1",
+              "media_key": "3_2008025490997526528",
+              "start": 16,
+              "url": "https://t.co/CMVNkoXnZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008025959023452380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2414,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "裙子里的d轨道\n#女装 #白丝 https://t.co/CMVNkoXnZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 244,
+          "like_count": 4979,
+          "listed_count": 13,
+          "media_count": 90,
+          "tweet_count": 2370
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2005852057278763256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27339,
+          "following_count": 1715,
+          "like_count": 52576,
+          "listed_count": 92,
+          "media_count": 920,
+          "tweet_count": 15442
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

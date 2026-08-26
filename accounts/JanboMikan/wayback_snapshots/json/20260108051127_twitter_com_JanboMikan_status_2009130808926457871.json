@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008934883763392951",
+    "created_at": "2026-01-08T05:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T06:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009130808926457871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464477075033702400",
+          "start": 0,
+          "username": "DuiMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009130808926457871",
+    "in_reply_to_user_id": "1464477075033702400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008934883763392951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuiMiao 图灵说的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008934861453791232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ErnNnaEAAb_Kg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008934862041096192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ErnPzboAAIH6_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 400,
+        "media_key": "3_2008934862229831680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ErnQgbgAArRE1.png",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008934883763392951",
+        "created_at": "2026-01-08T05:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009130808926457871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464477075033702400",
+              "start": 0,
+              "username": "DuiMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009130808926457871",
+        "in_reply_to_user_id": "1464477075033702400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008934883763392951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuiMiao 图灵说的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008934861453791232",
+            "3_2008934862041096192",
+            "3_2008934862229831680"
+          ]
+        },
+        "author_id": "1464477075033702400",
+        "conversation_id": "2008934883763392951",
+        "created_at": "2026-01-07T16:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008934883763392951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "男の娘"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "地雷系"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "量産型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkgGOwicuT",
+              "end": 58,
+              "expanded_url": "https://x.com/DuiMiao/status/2008934883763392951/photo/1",
+              "media_key": "3_2008934861453791232",
+              "start": 35,
+              "url": "https://t.co/xkgGOwicuT"
+            },
+            {
+              "display_url": "pic.x.com/xkgGOwicuT",
+              "end": 58,
+              "expanded_url": "https://x.com/DuiMiao/status/2008934883763392951/photo/1",
+              "media_key": "3_2008934862041096192",
+              "start": 35,
+              "url": "https://t.co/xkgGOwicuT"
+            },
+            {
+              "display_url": "pic.x.com/xkgGOwicuT",
+              "end": 58,
+              "expanded_url": "https://x.com/DuiMiao/status/2008934883763392951/photo/1",
+              "media_key": "3_2008934862229831680",
+              "start": 35,
+              "url": "https://t.co/xkgGOwicuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008934883763392951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 23581,
+          "like_count": 546,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "谁说女装能提高编程水平的！\n＃男娘 #男の娘  #地雷系  #量産型 https://t.co/xkgGOwicuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3222,
+          "following_count": 251,
+          "like_count": 5254,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 2529
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T06:12:08.000Z",
+        "description": "夏天将要到来",
+        "id": "1464477075033702400",
+        "name": "洋葱乳酪味鲨鱼",
+        "pinned_tweet_id": "2006350848620982289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983196575506829312/dCsmlQ8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1955,
+          "like_count": 34140,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 881
+        },
+        "username": "DuiMiao",
+        "verified": false
+      }
+    ]
+  }
+}

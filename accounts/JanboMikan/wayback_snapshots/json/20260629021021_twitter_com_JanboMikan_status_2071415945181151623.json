@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2071195208986005989",
+    "created_at": "2026-06-29T02:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071415945181151623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071415945181151623",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071195208986005989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 害怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2071195198533820417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5dDzUaYAEGQxt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071195208986005989",
+        "created_at": "2026-06-29T02:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071415945181151623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071415945181151623",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071195208986005989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 害怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071195198533820417"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2071195208986005989",
+        "created_at": "2026-06-28T11:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071195208986005989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vafZpytzYW",
+              "end": 25,
+              "expanded_url": "https://x.com/smiroyama/status/2071195208986005989/photo/1",
+              "media_key": "3_2071195198533820417",
+              "start": 2,
+              "url": "https://t.co/vafZpytzYW"
+            },
+            {
+              "display_url": "x.com/janbomikan/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/janbomikan/status/2071186850853593188",
+              "start": 26,
+              "url": "https://t.co/CQCu4GSzhC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071195208986005989",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1181,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071186850853593188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/vafZpytzYW https://t.co/CQCu4GSzhC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14654,
+          "following_count": 572,
+          "like_count": 20048,
+          "listed_count": 52,
+          "media_count": 336,
+          "tweet_count": 10599
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | friends: @Huang_Yut1ng @fukui_p26 好伙伴: @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064928216654217216/gHEvZe0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6866,
+          "following_count": 2475,
+          "like_count": 13333,
+          "listed_count": 21,
+          "media_count": 2227,
+          "tweet_count": 8141
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

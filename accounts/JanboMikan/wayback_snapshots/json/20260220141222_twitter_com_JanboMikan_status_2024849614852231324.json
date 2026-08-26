@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024759050458767610",
+    "created_at": "2026-02-20T14:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024849614852231324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771928798960791552",
+          "start": 0,
+          "username": "sisisisisijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024849614852231324",
+    "in_reply_to_user_id": "1771928798960791552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024759050458767610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisisisisijie 好腿！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024759034910486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBljnVeaMAAz_Kz.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024759034923171840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBljnVhbwAAdyPB.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024759050458767610",
+        "created_at": "2026-02-20T14:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024849614852231324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771928798960791552",
+              "start": 0,
+              "username": "sisisisisijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024849614852231324",
+        "in_reply_to_user_id": "1771928798960791552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024759050458767610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisisisisijie 好腿！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024759034910486528",
+            "3_2024759034923171840"
+          ]
+        },
+        "author_id": "1771928798960791552",
+        "conversation_id": "2024759050458767610",
+        "created_at": "2026-02-20T08:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024759050458767610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlZf6jiMNv",
+              "end": 27,
+              "expanded_url": "https://x.com/sisisisisijie/status/2024759050458767610/photo/1",
+              "media_key": "3_2024759034910486528",
+              "start": 4,
+              "url": "https://t.co/GlZf6jiMNv"
+            },
+            {
+              "display_url": "pic.x.com/GlZf6jiMNv",
+              "end": 27,
+              "expanded_url": "https://x.com/sisisisisijie/status/2024759050458767610/photo/1",
+              "media_key": "3_2024759034923171840",
+              "start": 4,
+              "url": "https://t.co/GlZf6jiMNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024759050458767610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看腿 https://t.co/GlZf6jiMNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6067,
+          "following_count": 336,
+          "like_count": 9332,
+          "listed_count": 25,
+          "media_count": 148,
+          "tweet_count": 4876
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T15:55:29.000Z",
+        "description": "随机掉落，男生，单纯爱好女装",
+        "id": "1771928798960791552",
+        "location": "American",
+        "name": "思杰sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976912739277918208/-rChJ_Py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 66,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 27
+        },
+        "username": "sisisisisijie",
+        "verified": false
+      }
+    ]
+  }
+}

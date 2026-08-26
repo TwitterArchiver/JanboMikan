@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2076985065549009350",
+    "created_at": "2026-07-16T00:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077551713113026860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1515153921836478467",
+          "start": 0,
+          "username": "kamisato_ataki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077551713113026860",
+    "in_reply_to_user_id": "1515153921836478467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077456164225421596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamisato_ataki 快来😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2076985065549009350",
+        "created_at": "2026-07-16T00:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077551713113026860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1515153921836478467",
+              "start": 0,
+              "username": "kamisato_ataki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077551713113026860",
+        "in_reply_to_user_id": "1515153921836478467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077456164225421596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamisato_ataki 快来😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515153921836478467",
+        "conversation_id": "2076985065549009350",
+        "created_at": "2026-07-15T18:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077456164225421596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 27,
+              "id": "1831363594556211200",
+              "start": 12,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077456164225421596",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077030916078371133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @JyushitiYizuka 居然在深圳！那我可要逮捕你了（不是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15467,
+          "following_count": 599,
+          "like_count": 21062,
+          "listed_count": 52,
+          "media_count": 358,
+          "tweet_count": 11146
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T02:23:56.000Z",
+        "description": "学生/神秘泛性恋MTX/数码爱好者/photograph/anime/穷鬼/常年发送废话条/友跨/不喜欢鉴政/音游/ISFP/X绝不赞营业中/OSU!player/tg:@kamisato_GAN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "kamisato_GAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/32856987",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/32856987",
+                "start": 0,
+                "url": "https://t.co/oi24eu4blh"
+              }
+            ]
+          }
+        },
+        "id": "1515153921836478467",
+        "location": "大湾区",
+        "name": "taki",
+        "pinned_tweet_id": "1896048698729410943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016186272255967232/27sxIYaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 1253,
+          "like_count": 8536,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 2769
+        },
+        "url": "https://t.co/oi24eu4blh",
+        "username": "kamisato_ataki",
+        "verified": false
+      }
+    ]
+  }
+}

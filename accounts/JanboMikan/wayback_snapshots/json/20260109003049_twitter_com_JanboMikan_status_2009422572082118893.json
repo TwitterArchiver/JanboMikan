@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2008837879116816796",
+    "created_at": "2026-01-09T00:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T01:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009422572082118893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        },
+        {
+          "end": 22,
+          "id": "1507794054511497219",
+          "start": 14,
+          "username": "Miyu__Z"
+        },
+        {
+          "end": 37,
+          "id": "1692126794055647232",
+          "start": 23,
+          "username": "QuantumTransf"
+        },
+        {
+          "end": 43,
+          "id": "1720665183188922368",
+          "start": 38,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009422572082118893",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009399737737433586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan @Miyu__Z @QuantumTransf @grok grok不理你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2008837879116816796",
+        "created_at": "2026-01-09T00:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009422572082118893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            },
+            {
+              "end": 22,
+              "id": "1507794054511497219",
+              "start": 14,
+              "username": "Miyu__Z"
+            },
+            {
+              "end": 37,
+              "id": "1692126794055647232",
+              "start": 23,
+              "username": "QuantumTransf"
+            },
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009422572082118893",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009399737737433586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan @Miyu__Z @QuantumTransf @grok grok不理你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2008837879116816796",
+        "created_at": "2026-01-08T23:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009399737737433586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            },
+            {
+              "end": 20,
+              "id": "1976995735532138496",
+              "start": 9,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 35,
+              "id": "1692126794055647232",
+              "start": 21,
+              "username": "QuantumTransf"
+            },
+            {
+              "end": 41,
+              "id": "1720665183188922368",
+              "start": 36,
+              "username": "grok"
+            },
+            {
+              "end": 73,
+              "id": "1976995735532138496",
+              "start": 62,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 93,
+              "id": "1507794054511497219",
+              "start": 85,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009399737737433586",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009272655271088602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z @JanboMikan @QuantumTransf @grok 请分别回答如下两个问题：\n1. 怎么和 @JanboMikan 聊天？\n2. 怎么和 @Miyu__Z 聊天？\n\n请你根据我们三人的推文，理解我们的身份和偏好，然后给出答案。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 256,
+          "like_count": 5341,
+          "listed_count": 13,
+          "media_count": 94,
+          "tweet_count": 2577
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 美少女点赞bot | 北美菜校ECE PhD Candidate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 334,
+          "like_count": 1438,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "争取成为人类的日常|| 里账，放眼熟的推友: @fuzhu514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "fuzhu514"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "我是顺直郭楠（",
+        "name": "腐竹喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999413903890219013/lR3UvdSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 394,
+          "like_count": 29725,
+          "listed_count": 9,
+          "media_count": 191,
+          "tweet_count": 5606
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl  |  🌌Know you will wake,on winds rise again | 💝I'll always be with you.",
+        "id": "1692126794055647232",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "1953413290581004637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 364,
+          "like_count": 22472,
+          "listed_count": 8,
+          "media_count": 424,
+          "tweet_count": 5921
+        },
+        "username": "QuantumTransf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7371957,
+          "following_count": 3,
+          "like_count": 82,
+          "listed_count": 5743,
+          "media_count": 7540575,
+          "tweet_count": 87698221
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

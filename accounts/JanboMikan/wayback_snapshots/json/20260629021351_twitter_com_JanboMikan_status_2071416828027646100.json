@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2071186850853593188",
+    "created_at": "2026-06-29T02:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071416828027646100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889824183267500035",
+          "start": 0,
+          "username": "luoyu1130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071416828027646100",
+    "in_reply_to_user_id": "1889824183267500035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071239475577921771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoyu1130 正是如此😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071186850853593188",
+        "created_at": "2026-06-29T02:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071416828027646100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889824183267500035",
+              "start": 0,
+              "username": "luoyu1130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071416828027646100",
+        "in_reply_to_user_id": "1889824183267500035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071239475577921771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyu1130 正是如此😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889824183267500035",
+        "conversation_id": "2071186850853593188",
+        "created_at": "2026-06-28T14:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071239475577921771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071239475577921771",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071186850853593188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan ？不是，是我想的那样用吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14654,
+          "following_count": 572,
+          "like_count": 20062,
+          "listed_count": 52,
+          "media_count": 336,
+          "tweet_count": 10611
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T23:49:48.000Z",
+        "description": "我没有梦想，我只是一直在幻想—\nI don't have any dreams, I just keep fantasizing—\n私は夢がなくて、私はただずっと幻想しています—\n난  꿈이  없어  그저  환상만  하고 있었어",
+        "id": "1889824183267500035",
+        "location": "随缘",
+        "name": "落ちる雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889825609133727746/LVLtYcW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "luoyu1130",
+        "verified": false
+      }
+    ]
+  }
+}

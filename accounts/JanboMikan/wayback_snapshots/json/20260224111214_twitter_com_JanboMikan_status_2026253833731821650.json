@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025882713270739270",
+    "created_at": "2026-02-24T11:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026253833731821650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1217834239288205315",
+          "start": 0,
+          "username": "Stardust_HR"
+        },
+        {
+          "end": 22,
+          "id": "4873941537",
+          "start": 13,
+          "username": "OOOMiku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026253833731821650",
+    "in_reply_to_user_id": "1217834239288205315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026247568301420968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stardust_HR @OOOMiku_ 小蛋糕坐下的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025882713270739270",
+        "created_at": "2026-02-24T11:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026253833731821650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1217834239288205315",
+              "start": 0,
+              "username": "Stardust_HR"
+            },
+            {
+              "end": 22,
+              "id": "4873941537",
+              "start": 13,
+              "username": "OOOMiku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026253833731821650",
+        "in_reply_to_user_id": "1217834239288205315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026247568301420968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stardust_HR @OOOMiku_ 小蛋糕坐下的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217834239288205315",
+        "conversation_id": "2025882713270739270",
+        "created_at": "2026-02-24T10:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026247568301420968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "4873941537",
+              "start": 12,
+              "username": "OOOMiku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026247568301420968",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026131219705131414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @OOOMiku_ 蛋糕坐是什么姿势"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6322,
+          "following_count": 351,
+          "like_count": 9706,
+          "listed_count": 26,
+          "media_count": 153,
+          "tweet_count": 5073
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T15:41:31.000Z",
+        "description": "一般通过长发理工男，常驻嘉兴。爱好捆绑，精神状态周期性在缚手和被缚间变化（）来找我玩可私信",
+        "id": "1217834239288205315",
+        "name": "Unknown_StarDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1217834567375044608/U189hnOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 643,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 174
+        },
+        "username": "Stardust_HR",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-03T13:54:47.000Z",
+        "description": "可以叫我圈|♂|来推发点另一个我",
+        "id": "4873941537",
+        "location": "艾尔",
+        "name": "〇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990299679851270144/M7AJ2vv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 174,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 578
+        },
+        "username": "OOOMiku_",
+        "verified": true
+      }
+    ]
+  }
+}

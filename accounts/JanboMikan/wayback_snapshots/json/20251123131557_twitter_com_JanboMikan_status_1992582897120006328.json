@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1992533591885017400",
+    "created_at": "2025-11-23T13:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992582897120006328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966552034406264836",
+          "start": 0,
+          "username": "Nadir0917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992582897120006328",
+    "in_reply_to_user_id": "1966552034406264836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992579618826781085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nadir0917 认识的人🤫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1992533591885017400",
+        "created_at": "2025-11-23T13:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992582897120006328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966552034406264836",
+              "start": 0,
+              "username": "Nadir0917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992582897120006328",
+        "in_reply_to_user_id": "1966552034406264836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992579618826781085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nadir0917 认识的人🤫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966552034406264836",
+        "conversation_id": "1992533591885017400",
+        "created_at": "2025-11-23T13:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992579618826781085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992579618826781085",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992533591885017400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 怎么知道是大牛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 133,
+          "like_count": 1577,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T17:18:48.000Z",
+        "description": "网上冲浪低手、游戏苦手、密阿雷的救世主、要成为宝可梦大师的男人，女人什么的很碍事、教导圣女厨、以前玩儿随风旅鸟的、超绝最可爱天底酱˶ᗜ ֊ ᗜ˶ಣ",
+        "id": "1966552034406264836",
+        "location": "密阿雷市",
+        "name": "天底的使徒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979386091594539008/_wDtbGbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 586,
+          "like_count": 2107,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "username": "Nadir0917",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999869383074848836",
+    "created_at": "2025-12-14T00:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T01:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000001788645409192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000001788645409192",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999869383074848836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 prpr🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1999869371318239233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2mPKbgAEEj3K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999869372085776385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2mSBbMAEUmMM.jpg",
+        "width": 1728
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1999869371678932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2mQgbQAAf9JG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1999869372060594176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2mR7a8AAfBa5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999869383074848836",
+        "created_at": "2025-12-14T00:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T01:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000001788645409192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000001788645409192",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999869383074848836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 prpr🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999869371318239233",
+            "3_1999869372085776385",
+            "3_1999869371678932992",
+            "3_1999869372060594176"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "conversation_id": "1999869383074848836",
+        "created_at": "2025-12-13T15:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999869383074848836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "黑丝袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uQH21H7Mf",
+              "end": 37,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1999869383074848836/photo/1",
+              "media_key": "3_1999869371318239233",
+              "start": 14,
+              "url": "https://t.co/0uQH21H7Mf"
+            },
+            {
+              "display_url": "pic.x.com/0uQH21H7Mf",
+              "end": 37,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1999869383074848836/photo/1",
+              "media_key": "3_1999869372085776385",
+              "start": 14,
+              "url": "https://t.co/0uQH21H7Mf"
+            },
+            {
+              "display_url": "pic.x.com/0uQH21H7Mf",
+              "end": 37,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1999869383074848836/photo/1",
+              "media_key": "3_1999869371678932992",
+              "start": 14,
+              "url": "https://t.co/0uQH21H7Mf"
+            },
+            {
+              "display_url": "pic.x.com/0uQH21H7Mf",
+              "end": 37,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1999869383074848836/photo/1",
+              "media_key": "3_1999869372060594176",
+              "start": 14,
+              "url": "https://t.co/0uQH21H7Mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999869383074848836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更一下🥺\n#男娘 #黑丝袜 https://t.co/0uQH21H7Mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 199,
+          "like_count": 3140,
+          "listed_count": 8,
+          "media_count": 63,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/没回信息是在忙喵/属性偏M(微量S)/评论感兴趣的会互动/不约线下/有对象/同好欢迎贴贴❤️",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998730205091999744/TXQWRvHM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 142,
+          "like_count": 5545,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 1319
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

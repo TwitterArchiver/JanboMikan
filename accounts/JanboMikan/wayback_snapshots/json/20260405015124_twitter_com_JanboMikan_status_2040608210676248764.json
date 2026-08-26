@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2040604449970794968",
+    "created_at": "2026-04-05T01:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T02:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040608210676248764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040608210676248764",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040604449970794968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040604446217195520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGu7qfb0AATnF_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2040604449970794968",
+        "created_at": "2026-04-05T01:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040608210676248764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040608210676248764",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040604449970794968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040604446217195520"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2040604449970794968",
+        "created_at": "2026-04-05T01:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040604449970794968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKyh9KPLPY",
+              "end": 38,
+              "expanded_url": "https://x.com/mhtqwq/status/2040604449970794968/photo/1",
+              "media_key": "3_2040604446217195520",
+              "start": 15,
+              "url": "https://t.co/wKyh9KPLPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040604449970794968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是收到了大主包寄来的东西了 https://t.co/wKyh9KPLPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10064,
+          "following_count": 427,
+          "like_count": 14224,
+          "listed_count": 39,
+          "media_count": 206,
+          "tweet_count": 7317
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5564,
+          "following_count": 412,
+          "like_count": 9335,
+          "listed_count": 13,
+          "media_count": 2364,
+          "tweet_count": 10252
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

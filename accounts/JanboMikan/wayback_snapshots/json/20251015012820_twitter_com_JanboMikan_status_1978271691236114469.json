@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978079077803213212",
+    "created_at": "2025-10-15T01:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T02:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978271691236114469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978271691236114469",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978079077803213212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 可爱的虾仁芹菜...！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978079064775933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OMbdmbQAAM5g2.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978079064809422848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OMbduaQAAVQnb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978079077803213212",
+        "created_at": "2025-10-15T01:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978271691236114469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978271691236114469",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978079077803213212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 可爱的虾仁芹菜...！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978079064775933952",
+            "3_1978079064809422848"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1978079077803213212",
+        "created_at": "2025-10-14T12:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T13:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978079077803213212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "井芹仁菜"
+            },
+            {
+              "end": 23,
+              "start": 10,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwDWt9gDWO",
+              "end": 56,
+              "expanded_url": "https://x.com/Truffaut897456/status/1978079077803213212/photo/1",
+              "media_key": "3_1978079064775933952",
+              "start": 33,
+              "url": "https://t.co/nwDWt9gDWO"
+            },
+            {
+              "display_url": "pic.x.com/nwDWt9gDWO",
+              "end": 56,
+              "expanded_url": "https://x.com/Truffaut897456/status/1978079077803213212/photo/1",
+              "media_key": "3_1978079064809422848",
+              "start": 33,
+              "url": "https://t.co/nwDWt9gDWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978079077803213212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7459,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "噢耶。\n#井芹仁菜 #GirlsBandCry #男娘 #cos https://t.co/nwDWt9gDWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 44,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1978079077803213212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 661,
+          "like_count": 1426,
+          "listed_count": 9,
+          "media_count": 28,
+          "tweet_count": 688
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

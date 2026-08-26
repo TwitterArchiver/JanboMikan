@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048727652786421760"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2050530747669151972",
+    "created_at": "2026-05-02T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050530747669151972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRRTL1y8nW",
+          "end": 163,
+          "expanded_url": "https://x.com/JanboMikan/status/2050530747669151972/photo/1",
+          "media_key": "3_2048727652786421760",
+          "start": 140,
+          "url": "https://t.co/eRRTL1y8nW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050530747669151972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更衣室大爷在门口拦住我，递过来一个透明玻璃物件。\n「小伙子，刚你长凳上掉的，是红酒塞吧，还怪沉的。」\n我僵硬地接过来，指尖甚至摸到了一丝滑滑的粘液。\n转过身往外走，身体某处还在心虚地疯狂收缩。\n不是，大爷你递给我的时候，别捏那个膨大端啊......\n是不是该提醒人家去洗个手的。 https://t.co/eRRTL1y8nW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2227,
+        "media_key": "3_2048727652786421760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6K8hHawAAeSSm.jpg",
+        "width": 1489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048727652786421760"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2050530747669151972",
+        "created_at": "2026-05-02T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050530747669151972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRRTL1y8nW",
+              "end": 163,
+              "expanded_url": "https://x.com/JanboMikan/status/2050530747669151972/photo/1",
+              "media_key": "3_2048727652786421760",
+              "start": 140,
+              "url": "https://t.co/eRRTL1y8nW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050530747669151972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更衣室大爷在门口拦住我，递过来一个透明玻璃物件。\n「小伙子，刚你长凳上掉的，是红酒塞吧，还怪沉的。」\n我僵硬地接过来，指尖甚至摸到了一丝滑滑的粘液。\n转过身往外走，身体某处还在心虚地疯狂收缩。\n不是，大爷你递给我的时候，别捏那个膨大端啊......\n是不是该提醒人家去洗个手的。 https://t.co/eRRTL1y8nW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12373,
+          "following_count": 490,
+          "like_count": 16818,
+          "listed_count": 43,
+          "media_count": 249,
+          "tweet_count": 8567
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

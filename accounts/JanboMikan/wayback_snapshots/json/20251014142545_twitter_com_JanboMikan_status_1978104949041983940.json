@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978066588264772068",
+    "created_at": "2025-10-14T14:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T15:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978104949041983940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978104949041983940",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978102321205674309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 女子大学生（Joshi Daigakusei）哒~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978066588264772068",
+        "created_at": "2025-10-14T14:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978104949041983940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978104949041983940",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978102321205674309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 女子大学生（Joshi Daigakusei）哒~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668037836996771840",
+        "conversation_id": "1978066588264772068",
+        "created_at": "2025-10-14T14:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978102321205674309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978102321205674309",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978093288780439610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan jd事什么）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿阳光回避型性压抑理工舞萌安卓型含糖长发男，一切与敏感色图相关的会逐步移植到 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "0x7d9cd745",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972464380152573952/DrbfLE7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5529,
+          "following_count": 810,
+          "like_count": 9944,
+          "listed_count": 18,
+          "media_count": 245,
+          "tweet_count": 1918
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

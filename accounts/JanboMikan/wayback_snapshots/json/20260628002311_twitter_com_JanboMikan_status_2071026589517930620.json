@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2070864371107213567",
+    "created_at": "2026-06-28T00:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T01:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071026589517930620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561552708653289472",
+          "start": 0,
+          "username": "Raidencold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071026589517930620",
+    "in_reply_to_user_id": "1561552708653289472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070932365430477030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raidencold 啥时候🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2070864371107213567",
+        "created_at": "2026-06-28T00:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071026589517930620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561552708653289472",
+              "start": 0,
+              "username": "Raidencold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071026589517930620",
+        "in_reply_to_user_id": "1561552708653289472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070932365430477030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raidencold 啥时候🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561552708653289472",
+        "conversation_id": "2070864371107213567",
+        "created_at": "2026-06-27T18:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070932365430477030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 28,
+              "id": "1606188226821005312",
+              "start": 12,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070932365430477030",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070864371107213567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @YukiFox_5848103 哦，天哪，正好要去一趟深圳能不能去找蜜柑玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14606,
+          "following_count": 571,
+          "like_count": 19977,
+          "listed_count": 52,
+          "media_count": 334,
+          "tweet_count": 10558
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T03:16:15.000Z",
+        "description": "持證含→ （無）糖MTF 05超大龄木桶饭 (天殘黨+反共黨+中國國民黨❂ 🇹🇼)可用語言：日語 繁體中文 簡體中文 intp +le le！！看清楚了，别再看歪了HRT to：2022.12. 7-2026.2.17\n🚪：9.9/50",
+        "id": "1561552708653289472",
+        "location": "天御茶室",
+        "name": "雷電~凛🏳️‍⚧️",
+        "pinned_tweet_id": "1928016315505057919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787561051460182016/ypZyjr1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 620,
+          "like_count": 4080,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 3021
+        },
+        "url": "",
+        "username": "Raidencold",
+        "verified": false
+      }
+    ]
+  }
+}

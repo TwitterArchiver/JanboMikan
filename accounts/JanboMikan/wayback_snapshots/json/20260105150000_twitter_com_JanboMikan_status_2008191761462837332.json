@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008166551904714752"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008191761462837332",
+    "created_at": "2026-01-05T15:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T16:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008191761462837332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5O5jvB9cq4",
+          "end": 73,
+          "expanded_url": "https://x.com/JanboMikan/status/2008191761462837332/video/1",
+          "media_key": "13_2008166551904714752",
+          "start": 50,
+          "url": "https://t.co/5O5jvB9cq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008191761462837332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3000fo感谢大家！！\n（2000-&gt;3000fo，耗时16天！）\n\n发点发电视频发发癫。 https://t.co/5O5jvB9cq4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008191761462837332].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008191761462837332",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008191761462837332"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118933,
+        "height": 1280,
+        "media_key": "13_2008166551904714752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008166551904714752/img/tdvMK67zZNKgiTmQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166551904714752/vid/avc1/320x568/WfKvVzAZLYSQUooo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166551904714752/vid/avc1/480x852/6SYWKTNX_oVMuuR_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008166551904714752/vid/avc1/720x1280/N6J78gKrPyG0-TQy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008166551904714752/pl/K7Z3RgKJso5CCl1A.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3051,
+          "following_count": 246,
+          "like_count": 4992,
+          "listed_count": 13,
+          "media_count": 91,
+          "tweet_count": 2377
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

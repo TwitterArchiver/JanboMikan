@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2018525313148518725",
+    "created_at": "2026-02-03T09:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018623917213340023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512992652630712323",
+          "start": 0,
+          "username": "douzi67042771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018623917213340023",
+    "in_reply_to_user_id": "1512992652630712323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018525313148518725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douzi67042771 这个腿有力量🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018525303388442624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAM-EZ6bEAAqmN2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2018525313148518725",
+        "created_at": "2026-02-03T09:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018623917213340023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512992652630712323",
+              "start": 0,
+              "username": "douzi67042771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018623917213340023",
+        "in_reply_to_user_id": "1512992652630712323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018525313148518725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douzi67042771 这个腿有力量🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018525303388442624"
+          ]
+        },
+        "author_id": "1512992652630712323",
+        "conversation_id": "2018525313148518725",
+        "created_at": "2026-02-03T03:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018525313148518725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZMco8DC4O",
+              "end": 34,
+              "expanded_url": "https://x.com/douzi67042771/status/2018525313148518725/photo/1",
+              "media_key": "3_2018525303388442624",
+              "start": 11,
+              "url": "https://t.co/BZMco8DC4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018525313148518725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1310,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这么看我的大腿好粗🧐 https://t.co/BZMco8DC4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4576,
+          "following_count": 303,
+          "like_count": 7498,
+          "listed_count": 22,
+          "media_count": 123,
+          "tweet_count": 3828
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T03:15:42.000Z",
+        "description": "♂ ｜日音蟑螂｜古力特单推｜欢迎扩列各位老师！｜f1车迷｜手游只玩明日方舟｜睡觉｜喜欢摄影（只会拍拍风景",
+        "id": "1512992652630712323",
+        "name": "豆梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754471439904768/BFp3RW2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 774,
+          "like_count": 1677,
+          "listed_count": 11,
+          "media_count": 149,
+          "tweet_count": 1076
+        },
+        "username": "douzi67042771",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1981605193868566817",
+    "created_at": "2025-10-24T12:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T13:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981699104079290709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981699104079290709",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981605193868566817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 我不管，没看到脚就是黑丝！😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981605180731695104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ATabKWIAAAZTF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1981605193868566817",
+        "created_at": "2025-10-24T12:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981699104079290709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981699104079290709",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981605193868566817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 我不管，没看到脚就是黑丝！😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981605180731695104"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1981605193868566817",
+        "created_at": "2025-10-24T06:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981605193868566817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNCHhRvlKk",
+              "end": 65,
+              "expanded_url": "https://x.com/Truffaut897456/status/1981605193868566817/photo/1",
+              "media_key": "3_1981605180731695104",
+              "start": 42,
+              "url": "https://t.co/vNCHhRvlKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981605193868566817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4738,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "天冷了穿个大毛裤，真的是毛裤啊，好土好多毛球的那种，又有静电，但是感觉很显腿型嗯😐 https://t.co/vNCHhRvlKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 88,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1981362339040678139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4709,
+          "following_count": 768,
+          "like_count": 2249,
+          "listed_count": 12,
+          "media_count": 45,
+          "tweet_count": 992
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

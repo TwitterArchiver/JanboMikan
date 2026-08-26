@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029850309477208108",
+    "created_at": "2026-03-06T11:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029880446880993702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029880446880993702",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029850309477208108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o tql😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2029850294574796807",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCt6FptaUAcfFTK.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029850309477208108",
+        "created_at": "2026-03-06T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029880446880993702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029880446880993702",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029850309477208108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o tql😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029850294574796807"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2029850309477208108",
+        "created_at": "2026-03-06T09:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029850309477208108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76nYjex9by",
+              "end": 28,
+              "expanded_url": "https://x.com/maruko00o/status/2029850309477208108/photo/1",
+              "media_key": "3_2029850294574796807",
+              "start": 5,
+              "url": "https://t.co/76nYjex9by"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029850309477208108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1064,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天晴了！ https://t.co/76nYjex9by"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7271,
+          "following_count": 387,
+          "like_count": 10706,
+          "listed_count": 33,
+          "media_count": 166,
+          "tweet_count": 5668
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38371,
+          "following_count": 937,
+          "like_count": 22570,
+          "listed_count": 214,
+          "media_count": 930,
+          "tweet_count": 5807
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

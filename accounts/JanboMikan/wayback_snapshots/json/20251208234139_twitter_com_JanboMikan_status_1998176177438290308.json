@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998044899326001384",
+    "created_at": "2025-12-08T23:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T00:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998176177438290308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "850937205040087040",
+          "start": 0,
+          "username": "HarukawaSayaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998176177438290308",
+    "in_reply_to_user_id": "850937205040087040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998074496662802746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarukawaSayaka 我是超人😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998044899326001384",
+        "created_at": "2025-12-08T23:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998176177438290308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "850937205040087040",
+              "start": 0,
+              "username": "HarukawaSayaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998176177438290308",
+        "in_reply_to_user_id": "850937205040087040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998074496662802746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarukawaSayaka 我是超人😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850937205040087040",
+        "conversation_id": "1998044899326001384",
+        "created_at": "2025-12-08T16:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998074496662802746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998074496662802746",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998044899326001384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 胖次怎么穿在裤袜外面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 180,
+          "like_count": 2691,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "location": "Machida-shi, Tokyo",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984530535306448896/iGHYeLo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21288,
+          "following_count": 11013,
+          "like_count": 47087,
+          "listed_count": 52,
+          "media_count": 1991,
+          "tweet_count": 12482
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true
+      }
+    ]
+  }
+}

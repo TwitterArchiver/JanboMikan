@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1994058645076615655",
+    "created_at": "2025-11-27T15:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994065897888338371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593969327857860609",
+          "start": 0,
+          "username": "qingyot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994065897888338371",
+    "in_reply_to_user_id": "1593969327857860609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994065699967566295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyot 好哦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1994058645076615655",
+        "created_at": "2025-11-27T15:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994065897888338371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593969327857860609",
+              "start": 0,
+              "username": "qingyot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994065897888338371",
+        "in_reply_to_user_id": "1593969327857860609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994065699967566295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyot 好哦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593969327857860609",
+        "conversation_id": "1994058645076615655",
+        "created_at": "2025-11-27T15:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994065699967566295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994065699967566295",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994058645076615655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可以看挺好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 145,
+          "like_count": 1918,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T14:08:10.000Z",
+        "description": "活着的意义是到底是什么？",
+        "id": "1593969327857860609",
+        "location": "无",
+        "name": "情签",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593971284190396419/sdDaANET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 66,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 721
+        },
+        "username": "qingyot",
+        "verified": false
+      }
+    ]
+  }
+}

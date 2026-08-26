@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2005594646169498015",
+    "created_at": "2025-12-31T02:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T03:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006193667883803029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1205815972487036928",
+          "start": 0,
+          "username": "RdOhjMpO6bdrQZn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006193667883803029",
+    "in_reply_to_user_id": "1205815972487036928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006186285845864520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RdOhjMpO6bdrQZn 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2005594646169498015",
+        "created_at": "2025-12-31T02:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006193667883803029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1205815972487036928",
+              "start": 0,
+              "username": "RdOhjMpO6bdrQZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006193667883803029",
+        "in_reply_to_user_id": "1205815972487036928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006186285845864520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RdOhjMpO6bdrQZn 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205815972487036928",
+        "conversation_id": "2005594646169498015",
+        "created_at": "2025-12-31T02:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T03:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006186285845864520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006186285845864520",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005594646169498015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 上海交通大学某课题组这边求资助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 228,
+          "like_count": 4575,
+          "listed_count": 10,
+          "media_count": 84,
+          "tweet_count": 2155
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-14T11:45:17.000Z",
+        "description": "02老东西 阴暗干横向课题0论文+毕业焦虑 +经济焦虑の光电博士生 上海 想变成小楠娘（曾经是后来不是来，双）呜呜. /想互 fo/想交朋友，交不会到处攻击的好人朋友",
+        "id": "1205815972487036928",
+        "location": "上海，嘉兴，西安",
+        "name": "desire098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289829149423489024/rjpKIEbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 153,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 382
+        },
+        "username": "RdOhjMpO6bdrQZn",
+        "verified": false
+      }
+    ]
+  }
+}

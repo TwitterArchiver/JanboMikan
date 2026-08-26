@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978067275174363243",
+    "created_at": "2025-10-14T13:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T14:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978092638092837084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612652552994320385",
+          "start": 0,
+          "username": "quan763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978092638092837084",
+    "in_reply_to_user_id": "1612652552994320385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978067275174363243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quan763 姐姐踩我...！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_1978067271861104640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OBtBkbcAAg6F6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978067275174363243",
+        "created_at": "2025-10-14T13:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T14:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978092638092837084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612652552994320385",
+              "start": 0,
+              "username": "quan763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978092638092837084",
+        "in_reply_to_user_id": "1612652552994320385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978067275174363243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quan763 姐姐踩我...！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978067271861104640"
+          ]
+        },
+        "author_id": "1612652552994320385",
+        "conversation_id": "1978067275174363243",
+        "created_at": "2025-10-14T11:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978067275174363243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbKgZ9Z9f5",
+              "end": 31,
+              "expanded_url": "https://x.com/quan763/status/1978067275174363243/photo/1",
+              "media_key": "3_1978067271861104640",
+              "start": 8,
+              "url": "https://t.co/cbKgZ9Z9f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978067275174363243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2188,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想要吗～杂鱼♡ https://t.co/cbKgZ9Z9f5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T03:28:34.000Z",
+        "description": "无R18内容 ｜盗图的替我挡灾｜喜欢礼貌的人｜只回关注我的私信｜其他平台均为骗子｜",
+        "id": "1612652552994320385",
+        "name": "清泉",
+        "pinned_tweet_id": "1926870879784386947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872580557177339904/bKLt9f01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42822,
+          "following_count": 132,
+          "like_count": 6723,
+          "listed_count": 140,
+          "media_count": 308,
+          "tweet_count": 7085
+        },
+        "username": "quan763",
+        "verified": false
+      }
+    ]
+  }
+}

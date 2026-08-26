@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011755248293929213",
+    "created_at": "2026-01-16T06:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012054246393577719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684546768178905089",
+          "start": 0,
+          "username": "LeoXu114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012054246393577719",
+    "in_reply_to_user_id": "1684546768178905089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012025996539785655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoXu114 谢谢捏🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011755248293929213",
+        "created_at": "2026-01-16T06:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012054246393577719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684546768178905089",
+              "start": 0,
+              "username": "LeoXu114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012054246393577719",
+        "in_reply_to_user_id": "1684546768178905089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012025996539785655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoXu114 谢谢捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684546768178905089",
+        "conversation_id": "2011755248293929213",
+        "created_at": "2026-01-16T04:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012025996539785655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012025996539785655",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011755248293929213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可爱捏🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3911,
+          "following_count": 278,
+          "like_count": 5963,
+          "listed_count": 18,
+          "media_count": 102,
+          "tweet_count": 2893
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T12:50:33.000Z",
+        "description": "上海ECUST大三在读，放假在福建福鼎，170/62，coser，粥批，五批，老二次元，成分复杂，是温柔服务型的奶1S/经验农？由于身高和气质原因只能出正太少年系cos，喜欢可爱的男孩子，阳光温柔体贴细腻，是可以提供正向的情绪价值的男生，找cos/麦麸搭子，欢迎同好私信扩列/一起玩😋\n里推@DrLeo66666666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "DrLeo66666666"
+              }
+            ]
+          }
+        },
+        "id": "1684546768178905089",
+        "location": "你的心里",
+        "name": "天辰Leo（Neon Genesis）",
+        "pinned_tweet_id": "2007328843493978145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883475472136413184/X7zvv_UI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 3975,
+          "like_count": 26492,
+          "listed_count": 11,
+          "media_count": 195,
+          "tweet_count": 9407
+        },
+        "username": "LeoXu114",
+        "verified": false
+      }
+    ]
+  }
+}

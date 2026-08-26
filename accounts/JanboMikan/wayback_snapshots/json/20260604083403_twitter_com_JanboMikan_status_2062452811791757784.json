@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062397258495336610",
+    "created_at": "2026-06-04T08:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062452811791757784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062452811791757784",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062397258495336610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayn_kitkia 文豪姐姐🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062397258495336610",
+        "created_at": "2026-06-04T08:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062452811791757784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062452811791757784",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062397258495336610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayn_kitkia 文豪姐姐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049186369361289216",
+        "conversation_id": "2062397258495336610",
+        "created_at": "2026-06-04T04:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062397258495336610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062397258495336610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上次回北京时候还是24年，舷窗外的阳光经过华北平原上空特有的灰白色霾层过滤，变成了一种带有粉尘质感的、令人窒息的漫反射光。\n没有了夜色的掩护，这片土地展现出了它最粗粝真实的面貌。无数灰褐色的方形农田和工业厂房像是一块块裸露在外的、生锈的集成电路板。一种属于北方的、极其沉重且蛮横的重力场，正穿透机身，将我向下拖曳。\n放在折叠小桌板上的手机依然处于飞行模式。但我不需要联网，视网膜的底端就已经自动浮现出了那条登机前收到的短信：\n“在P2停车楼等你，落地直接过来。”\n这次我仍旧会在这片不可逃脱的平原上，完成那场名为重逢的坠毁。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2463,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上次回北京时候还是24年，舷窗外的阳光经过华北平原上空特有的灰白色霾层过滤，变成了一种带有粉尘质感的、令人窒息的漫反射光。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13942,
+          "following_count": 531,
+          "like_count": 18809,
+          "listed_count": 47,
+          "media_count": 305,
+          "tweet_count": 9894
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "オス♂//aya避難所✦喜欢您来🍟\n本垢@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "location": "Minato-ku, Tokyo",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2058434921715368102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051147515882622976/G53Dk8sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 187,
+          "like_count": 4322,
+          "listed_count": 12,
+          "media_count": 68,
+          "tweet_count": 2209
+        },
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

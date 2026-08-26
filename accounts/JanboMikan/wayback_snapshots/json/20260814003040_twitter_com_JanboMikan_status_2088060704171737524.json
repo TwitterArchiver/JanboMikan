@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2087856692335923222",
+    "created_at": "2026-08-14T00:30:40.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088060704171737524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067769435675578368",
+          "start": 0,
+          "username": "yuanren0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088060704171737524",
+    "in_reply_to_user_id": "2067769435675578368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087947103410786497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanren0130 爸爸不是x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2087856692335923222",
+        "created_at": "2026-08-14T00:30:40.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088060704171737524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067769435675578368",
+              "start": 0,
+              "username": "yuanren0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088060704171737524",
+        "in_reply_to_user_id": "2067769435675578368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087947103410786497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanren0130 爸爸不是x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067769435675578368",
+        "conversation_id": "2087856692335923222",
+        "created_at": "2026-08-13T16:59:16.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087947103410786497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087947103410786497",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087856692335923222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 男娘世家吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2088060704171737524",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16818,
+          "following_count": 625,
+          "like_count": 22179,
+          "listed_count": 55,
+          "media_count": 398,
+          "tweet_count": 11872
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T00:41:21.000Z",
+        "description": "💜朝比奈真冬激推💜\n愿望是想当心理医生救赎所有人\n💗友跨｜17岁｜od中｜不建政\n头像来源：《踏星》by：随散飘风(是这个小说的作者，头像是书友画的)\n希望大家都能获得幸福，活的幸福",
+        "id": "2067769435675578368",
+        "is_identity_verified": false,
+        "location": "方寸之距   天上宗后山",
+        "most_recent_tweet_id": "2087953427930521841",
+        "name": "陆隐隐重度依赖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067769435675578368/1782766030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071682054421663744/T0eUAE2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 32,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "yuanren0130",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

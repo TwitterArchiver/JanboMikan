@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053293949130080688",
+    "created_at": "2026-05-10T11:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053437675525558595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692047356034953216",
+          "start": 0,
+          "username": "Acriley_zc"
+        },
+        {
+          "end": 23,
+          "id": "1162603779780333569",
+          "start": 12,
+          "username": "luobomiao1"
+        },
+        {
+          "end": 33,
+          "id": "1431080795536433154",
+          "start": 24,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053437675525558595",
+    "in_reply_to_user_id": "1692047356034953216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053389201627103670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acriley_zc @luobomiao1 @yuluoqwq 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053293949130080688",
+        "created_at": "2026-05-10T11:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053437675525558595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            },
+            {
+              "end": 23,
+              "id": "1162603779780333569",
+              "start": 12,
+              "username": "luobomiao1"
+            },
+            {
+              "end": 33,
+              "id": "1431080795536433154",
+              "start": 24,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053437675525558595",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053389201627103670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc @luobomiao1 @yuluoqwq 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692047356034953216",
+        "conversation_id": "2053293949130080688",
+        "created_at": "2026-05-10T08:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053389201627103670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1162603779780333569",
+              "start": 12,
+              "username": "luobomiao1"
+            },
+            {
+              "end": 33,
+              "id": "1431080795536433154",
+              "start": 24,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053389201627103670",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053293949130080688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @luobomiao1 @yuluoqwq 干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12781,
+          "following_count": 495,
+          "like_count": 17269,
+          "listed_count": 43,
+          "media_count": 263,
+          "tweet_count": 8882
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/♂，东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，轻度cosplay，目前修行中......",
+        "id": "1692047356034953216",
+        "name": "無主物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049947134498332672/pmccaT_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 171,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1285
+        },
+        "username": "Acriley_zc",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-17T05:55:24.000Z",
+        "description": "不可不爱，没有人爱。不线下不线下不线下。小可爱直接加我！zn有🚪（仅是好友位）",
+        "id": "1162603779780333569",
+        "location": "guangdong",
+        "name": "萝卜喵喵",
+        "pinned_tweet_id": "1672291708275679232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937759794636509184/jkqByDwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11733,
+          "following_count": 287,
+          "like_count": 3377,
+          "listed_count": 35,
+          "media_count": 147,
+          "tweet_count": 998
+        },
+        "username": "luobomiao1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3826,
+          "following_count": 1632,
+          "like_count": 41874,
+          "listed_count": 11,
+          "media_count": 270,
+          "tweet_count": 5066
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

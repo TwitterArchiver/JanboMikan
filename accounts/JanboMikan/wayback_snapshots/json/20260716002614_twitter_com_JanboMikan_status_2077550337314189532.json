@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2077347448008134956",
+    "created_at": "2026-07-16T00:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077550337314189532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555156024814096384",
+          "start": 0,
+          "username": "Shikinami1929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077550337314189532",
+    "in_reply_to_user_id": "1555156024814096384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077365937729405011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shikinami1929 好久不见的正常人解释x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2077347448008134956",
+        "created_at": "2026-07-16T00:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077550337314189532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555156024814096384",
+              "start": 0,
+              "username": "Shikinami1929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077550337314189532",
+        "in_reply_to_user_id": "1555156024814096384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077365937729405011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shikinami1929 好久不见的正常人解释x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555156024814096384",
+        "conversation_id": "2077347448008134956",
+        "created_at": "2026-07-15T12:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077365937729405011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077365937729405011",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077347448008134956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我懂了，妈妈是隔壁的老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15467,
+          "following_count": 598,
+          "like_count": 21046,
+          "listed_count": 52,
+          "media_count": 358,
+          "tweet_count": 11131
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T11:37:56.000Z",
+        "description": "Si tacuisses, philosophus mansisses.",
+        "id": "1555156024814096384",
+        "location": "Earth Spacedock",
+        "name": "Exitus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913771304043642880/-FVmeQp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 68,
+          "like_count": 665,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "Shikinami1929",
+        "verified": false
+      }
+    ]
+  }
+}

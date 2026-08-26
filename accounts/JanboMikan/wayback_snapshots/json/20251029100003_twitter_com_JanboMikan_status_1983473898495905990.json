@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982803120213090304",
+        "3_1982803120032817152",
+        "3_1982803121945362432",
+        "3_1982803121827966976"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1983473898495905990",
+    "created_at": "2025-10-29T10:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983473898495905990"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "男娘"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AvmE4x5UMq",
+          "end": 61,
+          "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+          "media_key": "3_1982803120213090304",
+          "start": 38,
+          "url": "https://t.co/AvmE4x5UMq"
+        },
+        {
+          "display_url": "pic.x.com/AvmE4x5UMq",
+          "end": 61,
+          "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+          "media_key": "3_1982803120032817152",
+          "start": 38,
+          "url": "https://t.co/AvmE4x5UMq"
+        },
+        {
+          "display_url": "pic.x.com/AvmE4x5UMq",
+          "end": 61,
+          "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+          "media_key": "3_1982803121945362432",
+          "start": 38,
+          "url": "https://t.co/AvmE4x5UMq"
+        },
+        {
+          "display_url": "pic.x.com/AvmE4x5UMq",
+          "end": 61,
+          "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+          "media_key": "3_1982803121827966976",
+          "start": 38,
+          "url": "https://t.co/AvmE4x5UMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983473898495905990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了个蛋糕没有叉子，哥哥可以带几把叉到我这里吗？\n\n#男娘 #可爱的男孩子 https://t.co/AvmE4x5UMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_1982803120213090304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RU7rfWYAAoH-u.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1844,
+        "media_key": "3_1982803120032817152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RU7q0XoAAnC_R.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1844,
+        "media_key": "3_1982803121945362432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RU7x8WwAAdvzb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1844,
+        "media_key": "3_1982803121827966976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RU7xgXcAALomV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982803120213090304",
+            "3_1982803120032817152",
+            "3_1982803121945362432",
+            "3_1982803121827966976"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1983473898495905990",
+        "created_at": "2025-10-29T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983473898495905990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvmE4x5UMq",
+              "end": 61,
+              "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+              "media_key": "3_1982803120213090304",
+              "start": 38,
+              "url": "https://t.co/AvmE4x5UMq"
+            },
+            {
+              "display_url": "pic.x.com/AvmE4x5UMq",
+              "end": 61,
+              "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+              "media_key": "3_1982803120032817152",
+              "start": 38,
+              "url": "https://t.co/AvmE4x5UMq"
+            },
+            {
+              "display_url": "pic.x.com/AvmE4x5UMq",
+              "end": 61,
+              "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+              "media_key": "3_1982803121945362432",
+              "start": 38,
+              "url": "https://t.co/AvmE4x5UMq"
+            },
+            {
+              "display_url": "pic.x.com/AvmE4x5UMq",
+              "end": 61,
+              "expanded_url": "https://x.com/JanboMikan/status/1983473898495905990/photo/1",
+              "media_key": "3_1982803121827966976",
+              "start": 38,
+              "url": "https://t.co/AvmE4x5UMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983473898495905990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了个蛋糕没有叉子，哥哥可以带几把叉到我这里吗？\n\n#男娘 #可爱的男孩子 https://t.co/AvmE4x5UMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 94,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

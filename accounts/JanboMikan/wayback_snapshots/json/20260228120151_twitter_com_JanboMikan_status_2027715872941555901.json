@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2027700309427147241",
+    "created_at": "2026-02-28T12:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027715872941555901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824078289020895232",
+          "start": 0,
+          "username": "tamako345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027715872941555901",
+    "in_reply_to_user_id": "1824078289020895232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027713853627502724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako345 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2027700309427147241",
+        "created_at": "2026-02-28T12:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027715872941555901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824078289020895232",
+              "start": 0,
+              "username": "tamako345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027715872941555901",
+        "in_reply_to_user_id": "1824078289020895232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027713853627502724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako345 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824078289020895232",
+        "conversation_id": "2027700309427147241",
+        "created_at": "2026-02-28T11:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027713853627502724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027713853627502724",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027700309427147241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7135,
+          "following_count": 375,
+          "like_count": 10224,
+          "listed_count": 31,
+          "media_count": 160,
+          "tweet_count": 5387
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:39:01.000Z",
+        "description": "",
+        "id": "1824078289020895232",
+        "name": "玉子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078493245747200/-6PLB54F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 539
+        },
+        "username": "tamako345",
+        "verified": false
+      }
+    ]
+  }
+}

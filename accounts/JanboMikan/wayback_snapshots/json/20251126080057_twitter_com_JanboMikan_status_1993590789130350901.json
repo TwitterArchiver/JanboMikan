@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1993562622026035651",
+    "created_at": "2025-11-26T08:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993590789130350901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993590789130350901",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993562622026035651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 内圈😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993562608121921538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qOoTabwAIErNW.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1993562622026035651",
+        "created_at": "2025-11-26T08:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993590789130350901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993590789130350901",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993562622026035651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 内圈😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993562608121921538"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993562622026035651",
+        "created_at": "2025-11-26T06:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993562622026035651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/zKf4ASXu39"
+            },
+            {
+              "display_url": "pic.x.com/L6EVm7wR2b",
+              "end": 64,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1993562622026035651/photo/1",
+              "media_key": "3_1993562608121921538",
+              "start": 41,
+              "url": "https://t.co/L6EVm7wR2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993562622026035651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/zKf4ASXu39 https://t.co/L6EVm7wR2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 142,
+          "like_count": 1796,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/没回信息是在忙喵/属性偏M(微量S)/评论感兴趣的会互动/微信号:wunaisan26(备注自己推的ID看情况会加)",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992933809038516224/kjt0WRjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 133,
+          "like_count": 5020,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 1201
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

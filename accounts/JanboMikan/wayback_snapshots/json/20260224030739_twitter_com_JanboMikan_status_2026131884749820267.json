@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025909560561820016",
+    "created_at": "2026-02-24T03:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026131884749820267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026131884749820267",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025909560561820016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina *兴奋地点开评论区\n*满意地离开评论区"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3023,
+        "media_key": "3_2025909552340992001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB16AQ5bAAEyvMq.jpg",
+        "width": 4029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025909560561820016",
+        "created_at": "2026-02-24T03:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026131884749820267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026131884749820267",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025909560561820016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina *兴奋地点开评论区\n*满意地离开评论区"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025909552340992001"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025909560561820016",
+        "created_at": "2026-02-23T12:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025909560561820016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWzkEVIKwz",
+              "end": 31,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2025909560561820016/photo/1",
+              "media_key": "3_2025909552340992001",
+              "start": 8,
+              "url": "https://t.co/vWzkEVIKwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025909560561820016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4198,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃掉了某位推友 https://t.co/vWzkEVIKwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 349,
+          "like_count": 9658,
+          "listed_count": 26,
+          "media_count": 152,
+          "tweet_count": 5058
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂//看女装的直接去亮点(偶尔有荤的注意⚠️)//都内一般会社員//120% purity sub//抽空搞点考斯普雷//需要回fo请DM//如果想问任何问题➡️https://t.co/VACXZCUkde",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 106,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 83,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Ayano",
+        "pinned_tweet_id": "2020722495960367480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 491,
+          "like_count": 1543,
+          "listed_count": 22,
+          "media_count": 123,
+          "tweet_count": 2019
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

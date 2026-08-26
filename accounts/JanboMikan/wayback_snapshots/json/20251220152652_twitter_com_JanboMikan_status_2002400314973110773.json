@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2002338997117563188",
+    "created_at": "2025-12-20T15:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002400314973110773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486364655580708867",
+          "start": 0,
+          "username": "yo14390596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002400314973110773",
+    "in_reply_to_user_id": "1486364655580708867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002338997117563188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yo14390596 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2002338063163535364",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m73A8bMAQ9lTv.jpg",
+        "width": 666
+      },
+      {
+        "height": 666,
+        "media_key": "3_2002338069899608064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m73aCbgAA57Rt.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2002338083543658498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m74M3bMAIfzl3.jpg",
+        "width": 666
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2002338094562095105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m7416bMAEJGM6.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002338997117563188",
+        "created_at": "2025-12-20T15:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002400314973110773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486364655580708867",
+              "start": 0,
+              "username": "yo14390596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002400314973110773",
+        "in_reply_to_user_id": "1486364655580708867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002338997117563188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yo14390596 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002338063163535364",
+            "3_2002338069899608064",
+            "3_2002338083543658498",
+            "3_2002338094562095105"
+          ]
+        },
+        "author_id": "1486364655580708867",
+        "conversation_id": "2002338997117563188",
+        "created_at": "2025-12-20T11:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002338997117563188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQknZ3SMYD",
+              "end": 29,
+              "expanded_url": "https://x.com/yo14390596/status/2002338997117563188/photo/1",
+              "media_key": "3_2002338063163535364",
+              "start": 6,
+              "url": "https://t.co/CQknZ3SMYD"
+            },
+            {
+              "display_url": "pic.x.com/CQknZ3SMYD",
+              "end": 29,
+              "expanded_url": "https://x.com/yo14390596/status/2002338997117563188/photo/1",
+              "media_key": "3_2002338069899608064",
+              "start": 6,
+              "url": "https://t.co/CQknZ3SMYD"
+            },
+            {
+              "display_url": "pic.x.com/CQknZ3SMYD",
+              "end": 29,
+              "expanded_url": "https://x.com/yo14390596/status/2002338997117563188/photo/1",
+              "media_key": "3_2002338083543658498",
+              "start": 6,
+              "url": "https://t.co/CQknZ3SMYD"
+            },
+            {
+              "display_url": "pic.x.com/CQknZ3SMYD",
+              "end": 29,
+              "expanded_url": "https://x.com/yo14390596/status/2002338997117563188/photo/1",
+              "media_key": "3_2002338094562095105",
+              "start": 6,
+              "url": "https://t.co/CQknZ3SMYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002338997117563188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新しい服～ https://t.co/CQknZ3SMYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 212,
+          "like_count": 3822,
+          "listed_count": 8,
+          "media_count": 80,
+          "tweet_count": 1737
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T15:45:32.000Z",
+        "description": "一般路过小灵芝～\n/色小鬼/死肥宅/事男娘/什么游戏都玩（特别甲亢）/近期沉迷ToN！/极度外向/喜欢欺负大叔与小可爱/想和所有人交朋友/vrchater/永远的18岁/欢迎聊天/梦想是成为讨人喜欢的好孩子～\nvrchat：霊芝dayo",
+        "id": "1486364655580708867",
+        "name": "灵芝哒yo",
+        "pinned_tweet_id": "1767430185199296624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939902767729909760/GZ3kH7Gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 615,
+          "like_count": 10163,
+          "listed_count": 13,
+          "media_count": 266,
+          "tweet_count": 1704
+        },
+        "username": "yo14390596",
+        "verified": false
+      }
+    ]
+  }
+}

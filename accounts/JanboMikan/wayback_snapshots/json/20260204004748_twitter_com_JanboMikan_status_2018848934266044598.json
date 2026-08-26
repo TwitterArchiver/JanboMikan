@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2018509442325897616",
+    "created_at": "2026-02-04T00:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018848934266044598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1014885409292075010",
+          "start": 0,
+          "username": "Jaysnowqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018848934266044598",
+    "in_reply_to_user_id": "1014885409292075010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018509442325897616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaysnowqwq 庄生晓梦迷蝴蝶🥺\n但xm伪街🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2018509433559814144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMvoqMbkAAzuD9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2018509442325897616",
+        "created_at": "2026-02-04T00:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018848934266044598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1014885409292075010",
+              "start": 0,
+              "username": "Jaysnowqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018848934266044598",
+        "in_reply_to_user_id": "1014885409292075010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018509442325897616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaysnowqwq 庄生晓梦迷蝴蝶🥺\n但xm伪街🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018509433559814144"
+          ]
+        },
+        "author_id": "1014885409292075010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2018509442325897616",
+        "created_at": "2026-02-03T02:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018509442325897616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "男娘"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "伪娘"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "cd"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "ts"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdG6KMCiHE",
+              "end": 112,
+              "expanded_url": "https://x.com/Jaysnowqwq/status/2018509442325897616/photo/1",
+              "media_key": "3_2018509433559814144",
+              "start": 89,
+              "url": "https://t.co/bdG6KMCiHE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018509442325897616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 738,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候穿裙子伪街多了，看着梳妆镜里、大街的玻璃上映出的女孩子的自己多了，回房间脱裙子时也会有一种从vrchat退出时的感觉……\n#男娘 #伪娘 #cd #ts #VRChat https://t.co/bdG6KMCiHE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 304,
+          "like_count": 7560,
+          "listed_count": 23,
+          "media_count": 124,
+          "tweet_count": 3865
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-05T14:55:12.000Z",
+        "description": "男娘 | 双 | 174cm60kg | 04年老登 | 友跨 | 无糖无OD不卖不酗酒不抽烟无严重心理问题（有抑郁史） | 同类互fo | VRC同英文ID | 私我可能掉落其他联系方式？ | 喜欢健谈真诚的小可爱们 | 请在我的星夜中探寻和眠憩——",
+        "id": "1014885409292075010",
+        "location": "距离你-14cm",
+        "name": "StaRr1S⭐星瞳",
+        "pinned_tweet_id": "2010295495105859967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009012934731857920/egDbHw3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 211,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 223
+        },
+        "username": "Jaysnowqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2079581789270761923",
+    "created_at": "2026-07-21T15:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079593138809917645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 26,
+          "id": "1667851059346427914",
+          "start": 10,
+          "username": "hoshi_Asuka0089"
+        },
+        {
+          "end": 42,
+          "id": "1746469344325021697",
+          "start": 27,
+          "username": "suzumiyasuzume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079593138809917645",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079584902631329932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @hoshi_Asuka0089 @suzumiyasuzume ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079584893236076544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwrcTma4AANXGW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2079581789270761923",
+        "created_at": "2026-07-21T15:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079593138809917645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 26,
+              "id": "1667851059346427914",
+              "start": 10,
+              "username": "hoshi_Asuka0089"
+            },
+            {
+              "end": 42,
+              "id": "1746469344325021697",
+              "start": 27,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079593138809917645",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079584902631329932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @hoshi_Asuka0089 @suzumiyasuzume ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079584893236076544"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2079581789270761923",
+        "created_at": "2026-07-21T15:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079584902631329932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            },
+            {
+              "end": 32,
+              "id": "1746469344325021697",
+              "start": 17,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iM5vk4ZthE",
+              "end": 61,
+              "expanded_url": "https://x.com/Ted_yeet/status/2079584902631329932/photo/1",
+              "media_key": "3_2079584893236076544",
+              "start": 38,
+              "url": "https://t.co/iM5vk4ZthE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079584902631329932",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079584388153823266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 @suzumiyasuzume 已经做了 https://t.co/iM5vk4ZthE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15671,
+          "following_count": 605,
+          "like_count": 21310,
+          "listed_count": 52,
+          "media_count": 364,
+          "tweet_count": 11298
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍🌈/蓝发贝斯女同/brat/说LaTeX的人形编译器/神秘旅行商人",
+        "id": "1499442786453663745",
+        "location": "Cantonia",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6637,
+          "following_count": 1808,
+          "like_count": 55348,
+          "listed_count": 24,
+          "media_count": 561,
+          "tweet_count": 13126
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "天仓 V",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 895,
+          "like_count": 91673,
+          "listed_count": 3,
+          "media_count": 1156,
+          "tweet_count": 15723
+        },
+        "url": "",
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14429,
+          "following_count": 1005,
+          "like_count": 2482,
+          "listed_count": 22,
+          "media_count": 145,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      }
+    ]
+  }
+}

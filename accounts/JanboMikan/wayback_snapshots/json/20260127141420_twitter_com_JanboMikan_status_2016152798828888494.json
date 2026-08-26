@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016152769082634240"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016152798828888494",
+    "created_at": "2026-01-27T14:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016152798828888494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dsfaQXJDFw",
+          "end": 106,
+          "expanded_url": "https://x.com/JanboMikan/status/2016152798828888494/photo/1",
+          "media_key": "3_2016152769082634240",
+          "start": 83,
+          "url": "https://t.co/dsfaQXJDFw"
+        },
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/JanboMikan/status/2015804091121951179",
+          "start": 107,
+          "url": "https://t.co/C5X8wFIlBR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016152798828888494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015804091121951179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮你剥开了皮结果你又不吃…… 还有，你的手刚才往哪里伸呢？！ 早知道不喂你了，大变态！\n\n既然你不想吃这个……那这颗我就自己吃掉了。 至于你……你今晚就饿着吧！哼！ https://t.co/dsfaQXJDFw https://t.co/C5X8wFIlBR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3557,
+        "media_key": "3_2016152769082634240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rQQu4XMAATJMq.jpg",
+        "width": 3384
+      },
+      {
+        "height": 2708,
+        "media_key": "3_2015803999916802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mTDsfaQAA5sxq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016152769082634240"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016152798828888494",
+        "created_at": "2026-01-27T14:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016152798828888494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsfaQXJDFw",
+              "end": 106,
+              "expanded_url": "https://x.com/JanboMikan/status/2016152798828888494/photo/1",
+              "media_key": "3_2016152769082634240",
+              "start": 83,
+              "url": "https://t.co/dsfaQXJDFw"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/JanboMikan/status/2015804091121951179",
+              "start": 107,
+              "url": "https://t.co/C5X8wFIlBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016152798828888494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015804091121951179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮你剥开了皮结果你又不吃…… 还有，你的手刚才往哪里伸呢？！ 早知道不喂你了，大变态！\n\n既然你不想吃这个……那这颗我就自己吃掉了。 至于你……你今晚就饿着吧！哼！ https://t.co/dsfaQXJDFw https://t.co/C5X8wFIlBR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015803999916802048"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015804091121951179",
+        "created_at": "2026-01-26T15:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015804091121951179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pvyN6CZDN",
+              "end": 95,
+              "expanded_url": "https://x.com/JanboMikan/status/2015804091121951179/photo/1",
+              "media_key": "3_2015803999916802048",
+              "start": 72,
+              "url": "https://t.co/3pvyN6CZDN"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/JanboMikan/status/2015439519630164018",
+              "start": 96,
+              "url": "https://t.co/MLOybBLoOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015804091121951179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3104,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015439519630164018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是的，一直盯着人家的腿看干嘛？巧克力在手上啦！\n\n还要我喂你才肯张嘴吗？你是小孩子嘛？\n手都要举酸了……就这一次哦？\n啊——\n\n快点吃掉啦！ https://t.co/3pvyN6CZDN https://t.co/MLOybBLoOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 284,
+          "like_count": 6925,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 3496
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

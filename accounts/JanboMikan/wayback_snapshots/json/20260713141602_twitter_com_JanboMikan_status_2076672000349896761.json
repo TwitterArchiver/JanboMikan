@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2076652225020207419",
+    "created_at": "2026-07-13T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076672000349896761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520639704517025792",
+          "start": 0,
+          "username": "NekoSaka0706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076672000349896761",
+    "in_reply_to_user_id": "1520639704517025792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076664280305561938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoSaka0706 神奇鱼鱼就该配神奇文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2076652225020207419",
+        "created_at": "2026-07-13T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076672000349896761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520639704517025792",
+              "start": 0,
+              "username": "NekoSaka0706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076672000349896761",
+        "in_reply_to_user_id": "1520639704517025792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076664280305561938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoSaka0706 神奇鱼鱼就该配神奇文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520639704517025792",
+        "conversation_id": "2076652225020207419",
+        "created_at": "2026-07-13T13:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076664280305561938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076664280305561938",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076652225020207419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 依旧神秘文案，唉唉蜜柑比我高好多~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15235,
+          "following_count": 593,
+          "like_count": 20898,
+          "listed_count": 52,
+          "media_count": 356,
+          "tweet_count": 11046
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T05:42:38.000Z",
+        "description": "07年（成年了成年了成年了）163/45kg的♂，喜欢绳子，是被缚， 想和厉害的绳师和可爱的人贴贴，是清水哦，涩涩ダメ！\nQQ 2431525266（其实是小号）\n 欢迎聊天 \n想建个小群www，也很欢迎加QQ交朋友，如果是小可爱的超级加分哦~\nEnglish ok",
+        "id": "1520639704517025792",
+        "location": "你的心里~",
+        "name": "这是一只神奇鱼鱼",
+        "pinned_tweet_id": "2033466099468222644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950526812972621824/Tv7MRTsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 285,
+          "like_count": 199,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "NekoSaka0706",
+        "verified": false
+      }
+    ]
+  }
+}

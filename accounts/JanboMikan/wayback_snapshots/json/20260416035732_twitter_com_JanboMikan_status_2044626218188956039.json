@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044624315220640007",
+    "created_at": "2026-04-16T03:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044626218188956039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1408736706338033668",
+          "start": 0,
+          "username": "ACE_yumoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044626218188956039",
+    "in_reply_to_user_id": "1408736706338033668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044624315220640007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACE_yumoooo 透哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044624295243239424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_29rEbUAAvPmS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044624315220640007",
+        "created_at": "2026-04-16T03:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044626218188956039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1408736706338033668",
+              "start": 0,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044626218188956039",
+        "in_reply_to_user_id": "1408736706338033668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044624315220640007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACE_yumoooo 透哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044624295243239424"
+          ]
+        },
+        "author_id": "1408736706338033668",
+        "conversation_id": "2044624315220640007",
+        "created_at": "2026-04-16T03:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044624315220640007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4cgJYb6eZ",
+              "end": 35,
+              "expanded_url": "https://x.com/ACE_yumoooo/status/2044624315220640007/photo/1",
+              "media_key": "3_2044624295243239424",
+              "start": 12,
+              "url": "https://t.co/U4cgJYb6eZ"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/JanboMikan/status/2044592027820757284",
+              "start": 36,
+              "url": "https://t.co/IapjRe5jpv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044624315220640007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044592027820757284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被杂鱼蜜柑反杀惹呜呜呜 https://t.co/U4cgJYb6eZ https://t.co/IapjRe5jpv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10859,
+          "following_count": 454,
+          "like_count": 15427,
+          "listed_count": 40,
+          "media_count": 224,
+          "tweet_count": 7855
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 172,
+          "like_count": 1196,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 193
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

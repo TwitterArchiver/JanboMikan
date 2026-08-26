@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026613148845752358",
+    "created_at": "2026-02-25T11:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T12:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026625235404087436"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "金子做的",
+          "probability": 0.6352,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828948945000644608",
+          "start": 0,
+          "username": "AChan573520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026625235404087436",
+    "in_reply_to_user_id": "1828948945000644608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026621515945689190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AChan573520 金子做的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026613148845752358",
+        "created_at": "2026-02-25T11:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026625235404087436"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "金子做的",
+              "probability": 0.6352,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828948945000644608",
+              "start": 0,
+              "username": "AChan573520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026625235404087436",
+        "in_reply_to_user_id": "1828948945000644608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026621515945689190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AChan573520 金子做的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828948945000644608",
+        "conversation_id": "2026613148845752358",
+        "created_at": "2026-02-25T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026621515945689190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026621515945689190",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026613148845752358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 欧金金😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 356,
+          "like_count": 9839,
+          "listed_count": 30,
+          "media_count": 156,
+          "tweet_count": 5176
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T00:13:39.000Z",
+        "description": "From where ,to nowhere. //这里是聿白水，你可以叫我白水喵//碎碎念和小日常//神经多样性人士//非跨但友跨🍥//欢迎互fo喵🥳",
+        "id": "1828948945000644608",
+        "name": "聿白水_Official",
+        "pinned_tweet_id": "2026495351654670701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830095600697950209/KHh7TLJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 56,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 282
+        },
+        "username": "AChan573520",
+        "verified": false
+      }
+    ]
+  }
+}

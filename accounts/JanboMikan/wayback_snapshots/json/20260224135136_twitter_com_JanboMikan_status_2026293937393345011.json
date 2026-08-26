@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026250763107000809",
+    "created_at": "2026-02-24T13:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026293937393345011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741103981999296512",
+          "start": 0,
+          "username": "tomorishogun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026293937393345011",
+    "in_reply_to_user_id": "1741103981999296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026293187053224355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomorishogun 祖传的🥴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-24T13:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026293937393345011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741103981999296512",
+              "start": 0,
+              "username": "tomorishogun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026293937393345011",
+        "in_reply_to_user_id": "1741103981999296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026293187053224355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomorishogun 祖传的🥴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741103981999296512",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-24T13:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026293187053224355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026293187053224355",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250763107000809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 计算机从图灵开始怎么就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6350,
+          "following_count": 353,
+          "like_count": 9743,
+          "listed_count": 26,
+          "media_count": 153,
+          "tweet_count": 5102
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T14:29:42.000Z",
+        "description": "要乐奈的坚定粉丝。すべての乱臣や盗賊に宣戦布告する。佐幕派支持者&乐子人。 倒幕派、法西斯军国主义、支黑精日最严厉的父亲。 坚决坚持胡耀邦改开路线。只享用武士道公司出品的バンドリ、Ournotes",
+        "id": "1741103981999296512",
+        "location": "羽丘本丸御殿",
+        "name": "征夷大将軍高松燈🎫🎤🥁🎸🎸🎸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021447064509612032/YBdJQYJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 229,
+          "like_count": 1533,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 1351
+        },
+        "username": "tomorishogun",
+        "verified": false
+      }
+    ]
+  }
+}

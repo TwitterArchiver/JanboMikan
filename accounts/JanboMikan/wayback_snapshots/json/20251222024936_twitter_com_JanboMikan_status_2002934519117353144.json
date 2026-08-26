@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2002931460278542563",
+    "created_at": "2025-12-22T02:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T03:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002934519117353144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984170538139619328",
+          "start": 0,
+          "username": "MscmwKhanh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002934519117353144",
+    "in_reply_to_user_id": "1984170538139619328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002934041448976882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MscmwKhanh 🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2002934020246581248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8vZ4SFXsAA6uk2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002931460278542563",
+        "created_at": "2025-12-22T02:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T03:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002934519117353144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984170538139619328",
+              "start": 0,
+              "username": "MscmwKhanh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002934519117353144",
+        "in_reply_to_user_id": "1984170538139619328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002934041448976882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MscmwKhanh 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002934020246581248"
+          ]
+        },
+        "author_id": "1984170538139619328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002931460278542563",
+        "created_at": "2025-12-22T02:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T03:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002934041448976882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ld6XI5B6Li",
+              "end": 38,
+              "expanded_url": "https://x.com/MscmwKhanh/status/2002934041448976882/photo/1",
+              "media_key": "3_2002934020246581248",
+              "start": 15,
+              "url": "https://t.co/Ld6XI5B6Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002934041448976882",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002931460278542563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 兄弟 https://t.co/Ld6XI5B6Li"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 212,
+          "like_count": 3910,
+          "listed_count": 8,
+          "media_count": 83,
+          "tweet_count": 1793
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T08:08:35.000Z",
+        "description": "hi！",
+        "id": "1984170538139619328",
+        "name": "Khánh Nguyễn mscmw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984171920787697667/qYjMkpll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "MscmwKhanh",
+        "verified": false
+      }
+    ]
+  }
+}

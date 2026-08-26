@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036397618662650087",
+    "created_at": "2026-03-26T11:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037123217853472968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660528315411603456",
+          "start": 0,
+          "username": "ichinose_mionn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037123217853472968",
+    "in_reply_to_user_id": "1660528315411603456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037009832969199701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ichinose_mionn 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036397618662650087",
+        "created_at": "2026-03-26T11:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037123217853472968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660528315411603456",
+              "start": 0,
+              "username": "ichinose_mionn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123217853472968",
+        "in_reply_to_user_id": "1660528315411603456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037009832969199701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ichinose_mionn 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660528315411603456",
+        "conversation_id": "2036397618662650087",
+        "created_at": "2026-03-26T03:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037009832969199701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037009832969199701",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036397618662650087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 你好骚啊兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9441,
+          "following_count": 416,
+          "like_count": 13293,
+          "listed_count": 37,
+          "media_count": 193,
+          "tweet_count": 6862
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T06:09:44.000Z",
+        "description": "男娘，有体香，168cm/50kg。旧号被封了哭唧唧。🚪48，私信我。欢迎小可爱贴贴哦！\n\n男の娘で、体にいい香りがあります。身長168cm／体重50kg。好きになってくれてありがとうございます♪",
+        "id": "1660528315411603456",
+        "location": "接线下常驻湖北全国✈️",
+        "name": "月光的琉璃梦🌸🎀🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2036826523156857103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030104108678688768/6-Dn0CVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 52,
+          "like_count": 366,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 1271
+        },
+        "username": "ichinose_mionn",
+        "verified": true
+      }
+    ]
+  }
+}

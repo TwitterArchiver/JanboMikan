@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999434179340284367",
+    "created_at": "2025-12-12T23:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999628033645510958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934213219725520896",
+          "start": 0,
+          "username": "7Lumine7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999628033645510958",
+    "in_reply_to_user_id": "1934213219725520896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999528856047190042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Lumine7 也翻翻你的！😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999434179340284367",
+        "created_at": "2025-12-12T23:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999628033645510958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934213219725520896",
+              "start": 0,
+              "username": "7Lumine7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999628033645510958",
+        "in_reply_to_user_id": "1934213219725520896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999528856047190042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Lumine7 也翻翻你的！😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934213219725520896",
+        "conversation_id": "1999434179340284367",
+        "created_at": "2025-12-12T17:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999528856047190042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999528856047190042",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999434179340284367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 就决定翻你了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 197,
+          "like_count": 3052,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T11:35:56.000Z",
+        "description": "Master's degree candidate | Majoring in Cyber  Security | LLM Security | Crossdresser",
+        "id": "1934213219725520896",
+        "location": "China",
+        "name": "Lumine",
+        "pinned_tweet_id": "1992794911905837097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958952476662702080/7090m13o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 186,
+          "like_count": 1627,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 352
+        },
+        "username": "7Lumine7",
+        "verified": false
+      }
+    ]
+  }
+}

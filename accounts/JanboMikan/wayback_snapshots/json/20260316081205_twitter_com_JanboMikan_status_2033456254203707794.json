@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033136133136318974",
+    "created_at": "2026-03-16T08:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033456254203707794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        },
+        {
+          "end": 28,
+          "id": "1444347089308184581",
+          "start": 15,
+          "username": "HellKillerEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033456254203707794",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033389162402046175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever @HellKillerEX 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033136133136318974",
+        "created_at": "2026-03-16T08:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033456254203707794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            },
+            {
+              "end": 28,
+              "id": "1444347089308184581",
+              "start": 15,
+              "username": "HellKillerEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033456254203707794",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033389162402046175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever @HellKillerEX 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999007250829230080",
+        "conversation_id": "2033136133136318974",
+        "created_at": "2026-03-16T03:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033389162402046175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1444347089308184581",
+              "start": 12,
+              "username": "HellKillerEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033389162402046175",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033136133136318974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @HellKillerEX ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8391,
+          "following_count": 404,
+          "like_count": 11660,
+          "listed_count": 33,
+          "media_count": 177,
+          "tweet_count": 6252
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 4172,
+          "like_count": 6787,
+          "listed_count": 10,
+          "media_count": 2440,
+          "tweet_count": 11191
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-02T17:02:52.000Z",
+        "description": "♂️です|⚧️🏳️‍⚧️ friendly|昔からの激推し:🍀@shino_nome22|他の最推し:🐇@rin_risu2/🐤@kc_2_cos/🌸@n_mikitani/⋈@hiiragi_yuka530/🍫💪@Chocolat_cos0/🌸🌸@angelia_lapin/🍑@tmmt_san",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "shino_nome22"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "rin_risu2"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "kc_2_cos"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "n_mikitani"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "hiiragi_yuka530"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Chocolat_cos0"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "angelia_lapin"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "tmmt_san"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AlphaWillys?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@AlphaWillys?si=cWwGmkZepQMO7fsK",
+                "start": 0,
+                "url": "https://t.co/gaynrNfteP"
+              }
+            ]
+          }
+        },
+        "id": "1444347089308184581",
+        "name": "ℝ𝕖𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟(Elder Luminescence)♂️🩷🍀🐇",
+        "pinned_tweet_id": "1947069598240809123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007387585484832768/divYTE2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 7501,
+          "like_count": 19054,
+          "listed_count": 6,
+          "media_count": 1267,
+          "tweet_count": 22986
+        },
+        "url": "https://t.co/gaynrNfteP",
+        "username": "HellKillerEX",
+        "verified": false
+      }
+    ]
+  }
+}

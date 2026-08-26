@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2060236052603035672",
+    "created_at": "2026-05-29T12:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060331030540927232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992627685798137856",
+          "start": 0,
+          "username": "Yuiko114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060331030540927232",
+    "in_reply_to_user_id": "1992627685798137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060236052603035672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiko114514 瘦幼零是这样的😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060236049872494592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdtxZIaoAAnWoP.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2060236052603035672",
+        "created_at": "2026-05-29T12:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060331030540927232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992627685798137856",
+              "start": 0,
+              "username": "Yuiko114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060331030540927232",
+        "in_reply_to_user_id": "1992627685798137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060236052603035672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiko114514 瘦幼零是这样的😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060236049872494592"
+          ]
+        },
+        "author_id": "1992627685798137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2060236052603035672",
+        "created_at": "2026-05-29T05:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060236052603035672"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 15,
+              "tag": "みぽりん借我你们大洗的夹克穿穿我要去找大祥算账去了"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "MyGo"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "crychic"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "長崎そよ"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "长崎素世"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "长崎爽世"
+            },
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "soyorin"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 103,
+              "start": 93,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 114,
+              "start": 106,
+              "tag": "cosplay"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMvsGhOj4B",
+              "end": 144,
+              "expanded_url": "https://x.com/Yuiko114514/status/2060236052603035672/photo/1",
+              "media_key": "3_2060236049872494592",
+              "start": 121,
+              "url": "https://t.co/TMvsGhOj4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060236052603035672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1219,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "月之森不良多，真假soyo说\n#みぽりん借我你们大洗的夹克穿穿我要去找大祥算账去了\n\n#MyGo  #crychic\n#長崎そよ #长崎素世 #长崎爽世 #soyorin \n#バンドリ #BanGDream  \n#cosplay #コスプレ https://t.co/TMvsGhOj4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13571,
+          "following_count": 529,
+          "like_count": 18440,
+          "listed_count": 46,
+          "media_count": 294,
+          "tweet_count": 9678
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🐱🍊🐧🌸🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "location": "月ノ森女子学園",
+        "name": "家人",
+        "pinned_tweet_id": "2029474996989640721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042086484711489536/je29RfuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 667,
+          "like_count": 7873,
+          "listed_count": 5,
+          "media_count": 2008,
+          "tweet_count": 5435
+        },
+        "username": "Yuiko114514",
+        "verified": true
+      }
+    ]
+  }
+}

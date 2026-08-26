@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054840951601029120"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2054879402664833461",
+    "created_at": "2026-05-14T11:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054879402664833461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/97d5ZqdDlX",
+          "end": 151,
+          "expanded_url": "https://x.com/JanboMikan/status/2054879402664833461/photo/1",
+          "media_key": "3_2054840951601029120",
+          "start": 128,
+          "url": "https://t.co/97d5ZqdDlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054879402664833461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天深夜打网约车，一拉开车门，师傅借着昏暗的顶灯上下打量了我一身水手服小裙子，眼神充满迟疑：\n「……尾号0721？」\n「嗯。」\n「……张先生？」\n「……对，是我。」\n师傅没再多问，\n只是默默把目光移到了我不小心夹在车门外，正随风飘摇的那半截粉色猫尾巴上。 https://t.co/97d5ZqdDlX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2054840951601029120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRC9V4a4AApqGy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054840951601029120"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2054879402664833461",
+        "created_at": "2026-05-14T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054879402664833461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/97d5ZqdDlX",
+              "end": 151,
+              "expanded_url": "https://x.com/JanboMikan/status/2054879402664833461/photo/1",
+              "media_key": "3_2054840951601029120",
+              "start": 128,
+              "url": "https://t.co/97d5ZqdDlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054879402664833461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天深夜打网约车，一拉开车门，师傅借着昏暗的顶灯上下打量了我一身水手服小裙子，眼神充满迟疑：\n「……尾号0721？」\n「嗯。」\n「……张先生？」\n「……对，是我。」\n师傅没再多问，\n只是默默把目光移到了我不小心夹在车门外，正随风飘摇的那半截粉色猫尾巴上。 https://t.co/97d5ZqdDlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12896,
+          "following_count": 495,
+          "like_count": 17520,
+          "listed_count": 43,
+          "media_count": 271,
+          "tweet_count": 9048
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

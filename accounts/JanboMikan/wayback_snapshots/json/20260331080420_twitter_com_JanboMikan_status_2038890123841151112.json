@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2038571953695662566",
+    "created_at": "2026-03-31T08:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038890123841151112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "780448383265681412",
+          "start": 0,
+          "username": "NagakaMinsio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038890123841151112",
+    "in_reply_to_user_id": "780448383265681412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038883389311475990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagakaMinsio 还真有这东西吗笑死x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2038883387033976832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuRo1abAAAx2HZ.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2038571953695662566",
+        "created_at": "2026-03-31T08:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038890123841151112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "780448383265681412",
+              "start": 0,
+              "username": "NagakaMinsio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038890123841151112",
+        "in_reply_to_user_id": "780448383265681412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038883389311475990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagakaMinsio 还真有这东西吗笑死x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038883387033976832"
+          ]
+        },
+        "author_id": "780448383265681412",
+        "conversation_id": "2038571953695662566",
+        "created_at": "2026-03-31T07:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038883389311475990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm4aBWfTr6",
+              "end": 35,
+              "expanded_url": "https://x.com/NagakaMinsio/status/2038883389311475990/photo/1",
+              "media_key": "3_2038883387033976832",
+              "start": 12,
+              "url": "https://t.co/fm4aBWfTr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038883389311475990",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038571953695662566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan https://t.co/fm4aBWfTr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9773,
+          "following_count": 423,
+          "like_count": 13733,
+          "listed_count": 38,
+          "media_count": 198,
+          "tweet_count": 7081
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-26T16:46:09.000Z",
+        "description": "腿子福利博主 | 发些日常，腿子和猫猫 | JK | Lolita | 汉服 | 妹妹  @tachibanalolo |\n新号：@NagakaMiniso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "tachibanalolo"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "NagakaMiniso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@NagakaMinsio",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@NagakaMinsio",
+                "start": 0,
+                "url": "https://t.co/P1LRdNQaHc"
+              }
+            ]
+          }
+        },
+        "id": "780448383265681412",
+        "name": "长禾玟汐",
+        "pinned_tweet_id": "2002684633461465534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1087918181019201536/lZ-7d8Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35778,
+          "following_count": 1470,
+          "like_count": 63515,
+          "listed_count": 160,
+          "media_count": 5098,
+          "tweet_count": 64457
+        },
+        "url": "https://t.co/P1LRdNQaHc",
+        "username": "NagakaMinsio",
+        "verified": false
+      }
+    ]
+  }
+}

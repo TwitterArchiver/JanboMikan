@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044370152494661697",
+    "created_at": "2026-04-16T09:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044710336721563952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1910979720227049472",
+          "start": 0,
+          "username": "Remth_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044710336721563952",
+    "in_reply_to_user_id": "1910979720227049472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044637938714374388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remth_07 还真是x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044370152494661697",
+        "created_at": "2026-04-16T09:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044710336721563952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910979720227049472",
+              "start": 0,
+              "username": "Remth_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044710336721563952",
+        "in_reply_to_user_id": "1910979720227049472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044637938714374388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remth_07 还真是x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910979720227049472",
+        "conversation_id": "2044370152494661697",
+        "created_at": "2026-04-16T04:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044637938714374388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044637938714374388",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044370152494661697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 起码断小头比断大头要好嘛（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10867,
+          "following_count": 454,
+          "like_count": 15435,
+          "listed_count": 40,
+          "media_count": 224,
+          "tweet_count": 7861
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:54:16.000Z",
+        "description": "男孩子/是11年xnn呢/大概是ISFP/喜欢一切可爱的事物🥰/主要发一些碎碎念，偶尔女装/想要交朋友，欢迎互fo喵/有时候可能会突然失踪",
+        "id": "1910979720227049472",
+        "name": "Remth",
+        "pinned_tweet_id": "1934080937060610415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041878825135697927/tUFv4RsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 947,
+          "like_count": 2406,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 894
+        },
+        "username": "Remth_07",
+        "verified": false
+      }
+    ]
+  }
+}

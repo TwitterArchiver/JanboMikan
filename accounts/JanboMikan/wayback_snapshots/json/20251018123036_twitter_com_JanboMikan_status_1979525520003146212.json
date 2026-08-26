@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979501493549162532",
+    "created_at": "2025-10-18T12:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979525520003146212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907640932893339654",
+          "start": 0,
+          "username": "Ran_Mitake37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979525520003146212",
+    "in_reply_to_user_id": "1907640932893339654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979501493549162532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran_Mitake37 现在咱的左手和主包姿势一样...！！（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979501480513056768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iaG9JXMAARFKX.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979501493549162532",
+        "created_at": "2025-10-18T12:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979525520003146212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907640932893339654",
+              "start": 0,
+              "username": "Ran_Mitake37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979525520003146212",
+        "in_reply_to_user_id": "1907640932893339654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979501493549162532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran_Mitake37 现在咱的左手和主包姿势一样...！！（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979501480513056768"
+          ]
+        },
+        "author_id": "1907640932893339654",
+        "conversation_id": "1979501493549162532",
+        "created_at": "2025-10-18T10:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979501493549162532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkdxQMQWJ8",
+              "end": 58,
+              "expanded_url": "https://x.com/Ran_Mitake37/status/1979501493549162532/photo/1",
+              "media_key": "3_1979501480513056768",
+              "start": 35,
+              "url": "https://t.co/PkdxQMQWJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979501493549162532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 927,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "还想再拉上去一点吗～\n马上就能看到了哦～\n[开通VIP解锁后续内容] https://t.co/PkdxQMQWJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 82,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:47:04.000Z",
+        "description": "♂️ 无糖 \\ 1??cm??kg??yo \\ 随机回fo \\ 高频率评论区互动 \\ 爱哈气爱撒娇爱熬夜的坏猫 \\ ⚠️不转R18 \\ 永久清水绝对擦边 \\ ⚠️不线下 \\ ⚠️不要和我建政 \\ ⚠️单身但拒绝恋爱 \\ 挂个小男娘@mhtqwq \\ 铲屎官@aesir641796 \\ 请理性打赏 \\ 祝你天天开心owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 115,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "aesir641796"
+              }
+            ]
+          }
+        },
+        "id": "1907640932893339654",
+        "location": "Hyperbolic Space",
+        "name": "Ran",
+        "pinned_tweet_id": "1968744855187718370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965132236245925891/DWGhNYMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4093,
+          "following_count": 615,
+          "like_count": 337,
+          "listed_count": 10,
+          "media_count": 117,
+          "tweet_count": 3436
+        },
+        "username": "Ran_Mitake37",
+        "verified": false
+      }
+    ]
+  }
+}

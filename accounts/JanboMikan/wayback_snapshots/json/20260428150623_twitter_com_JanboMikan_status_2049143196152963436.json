@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2049071532165722327",
+    "created_at": "2026-04-28T15:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049143196152963436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431080795536433154",
+          "start": 0,
+          "username": "yuluoqwq"
+        },
+        {
+          "end": 20,
+          "id": "1372569867421839368",
+          "start": 10,
+          "username": "yeliu2025"
+        },
+        {
+          "end": 36,
+          "id": "1788913184402993152",
+          "start": 21,
+          "username": "amanogawasaya2"
+        },
+        {
+          "end": 48,
+          "id": "1162603779780333569",
+          "start": 37,
+          "username": "luobomiao1"
+        },
+        {
+          "end": 58,
+          "id": "1627582336299831296",
+          "start": 49,
+          "username": "xnggng12"
+        },
+        {
+          "end": 73,
+          "id": "1930297478752153600",
+          "start": 59,
+          "username": "ovoLuoXue_ovo"
+        },
+        {
+          "end": 89,
+          "id": "1240460398903488513",
+          "start": 74,
+          "username": "Hoshizora_moyu"
+        },
+        {
+          "end": 103,
+          "id": "1561060984701063168",
+          "start": 90,
+          "username": "myforever996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049143196152963436",
+    "in_reply_to_user_id": "1431080795536433154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049071532165722327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoqwq @yeliu2025 @amanogawasaya2 @luobomiao1 @xnggng12 @ovoLuoXue_ovo @Hoshizora_moyu @myforever996 你们是都不用上班上学吗x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1263,
+        "media_key": "3_2049070999442952192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_DN7FaEAAaLgT.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2049071532165722327",
+        "created_at": "2026-04-28T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049143196152963436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431080795536433154",
+              "start": 0,
+              "username": "yuluoqwq"
+            },
+            {
+              "end": 20,
+              "id": "1372569867421839368",
+              "start": 10,
+              "username": "yeliu2025"
+            },
+            {
+              "end": 36,
+              "id": "1788913184402993152",
+              "start": 21,
+              "username": "amanogawasaya2"
+            },
+            {
+              "end": 48,
+              "id": "1162603779780333569",
+              "start": 37,
+              "username": "luobomiao1"
+            },
+            {
+              "end": 58,
+              "id": "1627582336299831296",
+              "start": 49,
+              "username": "xnggng12"
+            },
+            {
+              "end": 73,
+              "id": "1930297478752153600",
+              "start": 59,
+              "username": "ovoLuoXue_ovo"
+            },
+            {
+              "end": 89,
+              "id": "1240460398903488513",
+              "start": 74,
+              "username": "Hoshizora_moyu"
+            },
+            {
+              "end": 103,
+              "id": "1561060984701063168",
+              "start": 90,
+              "username": "myforever996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049143196152963436",
+        "in_reply_to_user_id": "1431080795536433154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049071532165722327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoqwq @yeliu2025 @amanogawasaya2 @luobomiao1 @xnggng12 @ovoLuoXue_ovo @Hoshizora_moyu @myforever996 你们是都不用上班上学吗x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049070999442952192"
+          ]
+        },
+        "author_id": "1431080795536433154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049071532165722327",
+        "created_at": "2026-04-28T10:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049071532165722327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pem5IXH3wm",
+              "end": 26,
+              "expanded_url": "https://x.com/yuluoqwq/status/2049071532165722327/photo/1",
+              "media_key": "3_2049070999442952192",
+              "start": 3,
+              "url": "https://t.co/Pem5IXH3wm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049071532165722327",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 181,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🈷️ https://t.co/Pem5IXH3wm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12213,
+          "following_count": 485,
+          "like_count": 16573,
+          "listed_count": 42,
+          "media_count": 243,
+          "tweet_count": 8424
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 1607,
+          "like_count": 41389,
+          "listed_count": 13,
+          "media_count": 267,
+          "tweet_count": 4967
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-18T15:25:45.000Z",
+        "description": "是菜鸟绳艺摄影爱好者₍˄·͈༝·͈˄*₎◞ ̑̑想要成为经验丰富的s，喜欢cos类型和探索绳艺与拘束～绳屋持续优化中~地标重庆/深圳（璃社），欢迎私信+企鹅联系喵～",
+        "id": "1372569867421839368",
+        "location": "重庆",
+        "name": "林夜",
+        "pinned_tweet_id": "2048127884439740770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008991542787317760/P7O5xoKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 778,
+          "like_count": 5060,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 274
+        },
+        "username": "yeliu2025",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T12:45:27.000Z",
+        "description": "喜欢玩gal,兴趣是捆绑，自己也会点绳子，想认识更多的朋友",
+        "id": "1788913184402993152",
+        "name": "天河-沙夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017776227348860928/lHhNtb1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 179,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "amanogawasaya2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-17T05:55:24.000Z",
+        "description": "不可不爱，没有人爱。不线下不线下不线下。小可爱直接加我！zn有🚪（仅是好友位）",
+        "id": "1162603779780333569",
+        "location": "guangdong",
+        "name": "萝卜喵喵",
+        "pinned_tweet_id": "1672291708275679232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937759794636509184/jkqByDwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11700,
+          "following_count": 279,
+          "like_count": 3306,
+          "listed_count": 37,
+          "media_count": 147,
+          "tweet_count": 991
+        },
+        "username": "luobomiao1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T08:14:31.000Z",
+        "description": "是一名柚子厨  Ciallo~~",
+        "id": "1627582336299831296",
+        "location": "Tokyo-to, Japan",
+        "name": "星野爱丛雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020141271164284930/0kMAm6SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 47,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 41
+        },
+        "username": "xnggng12",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T16:16:10.000Z",
+        "description": "是一只很随便的小男娘哦",
+        "id": "1930297478752153600",
+        "name": "落雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930632341552287744/2kyf78AN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 17,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "ovoLuoXue_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T02:10:11.000Z",
+        "description": "",
+        "id": "1240460398903488513",
+        "name": "星空雪人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018366983709044736/SH5Xx4Wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 57,
+          "like_count": 533,
+          "listed_count": 13,
+          "media_count": 51,
+          "tweet_count": 72
+        },
+        "username": "Hoshizora_moyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T18:42:07.000Z",
+        "description": "一只居居/封心锁爱/兴趣使然/正在学捆捆/无情的转发机器/偶尔创造一些学术垃圾/我家小孩@xnggng12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "xnggng12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41811905",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41811905",
+                "start": 0,
+                "url": "https://t.co/48rvdgj3VB"
+              }
+            ]
+          }
+        },
+        "id": "1561060984701063168",
+        "name": "Myforever",
+        "pinned_tweet_id": "2045668208099922219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039507130924027904/UDYGbGeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 947,
+          "like_count": 3744,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/48rvdgj3VB",
+        "username": "myforever996",
+        "verified": false
+      }
+    ]
+  }
+}

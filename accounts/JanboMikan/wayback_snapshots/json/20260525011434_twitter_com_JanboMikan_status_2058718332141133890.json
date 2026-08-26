@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058483469848891738",
+    "created_at": "2026-05-25T01:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058718332141133890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955603788578050048",
+          "start": 0,
+          "username": "CoCoCookkiee"
+        },
+        {
+          "end": 25,
+          "id": "886422674699956224",
+          "start": 14,
+          "username": "huinaibing"
+        },
+        {
+          "end": 37,
+          "id": "1961764432633368576",
+          "start": 26,
+          "username": "zdbsbrq666"
+        },
+        {
+          "end": 49,
+          "id": "1957586019836129280",
+          "start": 38,
+          "username": "baiqianyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058718332141133890",
+    "in_reply_to_user_id": "1955603788578050048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058483469848891738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoCoCookkiee @huinaibing @zdbsbrq666 @baiqianyuu 小蛋糕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2058483466422067200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEzznAaIAAqDjQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2058483463024787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEzzaWbwAA9lVk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058483469848891738",
+        "created_at": "2026-05-25T01:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058718332141133890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955603788578050048",
+              "start": 0,
+              "username": "CoCoCookkiee"
+            },
+            {
+              "end": 25,
+              "id": "886422674699956224",
+              "start": 14,
+              "username": "huinaibing"
+            },
+            {
+              "end": 37,
+              "id": "1961764432633368576",
+              "start": 26,
+              "username": "zdbsbrq666"
+            },
+            {
+              "end": 49,
+              "id": "1957586019836129280",
+              "start": 38,
+              "username": "baiqianyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058718332141133890",
+        "in_reply_to_user_id": "1955603788578050048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058483469848891738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoCoCookkiee @huinaibing @zdbsbrq666 @baiqianyuu 小蛋糕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058483466422067200",
+            "3_2058483463024787456"
+          ]
+        },
+        "author_id": "1955603788578050048",
+        "conversation_id": "2058483469848891738",
+        "created_at": "2026-05-24T09:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058483469848891738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "cos"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "男娘"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "捆绑"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "女装"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 34,
+              "id": "886422674699956224",
+              "start": 23,
+              "username": "huinaibing"
+            },
+            {
+              "end": 54,
+              "id": "1961764432633368576",
+              "start": 43,
+              "username": "zdbsbrq666"
+            },
+            {
+              "end": 68,
+              "id": "1957586019836129280",
+              "start": 57,
+              "username": "baiqianyuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJtuhjPz66",
+              "end": 157,
+              "expanded_url": "https://x.com/CoCoCookkiee/status/2058483469848891738/photo/1",
+              "media_key": "3_2058483466422067200",
+              "start": 134,
+              "url": "https://t.co/XJtuhjPz66"
+            },
+            {
+              "display_url": "pic.x.com/XJtuhjPz66",
+              "end": 157,
+              "expanded_url": "https://x.com/CoCoCookkiee/status/2058483469848891738/photo/1",
+              "media_key": "3_2058483463024787456",
+              "start": 134,
+              "url": "https://t.co/XJtuhjPz66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058483469848891738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 14584,
+          "like_count": 413,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "绳师巧施连环计，男娘误入地下室\n\nsoyo ：@huinaibing\n女仆：我\n老普：@zdbsbrq666\n绳：@baiqianyuu\n\n声明：所有参与者均为成年、完全自愿、无任何暴力/强迫/伤害行为，全程安全合规，仅为艺术展示\n\n#cos #男娘 #捆绑 #女装 https://t.co/XJtuhjPz66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13199,
+          "following_count": 521,
+          "like_count": 18077,
+          "listed_count": 45,
+          "media_count": 286,
+          "tweet_count": 9437
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T12:14:30.000Z",
+        "description": "小锁娘/小m，是车万人也是粥p  ||  \n时不时玩狼，想被狠狠捆绑调教喵  ||  攒钱玩kig中 || 欢迎xnn贴贴涩涩",
+        "id": "1955603788578050048",
+        "name": "CCookkiiee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966005737873883136/UbVQaP5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 105,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 139
+        },
+        "username": "CoCoCookkiee",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T03:10:09.000Z",
+        "description": "不卖也不馋人，纯占用大家时间\n左脑社恐，右脑社牛\n175 62 立志减肥到bmi18后去拍涩图（不是",
+        "id": "886422674699956224",
+        "location": "距离你114514m",
+        "name": "花雨冰",
+        "pinned_tweet_id": "1703451915139600881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044805191640498176/O7meT7hF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 157,
+          "like_count": 8492,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 83
+        },
+        "username": "huinaibing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T12:14:30.000Z",
+        "description": "湖北，178/120，♂的，xp爱好广泛嘿嘿嘿~",
+        "id": "1961764432633368576",
+        "name": "德克萨斯做不到鸭QAQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963117767286194176/DTBNmgmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 354,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "username": "zdbsbrq666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T23:31:01.000Z",
+        "description": "这里浅予！是sw哦，坐标湖北武汉，喜欢cos和绳缚，约绳/订拍+3833811492，欢迎来咱的小窝丸～群号：1092668314",
+        "id": "1957586019836129280",
+        "location": "武汉",
+        "name": "白浅予",
+        "pinned_tweet_id": "2049150933825917412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973676944475713536/c5j-8LTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 98,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 61
+        },
+        "username": "baiqianyuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1982782298232963327",
+    "created_at": "2025-10-27T12:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982786423410282928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650134867424976896",
+          "start": 0,
+          "username": "_Tojita_Sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982786423410282928",
+    "in_reply_to_user_id": "1650134867424976896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982782298232963327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Tojita_Sekai 呜、呜呜呜......！！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1982782298232963327",
+        "created_at": "2025-10-27T12:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982786423410282928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650134867424976896",
+              "start": 0,
+              "username": "_Tojita_Sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982786423410282928",
+        "in_reply_to_user_id": "1650134867424976896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982782298232963327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Tojita_Sekai 呜、呜呜呜......！！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650134867424976896",
+        "conversation_id": "1982782298232963327",
+        "created_at": "2025-10-27T12:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982782298232963327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/janbomikan/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/janbomikan/status/1982341423698419726",
+              "start": 8,
+              "url": "https://t.co/lJjg1ZAjPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982782298232963327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982341423698419726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真得让你丢脸了 https://t.co/lJjg1ZAjPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 91,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:49:51.000Z",
+        "description": "永远的陪伴与精神的寄托:@Harbors2003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Harbors2003"
+              }
+            ]
+          }
+        },
+        "id": "1650134867424976896",
+        "location": "Unreal Life",
+        "name": "Harbor’s Chinsu",
+        "pinned_tweet_id": "1958610033648050452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944396408888705024/aZ50ipm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 362,
+          "like_count": 14283,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 6106
+        },
+        "username": "_Tojita_Sekai",
+        "verified": false
+      }
+    ]
+  }
+}

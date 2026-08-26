@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999651184584589321"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999653530655998168",
+    "created_at": "2025-12-13T01:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999653534493737112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ON7y4lNnJg",
+          "end": 195,
+          "expanded_url": "https://x.com/JanboMikan/status/1999653534493737112/photo/1",
+          "media_key": "3_1999651184584589321",
+          "start": 172,
+          "url": "https://t.co/ON7y4lNnJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999653534493737112",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999653530655998168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1. ipqs\n非常灵敏的针对fraud检测的专业库，基本是业界公认的，只要看这几项是绿还是红。\nRecent Abuse、Bot activity、Fraud Score这三个最重要。 \nipqs标记干净的IP基本就是真的干净（因为太灵敏了）。\n其实用VPN不是大问题，推特还是得看IP本身的fraud score来给IP施加相应的风控值。 https://t.co/ON7y4lNnJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 427,
+        "media_key": "3_1999651184584589321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AwKGPagAk2r1W.jpg",
+        "width": 804
+      },
+      {
+        "height": 745,
+        "media_key": "3_1999653431112531969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AyM3NagAEgMwU.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999651184584589321"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999653530655998168",
+        "created_at": "2025-12-13T01:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999653534493737112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ON7y4lNnJg",
+              "end": 195,
+              "expanded_url": "https://x.com/JanboMikan/status/1999653534493737112/photo/1",
+              "media_key": "3_1999651184584589321",
+              "start": 172,
+              "url": "https://t.co/ON7y4lNnJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999653534493737112",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999653530655998168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1. ipqs\n非常灵敏的针对fraud检测的专业库，基本是业界公认的，只要看这几项是绿还是红。\nRecent Abuse、Bot activity、Fraud Score这三个最重要。 \nipqs标记干净的IP基本就是真的干净（因为太灵敏了）。\n其实用VPN不是大问题，推特还是得看IP本身的fraud score来给IP施加相应的风控值。 https://t.co/ON7y4lNnJg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999653431112531969"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999653530655998168",
+        "created_at": "2025-12-13T01:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999653530655998168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fhSxgQnmk",
+              "end": 172,
+              "expanded_url": "https://x.com/JanboMikan/status/1999653530655998168/photo/1",
+              "media_key": "3_1999653431112531969",
+              "start": 149,
+              "url": "https://t.co/2fhSxgQnmk"
+            },
+            {
+              "display_url": "x.com/Gicrain/status…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/Gicrain/status/1999331012845969460",
+              "start": 173,
+              "url": "https://t.co/zdktSYjXdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999653530655998168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999331012845969460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近确实好多人号被冻结，人心惶惶的。 \n我也觉得IP问题比较大，而机场IP质量良莠不齐。\n大家都用ping0看，但实际上业内都知道这家基本就是个娱乐库。\nping0绿标但实际fraud score很高的机场IP其实很多，之前发现一位朋友就是。 \n也从MJJ角度简单分享一下IP质量真正要怎么看吧。 https://t.co/2fhSxgQnmk https://t.co/zdktSYjXdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 197,
+          "like_count": 3053,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

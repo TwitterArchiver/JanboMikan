@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2039874485831311794",
+    "created_at": "2026-04-03T11:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040023262621769883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912457917024157696",
+          "start": 0,
+          "username": "green41610"
+        },
+        {
+          "end": 21,
+          "id": "1812363069487742976",
+          "start": 12,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040023262621769883",
+    "in_reply_to_user_id": "1912457917024157696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039985113266835484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@green41610 @mingji_A 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2039874485831311794",
+        "created_at": "2026-04-03T11:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040023262621769883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912457917024157696",
+              "start": 0,
+              "username": "green41610"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040023262621769883",
+        "in_reply_to_user_id": "1912457917024157696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039985113266835484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@green41610 @mingji_A 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912457917024157696",
+        "conversation_id": "2039874485831311794",
+        "created_at": "2026-04-03T08:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039985113266835484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039985113266835484",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039874485831311794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 也惩罚惩罚我🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9913,
+          "following_count": 427,
+          "like_count": 14072,
+          "listed_count": 39,
+          "media_count": 204,
+          "tweet_count": 7240
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T10:49:10.000Z",
+        "description": "",
+        "id": "1912457917024157696",
+        "name": "green lord",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912458239968763904/nmDCjJQX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 83,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "green41610",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 2062,
+          "like_count": 84689,
+          "listed_count": 14,
+          "media_count": 142,
+          "tweet_count": 16212
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

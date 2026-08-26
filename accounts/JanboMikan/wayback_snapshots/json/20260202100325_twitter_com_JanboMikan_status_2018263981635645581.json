@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2018164357038034951",
+    "created_at": "2026-02-02T10:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018263981635645581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1014885409292075010",
+          "start": 0,
+          "username": "Jaysnowqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018263981635645581",
+    "in_reply_to_user_id": "1014885409292075010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018164357038034951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaysnowqwq 可爱关注单推🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018164341451997184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAH1xp6bQAA-iU4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2018164357038034951",
+        "created_at": "2026-02-02T10:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018263981635645581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1014885409292075010",
+              "start": 0,
+              "username": "Jaysnowqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018263981635645581",
+        "in_reply_to_user_id": "1014885409292075010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018164357038034951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaysnowqwq 可爱关注单推🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018164341451997184"
+          ]
+        },
+        "author_id": "1014885409292075010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2018164357038034951",
+        "created_at": "2026-02-02T03:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018164357038034951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "伪娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "jk"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "过膝袜"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "绝对领域"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Br9b6T7jXD",
+              "end": 76,
+              "expanded_url": "https://x.com/Jaysnowqwq/status/2018164357038034951/photo/1",
+              "media_key": "3_2018164341451997184",
+              "start": 53,
+              "url": "https://t.co/Br9b6T7jXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018164357038034951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "也许有一天我会抵达海的另一侧，那是一个春天永远绽放的地方。\n#男娘 #伪娘 #jk #过膝袜 #绝对领域 https://t.co/Br9b6T7jXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4498,
+          "following_count": 295,
+          "like_count": 7372,
+          "listed_count": 21,
+          "media_count": 121,
+          "tweet_count": 3747
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-05T14:55:12.000Z",
+        "description": "男娘 | 双 | 174cm60kg | 04年老登 | 友跨 | 无糖无OD不卖不酗酒不抽烟无严重心理问题（有抑郁史） | 同类互fo | VRC同英文ID | 私我可能掉落其他联系方式？ | 喜欢健谈真诚的小可爱们 | 请在我的星夜中探寻和眠憩——",
+        "id": "1014885409292075010",
+        "location": "距离你-14cm",
+        "name": "StaRr1S⭐星瞳",
+        "pinned_tweet_id": "2010295495105859967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009012934731857920/egDbHw3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 192,
+          "like_count": 474,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 211
+        },
+        "username": "Jaysnowqwq",
+        "verified": false
+      }
+    ]
+  }
+}

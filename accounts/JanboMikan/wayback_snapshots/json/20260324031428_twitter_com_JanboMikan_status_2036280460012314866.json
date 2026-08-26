@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036242184480194621",
+    "created_at": "2026-03-24T03:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036280460012314866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1131911207915380736",
+          "start": 0,
+          "username": "nene00219"
+        },
+        {
+          "end": 20,
+          "id": "1812363069487742976",
+          "start": 11,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036280460012314866",
+    "in_reply_to_user_id": "1131911207915380736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036263861951799493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nene00219 @mingji_A 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036242184480194621",
+        "created_at": "2026-03-24T03:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036280460012314866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1131911207915380736",
+              "start": 0,
+              "username": "nene00219"
+            },
+            {
+              "end": 20,
+              "id": "1812363069487742976",
+              "start": 11,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036280460012314866",
+        "in_reply_to_user_id": "1131911207915380736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036263861951799493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nene00219 @mingji_A 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1131911207915380736",
+        "conversation_id": "2036242184480194621",
+        "created_at": "2026-03-24T02:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036263861951799493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036263861951799493",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036242184480194621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 幸福了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9399,
+          "following_count": 414,
+          "like_count": 13085,
+          "listed_count": 37,
+          "media_count": 190,
+          "tweet_count": 6772
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T13:13:56.000Z",
+        "description": "170/51｜0糖｜i人｜喜欢漂亮可爱的小裙子、动漫｜匿名📮 https://t.co/MWnGbFb0aF 匿名📮回复在这里@shiroha467",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "shiroha467"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nene418491",
+                "end": 54,
+                "expanded_url": "https://ngl.link/nene418491",
+                "start": 31,
+                "url": "https://t.co/MWnGbFb0aF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nene219",
+                "end": 23,
+                "expanded_url": "http://lit.link/nene219",
+                "start": 0,
+                "url": "https://t.co/4yFM9YJlzZ"
+              }
+            ]
+          }
+        },
+        "id": "1131911207915380736",
+        "location": "廣州",
+        "name": "Nene",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944178089623277568/-nwvYjYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5434,
+          "following_count": 228,
+          "like_count": 3039,
+          "listed_count": 32,
+          "media_count": 179,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/4yFM9YJlzZ",
+        "username": "nene00219",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 1932,
+          "like_count": 77598,
+          "listed_count": 12,
+          "media_count": 129,
+          "tweet_count": 15130
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

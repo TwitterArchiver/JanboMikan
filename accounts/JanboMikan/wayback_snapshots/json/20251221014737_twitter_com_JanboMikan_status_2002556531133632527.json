@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1992618296768975029",
+    "created_at": "2025-12-21T01:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T02:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002556531133632527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1201889484473634818",
+          "start": 0,
+          "username": "Xing_GONGG"
+        },
+        {
+          "end": 23,
+          "id": "1569542319652896769",
+          "start": 12,
+          "username": "TrialBulin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002556531133632527",
+    "in_reply_to_user_id": "1201889484473634818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992618296768975029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xing_GONGG @TrialBulin 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63465,
+        "height": 1280,
+        "media_key": "7_1992618124391469056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992618124391469056/pu/img/R74yTUjTWetUtxol.jpg",
+        "public_metrics": {
+          "view_count": 12221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992618124391469056/pu/vid/avc1/320x568/C6TiXYQYDAha1fdi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992618124391469056/pu/vid/avc1/480x852/X3BaVqu-evJBTpW5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992618124391469056/pu/vid/avc1/720x1280/GyW41fdOz3iipNWe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992618124391469056/pu/pl/oW68aCSEbcEhsrov.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1992618296768975029",
+        "created_at": "2025-12-21T01:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002556531133632527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1201889484473634818",
+              "start": 0,
+              "username": "Xing_GONGG"
+            },
+            {
+              "end": 23,
+              "id": "1569542319652896769",
+              "start": 12,
+              "username": "TrialBulin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002556531133632527",
+        "in_reply_to_user_id": "1201889484473634818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992618296768975029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xing_GONGG @TrialBulin 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992618124391469056"
+          ]
+        },
+        "author_id": "1201889484473634818",
+        "conversation_id": "1992618296768975029",
+        "created_at": "2025-11-23T15:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992618296768975029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTXRK5We7Y",
+              "end": 107,
+              "expanded_url": "https://x.com/Xing_GONGG/status/1992618296768975029/video/1",
+              "media_key": "7_1992618124391469056",
+              "start": 84,
+              "url": "https://t.co/gTXRK5We7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992618296768975029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 29962,
+          "like_count": 737,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼，轮到普瑞赛斯小姐来见识见识我们罗德岛的“特别审讯”环节了，首先当然是打开埋藏在你体内的特别电击小道具了，如果你能在之后还能保持理智的话还有更多有趣的刑罚哦~❤️ https://t.co/gTXRK5We7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 213,
+          "like_count": 3833,
+          "listed_count": 8,
+          "media_count": 80,
+          "tweet_count": 1743
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-03T15:43:12.000Z",
+        "description": "小透明绳摄一枚，求私信约绳、约拍，坐标周边约玩优先（会不定期空降以及刷新在其他一线城市）不收费💰，微卡颜，家有可爱狐狐，调教室建设ing",
+        "id": "1201889484473634818",
+        "location": "Beijing",
+        "name": "星宫宫宫宫宫⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936266981239357441/sTfBbxNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31591,
+          "following_count": 678,
+          "like_count": 1140,
+          "listed_count": 114,
+          "media_count": 108,
+          "tweet_count": 1329
+        },
+        "username": "Xing_GONGG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T04:24:03.000Z",
+        "description": "布里，全名初春ブリ，女装子，男生，178/63，天津/北京常驻，Cosplay/绳缚，略M，有主，二次元/三角洲/Apex/战舰世界，口嗨神人。扩列私信，无门槛Q3220326918。",
+        "id": "1569542319652896769",
+        "location": "Beijing/Tianjin",
+        "name": "老师好我是布同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939370946952941568/JmGZJ4XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7317,
+          "following_count": 396,
+          "like_count": 1090,
+          "listed_count": 37,
+          "media_count": 212,
+          "tweet_count": 296
+        },
+        "username": "TrialBulin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025888367335104569",
+    "created_at": "2026-02-23T12:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025907975416942880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2010319437640146944",
+          "start": 0,
+          "username": "jing2080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025907975416942880",
+    "in_reply_to_user_id": "2010319437640146944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025900855459799507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing2080 那就被淋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025888367335104569",
+        "created_at": "2026-02-23T12:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025907975416942880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2010319437640146944",
+              "start": 0,
+              "username": "jing2080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025907975416942880",
+        "in_reply_to_user_id": "2010319437640146944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025900855459799507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing2080 那就被淋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010319437640146944",
+        "conversation_id": "2025888367335104569",
+        "created_at": "2026-02-23T11:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025900855459799507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025900855459799507",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025888367335104569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 依旧难评😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6299,
+          "following_count": 348,
+          "like_count": 9613,
+          "listed_count": 25,
+          "media_count": 152,
+          "tweet_count": 5030
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T11:54:48.000Z",
+        "description": "INFP",
+        "id": "2010319437640146944",
+        "name": "jing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020835356879597568/Xipev0Dg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "username": "jing2080",
+        "verified": false
+      }
+    ]
+  }
+}

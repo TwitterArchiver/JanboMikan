@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1983085150549549219",
+    "created_at": "2025-10-28T09:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983107571356709012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759171807754719232",
+          "start": 0,
+          "username": "mistinessneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983107571356709012",
+    "in_reply_to_user_id": "1759171807754719232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983085150549549219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mistinessneko 厚黑好有质感~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_1983085147722526728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VVb11asAgJfow.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1983085150549549219",
+        "created_at": "2025-10-28T09:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983107571356709012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759171807754719232",
+              "start": 0,
+              "username": "mistinessneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983107571356709012",
+        "in_reply_to_user_id": "1759171807754719232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983085150549549219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mistinessneko 厚黑好有质感~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983085147722526728"
+          ]
+        },
+        "author_id": "1759171807754719232",
+        "conversation_id": "1983085150549549219",
+        "created_at": "2025-10-28T08:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983085150549549219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9H0LlGi0n",
+              "end": 23,
+              "expanded_url": "https://x.com/mistinessneko/status/1983085150549549219/photo/1",
+              "media_key": "3_1983085147722526728",
+              "start": 0,
+              "url": "https://t.co/S9H0LlGi0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983085150549549219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 941,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S9H0LlGi0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 92,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T11:03:44.000Z",
+        "description": "纯兴趣，随缘发图\nby猫丽娜\n推广自辨",
+        "id": "1759171807754719232",
+        "name": "雾仙巨猫灯",
+        "pinned_tweet_id": "1970418070121533722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848320645710651392/0PbzSUCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10849,
+          "following_count": 62,
+          "like_count": 241,
+          "listed_count": 50,
+          "media_count": 115,
+          "tweet_count": 285
+        },
+        "username": "mistinessneko",
+        "verified": false
+      }
+    ]
+  }
+}

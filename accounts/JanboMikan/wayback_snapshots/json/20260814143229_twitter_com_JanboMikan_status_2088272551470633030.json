@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2088219079186493717",
+    "created_at": "2026-08-14T14:32:29.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088272551470633030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088272551470633030",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088239067146453369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 什么远古梗x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2088219079186493717",
+        "created_at": "2026-08-14T14:32:29.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272551470633030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272551470633030",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088239067146453369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 什么远古梗x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "2088219079186493717",
+        "created_at": "2026-08-14T12:19:25.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088239067146453369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088239067146453369",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088219079186493717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 还有乳钉😨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2088272551470633030",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16859,
+          "following_count": 626,
+          "like_count": 22188,
+          "listed_count": 54,
+          "media_count": 399,
+          "tweet_count": 11886
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "厨师，专业烹煮何包蛋",
+        "id": "708700717",
+        "is_identity_verified": false,
+        "location": "長安東路三十三巷",
+        "most_recent_tweet_id": "2088270298110136617",
+        "name": "河又猫",
+        "pinned_tweet_id": "2087786585748385939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708700717/1786639338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085380124434989056/MwdrnzJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9288,
+          "following_count": 1778,
+          "like_count": 8443,
+          "listed_count": 61,
+          "media_count": 22795,
+          "tweet_count": 350408
+        },
+        "url": "",
+        "username": "GuajavaDuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

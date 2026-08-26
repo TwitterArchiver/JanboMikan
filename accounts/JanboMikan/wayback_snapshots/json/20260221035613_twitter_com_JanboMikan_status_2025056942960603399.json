@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025054121271984577",
+    "created_at": "2026-02-21T03:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025056942960603399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025056942960603399",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025054121271984577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 太全能了丸子老师😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2025054111071383552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpv_B1asAAFrtl.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025054121271984577",
+        "created_at": "2026-02-21T03:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025056942960603399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025056942960603399",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025054121271984577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 太全能了丸子老师😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025054111071383552"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2025054121271984577",
+        "created_at": "2026-02-21T03:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025054121271984577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqfQpkeq6F",
+              "end": 152,
+              "expanded_url": "https://x.com/maruko00o/status/2025054121271984577/photo/1",
+              "media_key": "3_2025054111071383552",
+              "start": 129,
+              "url": "https://t.co/YqfQpkeq6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025054121271984577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回答下图提问箱留言：\n\n（我似乎知道这是谁提出的问题，辛苦了，那就由我来听你说。）\n\n环保政策往往到了商业末端，都会被扭曲成「合理的」涨价借口。宏大叙事变成敛财工具就意味着公信力的持续透支，我们这时候要对抗的不仅是商家，或许还有国家机器创造的整个规则体系。\n\n正如你所说，我们在外卖平台里花费大量的认知资源、时间成本，去选品、去凑单、去努力得到一些微不足道的满减优惠，心里期待已经被拉到最高，最后看见高昂的打包（和各种其他）费用，当然会有一种被算计了的感觉，要么让先前的时间白白浪费掉；要么就「受着」，支付这些费用。\n\n我并没有去过博洛尼亚，但就文字中所叙述的情况，可以看出当地的商业环境明显是更为透明，不需要太多语境、而且有着高信任度的。而换到现在的国内，价格则更为流动，如果你不能变得足够警惕、足够精明，去仔细研究规则、怎么防范隐形消费，必定要吃哑巴亏。在这种负面螺旋下，交易中的 friction 就会越来越大。\n\n有实际代价吗？代价肯定是有的，在这种商业环境中，理想情况下可以大致推出这么一个链条：\n商家使用不太诚实的定价手段（可能先通过降低餐品价格来吸引客人），提高打包费来把塑料餐盒上的开销赚回来 -> 不透明的额外定价，让优质客户不愿再为这类商品买单。客户流失，商家难以长期盈利。-> 所有商家都这么干，社会信任成本逐步上升，消费者消费意愿下降，市场萎缩。\n\n当日常交易变成消费者和商家的博弈、市场上的文明规则被破坏、信任被透支后，所有人都会共同承担这种交锋带来的代价，不会有任何人成为赢家。\n\n实在悲哀。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回答下图提问箱留言：\n\n（我似乎知道这是谁提出的问题，辛苦了，那就由我来听你说。）\n\n环保政策往往到了商业末端，都会被扭曲成「合理的」涨价借口。宏大叙事变成敛财工具就意味着公信力的持续透支，我们这时候要对抗的不仅是商家，或许还有国家机器创造的整个规则体系。 https://t.co/YqfQpkeq6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6142,
+          "following_count": 336,
+          "like_count": 9366,
+          "listed_count": 26,
+          "media_count": 148,
+          "tweet_count": 4889
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37916,
+          "following_count": 937,
+          "like_count": 22111,
+          "listed_count": 210,
+          "media_count": 907,
+          "tweet_count": 5482
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

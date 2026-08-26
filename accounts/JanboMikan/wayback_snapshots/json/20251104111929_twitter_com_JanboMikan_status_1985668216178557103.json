@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1985651178722771025",
+    "created_at": "2025-11-04T11:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T12:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985668216178557103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750929042008907781",
+          "start": 0,
+          "username": "Kawakaze_Prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985668216178557103",
+    "in_reply_to_user_id": "1750929042008907781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985651178722771025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawakaze_Prism 既然更多的话，可以用我的几把换你的兔兔吗，这样你就赚了吧🥹（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985651164168548352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45zNqAbcAAW8Od.jpg",
+        "width": 1226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1985651178722771025",
+        "created_at": "2025-11-04T11:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985668216178557103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750929042008907781",
+              "start": 0,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985668216178557103",
+        "in_reply_to_user_id": "1750929042008907781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985651178722771025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawakaze_Prism 既然更多的话，可以用我的几把换你的兔兔吗，这样你就赚了吧🥹（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985651164168548352"
+          ]
+        },
+        "author_id": "1750929042008907781",
+        "conversation_id": "1985651178722771025",
+        "created_at": "2025-11-04T10:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985651178722771025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "水色"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeSaEWKDUV",
+              "end": 52,
+              "expanded_url": "https://x.com/Kawakaze_Prism/status/1985651178722771025/photo/1",
+              "media_key": "3_1985651164168548352",
+              "start": 29,
+              "url": "https://t.co/KeSaEWKDUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985651178722771025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？一根勃起的几把🐔含血量比一只兔子🐰还多\n#水色 https://t.co/KeSaEWKDUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 99,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 生理心理男不是mtf ‖ 166/56 ‖ 水色系重度依赖 ‖ 🚪20好友位 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 130,
+          "like_count": 79,
+          "listed_count": 8,
+          "media_count": 122,
+          "tweet_count": 515
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      }
+    ]
+  }
+}

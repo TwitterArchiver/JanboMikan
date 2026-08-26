@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998228231531717114",
+    "created_at": "2025-12-09T04:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998244150832214506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1090136700741812224",
+          "start": 0,
+          "username": "Alice__486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998244150832214506",
+    "in_reply_to_user_id": "1090136700741812224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998228231531717114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice__486 谢谢姐姐喜欢捏~😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998228231531717114",
+        "created_at": "2025-12-09T04:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998244150832214506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1090136700741812224",
+              "start": 0,
+              "username": "Alice__486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998244150832214506",
+        "in_reply_to_user_id": "1090136700741812224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998228231531717114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice__486 谢谢姐姐喜欢捏~😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090136700741812224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1998228231531717114",
+        "created_at": "2025-12-09T03:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T04:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998228231531717114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1997984628104400993",
+              "start": 4,
+              "url": "https://t.co/8iSJSGPTKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998228231531717114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997984628104400993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱诶 https://t.co/8iSJSGPTKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 181,
+          "like_count": 2705,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1878774496057836005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27185,
+          "following_count": 1705,
+          "like_count": 52375,
+          "listed_count": 91,
+          "media_count": 904,
+          "tweet_count": 15412
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

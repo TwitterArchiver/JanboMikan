@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020821602384924677",
+    "created_at": "2026-02-09T14:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020864417164820499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1252064283946438656",
+          "start": 0,
+          "username": "JLaststardust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020864417164820499",
+    "in_reply_to_user_id": "1252064283946438656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020821602384924677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLaststardust 可爱捏🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2072,
+        "media_key": "3_2020821580507660288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtmhUyaQAATH5y.jpg",
+        "width": 1262
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020821598564171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtmiYDawAAjE2p.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020821602384924677",
+        "created_at": "2026-02-09T14:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020864417164820499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1252064283946438656",
+              "start": 0,
+              "username": "JLaststardust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020864417164820499",
+        "in_reply_to_user_id": "1252064283946438656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020821602384924677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLaststardust 可爱捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020821580507660288",
+            "3_2020821598564171776"
+          ]
+        },
+        "author_id": "1252064283946438656",
+        "conversation_id": "2020821602384924677",
+        "created_at": "2026-02-09T11:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020821602384924677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZHTEuJwqP",
+              "end": 42,
+              "expanded_url": "https://x.com/JLaststardust/status/2020821602384924677/photo/1",
+              "media_key": "3_2020821580507660288",
+              "start": 19,
+              "url": "https://t.co/UZHTEuJwqP"
+            },
+            {
+              "display_url": "pic.x.com/UZHTEuJwqP",
+              "end": 42,
+              "expanded_url": "https://x.com/JLaststardust/status/2020821602384924677/photo/1",
+              "media_key": "3_2020821598564171776",
+              "start": 19,
+              "url": "https://t.co/UZHTEuJwqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020821602384924677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1245,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "少女前线 m200\n（腿皇还原好难） https://t.co/UZHTEuJwqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 316,
+          "like_count": 8182,
+          "listed_count": 23,
+          "media_count": 132,
+          "tweet_count": 4180
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-20T02:39:38.000Z",
+        "description": "｜🕹游戏开发者 ｜B站同名｜UE/UNITY｜新晋社畜\n｜Cosplay学习中\n｜武裝jk/少女前线/明日方舟/合金装备MGS/现代个人装备/后朋克｜绘画：https://t.co/jM1iBjVkjA\n“我将用一生来回答这个问题。”",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33032884/",
+                "end": 101,
+                "expanded_url": "https://www.pixiv.net/users/33032884/",
+                "start": 78,
+                "url": "https://t.co/jM1iBjVkjA"
+              }
+            ]
+          }
+        },
+        "id": "1252064283946438656",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "JK_降谷羽",
+        "pinned_tweet_id": "1788562004371964347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531136963348074496/TbfePWTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 3256,
+          "like_count": 99510,
+          "listed_count": 21,
+          "media_count": 2371,
+          "tweet_count": 11883
+        },
+        "username": "JLaststardust",
+        "verified": false
+      }
+    ]
+  }
+}

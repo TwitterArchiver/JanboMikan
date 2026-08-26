@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2090039394963198380",
+    "created_at": "2026-08-19T12:31:33.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090054059940102173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035413632994193408",
+          "start": 0,
+          "username": "Yumesame10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090054059940102173",
+    "in_reply_to_user_id": "2035413632994193408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090049511020458418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumesame10086 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2090039394963198380",
+        "created_at": "2026-08-19T12:31:33.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090054059940102173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035413632994193408",
+              "start": 0,
+              "username": "Yumesame10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090054059940102173",
+        "in_reply_to_user_id": "2035413632994193408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090049511020458418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumesame10086 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035413632994193408",
+        "conversation_id": "2090039394963198380",
+        "created_at": "2026-08-19T12:13:29.000Z",
+        "display_text_range": [
+          39,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090049511020458418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1734901406405128192",
+              "start": 12,
+              "username": "ayanami083"
+            },
+            {
+              "end": 38,
+              "id": "1633715238322466817",
+              "start": 24,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090049511020458418",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090039394963198380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @ayanami083 @plumedream233 囍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2090054059940102173",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18018,
+          "following_count": 631,
+          "like_count": 22395,
+          "listed_count": 55,
+          "media_count": 406,
+          "tweet_count": 12015
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-21T17:50:22.000Z",
+        "description": "「此水几时休，此恨何时已」   『此恨烈烈無絕期』\n\n  💕齿轮   宠物 @Mave_503    sm双属性   偏攻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Mave_503"
+              }
+            ]
+          }
+        },
+        "id": "2035413632994193408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090050924236652731",
+        "name": "Koeno",
+        "pinned_tweet_id": "2089585343842652366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035413632994193408/1774117138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035414187921534977/WJ8XnsOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 89,
+          "like_count": 1308,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "Yumesame10086",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

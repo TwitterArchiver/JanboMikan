@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2066113430193606885",
+    "created_at": "2026-06-15T00:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066317308478570557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692515156289630208",
+          "start": 0,
+          "username": "yngjn9963594953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066317308478570557",
+    "in_reply_to_user_id": "1692515156289630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066171116381724986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngjn9963594953 这是会吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2066113430193606885",
+        "created_at": "2026-06-15T00:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066317308478570557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692515156289630208",
+              "start": 0,
+              "username": "yngjn9963594953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066317308478570557",
+        "in_reply_to_user_id": "1692515156289630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066171116381724986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngjn9963594953 这是会吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692515156289630208",
+        "conversation_id": "2066113430193606885",
+        "created_at": "2026-06-14T14:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066171116381724986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066171116381724986",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066113430193606885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不管是腥还是臭，到嘴里就是肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14232,
+          "following_count": 545,
+          "like_count": 19437,
+          "listed_count": 48,
+          "media_count": 317,
+          "tweet_count": 10222
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T12:34:14.000Z",
+        "description": "01年生产的无糖可乐，♂，会出好康的cos和其他系列穿搭，可以扩，但别发太奇怪的东西就行",
+        "id": "1692515156289630208",
+        "location": "幻想乡，红魔馆",
+        "name": "星海🍥official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065899672343068672/rBNfrM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 215,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 217
+        },
+        "username": "yngjn9963594953",
+        "verified": false
+      }
+    ]
+  }
+}

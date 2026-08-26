@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020682015566369148",
+    "created_at": "2026-02-09T03:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020701125696246115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995101596385206272",
+          "start": 0,
+          "username": "Illustrious_ISK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020701125696246115",
+    "in_reply_to_user_id": "1995101596385206272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020691796939145480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Illustrious_ISK 是的需要煮烂了才行😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020682015566369148",
+        "created_at": "2026-02-09T03:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020701125696246115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995101596385206272",
+              "start": 0,
+              "username": "Illustrious_ISK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020701125696246115",
+        "in_reply_to_user_id": "1995101596385206272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020691796939145480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Illustrious_ISK 是的需要煮烂了才行😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995101596385206272",
+        "conversation_id": "2020682015566369148",
+        "created_at": "2026-02-09T02:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020691796939145480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020691796939145480",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020690912192667686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 3000度嘛……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4985,
+          "following_count": 312,
+          "like_count": 8051,
+          "listed_count": 23,
+          "media_count": 131,
+          "tweet_count": 4113
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T12:04:28.000Z",
+        "description": "174-66♂/初心者/主清水偶发擦边/窝批/ヰ组/骑空士/讨厌鉴证🚫\n可爱男孩子互推互fo请私信，欢迎🥰\nps：没更新就是找灵感去了\nps2：文案图个乐",
+        "id": "1995101596385206272",
+        "location": "神人市",
+        "name": "ヰ世界の光辉（心碎休眠中）",
+        "pinned_tweet_id": "2020374992622612550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015774731367337985/xwPZbV_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 103,
+          "like_count": 308,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 174
+        },
+        "username": "Illustrious_ISK",
+        "verified": false
+      }
+    ]
+  }
+}

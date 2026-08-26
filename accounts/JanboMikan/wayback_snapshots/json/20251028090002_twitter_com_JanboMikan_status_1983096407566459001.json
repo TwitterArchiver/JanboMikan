@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982648517035249664",
+        "3_1982648515030376448"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1983096407566459001",
+    "created_at": "2025-10-28T09:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983096407566459001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "男娘"
+        },
+        {
+          "end": 115,
+          "start": 108,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0riYbChiKJ",
+          "end": 139,
+          "expanded_url": "https://x.com/JanboMikan/status/1983096407566459001/photo/1",
+          "media_key": "3_1982648517035249664",
+          "start": 116,
+          "url": "https://t.co/0riYbChiKJ"
+        },
+        {
+          "display_url": "pic.x.com/0riYbChiKJ",
+          "end": 139,
+          "expanded_url": "https://x.com/JanboMikan/status/1983096407566459001/photo/1",
+          "media_key": "3_1982648515030376448",
+          "start": 116,
+          "url": "https://t.co/0riYbChiKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983096407566459001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「男娘」这个词，似乎是近几年才流行的。\n以前的习惯称呼是「伪娘」。\n但香香软软的小伪娘中，也可能混入假扮伪娘的大叔，就像披着羊皮的狼。\n那么假扮伪娘的大叔，就是「伪伪娘」。\n负负得正一下，变成「娘」了！😨\n\n#男娘 #可爱的男孩子 https://t.co/0riYbChiKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_1982648517035249664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PIUlxXUAAAEol.jpg",
+        "width": 612
+      },
+      {
+        "height": 1184,
+        "media_key": "3_1982648515030376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PIUeTXYAAYFnM.jpg",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982648517035249664",
+            "3_1982648515030376448"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1983096407566459001",
+        "created_at": "2025-10-28T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983096407566459001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "男娘"
+            },
+            {
+              "end": 115,
+              "start": 108,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0riYbChiKJ",
+              "end": 139,
+              "expanded_url": "https://x.com/JanboMikan/status/1983096407566459001/photo/1",
+              "media_key": "3_1982648517035249664",
+              "start": 116,
+              "url": "https://t.co/0riYbChiKJ"
+            },
+            {
+              "display_url": "pic.x.com/0riYbChiKJ",
+              "end": 139,
+              "expanded_url": "https://x.com/JanboMikan/status/1983096407566459001/photo/1",
+              "media_key": "3_1982648515030376448",
+              "start": 116,
+              "url": "https://t.co/0riYbChiKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983096407566459001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「男娘」这个词，似乎是近几年才流行的。\n以前的习惯称呼是「伪娘」。\n但香香软软的小伪娘中，也可能混入假扮伪娘的大叔，就像披着羊皮的狼。\n那么假扮伪娘的大叔，就是「伪伪娘」。\n负负得正一下，变成「娘」了！😨\n\n#男娘 #可爱的男孩子 https://t.co/0riYbChiKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 92,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

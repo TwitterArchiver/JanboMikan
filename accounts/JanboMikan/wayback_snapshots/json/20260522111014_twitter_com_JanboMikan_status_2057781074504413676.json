@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2057721167444840678",
+    "created_at": "2026-05-22T11:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057781074504413676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555947590406905856",
+          "start": 0,
+          "username": "_xyxyx_OvO"
+        },
+        {
+          "end": 23,
+          "id": "1707081013455912960",
+          "start": 12,
+          "username": "Hanxue0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057781074504413676",
+    "in_reply_to_user_id": "1555947590406905856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057756184380395825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xyxyx_OvO @Hanxue0509 🍊挂枝头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2057721167444840678",
+        "created_at": "2026-05-22T11:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057781074504413676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555947590406905856",
+              "start": 0,
+              "username": "_xyxyx_OvO"
+            },
+            {
+              "end": 23,
+              "id": "1707081013455912960",
+              "start": 12,
+              "username": "Hanxue0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057781074504413676",
+        "in_reply_to_user_id": "1555947590406905856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057756184380395825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xyxyx_OvO @Hanxue0509 🍊挂枝头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555947590406905856",
+        "conversation_id": "2057721167444840678",
+        "created_at": "2026-05-22T09:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057756184380395825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1707081013455912960",
+              "start": 12,
+              "username": "Hanxue0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057756184380395825",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057721167444840678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @Hanxue0509 悠然见蜜柑🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13121,
+          "following_count": 511,
+          "like_count": 17922,
+          "listed_count": 46,
+          "media_count": 282,
+          "tweet_count": 9310
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:03:23.000Z",
+        "description": "希望你能永远开心",
+        "id": "1555947590406905856",
+        "name": "xyxyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605927026321666055/QQEWY70f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 743,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 505
+        },
+        "username": "_xyxyx_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:13:39.000Z",
+        "description": "🇭🇰BSc FS 在讀 | 很笨很幼稚🥺 |  夢想是成為被人愛的家貓 | 稱呼我“晗雪”就好！",
+        "id": "1707081013455912960",
+        "location": "New Territories, Hong Kong ",
+        "name": "NAAN On Gan Sumire",
+        "pinned_tweet_id": "2023624014607143381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752204551850229760/mTKjbhTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 317,
+          "like_count": 27245,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 1332
+        },
+        "username": "Hanxue0509",
+        "verified": false
+      }
+    ]
+  }
+}

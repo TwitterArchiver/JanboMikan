@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998346901385581044",
+    "created_at": "2025-12-09T13:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998389662105379088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775944172044013568",
+          "start": 0,
+          "username": "pamper770636"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998389662105379088",
+    "in_reply_to_user_id": "1775944172044013568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998386428170883384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pamper770636 推油拉我的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998346901385581044",
+        "created_at": "2025-12-09T13:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998389662105379088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775944172044013568",
+              "start": 0,
+              "username": "pamper770636"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998389662105379088",
+        "in_reply_to_user_id": "1775944172044013568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998386428170883384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pamper770636 推油拉我的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775944172044013568",
+        "conversation_id": "1998346901385581044",
+        "created_at": "2025-12-09T13:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998386428170883384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998386428170883384",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998346901385581044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我也想进"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 181,
+          "like_count": 2739,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T17:51:11.000Z",
+        "description": "",
+        "id": "1775944172044013568",
+        "location": "安阳",
+        "name": "pamper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866559476620558336/uYHo-Shk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 40,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "pamper770636",
+        "verified": false
+      }
+    ]
+  }
+}

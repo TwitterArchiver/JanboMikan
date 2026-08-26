@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2074448347977715973",
+    "created_at": "2026-07-08T00:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074652897036620194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956917582864277504",
+          "start": 0,
+          "username": "qianhebro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074652897036620194",
+    "in_reply_to_user_id": "1956917582864277504",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074536767768932573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianhebro 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2074448347977715973",
+        "created_at": "2026-07-08T00:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074652897036620194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956917582864277504",
+              "start": 0,
+              "username": "qianhebro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074652897036620194",
+        "in_reply_to_user_id": "1956917582864277504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074536767768932573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianhebro 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956917582864277504",
+        "conversation_id": "2074448347977715973",
+        "created_at": "2026-07-07T16:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074536767768932573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074536767768932573",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074448347977715973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 真好，以后有机会我也想这样玩……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14973,
+          "following_count": 585,
+          "like_count": 20571,
+          "listed_count": 52,
+          "media_count": 347,
+          "tweet_count": 10876
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T03:15:41.000Z",
+        "description": "这里是千鹤，坐标恩施普普通通喜好女装的小男生一枚谢谢您的关注喵～\n属于我的小贝壳：琳蕊リンレイ @zhngzhngji12079",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "zhngzhngji12079"
+              }
+            ]
+          }
+        },
+        "id": "1956917582864277504",
+        "location": "天上之恩施于人间。",
+        "name": "千鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956918009752064000/cZTF2DJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 148,
+          "like_count": 12381,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "qianhebro",
+        "verified": false
+      }
+    ]
+  }
+}

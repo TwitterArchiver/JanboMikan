@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2002063154906591581",
+    "created_at": "2025-12-20T06:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T07:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002265332124131657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796080689106108416",
+          "start": 0,
+          "username": "raindetear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002265332124131657",
+    "in_reply_to_user_id": "1796080689106108416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002063154906591581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindetear 新衣服可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002063141728104451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jB0eybMAMIGap.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002063154906591581",
+        "created_at": "2025-12-20T06:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T07:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002265332124131657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796080689106108416",
+              "start": 0,
+              "username": "raindetear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002265332124131657",
+        "in_reply_to_user_id": "1796080689106108416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002063154906591581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindetear 新衣服可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002063141728104451"
+          ]
+        },
+        "author_id": "1796080689106108416",
+        "conversation_id": "2002063154906591581",
+        "created_at": "2025-12-19T17:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002063154906591581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 119,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgwTxE4oUS",
+              "end": 158,
+              "expanded_url": "https://x.com/raindetear/status/2002063154906591581/photo/1",
+              "media_key": "3_2002063141728104451",
+              "start": 135,
+              "url": "https://t.co/tgwTxE4oUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002063154906591581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1085,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ki豆～豆豆库哈次～\nki豆～米也库哈次～\n好久没出新角色了考斯瘾都犯了好不容易熬过经济危机赶紧出叉葱 距离看烤剧场版也过去两个月了才出上（\n今天就烤盐了啊，祝烤盐的堡堡们都顺利上岸！做的全对蒙的全对！考研加油呀！（虽然现在有点太晚了）\n#可爱的男孩子 #可爱の男孩子 https://t.co/tgwTxE4oUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 209,
+          "like_count": 3757,
+          "listed_count": 8,
+          "media_count": 77,
+          "tweet_count": 1691
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:26:31.000Z",
+        "description": "喜欢考斯的南孩子一枚，对镜拍战神，线下见光死，bilibili@干物雨_official，全网同名干物雨，不线下不卖原味不视频纯擦边不要再私信问了，自我感觉脾气好被欺负基本不会生气，有气自己憋着所以时不时emo，心情不好伤心的时候会犯恶心反胃喘不上气，经常散播负能量警惕传染，新入坑kig；看私信少有事评论或者进群找我",
+        "id": "1796080689106108416",
+        "location": "sekai",
+        "name": "干物雨official",
+        "pinned_tweet_id": "1979163106749124711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992991693692657664/9IfBKlLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 48,
+          "like_count": 2486,
+          "listed_count": 11,
+          "media_count": 346,
+          "tweet_count": 474
+        },
+        "username": "raindetear",
+        "verified": false
+      }
+    ]
+  }
+}

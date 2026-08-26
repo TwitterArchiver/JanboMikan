@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2056691337899147535",
+    "created_at": "2026-05-19T11:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056698323256660347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541103667486437376",
+          "start": 0,
+          "username": "Zonneeeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056698323256660347",
+    "in_reply_to_user_id": "1541103667486437376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056695523458130015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zonneeeeee 那个吗🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2056691337899147535",
+        "created_at": "2026-05-19T11:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056698323256660347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541103667486437376",
+              "start": 0,
+              "username": "Zonneeeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056698323256660347",
+        "in_reply_to_user_id": "1541103667486437376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056695523458130015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zonneeeeee 那个吗🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541103667486437376",
+        "conversation_id": "2056691337899147535",
+        "created_at": "2026-05-19T11:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056695523458130015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056695523458130015",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056691337899147535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 来都来了，顺便一起切了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13067,
+          "following_count": 503,
+          "like_count": 17784,
+          "listed_count": 44,
+          "media_count": 277,
+          "tweet_count": 9228
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T16:58:52.000Z",
+        "description": "欢迎交朋友哦",
+        "id": "1541103667486437376",
+        "location": "迷路了…",
+        "name": "Tuesday Siesta",
+        "pinned_tweet_id": "2049876817725870106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051956160291536896/8gdKHxSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 147,
+          "like_count": 945,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 222
+        },
+        "username": "Zonneeeeee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051937593349300224"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2052206785092550756",
+    "created_at": "2026-05-07T02:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052206785092550756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1898285362075897856",
+          "start": 13,
+          "username": "qiqizidululu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xalr5sDixR",
+          "end": 54,
+          "expanded_url": "https://x.com/JanboMikan/status/2052206785092550756/photo/1",
+          "media_key": "3_2051937593349300224",
+          "start": 31,
+          "url": "https://t.co/Xalr5sDixR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052206785092550756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可爱xll🥰\n\n📷 w/ @qiqizidululu (左) https://t.co/Xalr5sDixR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2697,
+        "media_key": "3_2051937593349300224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnyXpja4AAnG3n.jpg",
+        "width": 2299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051937593349300224"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2052206785092550756",
+        "created_at": "2026-05-07T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052206785092550756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1898285362075897856",
+              "start": 13,
+              "username": "qiqizidululu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xalr5sDixR",
+              "end": 54,
+              "expanded_url": "https://x.com/JanboMikan/status/2052206785092550756/photo/1",
+              "media_key": "3_2051937593349300224",
+              "start": 31,
+              "url": "https://t.co/Xalr5sDixR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052206785092550756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱xll🥰\n\n📷 w/ @qiqizidululu (左) https://t.co/Xalr5sDixR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12618,
+          "following_count": 495,
+          "like_count": 17072,
+          "listed_count": 44,
+          "media_count": 255,
+          "tweet_count": 8721
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T08:11:35.000Z",
+        "description": "关注了你                                                                                      \n\n希望你们天天开心",
+        "id": "1898285362075897856",
+        "location": "距离520m",
+        "name": "雪白七七子",
+        "pinned_tweet_id": "2041372192655745454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898303957346418688/c3wuXDsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5494,
+          "following_count": 503,
+          "like_count": 2439,
+          "listed_count": 21,
+          "media_count": 134,
+          "tweet_count": 1568
+        },
+        "url": "",
+        "username": "qiqizidululu",
+        "verified": false
+      }
+    ]
+  }
+}

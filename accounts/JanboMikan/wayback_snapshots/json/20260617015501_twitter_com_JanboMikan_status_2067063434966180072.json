@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2066838201587896422",
+    "created_at": "2026-06-17T01:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067063434966180072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1642930029712793603",
+          "start": 0,
+          "username": "77xinyue77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067063434966180072",
+    "in_reply_to_user_id": "1642930029712793603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066876510271906276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77xinyue77 （通过让人社会性死亡x）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2066838201587896422",
+        "created_at": "2026-06-17T01:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067063434966180072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1642930029712793603",
+              "start": 0,
+              "username": "77xinyue77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067063434966180072",
+        "in_reply_to_user_id": "1642930029712793603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066876510271906276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77xinyue77 （通过让人社会性死亡x）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642930029712793603",
+        "conversation_id": "2066838201587896422",
+        "created_at": "2026-06-16T13:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066876510271906276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066876510271906276",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066838201587896422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 第114回 蜜柑妙计除小哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14261,
+          "following_count": 551,
+          "like_count": 19505,
+          "listed_count": 48,
+          "media_count": 319,
+          "tweet_count": 10262
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T16:40:30.000Z",
+        "description": "cn心悦/身心♂ /enfp/坐标BJ/读研中/低质量coser\n明日方舟/宝可梦 米家 steam 啥都玩一点\n欢迎贴贴！扩列互推互关请s我\n支持我喵➡️ https://t.co/55HDOsXa4w 🥹谢谢喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ibb.co/sGPgWdX",
+                "end": 102,
+                "expanded_url": "https://ibb.co/sGPgWdX",
+                "start": 79,
+                "url": "https://t.co/55HDOsXa4w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/xinyueyue",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/xinyueyue",
+                "start": 0,
+                "url": "https://t.co/nVAyoffB1Z"
+              }
+            ]
+          }
+        },
+        "id": "1642930029712793603",
+        "location": "0.1km",
+        "name": "🤍悦悦.･ﾟﾟ･(／ω＼)･ﾟﾟ･.🖤",
+        "pinned_tweet_id": "2064592681767202829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020529481077948416/M174z9LL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 248,
+          "like_count": 3930,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/nVAyoffB1Z",
+        "username": "77xinyue77",
+        "verified": false
+      }
+    ]
+  }
+}

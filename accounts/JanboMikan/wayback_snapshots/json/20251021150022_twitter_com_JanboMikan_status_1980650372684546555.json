@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1980640589491368410",
+    "created_at": "2025-10-21T15:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980650372684546555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1397937597360508934",
+          "start": 0,
+          "username": "Nxqxzly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980650372684546555",
+    "in_reply_to_user_id": "1397937597360508934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980640589491368410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nxqxzly 衣服是皮，下面的馅才好吃~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980640585233899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ymHk6WoAAzkSm.jpg",
+        "width": 1175
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980640585623928832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ymHmXWAAAmhJm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1980640589491368410",
+        "created_at": "2025-10-21T15:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980650372684546555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1397937597360508934",
+              "start": 0,
+              "username": "Nxqxzly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980650372684546555",
+        "in_reply_to_user_id": "1397937597360508934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980640589491368410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nxqxzly 衣服是皮，下面的馅才好吃~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980640585233899520",
+            "3_1980640585623928832"
+          ]
+        },
+        "author_id": "1397937597360508934",
+        "conversation_id": "1980640589491368410",
+        "created_at": "2025-10-21T14:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980640589491368410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZrINdu1nU",
+              "end": 51,
+              "expanded_url": "https://x.com/Nxqxzly/status/1980640589491368410/photo/1",
+              "media_key": "3_1980640585233899520",
+              "start": 28,
+              "url": "https://t.co/3ZrINdu1nU"
+            },
+            {
+              "display_url": "pic.x.com/3ZrINdu1nU",
+              "end": 51,
+              "expanded_url": "https://x.com/Nxqxzly/status/1980640589491368410/photo/1",
+              "media_key": "3_1980640585623928832",
+              "start": 28,
+              "url": "https://t.co/3ZrINdu1nU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980640589491368410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天冷了 大家多吃点衣服\n#伪娘 #男娘 #可爱的男孩子 https://t.co/3ZrINdu1nU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 87,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T15:28:02.000Z",
+        "description": "不约线下，不会聊天，欢迎投喂，接接接定制凑小裙子碎片，祝老板永远不死，🚪50解锁涩涩号@Nxqxbb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "Nxqxbb"
+              }
+            ]
+          }
+        },
+        "id": "1397937597360508934",
+        "name": "清雪",
+        "pinned_tweet_id": "1946966409252344253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969572048390537216/O5TO8GjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 249,
+          "like_count": 247,
+          "listed_count": 13,
+          "media_count": 91,
+          "tweet_count": 343
+        },
+        "username": "Nxqxzly",
+        "verified": false
+      }
+    ]
+  }
+}

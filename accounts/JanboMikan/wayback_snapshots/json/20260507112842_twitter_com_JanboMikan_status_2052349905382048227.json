@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2052318444608254125",
+    "created_at": "2026-05-07T11:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052349905382048227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "taffy_lovely"
+        },
+        {
+          "end": 24,
+          "id": "1621759778614812677",
+          "start": 14,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052349905382048227",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052333442113958377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffy_lovely @maruko00o 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2052318444608254125",
+        "created_at": "2026-05-07T11:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052349905382048227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "taffy_lovely"
+            },
+            {
+              "end": 24,
+              "id": "1621759778614812677",
+              "start": 14,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052349905382048227",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052333442113958377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffy_lovely @maruko00o 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557846379736666113",
+        "conversation_id": "2052318444608254125",
+        "created_at": "2026-05-07T10:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052333442113958377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1621759778614812677",
+              "start": 12,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052333442113958377",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052318622484435288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @maruko00o 你说的是不是做饭穿的那种围裙（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12670,
+          "following_count": 495,
+          "like_count": 17114,
+          "listed_count": 43,
+          "media_count": 256,
+          "tweet_count": 8743
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "阳痿/风湿/前列腺炎/甲沟炎/口腔溃疡/肠胃病/灰指甲/腰椎间盘突出",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1095,
+          "like_count": 2911,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 5772
+        },
+        "username": "taffy_lovely",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39925,
+          "following_count": 937,
+          "like_count": 24306,
+          "listed_count": 223,
+          "media_count": 1022,
+          "tweet_count": 7000
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

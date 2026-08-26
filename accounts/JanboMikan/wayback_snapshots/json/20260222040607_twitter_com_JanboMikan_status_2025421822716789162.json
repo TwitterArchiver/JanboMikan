@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025420796382925188",
+    "created_at": "2026-02-22T04:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025421822716789162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1365678062013083666",
+          "start": 0,
+          "username": "yuyuqing0725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025421822716789162",
+    "in_reply_to_user_id": "1365678062013083666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025420796382925188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuqing0725 可爱可爱🧁🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025420793182560256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu9evJWIAA6RLw.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025420796382925188",
+        "created_at": "2026-02-22T04:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025421822716789162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1365678062013083666",
+              "start": 0,
+              "username": "yuyuqing0725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025421822716789162",
+        "in_reply_to_user_id": "1365678062013083666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025420796382925188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuqing0725 可爱可爱🧁🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025420793182560256"
+          ]
+        },
+        "author_id": "1365678062013083666",
+        "conversation_id": "2025420796382925188",
+        "created_at": "2026-02-22T04:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025420796382925188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "男娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mY0XB8p1K",
+              "end": 75,
+              "expanded_url": "https://x.com/yuyuqing0725/status/2025420796382925188/photo/1",
+              "media_key": "3_2025420793182560256",
+              "start": 52,
+              "url": "https://t.co/1mY0XB8p1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025420796382925188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“普罗丢瑟桑，今天也要一起好好加油哦！”\n（依旧感谢出镜的某天使偶像）\n#男娘 #伪娘 #可爱的男孩子 https://t.co/1mY0XB8p1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6221,
+          "following_count": 344,
+          "like_count": 9444,
+          "listed_count": 25,
+          "media_count": 149,
+          "tweet_count": 4925
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T15:00:15.000Z",
+        "description": "193/180 ♂，如果能被喜欢很荣幸\n匿名提问：https://t.co/ZnlAoS4e89\n聊天频道：https://t.co/A0kTg2Efpo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu79791",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yu79791",
+                "start": 25,
+                "url": "https://t.co/ZnlAoS4e89"
+              },
+              {
+                "display_url": "t.me/testyuyuyu",
+                "end": 77,
+                "expanded_url": "https://t.me/testyuyuyu",
+                "start": 54,
+                "url": "https://t.co/A0kTg2Efpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yutestyu",
+                "end": 23,
+                "expanded_url": "https://t.me/yutestyu",
+                "start": 0,
+                "url": "https://t.co/3oo73KLzNO"
+              }
+            ]
+          }
+        },
+        "id": "1365678062013083666",
+        "name": "yuyyyyyyy",
+        "pinned_tweet_id": "2009848978414940182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992979822331695104/EYtklChg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1052,
+          "like_count": 5466,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/3oo73KLzNO",
+        "username": "yuyuqing0725",
+        "verified": false
+      }
+    ]
+  }
+}

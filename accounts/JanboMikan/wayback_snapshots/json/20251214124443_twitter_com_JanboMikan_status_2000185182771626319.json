@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2000072824338489819",
+    "created_at": "2025-12-14T12:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000185182771626319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000185182771626319",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000072824338489819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 一直隐隐约约觉得不对，今天终于恍然大悟！x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2000072824338489819",
+        "created_at": "2025-12-14T12:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000185182771626319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000185182771626319",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000072824338489819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 一直隐隐约约觉得不对，今天终于恍然大悟！x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668037836996771840",
+        "conversation_id": "2000072824338489819",
+        "created_at": "2025-12-14T05:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000072824338489819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000072824338489819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 116402,
+          "like_count": 353,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我今天才知道\n原来jk裙不是挂在胯上穿的是卡在腰上的🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 203,
+          "like_count": 3220,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "请允许我先挺一会尸......丨瑟瑟副号 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "tashigan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "广州",
+        "name": "AAA星之果实批发零售察里津",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999098942404104192/ahZ3JTsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8112,
+          "following_count": 786,
+          "like_count": 12756,
+          "listed_count": 45,
+          "media_count": 286,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

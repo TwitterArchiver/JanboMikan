@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2059952825258434581",
+    "created_at": "2026-05-28T14:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060003939391828126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1415524189503582212",
+          "start": 0,
+          "username": "5vUHdcYKCe2GMA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060003939391828126",
+    "in_reply_to_user_id": "1415524189503582212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059979890829721849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5vUHdcYKCe2GMA7 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2059952825258434581",
+        "created_at": "2026-05-28T14:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060003939391828126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1415524189503582212",
+              "start": 0,
+              "username": "5vUHdcYKCe2GMA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060003939391828126",
+        "in_reply_to_user_id": "1415524189503582212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059979890829721849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5vUHdcYKCe2GMA7 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415524189503582212",
+        "conversation_id": "2059952825258434581",
+        "created_at": "2026-05-28T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059979890829721849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059979890829721849",
+        "in_reply_to_user_id": "1415524189503582212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059977951920419058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 三个月后\n老爸皮肤白嫩且不长胡子，竟和老妈处成「好姐妹」，天天手挽手逛街，彻底加入老妈阵线。每当我想上网吃糖，老爸就会捏着兰花指用尖细的声音训斥：「天天就知道看手机，皮肤糙得跟当年的我一样！」看着眼前画着淡妆的老爸，我陷入绝望。我藏的药没阻止我「炸柜」，倒把我家里给「炸」重组了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13510,
+          "following_count": 528,
+          "like_count": 18389,
+          "listed_count": 46,
+          "media_count": 292,
+          "tweet_count": 9651
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T04:11:00.000Z",
+        "description": "自撮り加工の放置場。だったけど……\nいろいろと迷走中。\n\nサブ垢なんだけどね、本垢を放置中。",
+        "id": "1415524189503582212",
+        "name": "三田琴華",
+        "pinned_tweet_id": "1805575819819204801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415562725497786368/L6WzL2er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 45,
+          "like_count": 15995,
+          "listed_count": 1,
+          "media_count": 1049,
+          "tweet_count": 8266
+        },
+        "username": "5vUHdcYKCe2GMA7",
+        "verified": false
+      }
+    ]
+  }
+}

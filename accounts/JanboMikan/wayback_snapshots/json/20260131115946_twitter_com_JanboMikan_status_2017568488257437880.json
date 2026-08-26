@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2017412595297489239",
+    "created_at": "2026-01-31T11:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017568488257437880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1512992652630712323",
+          "start": 0,
+          "username": "douzi67042771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017568488257437880",
+    "in_reply_to_user_id": "1512992652630712323",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017412595297489239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douzi67042771 hso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017412585637998593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9KDtRa8AE0kCx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2017412595297489239",
+        "created_at": "2026-01-31T11:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017568488257437880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1512992652630712323",
+              "start": 0,
+              "username": "douzi67042771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017568488257437880",
+        "in_reply_to_user_id": "1512992652630712323",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017412595297489239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douzi67042771 hso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017412585637998593"
+          ]
+        },
+        "author_id": "1512992652630712323",
+        "conversation_id": "2017412595297489239",
+        "created_at": "2026-01-31T01:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017412595297489239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnptDEfIHq",
+              "end": 33,
+              "expanded_url": "https://x.com/douzi67042771/status/2017412595297489239/photo/1",
+              "media_key": "3_2017412585637998593",
+              "start": 10,
+              "url": "https://t.co/DnptDEfIHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017412595297489239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2212,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "😵😵😵这姿势不对吧 https://t.co/DnptDEfIHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 291,
+          "like_count": 7238,
+          "listed_count": 21,
+          "media_count": 120,
+          "tweet_count": 3681
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T03:15:42.000Z",
+        "description": "♂ ｜日音蟑螂｜古力特单推｜欢迎扩列各位老师！｜f1车迷｜手游只玩明日方舟｜睡觉｜喜欢摄影（只会拍拍风景｜🥰：@Salviatiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Salviatiiii"
+              }
+            ]
+          }
+        },
+        "id": "1512992652630712323",
+        "name": "豆梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754471439904768/BFp3RW2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 768,
+          "like_count": 1635,
+          "listed_count": 11,
+          "media_count": 148,
+          "tweet_count": 1046
+        },
+        "username": "douzi67042771",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1991773388982067550",
+    "created_at": "2025-11-21T07:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991776134799978867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907640932893339654",
+          "start": 0,
+          "username": "Ran_Mitake37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991776134799978867",
+    "in_reply_to_user_id": "1907640932893339654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991773388982067550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran_Mitake37 看看帘子后面（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6687,
+        "height": 1920,
+        "media_key": "13_1991772512066367489",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991772512066367489/img/oukO9kQZhNeHYVvj.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991772512066367489/vid/avc1/320x568/bkDS07xxhEbZdWF3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991772512066367489/vid/avc1/480x852/UXuseH8pQaTYyM9F.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991772512066367489/vid/avc1/720x1280/BUaKwN4j9nOImf84.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991772512066367489/pl/8MBZonap0YDI0dpN.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1991773388982067550",
+        "created_at": "2025-11-21T07:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991776134799978867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907640932893339654",
+              "start": 0,
+              "username": "Ran_Mitake37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991776134799978867",
+        "in_reply_to_user_id": "1907640932893339654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991773388982067550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran_Mitake37 看看帘子后面（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991772512066367489"
+          ]
+        },
+        "author_id": "1907640932893339654",
+        "conversation_id": "1991773388982067550",
+        "created_at": "2025-11-21T07:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991773388982067550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4ykOufgw9",
+              "end": 28,
+              "expanded_url": "https://x.com/Ran_Mitake37/status/1991773388982067550/video/1",
+              "media_key": "13_1991772512066367489",
+              "start": 5,
+              "url": "https://t.co/o4ykOufgw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991773388982067550",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "biu～ https://t.co/o4ykOufgw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 129,
+          "like_count": 1372,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:47:04.000Z",
+        "description": "♂️ 无糖  \\ 1??cm??kg??yo \\ 爱哈气爱撒娇爱熬夜的坏猫 \\ ⚠️不转R18 \\ 永久清水绝对擦边 \\ ⚠️不线下 \\ ⚠️不要和我建政 \\ ⚠️单身但拒绝恋爱 \\ 挂个小男娘@mhtqwq \\ 铲屎官@aesir641796 \\ 请理性打赏 \\ 祝你天天开心owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 97,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "aesir641796"
+              }
+            ]
+          }
+        },
+        "id": "1907640932893339654",
+        "location": "Hyperbolic Space",
+        "name": "Ran",
+        "pinned_tweet_id": "1990709922779234691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965132236245925891/DWGhNYMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6947,
+          "following_count": 605,
+          "like_count": 593,
+          "listed_count": 17,
+          "media_count": 160,
+          "tweet_count": 4634
+        },
+        "username": "Ran_Mitake37",
+        "verified": false
+      }
+    ]
+  }
+}

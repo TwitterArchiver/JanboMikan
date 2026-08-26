@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2030834445092266318",
+    "created_at": "2026-03-09T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031014204761846049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528551852195074049",
+          "start": 0,
+          "username": "zzruantang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031014204761846049",
+    "in_reply_to_user_id": "1528551852195074049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030834445092266318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzruantang_ 米饭是菜😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030834442248544256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC75KlfaYAAbyRm.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2030834445092266318",
+        "created_at": "2026-03-09T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031014204761846049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528551852195074049",
+              "start": 0,
+              "username": "zzruantang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031014204761846049",
+        "in_reply_to_user_id": "1528551852195074049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030834445092266318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzruantang_ 米饭是菜😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030834442248544256"
+          ]
+        },
+        "author_id": "1528551852195074049",
+        "conversation_id": "2030834445092266318",
+        "created_at": "2026-03-09T02:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030834445092266318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "jk制服"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gz8hY7xlnC",
+              "end": 61,
+              "expanded_url": "https://x.com/zzruantang_/status/2030834445092266318/photo/1",
+              "media_key": "3_2030834442248544256",
+              "start": 38,
+              "url": "https://t.co/Gz8hY7xlnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030834445092266318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2888,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我说小皮鞋里的白丝就像电饭煲里的白米饭谁懂(°ㅅ°)☝\n#jk制服 #白丝 https://t.co/Gz8hY7xlnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7600,
+          "following_count": 400,
+          "like_count": 11049,
+          "listed_count": 34,
+          "media_count": 169,
+          "tweet_count": 5865
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T01:43:29.000Z",
+        "description": "是♂，欢迎聊天但是不要下头，性取向正常超喜欢JK",
+        "id": "1528551852195074049",
+        "name": "🍬软糖",
+        "pinned_tweet_id": "1977591019156975788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029522232826068992/QrRYwcnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26327,
+          "following_count": 118,
+          "like_count": 1230,
+          "listed_count": 88,
+          "media_count": 195,
+          "tweet_count": 948
+        },
+        "username": "zzruantang_",
+        "verified": false
+      }
+    ]
+  }
+}

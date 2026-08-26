@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2023289832261464365",
+    "created_at": "2026-02-16T14:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023409764747857935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561593418425413632",
+          "start": 0,
+          "username": "MeiStingray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023409764747857935",
+    "in_reply_to_user_id": "1561593418425413632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023289832261464365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiStingray 咬小狗吗，一嘴毛😋x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3464,
+        "media_key": "3_2023289736350273536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQrS5zaEAAtzGk.jpg",
+        "width": 2309
+      },
+      {
+        "height": 3464,
+        "media_key": "3_2023289736291569664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQrS5laUAANC_6.jpg",
+        "width": 2309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2023289832261464365",
+        "created_at": "2026-02-16T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023409764747857935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561593418425413632",
+              "start": 0,
+              "username": "MeiStingray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023409764747857935",
+        "in_reply_to_user_id": "1561593418425413632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023289832261464365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiStingray 咬小狗吗，一嘴毛😋x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023289736350273536",
+            "3_2023289736291569664"
+          ]
+        },
+        "author_id": "1561593418425413632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          }
+        ],
+        "conversation_id": "2023289832261464365",
+        "created_at": "2026-02-16T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023289832261464365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxfRa7ih8z",
+              "end": 56,
+              "expanded_url": "https://x.com/MeiStingray/status/2023289832261464365/photo/1",
+              "media_key": "3_2023289736350273536",
+              "start": 33,
+              "url": "https://t.co/hxfRa7ih8z"
+            },
+            {
+              "display_url": "pic.x.com/hxfRa7ih8z",
+              "end": 56,
+              "expanded_url": "https://x.com/MeiStingray/status/2023289832261464365/photo/1",
+              "media_key": "3_2023289736291569664",
+              "start": 33,
+              "url": "https://t.co/hxfRa7ih8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023289832261464365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1711,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "春节准备吃什么~\n我们奇迹大陆的习俗是要咬小狗屁股的（bushi https://t.co/hxfRa7ih8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5479,
+          "following_count": 324,
+          "like_count": 8944,
+          "listed_count": 24,
+          "media_count": 142,
+          "tweet_count": 4628
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "♂  / 自我拍摄 / 重加工 / UIUC Alum / 宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "The \"Bebop\"",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1897574302020727075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3923,
+          "following_count": 535,
+          "like_count": 52983,
+          "listed_count": 18,
+          "media_count": 270,
+          "tweet_count": 12518
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": true
+      }
+    ]
+  }
+}

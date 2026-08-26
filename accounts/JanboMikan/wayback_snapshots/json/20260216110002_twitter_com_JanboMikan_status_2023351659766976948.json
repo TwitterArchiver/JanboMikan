@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022954491767865344"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2023351659766976948",
+    "created_at": "2026-02-16T11:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023351659766976948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbZRtSXN3o",
+          "end": 137,
+          "expanded_url": "https://x.com/JanboMikan/status/2023351659766976948/photo/1",
+          "media_key": "3_2022954491767865344",
+          "start": 114,
+          "url": "https://t.co/NbZRtSXN3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023351659766976948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "趁着夜色女装外出，本来就有点心惊胆战的。\n迎面走来一人一狗，狗狗不知怎的好像察觉到了什么。\n突然冲过来直接往我裙摆下面钻，湿漉漉的鼻子死命顶着大腿内侧嗅。\n我直接僵住了，吓得瑟瑟发抖。\n狗狗突然大吼一声：不可以瑟瑟！\n惊醒了。 https://t.co/NbZRtSXN3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2022954491767865344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL6ZGaawAAn9f4.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022954491767865344"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2023351659766976948",
+        "created_at": "2026-02-16T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023351659766976948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbZRtSXN3o",
+              "end": 137,
+              "expanded_url": "https://x.com/JanboMikan/status/2023351659766976948/photo/1",
+              "media_key": "3_2022954491767865344",
+              "start": 114,
+              "url": "https://t.co/NbZRtSXN3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023351659766976948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着夜色女装外出，本来就有点心惊胆战的。\n迎面走来一人一狗，狗狗不知怎的好像察觉到了什么。\n突然冲过来直接往我裙摆下面钻，湿漉漉的鼻子死命顶着大腿内侧嗅。\n我直接僵住了，吓得瑟瑟发抖。\n狗狗突然大吼一声：不可以瑟瑟！\n惊醒了。 https://t.co/NbZRtSXN3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 324,
+          "like_count": 8901,
+          "listed_count": 24,
+          "media_count": 143,
+          "tweet_count": 4606
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

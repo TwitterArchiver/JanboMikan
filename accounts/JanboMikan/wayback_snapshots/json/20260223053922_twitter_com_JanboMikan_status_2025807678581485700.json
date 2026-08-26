@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025777851849699557",
+    "created_at": "2026-02-23T05:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025807678581485700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025807678581485700",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025777851849699557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina 受受的眼神也不错😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2025777845906395137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0CN8MbUAEKWiR.jpg",
+        "width": 1837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025777851849699557",
+        "created_at": "2026-02-23T05:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025807678581485700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025807678581485700",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025777851849699557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina 受受的眼神也不错😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025777845906395137"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2025777851849699557",
+        "created_at": "2026-02-23T03:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025777851849699557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIhJnfSPoX",
+              "end": 79,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2025777851849699557/photo/1",
+              "media_key": "3_2025777845906395137",
+              "start": 56,
+              "url": "https://t.co/qIhJnfSPoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025777851849699557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 826,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这次本来带了一件翻领红夹克，想0成本cos式姐，但是效果不太好，回去再研究一下怎么出両儀式。可能是眼神的问题。 https://t.co/qIhJnfSPoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6282,
+          "following_count": 346,
+          "like_count": 9551,
+          "listed_count": 25,
+          "media_count": 150,
+          "tweet_count": 4982
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂//看女装的直接去亮点(偶尔有荤的注意⚠️)//都内一般会社員//120% purity sub//抽空搞点考斯普雷//需要回fo请DM//如果想问任何问题➡️https://t.co/VACXZCUkde",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 106,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 83,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Ayano",
+        "pinned_tweet_id": "2020722495960367480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 485,
+          "like_count": 1458,
+          "listed_count": 21,
+          "media_count": 120,
+          "tweet_count": 1920
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

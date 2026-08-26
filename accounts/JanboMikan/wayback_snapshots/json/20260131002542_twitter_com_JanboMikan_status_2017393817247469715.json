@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016828680467612023",
+    "created_at": "2026-01-31T00:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T01:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017393817247469715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1090136700741812224",
+          "start": 0,
+          "username": "Alice__486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017393817247469715",
+    "in_reply_to_user_id": "1090136700741812224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017297976868409821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice__486 天才！😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016828680467612023",
+        "created_at": "2026-01-31T00:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017393817247469715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1090136700741812224",
+              "start": 0,
+              "username": "Alice__486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017393817247469715",
+        "in_reply_to_user_id": "1090136700741812224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017297976868409821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice__486 天才！😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090136700741812224",
+        "conversation_id": "2016828680467612023",
+        "created_at": "2026-01-30T18:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017297976868409821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017297976868409821",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016828680467612023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 以前在床上拍，现在站着拍确实垂直了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 291,
+          "like_count": 7185,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 3655
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2005852057278763256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27369,
+          "following_count": 1719,
+          "like_count": 52720,
+          "listed_count": 94,
+          "media_count": 934,
+          "tweet_count": 15468
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

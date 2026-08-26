@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978768665110585661",
+    "created_at": "2025-10-17T01:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T02:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979004266082681275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937477756490776583",
+          "start": 0,
+          "username": "yeonkouuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979004266082681275",
+    "in_reply_to_user_id": "1937477756490776583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978768665110585661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeonkouuu 舔巧克力雪糕~！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_1978768661151375360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3X_nQSaYAACnUt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978768659800866816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3X_nLQbQAAenak.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978768665110585661",
+        "created_at": "2025-10-17T01:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979004266082681275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937477756490776583",
+              "start": 0,
+              "username": "yeonkouuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979004266082681275",
+        "in_reply_to_user_id": "1937477756490776583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978768665110585661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeonkouuu 舔巧克力雪糕~！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978768661151375360",
+            "3_1978768659800866816"
+          ]
+        },
+        "author_id": "1937477756490776583",
+        "conversation_id": "1978768665110585661",
+        "created_at": "2025-10-16T10:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978768665110585661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "伪娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "白丝"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "裸足"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "小皮鞋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d10ch1FXz7",
+              "end": 60,
+              "expanded_url": "https://x.com/yeonkouuu/status/1978768665110585661/photo/1",
+              "media_key": "3_1978768661151375360",
+              "start": 37,
+              "url": "https://t.co/d10ch1FXz7"
+            },
+            {
+              "display_url": "pic.x.com/d10ch1FXz7",
+              "end": 60,
+              "expanded_url": "https://x.com/yeonkouuu/status/1978768665110585661/photo/1",
+              "media_key": "3_1978768659800866816",
+              "start": 37,
+              "url": "https://t.co/d10ch1FXz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978768665110585661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 896,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁敢闻～！谁敢吃～！谁敢用～！\n#男娘 #伪娘 #白丝 #裸足 #小皮鞋 https://t.co/d10ch1FXz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 73,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T11:48:00.000Z",
+        "description": "新人小男娘捏🥺/随缘更新/不线上不线下                  🉑加好友聊天/🉑投喂女装/🉑定制原味",
+        "id": "1937477756490776583",
+        "name": "鸢栀eee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937477931267424261/vruzl5Um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 177,
+          "like_count": 962,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "username": "yeonkouuu",
+        "verified": false
+      }
+    ]
+  }
+}

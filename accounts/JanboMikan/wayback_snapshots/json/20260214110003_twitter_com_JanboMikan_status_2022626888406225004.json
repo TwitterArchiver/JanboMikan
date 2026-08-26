@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022500531542069250"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2022626888406225004",
+    "created_at": "2026-02-14T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022626888406225004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A3EMG9Io7V",
+          "end": 169,
+          "expanded_url": "https://x.com/JanboMikan/status/2022626888406225004/photo/1",
+          "media_key": "3_2022500531542069250",
+          "start": 146,
+          "url": "https://t.co/A3EMG9Io7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022626888406225004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天要完成的几件事：\n点奶茶外卖，备注要两根吸管；\n买两张连座电影票，旁边座位放我的书包；\n用小号给大号发520红包；\n用左手写一张「爱你宝宝」的卡片，假装字迹不是自己的；\n用卷发棒给自己脖子上烫个红印；\n避孕套拆开，把油蹭在床单上。\n\n大家情人节快乐。\n照片发完了，我把这堆破烂收拾一下。 https://t.co/A3EMG9Io7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2022500531542069250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFdhIyakAI_AKX.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022500531542069250"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2022626888406225004",
+        "created_at": "2026-02-14T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022626888406225004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3EMG9Io7V",
+              "end": 169,
+              "expanded_url": "https://x.com/JanboMikan/status/2022626888406225004/photo/1",
+              "media_key": "3_2022500531542069250",
+              "start": 146,
+              "url": "https://t.co/A3EMG9Io7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022626888406225004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天要完成的几件事：\n点奶茶外卖，备注要两根吸管；\n买两张连座电影票，旁边座位放我的书包；\n用小号给大号发520红包；\n用左手写一张「爱你宝宝」的卡片，假装字迹不是自己的；\n用卷发棒给自己脖子上烫个红印；\n避孕套拆开，把油蹭在床单上。\n\n大家情人节快乐。\n照片发完了，我把这堆破烂收拾一下。 https://t.co/A3EMG9Io7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 322,
+          "like_count": 8691,
+          "listed_count": 24,
+          "media_count": 140,
+          "tweet_count": 4471
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

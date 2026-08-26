@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2002771197566816657",
+    "created_at": "2025-12-21T16:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002775811527737755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464477075033702400",
+          "start": 0,
+          "username": "DuiMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002775811527737755",
+    "in_reply_to_user_id": "1464477075033702400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002771197566816657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuiMiao 战败cg更可爱😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2002771194379202560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tFykdbcAA67rI.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2002771194182090752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tFyjubwAAi9J_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002771197566816657",
+        "created_at": "2025-12-21T16:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002775811527737755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464477075033702400",
+              "start": 0,
+              "username": "DuiMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002775811527737755",
+        "in_reply_to_user_id": "1464477075033702400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002771197566816657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuiMiao 战败cg更可爱😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002771194379202560",
+            "3_2002771194182090752"
+          ]
+        },
+        "author_id": "1464477075033702400",
+        "conversation_id": "2002771197566816657",
+        "created_at": "2025-12-21T16:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002771197566816657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "男の娘ᅠ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoTqx4sWFn",
+              "end": 46,
+              "expanded_url": "https://x.com/DuiMiao/status/2002771197566816657/photo/1",
+              "media_key": "3_2002771194379202560",
+              "start": 23,
+              "url": "https://t.co/qoTqx4sWFn"
+            },
+            {
+              "display_url": "pic.x.com/qoTqx4sWFn",
+              "end": 46,
+              "expanded_url": "https://x.com/DuiMiao/status/2002771197566816657/photo/1",
+              "media_key": "3_2002771194182090752",
+              "start": 23,
+              "url": "https://t.co/qoTqx4sWFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002771197566816657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真可爱嘿嘿嘿\n＃男娘 ＃伪娘  #男の娘ᅠ https://t.co/qoTqx4sWFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 212,
+          "like_count": 3895,
+          "listed_count": 8,
+          "media_count": 82,
+          "tweet_count": 1784
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T06:12:08.000Z",
+        "description": "夏天将要到来",
+        "id": "1464477075033702400",
+        "name": "洋葱乳酪味鲨鱼",
+        "pinned_tweet_id": "1975967110385021140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983196575506829312/dCsmlQ8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1805,
+          "like_count": 30542,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 667
+        },
+        "username": "DuiMiao",
+        "verified": false
+      }
+    ]
+  }
+}

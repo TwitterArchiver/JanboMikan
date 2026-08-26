@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046758598517342695",
+    "created_at": "2026-04-23T15:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047335336527933846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031012347498917888",
+          "start": 0,
+          "username": "shixixiya0"
+        },
+        {
+          "end": 21,
+          "id": "1431080795536433154",
+          "start": 12,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047335336527933846",
+    "in_reply_to_user_id": "2031012347498917888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047308846402802037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixixiya0 @yuluoqwq 思考已停止"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046758598517342695",
+        "created_at": "2026-04-23T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047335336527933846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031012347498917888",
+              "start": 0,
+              "username": "shixixiya0"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047335336527933846",
+        "in_reply_to_user_id": "2031012347498917888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047308846402802037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixixiya0 @yuluoqwq 思考已停止"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031012347498917888",
+        "conversation_id": "2046758598517342695",
+        "created_at": "2026-04-23T13:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047308846402802037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047308846402802037",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046758598517342695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuluoqwq （深度思考中）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11635,
+          "following_count": 468,
+          "like_count": 16210,
+          "listed_count": 43,
+          "media_count": 236,
+          "tweet_count": 8203
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T14:21:00.000Z",
+        "description": "潮汐的汐也是夕阳的夕\n（长时间没回就是没注意到或者还在睡觉）\n2010年｜MTF｜还没钱含糖｜Transles｜想不出来写什么了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+a0LvciMgSDcyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+a0LvciMgSDcyNzk1",
+                "start": 0,
+                "url": "https://t.co/IkXO9WxIJi"
+              }
+            ]
+          }
+        },
+        "id": "2031012347498917888",
+        "location": "不存在的存在地",
+        "name": "汐（糖商/被骗360u）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041414880658706639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031012467422437376/Aqpr3xGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 28,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/IkXO9WxIJi",
+        "username": "shixixiya0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 1572,
+          "like_count": 40990,
+          "listed_count": 13,
+          "media_count": 265,
+          "tweet_count": 4924
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

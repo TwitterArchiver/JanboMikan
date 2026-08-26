@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025864810777420185",
+    "created_at": "2026-02-24T09:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026229998236127670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1650454037085712384",
+          "start": 0,
+          "username": "mayu3468059838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026229998236127670",
+    "in_reply_to_user_id": "1650454037085712384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025864810777420185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayu3468059838 那苏秦的死因是不是守印过多x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025864805714931712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1RTquasAA_3pZ.jpg",
+        "width": 1596
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025864805719113728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1RTqvagAAfuwG.jpg",
+        "width": 1382
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025864805706530816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1RTqsagAA672L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025864810777420185",
+        "created_at": "2026-02-24T09:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026229998236127670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1650454037085712384",
+              "start": 0,
+              "username": "mayu3468059838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026229998236127670",
+        "in_reply_to_user_id": "1650454037085712384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025864810777420185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayu3468059838 那苏秦的死因是不是守印过多x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025864805714931712",
+            "3_2025864805719113728",
+            "3_2025864805706530816"
+          ]
+        },
+        "author_id": "1650454037085712384",
+        "conversation_id": "2025864810777420185",
+        "created_at": "2026-02-23T09:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025864810777420185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGoJaJaQgq",
+              "end": 39,
+              "expanded_url": "https://x.com/mayu3468059838/status/2025864810777420185/photo/1",
+              "media_key": "3_2025864805714931712",
+              "start": 16,
+              "url": "https://t.co/IGoJaJaQgq"
+            },
+            {
+              "display_url": "pic.x.com/IGoJaJaQgq",
+              "end": 39,
+              "expanded_url": "https://x.com/mayu3468059838/status/2025864810777420185/photo/1",
+              "media_key": "3_2025864805719113728",
+              "start": 16,
+              "url": "https://t.co/IGoJaJaQgq"
+            },
+            {
+              "display_url": "pic.x.com/IGoJaJaQgq",
+              "end": 39,
+              "expanded_url": "https://x.com/mayu3468059838/status/2025864810777420185/photo/1",
+              "media_key": "3_2025864805706530816",
+              "start": 16,
+              "url": "https://t.co/IGoJaJaQgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025864810777420185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 18949,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "李白的死因是什么\n诗写过多（） https://t.co/IGoJaJaQgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 351,
+          "like_count": 9688,
+          "listed_count": 26,
+          "media_count": 152,
+          "tweet_count": 5070
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T10:58:11.000Z",
+        "description": "感谢喜欢～全無料(๑˃̵ᴗ˂̵)，不扩列不转发除非真的把咱当朋友，禁止禁止禁止转发国内，墙内除了qq看到均属盗图，168/5xkg、鞋码37-38，是@sakuyaura_ 最喜欢的姐姐的私有物～不约💤💤💤💤💤💤💤💤💤💤💤💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "sakuyaura_"
+              }
+            ]
+          }
+        },
+        "id": "1650454037085712384",
+        "location": "日本",
+        "name": "マユちゃん",
+        "pinned_tweet_id": "1854140133781762558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708293692875042816/fJVpksT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10171,
+          "following_count": 500,
+          "like_count": 21852,
+          "listed_count": 46,
+          "media_count": 1493,
+          "tweet_count": 5782
+        },
+        "username": "mayu3468059838",
+        "verified": false
+      }
+    ]
+  }
+}

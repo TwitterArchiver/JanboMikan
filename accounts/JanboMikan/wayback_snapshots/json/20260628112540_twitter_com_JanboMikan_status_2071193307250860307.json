@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2071186850853593188",
+    "created_at": "2026-06-28T11:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071193307250860307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356145157226196999",
+          "start": 0,
+          "username": "mary_sauce_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071193307250860307",
+    "in_reply_to_user_id": "1356145157226196999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071187962688045238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mary_sauce_22 还有变种🦈x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071186850853593188",
+        "created_at": "2026-06-28T11:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071193307250860307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356145157226196999",
+              "start": 0,
+              "username": "mary_sauce_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071193307250860307",
+        "in_reply_to_user_id": "1356145157226196999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071187962688045238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mary_sauce_22 还有变种🦈x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356145157226196999",
+        "conversation_id": "2071186850853593188",
+        "created_at": "2026-06-28T11:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071187962688045238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071187962688045238",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071186850853593188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 鲨鱼，可怜喵～（话说确实想买一条，那个澳大利亚好像，跨性别专用粉红配色的鲨鲨～）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14630,
+          "following_count": 571,
+          "like_count": 20040,
+          "listed_count": 52,
+          "media_count": 336,
+          "tweet_count": 10595
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T07:39:43.000Z",
+        "description": "呼噜呼噜～睡大觉～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mary_sauce_22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mary_sauce_22",
+                "start": 0,
+                "url": "https://t.co/yLjevbj9Bm"
+              }
+            ]
+          }
+        },
+        "id": "1356145157226196999",
+        "location": "银河系～",
+        "name": "某只玛莉w",
+        "pinned_tweet_id": "2049977920651719133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070824015229284352/g-WQ5mVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7204,
+          "following_count": 6749,
+          "like_count": 108525,
+          "listed_count": 44,
+          "media_count": 178,
+          "tweet_count": 15153
+        },
+        "url": "https://t.co/yLjevbj9Bm",
+        "username": "mary_sauce_22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1995070306277609512",
+    "created_at": "2025-11-30T12:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995103813343277430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844973161030483968",
+          "start": 0,
+          "username": "xiayun_13"
+        },
+        {
+          "end": 25,
+          "id": "1871502099202330624",
+          "start": 11,
+          "username": "keplerD080311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995103813343277430",
+    "in_reply_to_user_id": "1844973161030483968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995103213192957961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiayun_13 @keplerD080311 嘿嘿谢谢捏~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995070306277609512",
+        "created_at": "2025-11-30T12:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995103813343277430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844973161030483968",
+              "start": 0,
+              "username": "xiayun_13"
+            },
+            {
+              "end": 25,
+              "id": "1871502099202330624",
+              "start": 11,
+              "username": "keplerD080311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995103813343277430",
+        "in_reply_to_user_id": "1844973161030483968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995103213192957961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiayun_13 @keplerD080311 嘿嘿谢谢捏~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844973161030483968",
+        "conversation_id": "1995070306277609512",
+        "created_at": "2025-11-30T12:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995103213192957961"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "恭喜",
+              "probability": 0.6318,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 26,
+              "id": "1871502099202330624",
+              "start": 12,
+              "username": "keplerD080311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995103213192957961",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995096198928351726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @keplerD080311 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 157,
+          "like_count": 2181,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T05:27:45.000Z",
+        "description": "河南的/05年171……希望长高/继续减肥/希望变好看的小男娘/无糖/可互fo/希望交朋友/不接推广/以后会画画|•'-'•) ✧欢迎关注窝！\n\n叫我阿霞就好啦！哎嘿嘿੭ ˙ᗜ˙ )੭",
+        "id": "1844973161030483968",
+        "name": "霞韵",
+        "pinned_tweet_id": "1993952757712343377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941811087164256256/CTxFosqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 261,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1027
+        },
+        "username": "xiayun_13",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T10:24:17.000Z",
+        "description": "09年xyn（172/37kg）/INFP-T/休学中\n喜欢普拉娜的yn\n无证/暂时断糖🍬/无对象/不过🚪\n希望和各位成为好朋友/同类可互fo\n可以私信和我聊天哦w\n生日🎂：20090210（水瓶座）\n致力于本年内达成2000fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+g4WBaE-KK_JjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+g4WBaE-KK_JjYjY1",
+                "start": 0,
+                "url": "https://t.co/hG7A7cTjrd"
+              }
+            ]
+          }
+        },
+        "id": "1871502099202330624",
+        "location": "什亭之匣/ipad",
+        "name": "𝐀.𝐑.𝐎.𝐍.𝐀🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1993104556994314271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990382367824072704/ZiFdgPw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 874,
+          "like_count": 3660,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/hG7A7cTjrd",
+        "username": "keplerD080311",
+        "verified": false
+      }
+    ]
+  }
+}

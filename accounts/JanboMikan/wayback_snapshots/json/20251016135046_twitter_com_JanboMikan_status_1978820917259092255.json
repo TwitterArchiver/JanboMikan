@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978485249509347689",
+    "created_at": "2025-10-16T13:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978820917259092255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550446805287968768",
+          "start": 0,
+          "username": "duoxichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978820917259092255",
+    "in_reply_to_user_id": "1550446805287968768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978485249509347689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoxichuan 变成猫猫耳了~！🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2005,
+        "media_key": "3_1978485233117954049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T91klaAAE7J_E.jpg",
+        "width": 1634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978485249509347689",
+        "created_at": "2025-10-16T13:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978820917259092255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550446805287968768",
+              "start": 0,
+              "username": "duoxichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978820917259092255",
+        "in_reply_to_user_id": "1550446805287968768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978485249509347689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoxichuan 变成猫猫耳了~！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978485233117954049"
+          ]
+        },
+        "author_id": "1550446805287968768",
+        "conversation_id": "1978485249509347689",
+        "created_at": "2025-10-15T15:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978485249509347689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZC7AaueYe",
+              "end": 23,
+              "expanded_url": "https://x.com/duoxichuan/status/1978485249509347689/photo/1",
+              "media_key": "3_1978485233117954049",
+              "start": 0,
+              "url": "https://t.co/DZC7AaueYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978485249509347689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 20767,
+          "like_count": 692,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DZC7AaueYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T11:45:13.000Z",
+        "description": "小女子不才，琴棋书画样样不通，足绑虐调一个不落，如我这般女子，又岂敢得公子青睐。\n然公子在我足下，撑不到半盏茶的时间，再我看来也不过如此。\n嘁！走开，下一个！\n主号@chuanxiduo 可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "chuanxiduo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/M6Wd6E2NTW"
+              }
+            ]
+          }
+        },
+        "id": "1550446805287968768",
+        "location": "个人频道",
+        "name": "多喜川",
+        "pinned_tweet_id": "1964628849821679946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899848043555397633/QePLooCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11347,
+          "following_count": 15,
+          "like_count": 252,
+          "listed_count": 27,
+          "media_count": 49,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/M6Wd6E2NTW",
+        "username": "duoxichuan",
+        "verified": false
+      }
+    ]
+  }
+}

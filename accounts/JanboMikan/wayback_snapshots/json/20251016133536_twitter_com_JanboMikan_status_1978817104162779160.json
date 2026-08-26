@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978788102991712330",
+    "created_at": "2025-10-16T13:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978817104162779160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528551852195074049",
+          "start": 0,
+          "username": "zzruantang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978817104162779160",
+    "in_reply_to_user_id": "1528551852195074049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978788102991712330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzruantang_ 是招财猫（绑走放家门口）~"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3200,
+        "height": 1280,
+        "media_key": "7_1978788080971919360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978788080971919360/pu/img/4ENcMS8zbGa7TV7P.jpg",
+        "public_metrics": {
+          "view_count": 439
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978788080971919360/pu/vid/avc1/320x568/opCzkYlDZnmIUvQH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978788080971919360/pu/vid/avc1/480x852/2Veqcgj3PeLj6_Jd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978788080971919360/pu/vid/avc1/720x1280/cc4Fk1KaibSMFKdP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978788080971919360/pu/pl/-7RbRZ9PQqEWKVpH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978788102991712330",
+        "created_at": "2025-10-16T13:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978817104162779160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528551852195074049",
+              "start": 0,
+              "username": "zzruantang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978817104162779160",
+        "in_reply_to_user_id": "1528551852195074049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978788102991712330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzruantang_ 是招财猫（绑走放家门口）~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978788080971919360"
+          ]
+        },
+        "author_id": "1528551852195074049",
+        "conversation_id": "1978788102991712330",
+        "created_at": "2025-10-16T11:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978788102991712330"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "jk制服"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3qs2hpZZR",
+              "end": 41,
+              "expanded_url": "https://x.com/zzruantang_/status/1978788102991712330/video/1",
+              "media_key": "7_1978788080971919360",
+              "start": 18,
+              "url": "https://t.co/n3qs2hpZZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978788102991712330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1815,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哪里来的小猫~\n#jk制服 #黑丝 https://t.co/n3qs2hpZZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 62,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T01:43:29.000Z",
+        "description": "是♂，欢迎聊天但是不要下头，性取向正常只是喜欢JK",
+        "id": "1528551852195074049",
+        "name": "🍬软糖",
+        "pinned_tweet_id": "1977591019156975788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975110053477949440/19fdVk1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24553,
+          "following_count": 104,
+          "like_count": 1090,
+          "listed_count": 71,
+          "media_count": 150,
+          "tweet_count": 802
+        },
+        "username": "zzruantang_",
+        "verified": false
+      }
+    ]
+  }
+}

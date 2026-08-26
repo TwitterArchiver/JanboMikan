@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2034196203060261022",
+    "created_at": "2026-03-18T14:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034271793494827428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034271793494827428",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034196203060261022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing 老师你是真人吗，老师你能呼吸吗，老师你看得见吗（x）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 210,
+        "media_key": "3_2034196196458483712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrqqb1b0AA1_fv.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2034196203060261022",
+        "created_at": "2026-03-18T14:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034271793494827428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034271793494827428",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034196203060261022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing 老师你是真人吗，老师你能呼吸吗，老师你看得见吗（x）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034196196458483712"
+          ]
+        },
+        "author_id": "1527114974841012225",
+        "conversation_id": "2034196203060261022",
+        "created_at": "2026-03-18T09:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034196203060261022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTjzsNYk3v",
+              "end": 166,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2034196203060261022/photo/1",
+              "media_key": "3_2034196196458483712",
+              "start": 143,
+              "url": "https://t.co/lTjzsNYk3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034196203060261022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "教你如何被娃娃顷刻炼化：\r1.老师你炸毛了\r2.老师你大头颜色怎么和身子不一样啊\r3.老师你出的是旺仔小乔吗\r4.老师你是男孩纸吧\r5.老师你身上怎么有褶皱\r6.老师这个东西很好吃你要吃吗\r7.老师对着镜头说几句话吧\n8、老师这个猫猫你真的不抱一下吗\n9、老师你jk定位线没拆（大声）\n10、老师你手指怎么黑黑的 胳膊还起球的？\n11、发现自己费尽心思打扮 结果还没有一个穿普通jk的xnn有人气\n12、老师你怎么走路大开大合的\n13、老师你穿高跟鞋动静一里外都听得到\n14、老师你有点罗圈腿\n15、老师你裤袜掉裆了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1503,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教你如何被娃娃顷刻炼化：\r1.老师你炸毛了\r2.老师你大头颜色怎么和身子不一样啊\r3.老师你出的是旺仔小乔吗\r4.老师你是男孩纸吧\r5.老师你身上怎么有褶皱\r6.老师这个东西很好吃你要吃吗\r7.老师对着镜头说几句话吧\n8、老师这个猫猫你真的不抱一下吗\n9、老师你jk定位线没拆（大声） https://t.co/lTjzsNYk3v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8791,
+          "following_count": 407,
+          "like_count": 12272,
+          "listed_count": 34,
+          "media_count": 182,
+          "tweet_count": 6490
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫我小雨丨是清水 不涩涩丨注孤之人丨定焦战神丨键政禁止 看到就ban丨会按快门丨头壳是自设+特蕾西娅丨脾气很大丨Aquarius丨 INFP-T 4w5丨社恐丨可能友跨丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2020464992466657542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010763568497807360/FxMLCd-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 900,
+          "like_count": 5205,
+          "listed_count": 14,
+          "media_count": 188,
+          "tweet_count": 4814
+        },
+        "username": "Kiger_YuQing",
+        "verified": true
+      }
+    ]
+  }
+}

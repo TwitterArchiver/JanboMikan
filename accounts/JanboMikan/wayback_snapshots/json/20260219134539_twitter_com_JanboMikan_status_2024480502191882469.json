@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024438823372148939",
+    "created_at": "2026-02-19T13:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024480502191882469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1336993487284158464",
+          "start": 0,
+          "username": "Keluno1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024480502191882469",
+    "in_reply_to_user_id": "1336993487284158464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024464809203552646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keluno1 宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-19T13:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024480502191882469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1336993487284158464",
+              "start": 0,
+              "username": "Keluno1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024480502191882469",
+        "in_reply_to_user_id": "1336993487284158464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024464809203552646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keluno1 宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336993487284158464",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-19T12:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024464809203552646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024464809203552646",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024438823372148939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 妈妈🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5697,
+          "following_count": 332,
+          "like_count": 9203,
+          "listed_count": 25,
+          "media_count": 147,
+          "tweet_count": 4788
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-10T11:18:07.000Z",
+        "description": "ISTP   混乱中立  守序(?)邪恶\n辨证唯物主义  共产主义  反对特社\n反对太空缇杨奇保护法案！\n\n有机体都是傻逼\n世界属于智械！\n\n喜欢涩涩  保守的道德底线  🚫💈！",
+        "id": "1336993487284158464",
+        "location": "至纯瑰宝",
+        "name": "TORA TORA TORA🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1609177852368543744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541139280579497985/tar3jlz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 398,
+          "like_count": 970,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1722
+        },
+        "username": "Keluno1",
+        "verified": false
+      }
+    ]
+  }
+}

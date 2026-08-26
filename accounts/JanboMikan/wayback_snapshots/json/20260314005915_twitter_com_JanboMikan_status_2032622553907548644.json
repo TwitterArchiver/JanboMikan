@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032411360022208636",
+    "created_at": "2026-03-14T00:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T01:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032622553907548644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867872646131785728",
+          "start": 0,
+          "username": "go7891Zxgq666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032622553907548644",
+    "in_reply_to_user_id": "1867872646131785728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032528541351329856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@go7891Zxgq666 加入光荣的进化x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032411360022208636",
+        "created_at": "2026-03-14T00:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T01:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032622553907548644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867872646131785728",
+              "start": 0,
+              "username": "go7891Zxgq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032622553907548644",
+        "in_reply_to_user_id": "1867872646131785728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032528541351329856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@go7891Zxgq666 加入光荣的进化x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867872646131785728",
+        "conversation_id": "2032411360022208636",
+        "created_at": "2026-03-13T18:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032528541351329856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032528541351329856",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032411360022208636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 早知道就不学修车了，学建模，说出了多少人的心声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7890,
+          "following_count": 398,
+          "like_count": 11384,
+          "listed_count": 33,
+          "media_count": 173,
+          "tweet_count": 6051
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T10:02:31.000Z",
+        "description": "不存在绝对的政治正确和道德正确",
+        "id": "1867872646131785728",
+        "location": "IP属地:太阳系",
+        "name": "明伦暗本樱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010278776345649152/pDx2IiD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 1520,
+          "like_count": 3950,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 592
+        },
+        "username": "go7891Zxgq666",
+        "verified": false
+      }
+    ]
+  }
+}

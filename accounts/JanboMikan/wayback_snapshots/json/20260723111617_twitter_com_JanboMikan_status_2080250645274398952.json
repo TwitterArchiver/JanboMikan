@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2079884165961441722",
+    "created_at": "2026-07-23T11:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080250645274398952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806234001260396544",
+          "start": 0,
+          "username": "shuangxue113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080250645274398952",
+    "in_reply_to_user_id": "1806234001260396544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079916900805668871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuangxue113 坦率家庭x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2079884165961441722",
+        "created_at": "2026-07-23T11:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080250645274398952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806234001260396544",
+              "start": 0,
+              "username": "shuangxue113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080250645274398952",
+        "in_reply_to_user_id": "1806234001260396544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079916900805668871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangxue113 坦率家庭x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806234001260396544",
+        "conversation_id": "2079884165961441722",
+        "created_at": "2026-07-22T13:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079916900805668871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079916900805668871",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079884165961441722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 好神秘的家庭."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15710,
+          "following_count": 606,
+          "like_count": 21336,
+          "listed_count": 52,
+          "media_count": 366,
+          "tweet_count": 11313
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T07:52:37.000Z",
+        "description": "被人遗忘在角落的猫猫狐/欧金金已经垂落/有很多很多各种各样的白丝/因年迈不再可爱/退学预备中/线下已无法——😴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowRainGarden",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowRainGarden",
+                "start": 0,
+                "url": "https://t.co/krims3hIvi"
+              }
+            ]
+          }
+        },
+        "id": "1806234001260396544",
+        "location": "距您1.4公里",
+        "name": "霜雪没睡够Zzz",
+        "pinned_tweet_id": "1915024217449598984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940359123335331842/fNzppWN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6611,
+          "following_count": 154,
+          "like_count": 516,
+          "listed_count": 27,
+          "media_count": 436,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/krims3hIvi",
+        "username": "shuangxue113",
+        "verified": false
+      }
+    ]
+  }
+}

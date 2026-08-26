@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025835652387078265",
+    "created_at": "2026-02-23T07:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025836669749088441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        },
+        {
+          "end": 23,
+          "id": "1757245330641633280",
+          "start": 13,
+          "username": "rinnodoka"
+        },
+        {
+          "end": 35,
+          "id": "1386539491054088198",
+          "start": 24,
+          "username": "yoooyoyooy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025836669749088441",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025836238570480053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ettf_Cabage @rinnodoka @yoooyoyooy 宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025835652387078265",
+        "created_at": "2026-02-23T07:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025836669749088441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            },
+            {
+              "end": 23,
+              "id": "1757245330641633280",
+              "start": 13,
+              "username": "rinnodoka"
+            },
+            {
+              "end": 35,
+              "id": "1386539491054088198",
+              "start": 24,
+              "username": "yoooyoyooy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025836669749088441",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025836238570480053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ettf_Cabage @rinnodoka @yoooyoyooy 宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433833820810211332",
+        "conversation_id": "2025835652387078265",
+        "created_at": "2026-02-23T07:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025836238570480053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1757245330641633280",
+              "start": 12,
+              "username": "rinnodoka"
+            },
+            {
+              "end": 34,
+              "id": "1386539491054088198",
+              "start": 23,
+              "username": "yoooyoyooy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025836238570480053",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025835652387078265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @rinnodoka @yoooyoyooy 羡慕美少女面积"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6289,
+          "following_count": 346,
+          "like_count": 9558,
+          "listed_count": 25,
+          "media_count": 151,
+          "tweet_count": 4987
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 我是白菜！ 双性恋 男孩子！活动范围以泉州／厦门为主 现在是19岁想可爱的183cm 91kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "location": "Airrice space center",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "1996166985517031758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 1837,
+          "like_count": 54882,
+          "listed_count": 9,
+          "media_count": 340,
+          "tweet_count": 14376
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:28:39.000Z",
+        "description": "早安，午安，晚安｜🍥She｜适度远离政治｜遇到困难睡大觉｜本体是猫，喜欢发猫｜🐟 @shizo_nana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "shizo_nana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodoka.world",
+                "end": 23,
+                "expanded_url": "https://nodoka.world",
+                "start": 0,
+                "url": "https://t.co/jsK1fmf0GE"
+              }
+            ]
+          }
+        },
+        "id": "1757245330641633280",
+        "location": "猫猫窝",
+        "name": "ノドか",
+        "pinned_tweet_id": "2016516400265961728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005857943758213120/34Npy49J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 293,
+          "like_count": 14595,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/jsK1fmf0GE",
+        "username": "rinnodoka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜CN/EN/JP｜请在置顶查看自我介绍",
+        "id": "1386539491054088198",
+        "name": "佑",
+        "pinned_tweet_id": "1985683100014428393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 820,
+          "like_count": 223646,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 4534
+        },
+        "username": "yoooyoyooy",
+        "verified": false
+      }
+    ]
+  }
+}

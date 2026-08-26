@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999856841992618263",
+    "created_at": "2025-12-13T23:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T00:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999992163015524437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919006514553225216",
+          "start": 0,
+          "username": "nannianlovca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999992163015524437",
+    "in_reply_to_user_id": "1919006514553225216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999869306201604438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nannianlovca 我去，不早说！x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999856841992618263",
+        "created_at": "2025-12-13T23:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999992163015524437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919006514553225216",
+              "start": 0,
+              "username": "nannianlovca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999992163015524437",
+        "in_reply_to_user_id": "1919006514553225216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999869306201604438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nannianlovca 我去，不早说！x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919006514553225216",
+        "conversation_id": "1999856841992618263",
+        "created_at": "2025-12-13T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999869306201604438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999869306201604438",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999856841992618263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 白袜，可是帝王之征啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 198,
+          "like_count": 3135,
+          "listed_count": 8,
+          "media_count": 63,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T12:30:46.000Z",
+        "description": "",
+        "id": "1919006514553225216",
+        "location": "Ku-Ring-Gai Chase, Sydney",
+        "name": "艾玛(魔女杀手形态)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993597191999696896/2OHTHqOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1071,
+          "like_count": 7427,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 319
+        },
+        "username": "nannianlovca",
+        "verified": false
+      }
+    ]
+  }
+}

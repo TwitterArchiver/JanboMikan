@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995493342604578817"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1995508184442622029",
+    "created_at": "2025-12-01T15:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995508184442622029"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jluiWwyFfD",
+          "end": 124,
+          "expanded_url": "https://x.com/JanboMikan/status/1995508184442622029/photo/1",
+          "media_key": "3_1995493342604578817",
+          "start": 101,
+          "url": "https://t.co/jluiWwyFfD"
+        },
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/JanboMikan/status/1994783414940037519",
+          "start": 125,
+          "url": "https://t.co/Z77ZxGlKBw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995508184442622029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994783414940037519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "穿了裙子结果更方便你了......\n你是变态吗？越挡着你越兴奋？\n有道是「最危险=最安全」。\n所以这次我决定不穿啦，这下没有东西给你掀了，看你怎么办！！\n躺好！睡了！哼！\n\n// 并非没穿ww\n#男娘 https://t.co/jluiWwyFfD https://t.co/Z77ZxGlKBw"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "并非没穿（逃",
+        "height": 1199,
+        "media_key": "3_1995493342604578817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Fqn12aUAEjBPa.jpg",
+        "width": 677
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1994730363160334337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G660sl7bkAEWL1E.jpg",
+        "width": 3626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995493342604578817"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995508184442622029",
+        "created_at": "2025-12-01T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995508184442622029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jluiWwyFfD",
+              "end": 124,
+              "expanded_url": "https://x.com/JanboMikan/status/1995508184442622029/photo/1",
+              "media_key": "3_1995493342604578817",
+              "start": 101,
+              "url": "https://t.co/jluiWwyFfD"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1994783414940037519",
+              "start": 125,
+              "url": "https://t.co/Z77ZxGlKBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995508184442622029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994783414940037519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穿了裙子结果更方便你了......\n你是变态吗？越挡着你越兴奋？\n有道是「最危险=最安全」。\n所以这次我决定不穿啦，这下没有东西给你掀了，看你怎么办！！\n躺好！睡了！哼！\n\n// 并非没穿ww\n#男娘 https://t.co/jluiWwyFfD https://t.co/Z77ZxGlKBw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994730363160334337"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1994783414940037519",
+        "created_at": "2025-11-29T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994783414940037519"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5zSRBH2CF",
+              "end": 80,
+              "expanded_url": "https://x.com/JanboMikan/status/1994783414940037519/photo/1",
+              "media_key": "3_1994730363160334337",
+              "start": 57,
+              "url": "https://t.co/Y5zSRBH2CF"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1994058645076615655",
+              "start": 81,
+              "url": "https://t.co/IXJtdZn6ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994783414940037519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9687,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994058645076615655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次人家明明都说了，但你手还总是不老实！\n得防着你了！\n这次穿上裙子应该就没事了吧？\n躺这边来，晚安！\n\n#男娘 https://t.co/Y5zSRBH2CF https://t.co/IXJtdZn6ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 161,
+          "like_count": 2238,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

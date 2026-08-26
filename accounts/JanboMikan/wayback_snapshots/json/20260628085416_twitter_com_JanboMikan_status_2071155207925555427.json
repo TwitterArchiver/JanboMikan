@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2071097126252421629",
+    "created_at": "2026-06-28T08:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071155207925555427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992627685798137856",
+          "start": 0,
+          "username": "Yuiko114514"
+        },
+        {
+          "end": 29,
+          "id": "1606188226821005312",
+          "start": 13,
+          "username": "YukiFox_5848103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071155207925555427",
+    "in_reply_to_user_id": "1992627685798137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071154469526741002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiko114514 @YukiFox_5848103 是的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071097126252421629",
+        "created_at": "2026-06-28T08:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071155207925555427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992627685798137856",
+              "start": 0,
+              "username": "Yuiko114514"
+            },
+            {
+              "end": 29,
+              "id": "1606188226821005312",
+              "start": 13,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071155207925555427",
+        "in_reply_to_user_id": "1992627685798137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071154469526741002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiko114514 @YukiFox_5848103 是的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992627685798137856",
+        "conversation_id": "2071097126252421629",
+        "created_at": "2026-06-28T08:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071154469526741002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 28,
+              "id": "1606188226821005312",
+              "start": 12,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071154469526741002",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071097126252421629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @YukiFox_5848103 是想的那种手术对吧😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14627,
+          "following_count": 571,
+          "like_count": 20025,
+          "listed_count": 52,
+          "media_count": 335,
+          "tweet_count": 10585
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🌸🍊🐧🐱🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "location": "月ノ森女子学園",
+        "name": "家人",
+        "pinned_tweet_id": "2069700513747378382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042086484711489536/je29RfuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 772,
+          "like_count": 10077,
+          "listed_count": 9,
+          "media_count": 2290,
+          "tweet_count": 6582
+        },
+        "url": "",
+        "username": "Yuiko114514",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-23T07:21:43.000Z",
+        "description": "这里是小白，一只可爱的白狐狸\n女装随缘更新\n最热爱的学科是物理\n永远向往自由\n（我是男孩子）",
+        "id": "1606188226821005312",
+        "name": "🦊Wh1te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056762063670972416/Z4knCr9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 874,
+          "like_count": 32225,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 19063
+        },
+        "url": "",
+        "username": "YukiFox_5848103",
+        "verified": false
+      }
+    ]
+  }
+}

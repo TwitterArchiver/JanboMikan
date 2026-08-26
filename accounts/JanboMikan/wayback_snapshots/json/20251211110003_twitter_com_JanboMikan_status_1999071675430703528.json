@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998953021204738048"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999071675430703528",
+    "created_at": "2025-12-11T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999071675430703528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cl4UyE1Bh2",
+          "end": 176,
+          "expanded_url": "https://x.com/JanboMikan/status/1999071675430703528/photo/1",
+          "media_key": "3_1998953021204738048",
+          "start": 153,
+          "url": "https://t.co/Cl4UyE1Bh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999071675430703528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1500fo感谢（这次500fo用了10天）！\n\n想了想之后2000fo回馈点啥。\n有人可能知道我有每天写日记的习惯。\n不如2000fo就来个发（羞耻）日记吧，大概是开个专贴，前N条评论的大家指定日期（限定范围），我断章取义挑选句子发出来（涉及隐私会打码）。\n不知道有没有人感兴趣，毕竟是很私密的东西😇。 https://t.co/Cl4UyE1Bh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1998953021204738048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G721Lo-aMAA-bfh.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998953021204738048"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999071675430703528",
+        "created_at": "2025-12-11T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999071675430703528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cl4UyE1Bh2",
+              "end": 176,
+              "expanded_url": "https://x.com/JanboMikan/status/1999071675430703528/photo/1",
+              "media_key": "3_1998953021204738048",
+              "start": 153,
+              "url": "https://t.co/Cl4UyE1Bh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999071675430703528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1500fo感谢（这次500fo用了10天）！\n\n想了想之后2000fo回馈点啥。\n有人可能知道我有每天写日记的习惯。\n不如2000fo就来个发（羞耻）日记吧，大概是开个专贴，前N条评论的大家指定日期（限定范围），我断章取义挑选句子发出来（涉及隐私会打码）。\n不知道有没有人感兴趣，毕竟是很私密的东西😇。 https://t.co/Cl4UyE1Bh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 194,
+          "like_count": 2915,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

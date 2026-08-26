@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068723728129953792",
+        "3_2068723904336822272",
+        "3_2068723919713193985"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2068876626071339315",
+    "created_at": "2026-06-22T02:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068876626071339315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1372569867421839368",
+          "start": 23,
+          "username": "yeliu2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVuiGeosMY",
+          "end": 57,
+          "expanded_url": "https://x.com/JanboMikan/status/2068876626071339315/photo/1",
+          "media_key": "3_2068723728129953792",
+          "start": 34,
+          "url": "https://t.co/uVuiGeosMY"
+        },
+        {
+          "display_url": "pic.x.com/uVuiGeosMY",
+          "end": 57,
+          "expanded_url": "https://x.com/JanboMikan/status/2068876626071339315/photo/1",
+          "media_key": "3_2068723904336822272",
+          "start": 34,
+          "url": "https://t.co/uVuiGeosMY"
+        },
+        {
+          "display_url": "pic.x.com/uVuiGeosMY",
+          "end": 57,
+          "expanded_url": "https://x.com/JanboMikan/status/2068876626071339315/photo/1",
+          "media_key": "3_2068723919713193985",
+          "start": 34,
+          "url": "https://t.co/uVuiGeosMY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068876626071339315",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "┏━━━┓\n┃ 🥺🍊 ┃\n┗━━━┛\n\n🪢: @yeliu2025 https://t.co/uVuiGeosMY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3689,
+        "media_key": "3_2068723728129953792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWVRSmbkAAkPv3.jpg",
+        "width": 3056
+      },
+      {
+        "height": 2279,
+        "media_key": "3_2068723904336822272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWVbjBbAAAvxFQ.jpg",
+        "width": 2612
+      },
+      {
+        "height": 3140,
+        "media_key": "3_2068723919713193985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWVccTb0AEfBX_.jpg",
+        "width": 3056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068723728129953792",
+            "3_2068723904336822272",
+            "3_2068723919713193985"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2068876626071339315",
+        "created_at": "2026-06-22T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068876626071339315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1372569867421839368",
+              "start": 23,
+              "username": "yeliu2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVuiGeosMY",
+              "end": 57,
+              "expanded_url": "https://x.com/JanboMikan/status/2068876626071339315/photo/1",
+              "media_key": "3_2068723728129953792",
+              "start": 34,
+              "url": "https://t.co/uVuiGeosMY"
+            },
+            {
+              "display_url": "pic.x.com/uVuiGeosMY",
+              "end": 57,
+              "expanded_url": "https://x.com/JanboMikan/status/2068876626071339315/photo/1",
+              "media_key": "3_2068723904336822272",
+              "start": 34,
+              "url": "https://t.co/uVuiGeosMY"
+            },
+            {
+              "display_url": "pic.x.com/uVuiGeosMY",
+              "end": 57,
+              "expanded_url": "https://x.com/JanboMikan/status/2068876626071339315/photo/1",
+              "media_key": "3_2068723919713193985",
+              "start": 34,
+              "url": "https://t.co/uVuiGeosMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068876626071339315",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "┏━━━┓\n┃ 🥺🍊 ┃\n┗━━━┛\n\n🪢: @yeliu2025 https://t.co/uVuiGeosMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14405,
+          "following_count": 558,
+          "like_count": 19704,
+          "listed_count": 50,
+          "media_count": 327,
+          "tweet_count": 10395
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T15:25:45.000Z",
+        "description": "是菜鸟绳艺摄影爱好者₍˄·͈༝·͈˄*₎◞想要成为经验丰富的s，喜欢cos类型和探索绳艺与拘束～绳屋持续优化中~地标重庆/深圳（璃社），欢迎私信+企鹅联系喵～\n（防消失linnight2026）",
+        "id": "1372569867421839368",
+        "location": "重庆",
+        "name": "林夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008991542787317760/P7O5xoKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 919,
+          "like_count": 6181,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "yeliu2025",
+        "verified": false
+      }
+    ]
+  }
+}

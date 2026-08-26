@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2019344455808217181",
+    "created_at": "2026-02-05T09:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019344455808217181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2497764032",
+          "start": 3,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019344455808217181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019340496716652997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TainiiMikan: 快去看《超时空辉夜姬》，1月原创番霸权，而且有松岗配的小男娘！\n虽然出场时间有限，但只要出镜眼睛就移不开了。\n感觉制作组一定深谙男娘文化，一颦一笑简直完全是精心设计好的。\n有时候觉得某一类男娘角色的魅力就在，姿色上根本就是女孩子，却用充满磁性的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "16_2019339311980900354",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HAYiZ8OacAIhUJp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HAYiZ8OacAIhUJp.mp4"
+          }
+        ],
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2019344455808217181",
+        "created_at": "2026-02-05T09:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019344455808217181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2497764032",
+              "start": 3,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019344455808217181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019340496716652997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TainiiMikan: 快去看《超时空辉夜姬》，1月原创番霸权，而且有松岗配的小男娘！\n虽然出场时间有限，但只要出镜眼睛就移不开了。\n感觉制作组一定深谙男娘文化，一颦一笑简直完全是精心设计好的。\n有时候觉得某一类男娘角色的魅力就在，姿色上根本就是女孩子，却用充满磁性的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2019339311980900354"
+          ]
+        },
+        "author_id": "2497764032",
+        "conversation_id": "2019340496716652997",
+        "created_at": "2026-02-05T09:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019340496716652997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pF1AQM4C4S",
+              "end": 163,
+              "expanded_url": "https://x.com/TainiiMikan/status/2019340496716652997/photo/1",
+              "media_key": "16_2019339311980900354",
+              "start": 140,
+              "url": "https://t.co/pF1AQM4C4S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019340496716652997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "快去看《超时空辉夜姬》，1月原创番霸权，而且有松岗配的小男娘！\n虽然出场时间有限，但只要出镜眼睛就移不开了。\n感觉制作组一定深谙男娘文化，一颦一笑简直完全是精心设计好的。\n有时候觉得某一类男娘角色的魅力就在，姿色上根本就是女孩子，却用充满磁性的男音讲话。\n这种反差萌太戳我了！🥰 https://t.co/pF1AQM4C4S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 304,
+          "like_count": 7673,
+          "listed_count": 23,
+          "media_count": 126,
+          "tweet_count": 3935
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 大号 @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 63,
+          "like_count": 571,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 470
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016103896868127143",
+    "created_at": "2026-01-29T05:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016743823427457395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1351452611715633152",
+          "start": 0,
+          "username": "QinYue_Koto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016743823427457395",
+    "in_reply_to_user_id": "1351452611715633152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016692799312449881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QinYue_Koto 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016103896868127143",
+        "created_at": "2026-01-29T05:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016743823427457395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1351452611715633152",
+              "start": 0,
+              "username": "QinYue_Koto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016743823427457395",
+        "in_reply_to_user_id": "1351452611715633152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016692799312449881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QinYue_Koto 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351452611715633152",
+        "conversation_id": "2016103896868127143",
+        "created_at": "2026-01-29T02:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016692799312449881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016692799312449881",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016103896868127143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 老师好看捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4370,
+          "following_count": 287,
+          "like_count": 7047,
+          "listed_count": 21,
+          "media_count": 117,
+          "tweet_count": 3562
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T08:53:26.000Z",
+        "description": "FPSゲームプレイヤー｜女装｜无糖｜男の娘｜CN:OK EN:20%  JP:日常の交流大丈夫｜フォーろありがとう~｜性癖:长手套 五指袜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SushiKoto",
+                "end": 23,
+                "expanded_url": "https://lit.link/SushiKoto",
+                "start": 0,
+                "url": "https://t.co/7LUntAE9Sa"
+              }
+            ]
+          }
+        },
+        "id": "1351452611715633152",
+        "location": "君の心の中に♡",
+        "name": "琴",
+        "pinned_tweet_id": "1900421811940295102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708170983750934528/ewKRqjQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 753,
+          "like_count": 2766,
+          "listed_count": 12,
+          "media_count": 169,
+          "tweet_count": 1916
+        },
+        "url": "https://t.co/7LUntAE9Sa",
+        "username": "QinYue_Koto",
+        "verified": false
+      }
+    ]
+  }
+}

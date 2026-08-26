@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026335135092937159",
+    "created_at": "2026-02-25T01:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026473603123036224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3292210117",
+          "start": 0,
+          "username": "Ye_Chika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026473603123036224",
+    "in_reply_to_user_id": "3292210117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026335135092937159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ye_Chika 😋🍗覆盾于地，加彘肩上，拔剑切而啖之x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2026335132349763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB79ER-aEAAK265.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026335135092937159",
+        "created_at": "2026-02-25T01:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026473603123036224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3292210117",
+              "start": 0,
+              "username": "Ye_Chika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026473603123036224",
+        "in_reply_to_user_id": "3292210117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026335135092937159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ye_Chika 😋🍗覆盾于地，加彘肩上，拔剑切而啖之x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026335132349763584"
+          ]
+        },
+        "author_id": "3292210117",
+        "conversation_id": "2026335135092937159",
+        "created_at": "2026-02-24T16:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026335135092937159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AjYm8AT0A",
+              "end": 162,
+              "expanded_url": "https://x.com/Ye_Chika/status/2026335135092937159/photo/1",
+              "media_key": "3_2026335132349763584",
+              "start": 139,
+              "url": "https://t.co/6AjYm8AT0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026335135092937159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 833,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实最近很想发图，结果想不到文案\n想着要不然玩几把游戏再说，然后就从八点玩到现在\n有一种别人在偷跑，我在玩游戏的既视感，感觉可以去打总力战（？）\n其实我还是更喜欢前阵子发的那张，这张感觉大腿太肉了，看着感觉有100kg（x）\n还有就是不知道为什么压图把摩尔纹压出来了，感觉一般 https://t.co/6AjYm8AT0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6470,
+          "following_count": 356,
+          "like_count": 9781,
+          "listed_count": 29,
+          "media_count": 153,
+          "tweet_count": 5134
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-25T08:05:32.000Z",
+        "description": "一个路过的女装少年，记不记住其实都不太重要啦",
+        "id": "3292210117",
+        "location": "初星学园",
+        "name": "叶千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911481242920386561/9928KjJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7717,
+          "following_count": 425,
+          "like_count": 2919,
+          "listed_count": 32,
+          "media_count": 394,
+          "tweet_count": 1686
+        },
+        "username": "Ye_Chika",
+        "verified": false
+      }
+    ]
+  }
+}

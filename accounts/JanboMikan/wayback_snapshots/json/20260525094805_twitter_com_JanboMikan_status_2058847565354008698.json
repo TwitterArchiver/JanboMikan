@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058748260270166401",
+    "created_at": "2026-05-25T09:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058847565354008698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        },
+        {
+          "end": 23,
+          "id": "1499442786453663745",
+          "start": 14,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058847565354008698",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058831505028489631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing @Ted_yeet 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058748260270166401",
+        "created_at": "2026-05-25T09:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058847565354008698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            },
+            {
+              "end": 23,
+              "id": "1499442786453663745",
+              "start": 14,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058847565354008698",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058831505028489631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing @Ted_yeet 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527114974841012225",
+        "conversation_id": "2058748260270166401",
+        "created_at": "2026-05-25T08:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058831505028489631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1499442786453663745",
+              "start": 12,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058831505028489631",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058831375965536274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @Ted_yeet 下个月去约你（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13219,
+          "following_count": 522,
+          "like_count": 18133,
+          "listed_count": 45,
+          "media_count": 288,
+          "tweet_count": 9477
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨可能友跨丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "卡兹屯口垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048206160784961536/y1rJhNIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 735,
+          "like_count": 6538,
+          "listed_count": 15,
+          "media_count": 283,
+          "tweet_count": 6329
+        },
+        "username": "Kiger_YuQing",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5575,
+          "following_count": 1725,
+          "like_count": 51135,
+          "listed_count": 18,
+          "media_count": 509,
+          "tweet_count": 11884
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

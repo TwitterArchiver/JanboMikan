@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2052569172085805422",
+    "created_at": "2026-05-08T11:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052709825847742953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "449621175",
+          "start": 0,
+          "username": "JayLai_1234"
+        },
+        {
+          "end": 22,
+          "id": "1431080795536433154",
+          "start": 13,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052709825847742953",
+    "in_reply_to_user_id": "449621175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052669437103542454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayLai_1234 @yuluoqwq 神秘液体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2052569172085805422",
+        "created_at": "2026-05-08T11:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052709825847742953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "449621175",
+              "start": 0,
+              "username": "JayLai_1234"
+            },
+            {
+              "end": 22,
+              "id": "1431080795536433154",
+              "start": 13,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052709825847742953",
+        "in_reply_to_user_id": "449621175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052669437103542454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayLai_1234 @yuluoqwq 神秘液体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "449621175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052569172085805422",
+        "created_at": "2026-05-08T08:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052669437103542454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052669437103542454",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052569172085805422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuluoqwq 細說冰紅茶😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12745,
+          "following_count": 495,
+          "like_count": 17192,
+          "listed_count": 43,
+          "media_count": 258,
+          "tweet_count": 8793
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-29T09:18:34.000Z",
+        "description": "",
+        "id": "449621175",
+        "name": "Jay",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 62,
+          "like_count": 28738,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "JayLai_1234",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 1630,
+          "like_count": 41805,
+          "listed_count": 13,
+          "media_count": 269,
+          "tweet_count": 5050
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024438823372148939",
+    "created_at": "2026-02-20T13:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024832007633813688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390153170752442369",
+          "start": 0,
+          "username": "lingfengmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024832007633813688",
+    "in_reply_to_user_id": "1390153170752442369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024820353135239189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingfengmiao 推号多少我要关注，然后快进到面基（？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-20T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024832007633813688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390153170752442369",
+              "start": 0,
+              "username": "lingfengmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024832007633813688",
+        "in_reply_to_user_id": "1390153170752442369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024820353135239189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingfengmiao 推号多少我要关注，然后快进到面基（？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390153170752442369",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-20T12:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024820353135239189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024820353135239189",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024438823372148939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 有没有可能你爸是小男娘大手子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6059,
+          "following_count": 336,
+          "like_count": 9322,
+          "listed_count": 25,
+          "media_count": 148,
+          "tweet_count": 4867
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T03:55:35.000Z",
+        "description": "一个喜欢长期戴锁的变态。有绿帽癖，喜欢ntr，想把女朋友开发好献主，梦想是成为绿帽锁奴。喜欢4i，但是女朋友不愿意……\n@SharonC39400186🚀推荐我自己长期使用的喵叽VPN加速器 高速稳定 强推！🔗https://t.co/Xzdk5TYIb3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "SharonC39400186"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwwl.sogood9.com/#/regist",
+                "end": 128,
+                "expanded_url": "https://wwwwwwl.sogood9.com/#/regist",
+                "start": 105,
+                "url": "https://t.co/Xzdk5TYIb3"
+              }
+            ]
+          }
+        },
+        "id": "1390153170752442369",
+        "location": "距离你0.85km",
+        "name": "森亚露露卡",
+        "pinned_tweet_id": "2014703732370579664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020912709001412609/HyzodGhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10676,
+          "following_count": 314,
+          "like_count": 13870,
+          "listed_count": 33,
+          "media_count": 235,
+          "tweet_count": 15096
+        },
+        "username": "lingfengmiao",
+        "verified": false
+      }
+    ]
+  }
+}

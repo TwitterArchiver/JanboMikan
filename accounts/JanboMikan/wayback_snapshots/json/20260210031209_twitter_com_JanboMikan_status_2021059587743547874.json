@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021057691431702634",
+    "created_at": "2026-02-10T03:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T04:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021059587743547874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774477637534281728",
+          "start": 0,
+          "username": "GeimoGeimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021059587743547874",
+    "in_reply_to_user_id": "1774477637534281728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021057691431702634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeimoGeimo 妈妈🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021057688139071492",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAw9QmQaAAQsqfN.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021057691431702634",
+        "created_at": "2026-02-10T03:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021059587743547874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774477637534281728",
+              "start": 0,
+              "username": "GeimoGeimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021059587743547874",
+        "in_reply_to_user_id": "1774477637534281728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021057691431702634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeimoGeimo 妈妈🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021057688139071492"
+          ]
+        },
+        "author_id": "1774477637534281728",
+        "conversation_id": "2021057691431702634",
+        "created_at": "2026-02-10T03:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021057691431702634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XA6P0ARwzq",
+              "end": 27,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2021057691431702634/photo/1",
+              "media_key": "3_2021057688139071492",
+              "start": 4,
+              "url": "https://t.co/XA6P0ARwzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021057691431702634",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "💕💕💕 https://t.co/XA6P0ARwzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5083,
+          "following_count": 316,
+          "like_count": 8221,
+          "listed_count": 23,
+          "media_count": 133,
+          "tweet_count": 4203
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/臭打游戏的，随缘更新照片/偶尔发点画/学马仕邦烤ba9都沾点/PC主玩hd2 Thefinals 黑环 mr",
+        "id": "1774477637534281728",
+        "location": "东百读研🐶",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004756239209951232/hqctl2-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2949,
+          "following_count": 313,
+          "like_count": 9444,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 1180
+        },
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

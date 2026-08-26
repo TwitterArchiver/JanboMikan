@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2068287752135667993",
+    "created_at": "2026-06-20T17:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068380482786771304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1801821349775900673",
+          "start": 0,
+          "username": "1badbamboo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068380482786771304",
+    "in_reply_to_user_id": "1801821349775900673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068325434555867313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1badbamboo 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2068287752135667993",
+        "created_at": "2026-06-20T17:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068380482786771304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1801821349775900673",
+              "start": 0,
+              "username": "1badbamboo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068380482786771304",
+        "in_reply_to_user_id": "1801821349775900673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068325434555867313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1badbamboo 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801821349775900673",
+        "conversation_id": "2068287752135667993",
+        "created_at": "2026-06-20T13:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068325434555867313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068325434555867313",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068287752135667993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan I want to make love with you as a \"S\"er."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14298,
+          "following_count": 557,
+          "like_count": 19632,
+          "listed_count": 50,
+          "media_count": 324,
+          "tweet_count": 10341
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T03:38:11.000Z",
+        "description": "",
+        "id": "1801821349775900673",
+        "name": "great ab",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801828554503819264/sAPSlys0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 310,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "1badbamboo",
+        "verified": false
+      }
+    ]
+  }
+}

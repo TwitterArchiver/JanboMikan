@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2088219079186493717",
+    "created_at": "2026-08-15T06:02:57.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088506712408150399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948542333068476420",
+          "start": 0,
+          "username": "MrJie_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088506712408150399",
+    "in_reply_to_user_id": "1948542333068476420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088478749432094891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrJie_Official 世袭太招笑了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2088219079186493717",
+        "created_at": "2026-08-15T06:02:57.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088506712408150399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948542333068476420",
+              "start": 0,
+              "username": "MrJie_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088506712408150399",
+        "in_reply_to_user_id": "1948542333068476420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088478749432094891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrJie_Official 世袭太招笑了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948542333068476420",
+        "conversation_id": "2088219079186493717",
+        "created_at": "2026-08-15T04:11:50.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088478749432094891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088478749432094891",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088219079186493717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 哇还有世袭制"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2088506712408150399",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16919,
+          "following_count": 626,
+          "like_count": 22212,
+          "listed_count": 54,
+          "media_count": 399,
+          "tweet_count": 11901
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T00:34:39.000Z",
+        "description": "16岁 是高中生\n喜欢很多很杂的事情，航天、二次元、音游、化学等等\n希望可以结识很多朋友喵",
+        "id": "1948542333068476420",
+        "is_identity_verified": false,
+        "location": "China & Kanagawa",
+        "most_recent_tweet_id": "2088505916706697592",
+        "name": "Mr.Jie",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948542333068476420/1777611338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948542515952713732/kQ8wdBte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 73,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "MrJie_Official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

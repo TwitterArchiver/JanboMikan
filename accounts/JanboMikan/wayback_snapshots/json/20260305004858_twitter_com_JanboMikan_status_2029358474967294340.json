@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029115394863304704"
+      ],
+      "media_source_tweet_id": [
+        "2029149859471872315"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029358474967294340",
+    "created_at": "2026-03-05T00:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T01:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029358474967294340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJTLIE4bzN",
+          "end": 139,
+          "expanded_url": "https://x.com/JanboMikan/status/2029149859471872315/photo/1",
+          "media_key": "3_2029115394863304704",
+          "start": 116,
+          "url": "https://t.co/pJTLIE4bzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029358474967294340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029149859471872315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 在实验室一边看论文一边吃外卖，吃到一半尿急，也没多想直接冲进洗手间了。\n还在门口偶遇导师了。\n站在小便池前才反应过来，居然忘记把筷子放下了。\n导师站在隔壁看着我手中两根木棍，那惊恐的眼神根本藏不住。 https://t.co/pJTLIE4bzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2029115394863304704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjds28akAA_Xvj.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029115394863304704"
+          ],
+          "media_source_tweet_id": [
+            "2029149859471872315"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029358474967294340",
+        "created_at": "2026-03-05T00:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029358474967294340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJTLIE4bzN",
+              "end": 139,
+              "expanded_url": "https://x.com/JanboMikan/status/2029149859471872315/photo/1",
+              "media_key": "3_2029115394863304704",
+              "start": 116,
+              "url": "https://t.co/pJTLIE4bzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029358474967294340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029149859471872315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 在实验室一边看论文一边吃外卖，吃到一半尿急，也没多想直接冲进洗手间了。\n还在门口偶遇导师了。\n站在小便池前才反应过来，居然忘记把筷子放下了。\n导师站在隔壁看着我手中两根木棍，那惊恐的眼神根本藏不住。 https://t.co/pJTLIE4bzN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029115394863304704"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029149859471872315",
+        "created_at": "2026-03-04T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029149859471872315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJTLIE4bzN",
+              "end": 123,
+              "expanded_url": "https://x.com/JanboMikan/status/2029149859471872315/photo/1",
+              "media_key": "3_2029115394863304704",
+              "start": 100,
+              "url": "https://t.co/pJTLIE4bzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029149859471872315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 28840,
+          "like_count": 373,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "在实验室一边看论文一边吃外卖，吃到一半尿急，也没多想直接冲进洗手间了。\n还在门口偶遇导师了。\n站在小便池前才反应过来，居然忘记把筷子放下了。\n导师站在隔壁看着我手中两根木棍，那惊恐的眼神根本藏不住。 https://t.co/pJTLIE4bzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7217,
+          "following_count": 385,
+          "like_count": 10623,
+          "listed_count": 33,
+          "media_count": 164,
+          "tweet_count": 5603
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

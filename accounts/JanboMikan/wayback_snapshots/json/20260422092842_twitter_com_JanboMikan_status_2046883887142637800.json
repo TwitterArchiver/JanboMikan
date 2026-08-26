@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046758598517342695",
+    "created_at": "2026-04-22T09:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046883887142637800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "neneneko_yknya"
+        },
+        {
+          "end": 25,
+          "id": "1431080795536433154",
+          "start": 16,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046883887142637800",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046817839915692099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neneneko_yknya @yuluoqwq 这对吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046758598517342695",
+        "created_at": "2026-04-22T09:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046883887142637800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "neneneko_yknya"
+            },
+            {
+              "end": 25,
+              "id": "1431080795536433154",
+              "start": 16,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046883887142637800",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046817839915692099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neneneko_yknya @yuluoqwq 这对吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753348784573001728",
+        "conversation_id": "2046758598517342695",
+        "created_at": "2026-04-22T05:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046817839915692099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046817839915692099",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046758598517342695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuluoqwq 赶紧去医院开个甲基巴按摩排毒一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11456,
+          "following_count": 465,
+          "like_count": 16048,
+          "listed_count": 43,
+          "media_count": 233,
+          "tweet_count": 8127
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "胡辣汤、本当に美味しいですね！\n恁离开河南的那一天偷走了我的心，我拾遍南北的井盖，却再也探不到你的消息\n童厕猎奇蛆/meme/偏神的兔友\n家人们点点关注",
+        "id": "1753348784573001728",
+        "location": "河南",
+        "name": "忧郁の河南人(有fo必回诚信河南)",
+        "pinned_tweet_id": "1986454569451508127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039537276670373888/yLRejd1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3889,
+          "following_count": 1891,
+          "like_count": 75241,
+          "listed_count": 13,
+          "media_count": 2769,
+          "tweet_count": 15272
+        },
+        "username": "neneneko_yknya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 1566,
+          "like_count": 40854,
+          "listed_count": 13,
+          "media_count": 264,
+          "tweet_count": 4911
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

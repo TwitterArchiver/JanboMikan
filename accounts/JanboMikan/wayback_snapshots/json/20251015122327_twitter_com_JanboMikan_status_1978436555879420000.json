@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978389177642168516",
+    "created_at": "2025-10-15T12:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978436555879420000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786090769079754753",
+          "start": 0,
+          "username": "eSrAreTC73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978436555879420000",
+    "in_reply_to_user_id": "1786090769079754753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978389177642168516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eSrAreTC73 阳光下低垂的眼眸...好美~！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978389169937448960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Smd9WaAAAh7Wh.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978389177642168516",
+        "created_at": "2025-10-15T12:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978436555879420000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786090769079754753",
+              "start": 0,
+              "username": "eSrAreTC73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978436555879420000",
+        "in_reply_to_user_id": "1786090769079754753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978389177642168516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eSrAreTC73 阳光下低垂的眼眸...好美~！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978389169937448960"
+          ]
+        },
+        "author_id": "1786090769079754753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1978389177642168516",
+        "created_at": "2025-10-15T09:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T10:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978389177642168516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "若葉睦"
+            },
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbH5XUPDzR",
+              "end": 51,
+              "expanded_url": "https://x.com/eSrAreTC73/status/1978389177642168516/photo/1",
+              "media_key": "3_1978389169937448960",
+              "start": 28,
+              "url": "https://t.co/tbH5XUPDzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978389177642168516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#若葉睦 #AveMujica #バンドリ #MyGO https://t.co/tbH5XUPDzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T17:50:08.000Z",
+        "description": "没人看吗",
+        "id": "1786090769079754753",
+        "location": "火车上",
+        "name": "遗忘之湖",
+        "pinned_tweet_id": "1941554975035039924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970869860252131329/HewCKi_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 569,
+          "like_count": 3888,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 2848
+        },
+        "username": "eSrAreTC73",
+        "verified": false
+      }
+    ]
+  }
+}

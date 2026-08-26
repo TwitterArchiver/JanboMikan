@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2042920605775729036",
+    "created_at": "2026-04-12T00:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T01:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043123663059447971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1646014497600204801",
+          "start": 0,
+          "username": "ming5feng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043123663059447971",
+    "in_reply_to_user_id": "1646014497600204801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043013457151430805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming5feng 来当我室友😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2042920605775729036",
+        "created_at": "2026-04-12T00:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T01:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043123663059447971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1646014497600204801",
+              "start": 0,
+              "username": "ming5feng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043123663059447971",
+        "in_reply_to_user_id": "1646014497600204801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043013457151430805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming5feng 来当我室友😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646014497600204801",
+        "conversation_id": "2042920605775729036",
+        "created_at": "2026-04-11T17:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043013457151430805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043013457151430805",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042920605775729036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 羡慕室友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10707,
+          "following_count": 448,
+          "like_count": 14972,
+          "listed_count": 39,
+          "media_count": 215,
+          "tweet_count": 7636
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:57:04.000Z",
+        "description": "坐标东南省会，性别男，清水，互关请私戳。全平台不同名。互fo欢迎，感谢喜欢☀️。寄拍/定制/原味ok",
+        "id": "1646014497600204801",
+        "name": "铭风风风风风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724758849624887296/4XzGcxjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11613,
+          "following_count": 1187,
+          "like_count": 7753,
+          "listed_count": 59,
+          "media_count": 288,
+          "tweet_count": 3550
+        },
+        "username": "ming5feng",
+        "verified": false
+      }
+    ]
+  }
+}

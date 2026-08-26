@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2083097225765548216",
+    "created_at": "2026-07-31T13:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083175909729988983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1373935948187066371",
+          "start": 0,
+          "username": "Shiroyurl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083175909729988983",
+    "in_reply_to_user_id": "1373935948187066371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083152233311653990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiroyurl 爆掉了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2083097225765548216",
+        "created_at": "2026-07-31T13:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083175909729988983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1373935948187066371",
+              "start": 0,
+              "username": "Shiroyurl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083175909729988983",
+        "in_reply_to_user_id": "1373935948187066371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083152233311653990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiroyurl 爆掉了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373935948187066371",
+        "conversation_id": "2083097225765548216",
+        "created_at": "2026-07-31T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083152233311653990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1372569867421839368",
+              "start": 12,
+              "username": "yeliu2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083152233311653990",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083097225765548216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yeliu2025 勒完之後那兩個球還在嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15840,
+          "following_count": 612,
+          "like_count": 21595,
+          "listed_count": 52,
+          "media_count": 375,
+          "tweet_count": 11468
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T09:54:03.000Z",
+        "description": "",
+        "id": "1373935948187066371",
+        "name": "Anson chan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 262,
+          "like_count": 81623,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "Shiroyurl",
+        "verified": false
+      }
+    ]
+  }
+}

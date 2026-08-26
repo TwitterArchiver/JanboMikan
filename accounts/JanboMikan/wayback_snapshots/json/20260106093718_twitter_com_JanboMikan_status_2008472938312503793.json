@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008365711278707189",
+    "created_at": "2026-01-06T09:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008472938312503793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771928798960791552",
+          "start": 0,
+          "username": "sisisisisijie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008472938312503793",
+    "in_reply_to_user_id": "1771928798960791552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008365711278707189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisisisisijie 透😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2008365692454883328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98l9N3a0AADv39.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2008365692446453760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98l9N1aMAASE4o.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2008365670283759616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98l77RaUAAdBY1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 242,
+        "media_key": "3_2008365692467507205",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98l9N6bcAUmnrv.jpg",
+        "width": 213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008365711278707189",
+        "created_at": "2026-01-06T09:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008472938312503793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771928798960791552",
+              "start": 0,
+              "username": "sisisisisijie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008472938312503793",
+        "in_reply_to_user_id": "1771928798960791552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008365711278707189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisisisisijie 透😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008365692454883328",
+            "3_2008365692446453760",
+            "3_2008365670283759616",
+            "3_2008365692467507205"
+          ]
+        },
+        "author_id": "1771928798960791552",
+        "conversation_id": "2008365711278707189",
+        "created_at": "2026-01-06T02:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008365711278707189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q34648HDkD",
+              "end": 23,
+              "expanded_url": "https://x.com/sisisisisijie/status/2008365711278707189/photo/1",
+              "media_key": "3_2008365692454883328",
+              "start": 0,
+              "url": "https://t.co/q34648HDkD"
+            },
+            {
+              "display_url": "pic.x.com/q34648HDkD",
+              "end": 23,
+              "expanded_url": "https://x.com/sisisisisijie/status/2008365711278707189/photo/1",
+              "media_key": "3_2008365692446453760",
+              "start": 0,
+              "url": "https://t.co/q34648HDkD"
+            },
+            {
+              "display_url": "pic.x.com/q34648HDkD",
+              "end": 23,
+              "expanded_url": "https://x.com/sisisisisijie/status/2008365711278707189/photo/1",
+              "media_key": "3_2008365670283759616",
+              "start": 0,
+              "url": "https://t.co/q34648HDkD"
+            },
+            {
+              "display_url": "pic.x.com/q34648HDkD",
+              "end": 23,
+              "expanded_url": "https://x.com/sisisisisijie/status/2008365711278707189/photo/1",
+              "media_key": "3_2008365692467507205",
+              "start": 0,
+              "url": "https://t.co/q34648HDkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008365711278707189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q34648HDkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 247,
+          "like_count": 5076,
+          "listed_count": 13,
+          "media_count": 91,
+          "tweet_count": 2435
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T15:55:29.000Z",
+        "description": "11",
+        "id": "1771928798960791552",
+        "location": "American",
+        "name": "思杰sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976912739277918208/-rChJ_Py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 58,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "sisisisisijie",
+        "verified": false
+      }
+    ]
+  }
+}

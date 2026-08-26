@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2065421429907325096",
+    "created_at": "2026-06-13T03:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065640589958557952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378681079876313090",
+          "start": 0,
+          "username": "Ayane014081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065640589958557952",
+    "in_reply_to_user_id": "1378681079876313090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065421429907325096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayane014081 涂了润滑油😱😱😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2065421425654333440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnZ1_ObgAA-wSP.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2065421429907325096",
+        "created_at": "2026-06-13T03:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065640589958557952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378681079876313090",
+              "start": 0,
+              "username": "Ayane014081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065640589958557952",
+        "in_reply_to_user_id": "1378681079876313090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065421429907325096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayane014081 涂了润滑油😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065421425654333440"
+          ]
+        },
+        "author_id": "1378681079876313090",
+        "conversation_id": "2065421429907325096",
+        "created_at": "2026-06-12T13:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065421429907325096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eL3UTaadc6",
+              "end": 53,
+              "expanded_url": "https://x.com/Ayane014081/status/2065421429907325096/photo/1",
+              "media_key": "3_2065421425654333440",
+              "start": 30,
+              "url": "https://t.co/eL3UTaadc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065421429907325096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9029,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下车的时候被路边的小男孩盯着看了\n是因为我的袜子会反光嘛🥵 https://t.co/eL3UTaadc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14186,
+          "following_count": 543,
+          "like_count": 19309,
+          "listed_count": 48,
+          "media_count": 315,
+          "tweet_count": 10153
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T12:09:27.000Z",
+        "description": "祝你从别人身上想起我～\n已有对象🥰",
+        "id": "1378681079876313090",
+        "name": "绫音SakuyaAyane",
+        "pinned_tweet_id": "1395608207729434634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923311953403092992/ukN2DR-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4046,
+          "following_count": 954,
+          "like_count": 59978,
+          "listed_count": 18,
+          "media_count": 153,
+          "tweet_count": 3340
+        },
+        "username": "Ayane014081",
+        "verified": false
+      }
+    ]
+  }
+}

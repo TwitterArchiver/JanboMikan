@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033498523404992671",
+    "created_at": "2026-03-16T13:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033540380529205319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814644991236714497",
+          "start": 0,
+          "username": "alessa_choc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033540380529205319",
+    "in_reply_to_user_id": "1814644991236714497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033526563153809475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alessa_choc 多润滑😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033498523404992671",
+        "created_at": "2026-03-16T13:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033540380529205319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814644991236714497",
+              "start": 0,
+              "username": "alessa_choc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033540380529205319",
+        "in_reply_to_user_id": "1814644991236714497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033526563153809475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alessa_choc 多润滑😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814644991236714497",
+        "conversation_id": "2033498523404992671",
+        "created_at": "2026-03-16T12:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033526563153809475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033526563153809475",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033498523404992671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这么好插的吗，我不信😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8460,
+          "following_count": 404,
+          "like_count": 11773,
+          "listed_count": 33,
+          "media_count": 178,
+          "tweet_count": 6308
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T12:54:31.000Z",
+        "description": "可以叫我娟娟 | 女装萌新 | 澳门水硕留子 | \n航空航天及舰船摄影师 | 自宅警备都指挥使 | \n173cm 60kg | 减肥中 | 学习料理中 | \n\n📷:SONY A7M4 With SONY 28-60, 200-600G\n\n    提问箱: https://t.co/GYUaQXdsLU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alessathecookin",
+                "end": 151,
+                "expanded_url": "http://ngl.link/alessathecookin",
+                "start": 128,
+                "url": "https://t.co/GYUaQXdsLU"
+              }
+            ]
+          }
+        },
+        "id": "1814644991236714497",
+        "location": "Macau, China/ Wuxi, China",
+        "name": "不会做饭的Alessa",
+        "pinned_tweet_id": "2032750428207853996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000382019856179200/o_Me2ki5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 169,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 349
+        },
+        "username": "alessa_choc",
+        "verified": false
+      }
+    ]
+  }
+}

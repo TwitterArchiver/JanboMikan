@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2056901527596564797",
+    "created_at": "2026-05-20T01:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056904205462585636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1408736706338033668",
+          "start": 0,
+          "username": "ACE_yumoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056904205462585636",
+    "in_reply_to_user_id": "1408736706338033668",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056901527596564797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACE_yumoooo 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056901520571166720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuVCPea8AAFZtR.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2056901527596564797",
+        "created_at": "2026-05-20T01:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056904205462585636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1408736706338033668",
+              "start": 0,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056904205462585636",
+        "in_reply_to_user_id": "1408736706338033668",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056901527596564797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACE_yumoooo 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056901520571166720"
+          ]
+        },
+        "author_id": "1408736706338033668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2056901527596564797",
+        "created_at": "2026-05-20T00:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056901527596564797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "男娘"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤ"
+            },
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "雪糕"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtAebCQSnc",
+              "end": 130,
+              "expanded_url": "https://x.com/ACE_yumoooo/status/2056901527596564797/photo/1",
+              "media_key": "3_2056901520571166720",
+              "start": 107,
+              "url": "https://t.co/jtAebCQSnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056901527596564797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人的520：约会→吃饭→看电影\n我的520：化妆→凹造型→拍一大堆\n照片→修一大堆图→编辑文案发帖子\n（衣服有点短抱歉）\n#男娘 #cosplayㅤㅤㅤㅤㅤㅤ \n#可爱的男孩子 #可爱の男孩子 \n#雪糕 #白丝 https://t.co/jtAebCQSnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13071,
+          "following_count": 505,
+          "like_count": 17811,
+          "listed_count": 44,
+          "media_count": 277,
+          "tweet_count": 9239
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 205,
+          "like_count": 1517,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 253
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

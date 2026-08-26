@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2038785102491345193",
+    "created_at": "2026-03-31T04:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038838790450720847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897366919797506048",
+          "start": 0,
+          "username": "Tsukiha3himizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038838790450720847",
+    "in_reply_to_user_id": "1897366919797506048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038785102491345193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukiha3himizu 可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2878,
+        "media_key": "3_2038785095411421184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEs4Pglb0AAHChk.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2038785102491345193",
+        "created_at": "2026-03-31T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038838790450720847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897366919797506048",
+              "start": 0,
+              "username": "Tsukiha3himizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038838790450720847",
+        "in_reply_to_user_id": "1897366919797506048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038785102491345193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukiha3himizu 可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038785095411421184"
+          ]
+        },
+        "author_id": "1897366919797506048",
+        "conversation_id": "2038785102491345193",
+        "created_at": "2026-03-31T01:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038785102491345193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Reg8fLVnS4",
+              "end": 90,
+              "expanded_url": "https://x.com/Tsukiha3himizu/status/2038785102491345193/photo/1",
+              "media_key": "3_2038785095411421184",
+              "start": 67,
+              "url": "https://t.co/Reg8fLVnS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038785102491345193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1527,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一百天臭脚挑战Day 7\n打光好烂……话说大家会觉得一直拍这种重复度太高吗？不过想必都是关注几百上千个擦边博主的也不会专门盯着我看） https://t.co/Reg8fLVnS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9769,
+          "following_count": 423,
+          "like_count": 13724,
+          "listed_count": 38,
+          "media_count": 198,
+          "tweet_count": 7073
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T19:22:03.000Z",
+        "description": "Cis-Male♂ | Crossdresser/Cosplayer/Programmer | LLM & System | 🇨🇳🇺🇸🇯🇵🉑 | Symbol Player | Dark side: @MaercNirikAm | 无🚪不接推广不线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "MaercNirikAm"
+              }
+            ]
+          }
+        },
+        "id": "1897366919797506048",
+        "location": "United States",
+        "name": "月羽Tsukiha",
+        "pinned_tweet_id": "2008764070749417481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976808627496189952/CQtECrCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11953,
+          "following_count": 593,
+          "like_count": 12107,
+          "listed_count": 53,
+          "media_count": 225,
+          "tweet_count": 793
+        },
+        "username": "Tsukiha3himizu",
+        "verified": true
+      }
+    ]
+  }
+}

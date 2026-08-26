@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2014288829461758293",
+    "created_at": "2026-01-22T15:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014358408187785638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014358408187785638",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014288829461758293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 我还以为发生了什么\n原来是我爷爷关注的主播更新了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2014288824696971264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QxA48aIAAzcoE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2014288829461758293",
+        "created_at": "2026-01-22T15:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014358408187785638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014358408187785638",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014288829461758293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 我还以为发生了什么\n原来是我爷爷关注的主播更新了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014288824696971264"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2014288829461758293",
+        "created_at": "2026-01-22T10:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014288829461758293"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53q5g6Er40",
+              "end": 49,
+              "expanded_url": "https://x.com/mingji_A/status/2014288829461758293/photo/1",
+              "media_key": "3_2014288824696971264",
+              "start": 26,
+              "url": "https://t.co/53q5g6Er40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014288829461758293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1234,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你的隐晦我实在读不懂，你还是发点淫秽的吧😋\n#男娘 https://t.co/53q5g6Er40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 280,
+          "like_count": 6476,
+          "listed_count": 19,
+          "media_count": 111,
+          "tweet_count": 3219
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 1510,
+          "like_count": 68325,
+          "listed_count": 8,
+          "media_count": 107,
+          "tweet_count": 13049
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

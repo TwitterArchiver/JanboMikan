@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2006414235648323988",
+    "created_at": "2026-01-02T00:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T01:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006883864451694953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943699809933963264",
+          "start": 0,
+          "username": "SetsuGlow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006883864451694953",
+    "in_reply_to_user_id": "1943699809933963264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006414235648323988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SetsuGlow 黑巧prpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2006414231101640704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g3HN0aEAALWHP.jpg",
+        "width": 1844
+      },
+      {
+        "height": 3472,
+        "media_key": "3_2006414230497669123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g3HLkaMAM49e_.jpg",
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2006414235648323988",
+        "created_at": "2026-01-02T00:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T01:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006883864451694953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943699809933963264",
+              "start": 0,
+              "username": "SetsuGlow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006883864451694953",
+        "in_reply_to_user_id": "1943699809933963264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006414235648323988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SetsuGlow 黑巧prpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006414231101640704",
+            "3_2006414230497669123"
+          ]
+        },
+        "author_id": "1943699809933963264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006414235648323988",
+        "created_at": "2025-12-31T17:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006414235648323988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YK10wtAS2M",
+              "end": 37,
+              "expanded_url": "https://x.com/SetsuGlow/status/2006414235648323988/photo/1",
+              "media_key": "3_2006414231101640704",
+              "start": 14,
+              "url": "https://t.co/YK10wtAS2M"
+            },
+            {
+              "display_url": "pic.x.com/YK10wtAS2M",
+              "end": 37,
+              "expanded_url": "https://x.com/SetsuGlow/status/2006414235648323988/photo/1",
+              "media_key": "3_2006414230497669123",
+              "start": 14,
+              "url": "https://t.co/YK10wtAS2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006414235648323988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追更两张新年第一天的黑丝！ https://t.co/YK10wtAS2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 232,
+          "like_count": 4753,
+          "listed_count": 12,
+          "media_count": 86,
+          "tweet_count": 2235
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:52:13.000Z",
+        "description": "|cosplay / JK•LO / 碎碎念 / 清水推 /♂️|                            \n谢谢你的喜欢和关注 / 老二刺螈 / 错峰单休社畜 / 逞强i人 / 骗子勿扰 / 非同 / 拒键政 /",
+        "id": "1943699809933963264",
+        "location": "时间有限的白日梦碎片",
+        "name": "雪灯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968861885132050432/puesYqW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 470,
+          "like_count": 9030,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2518
+        },
+        "username": "SetsuGlow",
+        "verified": true
+      }
+    ]
+  }
+}

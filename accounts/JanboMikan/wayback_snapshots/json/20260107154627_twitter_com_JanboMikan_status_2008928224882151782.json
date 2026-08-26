@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008722674407927907",
+    "created_at": "2026-01-07T15:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008928224882151782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598894898283184129",
+          "start": 0,
+          "username": "Xitelos_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008928224882151782",
+    "in_reply_to_user_id": "1598894898283184129",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008722674407927907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xitelos_C hso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2008722665029406721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BqnwVakAEq0Pm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008722654656913408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BqnJsa4AAhEND.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008722665545322496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BqnyQa0AAZAh1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008722654573064192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BqnJYbcAAxb_v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008722674407927907",
+        "created_at": "2026-01-07T15:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008928224882151782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598894898283184129",
+              "start": 0,
+              "username": "Xitelos_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008928224882151782",
+        "in_reply_to_user_id": "1598894898283184129",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008722674407927907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xitelos_C hso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008722665029406721",
+            "3_2008722654656913408",
+            "3_2008722665545322496",
+            "3_2008722654573064192"
+          ]
+        },
+        "author_id": "1598894898283184129",
+        "conversation_id": "2008722674407927907",
+        "created_at": "2026-01-07T02:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008722674407927907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRGHfw6RIE",
+              "end": 49,
+              "expanded_url": "https://x.com/Xitelos_C/status/2008722674407927907/photo/1",
+              "media_key": "3_2008722665029406721",
+              "start": 26,
+              "url": "https://t.co/PRGHfw6RIE"
+            },
+            {
+              "display_url": "pic.x.com/PRGHfw6RIE",
+              "end": 49,
+              "expanded_url": "https://x.com/Xitelos_C/status/2008722674407927907/photo/1",
+              "media_key": "3_2008722654656913408",
+              "start": 26,
+              "url": "https://t.co/PRGHfw6RIE"
+            },
+            {
+              "display_url": "pic.x.com/PRGHfw6RIE",
+              "end": 49,
+              "expanded_url": "https://x.com/Xitelos_C/status/2008722674407927907/photo/1",
+              "media_key": "3_2008722665545322496",
+              "start": 26,
+              "url": "https://t.co/PRGHfw6RIE"
+            },
+            {
+              "display_url": "pic.x.com/PRGHfw6RIE",
+              "end": 49,
+              "expanded_url": "https://x.com/Xitelos_C/status/2008722674407927907/photo/1",
+              "media_key": "3_2008722654573064192",
+              "start": 26,
+              "url": "https://t.co/PRGHfw6RIE"
+            },
+            {
+              "display_url": "x.com/Xitelos_C/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Xitelos_C/status/2007423154801783117",
+              "start": 50,
+              "url": "https://t.co/jwRVc0dwof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008722674407927907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 28842,
+          "like_count": 558,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007423154801783117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外观上还可以，但缠的薄了点，随便蛄蛹两下就出来了🤣 https://t.co/PRGHfw6RIE https://t.co/jwRVc0dwof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 248,
+          "like_count": 5213,
+          "listed_count": 14,
+          "media_count": 93,
+          "tweet_count": 2507
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T04:21:30.000Z",
+        "description": "Furry黑狼龙/CN,出没全安徽、武汉/超级生人社恐/XP很多很怪但是直男/B站同名/枪械爱好者/游戏玩家（MOBA、SLG除外）/COD睾丸/旅游/没事干瞎画点东西\n⭐b站同名发一些出毛、游戏视频欢迎关注\n🐧632338842(直男，不找对象)\n🐧👗1031375962（16+群，🚫18+内容）\n🚫推止推",
+        "id": "1598894898283184129",
+        "name": "Xitelos-C",
+        "pinned_tweet_id": "1936740357905195209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947283605643755521/pC8kbZz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 43,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 252
+        },
+        "username": "Xitelos_C",
+        "verified": false
+      }
+    ]
+  }
+}

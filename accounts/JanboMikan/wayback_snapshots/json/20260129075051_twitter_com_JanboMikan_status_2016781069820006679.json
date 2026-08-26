@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016466287958904920",
+    "created_at": "2026-01-29T07:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T08:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016781069820006679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "835183658084384768",
+          "start": 0,
+          "username": "Shelly3400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016781069820006679",
+    "in_reply_to_user_id": "835183658084384768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016775845722075477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shelly3400 老板太清闲了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016466287958904920",
+        "created_at": "2026-01-29T07:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016781069820006679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "835183658084384768",
+              "start": 0,
+              "username": "Shelly3400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016781069820006679",
+        "in_reply_to_user_id": "835183658084384768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016775845722075477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shelly3400 老板太清闲了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835183658084384768",
+        "conversation_id": "2016466287958904920",
+        "created_at": "2026-01-29T07:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016775845722075477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016775845722075477",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016466287958904920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 老闆上班可能就靠看這個度日了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 287,
+          "like_count": 7058,
+          "listed_count": 21,
+          "media_count": 117,
+          "tweet_count": 3566
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T17:44:35.000Z",
+        "description": "Cat person, Workout for muscle, Thai-food n simply food. 🎮 Gamer, MBA Finance, ENFJ-T,LGBTQ+🌈 Date of rebirth 29th June 2022",
+        "id": "835183658084384768",
+        "location": "Wang Thonglang, Bangkok",
+        "name": "🐸Irene🏳️‍⚧️🌈",
+        "pinned_tweet_id": "1599331982026379265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505044115116855304/h_3mtgtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 936,
+          "like_count": 17200,
+          "listed_count": 14,
+          "media_count": 521,
+          "tweet_count": 6912
+        },
+        "username": "Shelly3400",
+        "verified": false
+      }
+    ]
+  }
+}

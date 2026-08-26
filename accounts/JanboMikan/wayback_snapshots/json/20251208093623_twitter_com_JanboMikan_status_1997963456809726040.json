@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1997884412307083313",
+    "created_at": "2025-12-08T09:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997963456809726040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997963456809726040",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997884412307083313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 是的😆我不小心😛删除了您すべてDocker📦程序！而您🤵‍♂️只能生气😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1997884412307083313",
+        "created_at": "2025-12-08T09:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997963456809726040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997963456809726040",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997884412307083313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 是的😆我不小心😛删除了您すべてDocker📦程序！而您🤵‍♂️只能生气😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685784710285266944",
+        "conversation_id": "1997884412307083313",
+        "created_at": "2025-12-08T04:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997884412307083313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LipuAIX/status…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/LipuAIX/status/1997541426805235866",
+              "start": 125,
+              "url": "https://t.co/8PcR4apIZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997884412307083313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997541426805235866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远不要过度相信AI...\n当智能体接受到不准确的指令或者误解命令造成的后果AI不会承担，AI只会甩出轻飘飘的抱歉\n\n可以试一下在IDE中让AI修复首行缩进问题，大概率AI会发癫删掉你的所有代码。或者它会把你留下作为文档的注释，一并删除并称之为优化 https://t.co/8PcR4apIZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 179,
+          "like_count": 2637,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4167,
+          "following_count": 429,
+          "like_count": 9261,
+          "listed_count": 8,
+          "media_count": 1678,
+          "tweet_count": 8837
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

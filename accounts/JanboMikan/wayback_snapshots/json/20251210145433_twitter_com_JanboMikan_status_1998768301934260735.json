@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998768001622196520",
+    "created_at": "2025-12-10T14:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T15:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998768301934260735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998768301934260735",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998768001622196520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 持石高手🥺（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3332,
+        "media_key": "3_1998767594120294407",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70MiXQaMAcpbKA.jpg",
+        "width": 2221
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1998767594120294402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70MiXQaMAIuXH7.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998768001622196520",
+        "created_at": "2025-12-10T14:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998768301934260735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998768301934260735",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998768001622196520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 持石高手🥺（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998767594120294407",
+            "3_1998767594120294402"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1998768001622196520",
+        "created_at": "2025-12-10T14:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998768001622196520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JX7fAmG0F",
+              "end": 132,
+              "expanded_url": "https://x.com/Truffaut897456/status/1998768001622196520/photo/1",
+              "media_key": "3_1998767594120294407",
+              "start": 109,
+              "url": "https://t.co/1JX7fAmG0F"
+            },
+            {
+              "display_url": "pic.x.com/1JX7fAmG0F",
+              "end": 132,
+              "expanded_url": "https://x.com/Truffaut897456/status/1998768001622196520/photo/1",
+              "media_key": "3_1998767594120294402",
+              "start": 109,
+              "url": "https://t.co/1JX7fAmG0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998768001622196520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，石头分为很多类，主要有火成岩、沉积岩、变质岩三类。火成岩由岩浆冷却形成，如花岗岩，含长石、石英等；沉积岩经风化沉积而成，如石灰岩，多为碳酸钙；变质岩由岩石变质形成，如大理石，矿物结构发生改变，用途各有不同。 https://t.co/1JX7fAmG0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 191,
+          "like_count": 2858,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生，喜欢电影🎦 不限类型不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆，更广泛一些的电影也都会看一些，以及二次元少女乐队特摄古早动画都涉猎，喜欢拍cos和女装，纯高p，实际丑蛆🐛！！！",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1984477957231128693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996106954553655297/C05ObKRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10323,
+          "following_count": 1109,
+          "like_count": 5583,
+          "listed_count": 35,
+          "media_count": 107,
+          "tweet_count": 2573
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

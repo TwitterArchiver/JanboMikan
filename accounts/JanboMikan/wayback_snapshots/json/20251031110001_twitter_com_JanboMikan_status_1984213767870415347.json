@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983888221533859840",
+        "3_1983888221525438468",
+        "3_1983888227598790660"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984213767870415347",
+    "created_at": "2025-10-31T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984213767870415347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "男娘"
+        },
+        {
+          "end": 124,
+          "start": 117,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ro00FSN5Mn",
+          "end": 148,
+          "expanded_url": "https://x.com/JanboMikan/status/1984213767870415347/photo/1",
+          "media_key": "3_1983888221533859840",
+          "start": 125,
+          "url": "https://t.co/Ro00FSN5Mn"
+        },
+        {
+          "display_url": "pic.x.com/Ro00FSN5Mn",
+          "end": 148,
+          "expanded_url": "https://x.com/JanboMikan/status/1984213767870415347/photo/1",
+          "media_key": "3_1983888221525438468",
+          "start": 125,
+          "url": "https://t.co/Ro00FSN5Mn"
+        },
+        {
+          "display_url": "pic.x.com/Ro00FSN5Mn",
+          "end": 148,
+          "expanded_url": "https://x.com/JanboMikan/status/1984213767870415347/photo/1",
+          "media_key": "3_1983888227598790660",
+          "start": 125,
+          "url": "https://t.co/Ro00FSN5Mn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984213767870415347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用「高冷」来形容人不准确，因为能量低才比较冷，所以应该叫「低冷」。\n对这种宝宝，必须进行「氧化还原反应」，产生能量。\n方法可以使用【点燃】，让对方【烧起来】。\n或者使用【催情剂】让对方快速升温。\n这样之后就会让关系变好哦~\n\n#男娘 #可爱的男孩子 https://t.co/Ro00FSN5Mn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1983888221533859840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gv046bcAAfMZa.jpg",
+        "width": 525
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1983888221525438468",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gv044a8AQaFFJ.jpg",
+        "width": 525
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1983888227598790660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gv1Pga8AQS_D_.jpg",
+        "width": 525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983888221533859840",
+            "3_1983888221525438468",
+            "3_1983888227598790660"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984213767870415347",
+        "created_at": "2025-10-31T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984213767870415347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "男娘"
+            },
+            {
+              "end": 124,
+              "start": 117,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ro00FSN5Mn",
+              "end": 148,
+              "expanded_url": "https://x.com/JanboMikan/status/1984213767870415347/photo/1",
+              "media_key": "3_1983888221533859840",
+              "start": 125,
+              "url": "https://t.co/Ro00FSN5Mn"
+            },
+            {
+              "display_url": "pic.x.com/Ro00FSN5Mn",
+              "end": 148,
+              "expanded_url": "https://x.com/JanboMikan/status/1984213767870415347/photo/1",
+              "media_key": "3_1983888221525438468",
+              "start": 125,
+              "url": "https://t.co/Ro00FSN5Mn"
+            },
+            {
+              "display_url": "pic.x.com/Ro00FSN5Mn",
+              "end": 148,
+              "expanded_url": "https://x.com/JanboMikan/status/1984213767870415347/photo/1",
+              "media_key": "3_1983888227598790660",
+              "start": 125,
+              "url": "https://t.co/Ro00FSN5Mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984213767870415347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用「高冷」来形容人不准确，因为能量低才比较冷，所以应该叫「低冷」。\n对这种宝宝，必须进行「氧化还原反应」，产生能量。\n方法可以使用【点燃】，让对方【烧起来】。\n或者使用【催情剂】让对方快速升温。\n这样之后就会让关系变好哦~\n\n#男娘 #可爱的男孩子 https://t.co/Ro00FSN5Mn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 97,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

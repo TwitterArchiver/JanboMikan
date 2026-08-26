@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1994058645076615655",
+    "created_at": "2025-11-29T08:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994679739953680860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827995499204579328",
+          "start": 0,
+          "username": "AlgorIssac99183"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994679739953680860",
+    "in_reply_to_user_id": "1827995499204579328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994669830566535195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlgorIssac99183 嘿嘿~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1994058645076615655",
+        "created_at": "2025-11-29T08:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994679739953680860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827995499204579328",
+              "start": 0,
+              "username": "AlgorIssac99183"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994679739953680860",
+        "in_reply_to_user_id": "1827995499204579328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994669830566535195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlgorIssac99183 嘿嘿~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827995499204579328",
+        "conversation_id": "1994058645076615655",
+        "created_at": "2025-11-29T07:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994669830566535195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994669830566535195",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994665592566259914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 里百合贴贴～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 155,
+          "like_count": 2095,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:05:02.000Z",
+        "description": "为什么期待被值得信赖的人调教呢～\n因为自己玩太累了还有概率翻车呢～\n真是个无可救药的抖m呢～",
+        "id": "1827995499204579328",
+        "name": "Algor Issac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827995661868167168/Edq57tno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 47,
+          "like_count": 130,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 101
+        },
+        "username": "AlgorIssac99183",
+        "verified": false
+      }
+    ]
+  }
+}

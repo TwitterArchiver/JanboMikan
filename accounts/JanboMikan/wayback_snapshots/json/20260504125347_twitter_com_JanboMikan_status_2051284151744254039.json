@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2050893130367377824",
+    "created_at": "2026-05-04T12:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051284151744254039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1791699373975552000",
+          "start": 0,
+          "username": "VvFan2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051284151744254039",
+    "in_reply_to_user_id": "1791699373975552000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051270891611566220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VvFan2233 如有雷同纯属巧合x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2050893130367377824",
+        "created_at": "2026-05-04T12:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051284151744254039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1791699373975552000",
+              "start": 0,
+              "username": "VvFan2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051284151744254039",
+        "in_reply_to_user_id": "1791699373975552000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051270891611566220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VvFan2233 如有雷同纯属巧合x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791699373975552000",
+        "conversation_id": "2050893130367377824",
+        "created_at": "2026-05-04T12:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051270891611566220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051270891611566220",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050893130367377824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这或许意味着我们可以把日常AI和工作AI进行分离，以避免出现这种尴尬情况，不过这个怎么感觉还听起来挺真实的，怎么描写这么栩栩如生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12397,
+          "following_count": 491,
+          "like_count": 16924,
+          "listed_count": 43,
+          "media_count": 251,
+          "tweet_count": 8622
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T05:16:47.000Z",
+        "description": "",
+        "id": "1791699373975552000",
+        "name": "vv fan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852993529502736384/W25FhJjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 42,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2789
+        },
+        "username": "VvFan2233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020429750930719002",
+    "created_at": "2026-02-09T06:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020752565391310892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1083759056337088512",
+          "start": 0,
+          "username": "CrazyBunnyDoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020752565391310892",
+    "in_reply_to_user_id": "1083759056337088512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020429750930719002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrazyBunnyDoll 可爱姐姐🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020429747499696128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoCJpFaAAAZfX_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020429750930719002",
+        "created_at": "2026-02-09T06:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020752565391310892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1083759056337088512",
+              "start": 0,
+              "username": "CrazyBunnyDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020752565391310892",
+        "in_reply_to_user_id": "1083759056337088512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020429750930719002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrazyBunnyDoll 可爱姐姐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020429747499696128"
+          ]
+        },
+        "author_id": "1083759056337088512",
+        "conversation_id": "2020429750930719002",
+        "created_at": "2026-02-08T09:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020429750930719002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecI2X7Z5d5",
+              "end": 33,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2020429750930719002/photo/1",
+              "media_key": "3_2020429747499696128",
+              "start": 10,
+              "url": "https://t.co/ecI2X7Z5d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020429750930719002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜起来看一看👀～ https://t.co/ecI2X7Z5d5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 313,
+          "like_count": 8094,
+          "listed_count": 24,
+          "media_count": 131,
+          "tweet_count": 4134
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T16:14:29.000Z",
+        "description": "INFJ-T / 日常咸鱼 / 沉迷lolita小裙子 / 贫穷让我沉迷加班 / 小透明，欢迎扩列 / 脸大如饼，越减越肥 / 照骗什么的都是假的 (￣∇￣) / 小红书：CrazyBunnyDoll",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/crazybunnydoll",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/crazybunnydoll",
+                "start": 0,
+                "url": "https://t.co/Fk377BXLOY"
+              }
+            ]
+          }
+        },
+        "id": "1083759056337088512",
+        "name": "疯兔",
+        "pinned_tweet_id": "2006959208890290185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997763325556654080/OU5H8JY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735,
+          "following_count": 247,
+          "like_count": 7005,
+          "listed_count": 21,
+          "media_count": 1124,
+          "tweet_count": 7897
+        },
+        "url": "https://t.co/Fk377BXLOY",
+        "username": "CrazyBunnyDoll",
+        "verified": false
+      }
+    ]
+  }
+}

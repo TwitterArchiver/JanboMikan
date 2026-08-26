@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1992077659761955257",
+    "created_at": "2025-11-22T11:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992191839039107192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1090136700741812224",
+          "start": 0,
+          "username": "Alice__486"
+        },
+        {
+          "end": 22,
+          "id": "1436139332528586779",
+          "start": 12,
+          "username": "HimeUzuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992191839039107192",
+    "in_reply_to_user_id": "1090136700741812224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992077659761955257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice__486 @HimeUzuki 贴贴w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2848,
+        "media_key": "3_1992077172463620096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VHokXb0AAlAgY.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1992077659761955257",
+        "created_at": "2025-11-22T11:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992191839039107192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1090136700741812224",
+              "start": 0,
+              "username": "Alice__486"
+            },
+            {
+              "end": 22,
+              "id": "1436139332528586779",
+              "start": 12,
+              "username": "HimeUzuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992191839039107192",
+        "in_reply_to_user_id": "1090136700741812224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992077659761955257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice__486 @HimeUzuki 贴贴w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992077172463620096"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "1992077659761955257",
+        "created_at": "2025-11-22T03:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992077659761955257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBuldJLW0j",
+              "end": 27,
+              "expanded_url": "https://x.com/Alice__486/status/1992077659761955257/photo/1",
+              "media_key": "3_1992077172463620096",
+              "start": 4,
+              "url": "https://t.co/BBuldJLW0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992077659761955257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1986,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "轻飘飘 https://t.co/BBuldJLW0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 131,
+          "like_count": 1466,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "1878774496057836005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27180,
+          "following_count": 1696,
+          "like_count": 52366,
+          "listed_count": 88,
+          "media_count": 898,
+          "tweet_count": 15405
+        },
+        "username": "Alice__486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T01:28:09.000Z",
+        "description": "🌟请叫咱Uzuki或者卯月！💼湾区普通打工人及Lo汉=ω= 👗日常高强度穿Lo选手~ 🎀甜玼最高！🚫色色打咩x 禁止转载禁止盗图！在奇奇怪怪地方发现咱的照片都不是本人(·•᷄ࡇ•᷅ ）💖努力让自己变得更加可爱_8(:3 」∠ )_ 请多指教！以及欢迎走进我的世界www",
+        "id": "1436139332528586779",
+        "location": "San Francisco Bay Area",
+        "name": "HimeUzuki",
+        "pinned_tweet_id": "1874006530988925136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622858246708162560/QwEnDc8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15475,
+          "following_count": 286,
+          "like_count": 20994,
+          "listed_count": 55,
+          "media_count": 1551,
+          "tweet_count": 9413
+        },
+        "username": "HimeUzuki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995404997266427904"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1996534961097118002",
+    "created_at": "2025-12-04T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996534961097118002"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MnN3bBeh4j",
+          "end": 106,
+          "expanded_url": "https://x.com/JanboMikan/status/1996534961097118002/photo/1",
+          "media_key": "3_1995404997266427904",
+          "start": 83,
+          "url": "https://t.co/MnN3bBeh4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996534961097118002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《镜中影》\n萧郎暗把罗裙换，\n南浦风情画里痴。\n梁燕双栖惊晓梦，\n卧看红袖影参差。\n药栏芍药输颜色，\n顶上云鬟压玉篦。\n似假还真迷望眼，\n泥途哪怕世人嗤。\n\n#男娘 https://t.co/MnN3bBeh4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_1995404997266427904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EaRd0a0AAC5ee.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995404997266427904"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1996534961097118002",
+        "created_at": "2025-12-04T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996534961097118002"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnN3bBeh4j",
+              "end": 106,
+              "expanded_url": "https://x.com/JanboMikan/status/1996534961097118002/photo/1",
+              "media_key": "3_1995404997266427904",
+              "start": 83,
+              "url": "https://t.co/MnN3bBeh4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996534961097118002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《镜中影》\n萧郎暗把罗裙换，\n南浦风情画里痴。\n梁燕双栖惊晓梦，\n卧看红袖影参差。\n药栏芍药输颜色，\n顶上云鬟压玉篦。\n似假还真迷望眼，\n泥途哪怕世人嗤。\n\n#男娘 https://t.co/MnN3bBeh4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 167,
+          "like_count": 2433,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026250763107000809",
+    "created_at": "2026-02-25T01:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026467533797433392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1257496945142030336",
+          "start": 0,
+          "username": "shuiyu_kiger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026467533797433392",
+    "in_reply_to_user_id": "1257496945142030336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026327156033458277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiyu_kiger 不能坏了传统😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-25T01:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026467533797433392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1257496945142030336",
+              "start": 0,
+              "username": "shuiyu_kiger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026467533797433392",
+        "in_reply_to_user_id": "1257496945142030336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026327156033458277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyu_kiger 不能坏了传统😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257496945142030336",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-24T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026327156033458277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026327156033458277",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250763107000809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 图灵派是这样的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6466,
+          "following_count": 356,
+          "like_count": 9761,
+          "listed_count": 29,
+          "media_count": 153,
+          "tweet_count": 5115
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T02:27:02.000Z",
+        "description": "这里是水余的主页哦～ 叫水余或者水鱼或者鱼鱼都可以啦～ //划水摸鱼是人生目标desu（才不 新人Kiger一只～ 已经确定的角色是东方project的犬走椛，碧蓝航线的TB和崩坏3的爱莉。 中文/English OK- 偶尔会捣鼓一些Kigurumi相关技术 欸....还要说什么....想不出啦就先这样吧！",
+        "id": "1257496945142030336",
+        "location": "幻想乡",
+        "name": "超级大水鱼！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759592864093462528/w0klwL3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 638,
+          "like_count": 2628,
+          "listed_count": 6,
+          "media_count": 26,
+          "tweet_count": 861
+        },
+        "username": "shuiyu_kiger",
+        "verified": false
+      }
+    ]
+  }
+}

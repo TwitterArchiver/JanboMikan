@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024681515347792231",
+    "created_at": "2026-02-20T03:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024681515347792231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/gcZC",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/gcZC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024681515347792231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024438823372148939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 帮老爸的手机升级梯子，看到他有装推特就手痒痒点进去看一下。\n本以为他们这代人只看符离集什么的。\n结果一看关注列表，妈耶，眼熟的头像一大串都是我的互fo。\n他是不知道自己看的是男娘吗？？\n吓得我直接光速给他b了😰 https://t.co/gcZC…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2023217173926494208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPpTNtbwAAv4PR.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024681515347792231",
+        "created_at": "2026-02-20T03:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024681515347792231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/gcZC",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/gcZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024681515347792231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024438823372148939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 帮老爸的手机升级梯子，看到他有装推特就手痒痒点进去看一下。\n本以为他们这代人只看符离集什么的。\n结果一看关注列表，妈耶，眼熟的头像一大串都是我的互fo。\n他是不知道自己看的是男娘吗？？\n吓得我直接光速给他b了😰 https://t.co/gcZC…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023217173926494208"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-19T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024438823372148939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcZCRSsOwc",
+              "end": 129,
+              "expanded_url": "https://x.com/JanboMikan/status/2024438823372148939/photo/1",
+              "media_key": "3_2023217173926494208",
+              "start": 106,
+              "url": "https://t.co/gcZCRSsOwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024438823372148939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 44692,
+          "like_count": 592,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "帮老爸的手机升级梯子，看到他有装推特就手痒痒点进去看一下。\n本以为他们这代人只看符离集什么的。\n结果一看关注列表，妈耶，眼熟的头像一大串都是我的互fo。\n他是不知道自己看的是男娘吗？？\n吓得我直接光速给他b了😰 https://t.co/gcZCRSsOwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 332,
+          "like_count": 9271,
+          "listed_count": 26,
+          "media_count": 147,
+          "tweet_count": 4834
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

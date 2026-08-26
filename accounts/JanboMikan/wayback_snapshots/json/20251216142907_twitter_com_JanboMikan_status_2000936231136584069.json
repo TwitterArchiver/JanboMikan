@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2000632426671018155",
+    "created_at": "2025-12-16T14:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T15:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000936231136584069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682967034311888896",
+          "start": 0,
+          "username": "ftuhifhinufy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000936231136584069",
+    "in_reply_to_user_id": "1682967034311888896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000632426671018155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ftuhifhinufy 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2092,
+        "media_key": "3_2000632407792422913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OskziaEAENjfL.jpg",
+        "width": 1773
+      },
+      {
+        "height": 1596,
+        "media_key": "3_2000632407800836096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OskzkacAAJtt6.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2000632426671018155",
+        "created_at": "2025-12-16T14:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000936231136584069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682967034311888896",
+              "start": 0,
+              "username": "ftuhifhinufy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000936231136584069",
+        "in_reply_to_user_id": "1682967034311888896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000632426671018155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ftuhifhinufy 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000632407792422913",
+            "3_2000632407800836096"
+          ]
+        },
+        "author_id": "1682967034311888896",
+        "conversation_id": "2000632426671018155",
+        "created_at": "2025-12-15T18:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000632426671018155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3IIvxkBvD",
+              "end": 34,
+              "expanded_url": "https://x.com/ftuhifhinufy/status/2000632426671018155/photo/1",
+              "media_key": "3_2000632407792422913",
+              "start": 11,
+              "url": "https://t.co/T3IIvxkBvD"
+            },
+            {
+              "display_url": "pic.x.com/T3IIvxkBvD",
+              "end": 34,
+              "expanded_url": "https://x.com/ftuhifhinufy/status/2000632426671018155/photo/1",
+              "media_key": "3_2000632407800836096",
+              "start": 11,
+              "url": "https://t.co/T3IIvxkBvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000632426671018155",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3784,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#丰川祥子 #cos https://t.co/T3IIvxkBvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 211,
+          "like_count": 3461,
+          "listed_count": 9,
+          "media_count": 69,
+          "tweet_count": 1490
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T04:13:15.000Z",
+        "description": "主播没门槛 高二生cos也是感兴趣偷偷出的",
+        "id": "1682967034311888896",
+        "location": "America",
+        "name": "睦子米",
+        "pinned_tweet_id": "2000511008016945511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000632871929974784/8JbuP2ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 112,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "ftuhifhinufy",
+        "verified": false
+      }
+    ]
+  }
+}

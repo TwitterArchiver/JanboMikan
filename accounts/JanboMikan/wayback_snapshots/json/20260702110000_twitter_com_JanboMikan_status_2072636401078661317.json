@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070789622310023168"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2072636401078661317",
+    "created_at": "2026-07-02T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072636401078661317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0uYfCs17AY",
+          "end": 151,
+          "expanded_url": "https://x.com/JanboMikan/status/2072636401078661317/photo/1",
+          "media_key": "3_2070789622310023168",
+          "start": 128,
+          "url": "https://t.co/0uYfCs17AY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072636401078661317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "课堂上摸鱼，本来准备把昨晚拍的涩图发到小群里。\n手一抖不小心直接发到「数据结构课程群」。\n心脏骤停，0.5秒内连滚带爬地点了撤回。\n长舒一口气，抬起头。\n讲台上的导师正推着眼镜，呆呆地看着背后微信投屏界面：\n【图片】\n【蜜柑 试图撤回一则消息（已拦截）】 https://t.co/0uYfCs17AY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3592,
+        "media_key": "3_2070789622310023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsMKJasAAlKfh.jpg",
+        "width": 3759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070789622310023168"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2072636401078661317",
+        "created_at": "2026-07-02T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072636401078661317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0uYfCs17AY",
+              "end": 151,
+              "expanded_url": "https://x.com/JanboMikan/status/2072636401078661317/photo/1",
+              "media_key": "3_2070789622310023168",
+              "start": 128,
+              "url": "https://t.co/0uYfCs17AY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072636401078661317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "课堂上摸鱼，本来准备把昨晚拍的涩图发到小群里。\n手一抖不小心直接发到「数据结构课程群」。\n心脏骤停，0.5秒内连滚带爬地点了撤回。\n长舒一口气，抬起头。\n讲台上的导师正推着眼镜，呆呆地看着背后微信投屏界面：\n【图片】\n【蜜柑 试图撤回一则消息（已拦截）】 https://t.co/0uYfCs17AY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14784,
+          "following_count": 577,
+          "like_count": 20239,
+          "listed_count": 52,
+          "media_count": 340,
+          "tweet_count": 10702
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

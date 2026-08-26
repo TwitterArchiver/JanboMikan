@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021539716248588527",
+    "created_at": "2026-02-12T09:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021885406623801831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809241272152170496",
+          "start": 0,
+          "username": "af0599755540710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021885406623801831",
+    "in_reply_to_user_id": "1809241272152170496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021882456727818340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@af0599755540710 对的对的！😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021539716248588527",
+        "created_at": "2026-02-12T09:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021885406623801831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809241272152170496",
+              "start": 0,
+              "username": "af0599755540710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021885406623801831",
+        "in_reply_to_user_id": "1809241272152170496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021882456727818340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@af0599755540710 对的对的！😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809241272152170496",
+        "conversation_id": "2021539716248588527",
+        "created_at": "2026-02-12T09:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021882456727818340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021882456727818340",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021539716248588527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 上半身穿格子拜入冯诺依曼教\n下半身穿格子拜入图灵教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 320,
+          "like_count": 8434,
+          "listed_count": 24,
+          "media_count": 137,
+          "tweet_count": 4347
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T15:01:54.000Z",
+        "description": "程序员(软件工程重度依赖) | 二次元 | 长发男高 | 爱喝啤酒\n叫我阿风好啦\n欢迎来找我聊天\n主要玩三角洲行动\ngithub: https://t.co/pStnOLmBkm\ndc:windaf_75152",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/WindAFeng",
+                "end": 89,
+                "expanded_url": "https://github.com/WindAFeng",
+                "start": 66,
+                "url": "https://t.co/pStnOLmBkm"
+              }
+            ]
+          }
+        },
+        "id": "1809241272152170496",
+        "name": "AFeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018881739733737472/0W255eW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 282
+        },
+        "username": "af0599755540710",
+        "verified": false
+      }
+    ]
+  }
+}

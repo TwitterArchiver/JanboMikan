@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1983096407566459001",
+    "created_at": "2025-10-29T06:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T07:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983425383757435128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1560862380115972096",
+          "start": 0,
+          "username": "xxnlng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983425383757435128",
+    "in_reply_to_user_id": "1560862380115972096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983410584902406370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxnlng2 叔叔不香🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_1983410582670979072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Z9apfasAA4Zwp.jpg",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1983096407566459001",
+        "created_at": "2025-10-29T06:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983425383757435128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1560862380115972096",
+              "start": 0,
+              "username": "xxnlng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983425383757435128",
+        "in_reply_to_user_id": "1560862380115972096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983410584902406370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxnlng2 叔叔不香🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983410582670979072"
+          ]
+        },
+        "author_id": "1560862380115972096",
+        "conversation_id": "1983096407566459001",
+        "created_at": "2025-10-29T05:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983410584902406370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCJubaL3Gb",
+              "end": 41,
+              "expanded_url": "https://x.com/xxnlng2/status/1983410584902406370/photo/1",
+              "media_key": "3_1983410582670979072",
+              "start": 18,
+              "url": "https://t.co/KCJubaL3Gb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983410584902406370",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983096407566459001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 叔叔你好香 https://t.co/KCJubaL3Gb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 94,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T05:33:01.000Z",
+        "description": "喜欢❤️空心菜，喜欢讲骚话的抽象小南娘，微社恐",
+        "id": "1560862380115972096",
+        "location": "Aizuwakamatsu-shi, Fukushima",
+        "name": "阿丧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980086737184460800/kw1gbWLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 218
+        },
+        "username": "xxnlng2",
+        "verified": false
+      }
+    ]
+  }
+}

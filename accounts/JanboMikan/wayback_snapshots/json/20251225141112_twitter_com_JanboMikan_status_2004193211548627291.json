@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2003869570743058838",
+    "created_at": "2025-12-25T14:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004193211548627291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991364416823259139",
+          "start": 0,
+          "username": "NikaidoHiro0110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004193211548627291",
+    "in_reply_to_user_id": "1991364416823259139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003869570743058838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikaidoHiro0110 谢谢这位女同学😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2003869560584171520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88sv5bWcAAFls8.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2003869570743058838",
+        "created_at": "2025-12-25T14:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004193211548627291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991364416823259139",
+              "start": 0,
+              "username": "NikaidoHiro0110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004193211548627291",
+        "in_reply_to_user_id": "1991364416823259139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003869570743058838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikaidoHiro0110 谢谢这位女同学😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003869560584171520"
+          ]
+        },
+        "author_id": "1991364416823259139",
+        "conversation_id": "2003869570743058838",
+        "created_at": "2025-12-24T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003869570743058838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "男の娘ᅠ"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2RAX2kNTX",
+              "end": 108,
+              "expanded_url": "https://x.com/NikaidoHiro0110/status/2003869570743058838/photo/1",
+              "media_key": "3_2003869560584171520",
+              "start": 85,
+              "url": "https://t.co/N2RAX2kNTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003869570743058838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 23405,
+          "like_count": 436,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#男の娘ᅠ #伪娘 这张图来自2021年，是我女装的开始，被班里女同学怂恿的我怎么都想不到这是我误入歧途的开始，嘛，顺其自然就好，祝大家圣诞快乐，也祝自己700fo了😉 https://t.co/N2RAX2kNTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 215,
+          "like_count": 4130,
+          "listed_count": 8,
+          "media_count": 83,
+          "tweet_count": 1913
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T04:34:18.000Z",
+        "description": "喜欢观察人类 喜欢认识有意思的人 b站：https://t.co/D8SULUCESy 男",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kTDbwUY",
+                "end": 43,
+                "expanded_url": "https://b23.tv/kTDbwUY",
+                "start": 20,
+                "url": "https://t.co/D8SULUCESy"
+              }
+            ]
+          }
+        },
+        "id": "1991364416823259139",
+        "name": "Nikaido Hiro",
+        "pinned_tweet_id": "2000925960875729116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991365556956807168/b84rccpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 542,
+          "like_count": 3481,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1000
+        },
+        "username": "NikaidoHiro0110",
+        "verified": false
+      }
+    ]
+  }
+}

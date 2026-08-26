@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016856787287494782",
+    "created_at": "2026-01-30T12:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017220712952635574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378681079876313090",
+          "start": 0,
+          "username": "Ayane014081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017220712952635574",
+    "in_reply_to_user_id": "1378681079876313090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016856787287494782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayane014081 我想起来了！我上推特的意义就是为了被这样的美少女包围啊！！！🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2016856777854500864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1Qjb7bQAAd9a7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016856787287494782",
+        "created_at": "2026-01-30T12:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017220712952635574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378681079876313090",
+              "start": 0,
+              "username": "Ayane014081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017220712952635574",
+        "in_reply_to_user_id": "1378681079876313090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016856787287494782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayane014081 我想起来了！我上推特的意义就是为了被这样的美少女包围啊！！！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016856777854500864"
+          ]
+        },
+        "author_id": "1378681079876313090",
+        "conversation_id": "2016856787287494782",
+        "created_at": "2026-01-29T12:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016856787287494782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18XIFHU10P",
+              "end": 48,
+              "expanded_url": "https://x.com/Ayane014081/status/2016856787287494782/photo/1",
+              "media_key": "3_2016856777854500864",
+              "start": 25,
+              "url": "https://t.co/18XIFHU10P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016856787287494782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1298,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人和人刚认识的时候最好，真诚又虚伪，新鲜又浪漫。 https://t.co/18XIFHU10P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 290,
+          "like_count": 7166,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 3640
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T12:09:27.000Z",
+        "description": "祝你从别人身上想起我～\n已有对象🥰",
+        "id": "1378681079876313090",
+        "name": "绫音SakuyaAyane",
+        "pinned_tweet_id": "1395608207729434634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923311953403092992/ukN2DR-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3737,
+          "following_count": 929,
+          "like_count": 57773,
+          "listed_count": 16,
+          "media_count": 154,
+          "tweet_count": 3069
+        },
+        "username": "Ayane014081",
+        "verified": false
+      }
+    ]
+  }
+}

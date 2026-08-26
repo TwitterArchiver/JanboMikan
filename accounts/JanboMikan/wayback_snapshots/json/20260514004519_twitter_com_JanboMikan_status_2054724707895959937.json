@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053656336471081412",
+    "created_at": "2026-05-14T00:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054724707895959937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764876104368873474",
+          "start": 0,
+          "username": "yokonosiro"
+        },
+        {
+          "end": 21,
+          "id": "1338483456905420801",
+          "start": 12,
+          "username": "CN_Probe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054724707895959937",
+    "in_reply_to_user_id": "764876104368873474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054681468048195655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokonosiro @CN_Probe 还有冷知识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053656336471081412",
+        "created_at": "2026-05-14T00:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054724707895959937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764876104368873474",
+              "start": 0,
+              "username": "yokonosiro"
+            },
+            {
+              "end": 21,
+              "id": "1338483456905420801",
+              "start": 12,
+              "username": "CN_Probe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054724707895959937",
+        "in_reply_to_user_id": "764876104368873474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054681468048195655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokonosiro @CN_Probe 还有冷知识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764876104368873474",
+        "conversation_id": "2053656336471081412",
+        "created_at": "2026-05-13T21:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T22:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054681468048195655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1338483456905420801",
+              "start": 12,
+              "username": "CN_Probe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054681468048195655",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053656336471081412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @CN_Probe 你说的对，但是宜家鲨鱼里外都是100%聚酯纤维"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12885,
+          "following_count": 495,
+          "like_count": 17507,
+          "listed_count": 43,
+          "media_count": 270,
+          "tweet_count": 9042
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T17:27:28.000Z",
+        "description": "私信都会看，回不回取决于是否有趣",
+        "id": "764876104368873474",
+        "location": "海王星",
+        "name": "吃🥖不？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584989675583930370/qJjFFZXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 737,
+          "like_count": 477,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 1647
+        },
+        "username": "yokonosiro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T13:58:25.000Z",
+        "description": "kiger&撮影\n📷:Sony A1M2/Leica Q3 43",
+        "id": "1338483456905420801",
+        "location": "Xi'an&Shanghai",
+        "name": "Probe",
+        "pinned_tweet_id": "2042230278056529988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937006780091076608/SXtP1r7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8225,
+          "following_count": 788,
+          "like_count": 13037,
+          "listed_count": 38,
+          "media_count": 152,
+          "tweet_count": 838
+        },
+        "username": "CN_Probe",
+        "verified": true
+      }
+    ]
+  }
+}

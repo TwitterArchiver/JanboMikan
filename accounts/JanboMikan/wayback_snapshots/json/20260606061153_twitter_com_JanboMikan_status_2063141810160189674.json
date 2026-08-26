@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062869720777515282",
+    "created_at": "2026-06-06T06:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063141810160189674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4873941537",
+          "start": 0,
+          "username": "OOOMiku_"
+        },
+        {
+          "end": 17,
+          "id": "1833730895750283264",
+          "start": 10,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063141810160189674",
+    "in_reply_to_user_id": "4873941537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062869720777515282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OOOMiku_ @32_aug 你也幸福上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2062869697159397376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDJD10agAA7Mv9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062869720777515282",
+        "created_at": "2026-06-06T06:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063141810160189674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4873941537",
+              "start": 0,
+              "username": "OOOMiku_"
+            },
+            {
+              "end": 17,
+              "id": "1833730895750283264",
+              "start": 10,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063141810160189674",
+        "in_reply_to_user_id": "4873941537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062869720777515282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OOOMiku_ @32_aug 你也幸福上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062869697159397376"
+          ]
+        },
+        "author_id": "4873941537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062869720777515282",
+        "created_at": "2026-06-05T12:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062869720777515282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJl1FnHU7U",
+              "end": 27,
+              "expanded_url": "https://x.com/OOOMiku_/status/2062869720777515282/photo/1",
+              "media_key": "3_2062869697159397376",
+              "start": 4,
+              "url": "https://t.co/hJl1FnHU7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062869720777515282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 991,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已会面 https://t.co/hJl1FnHU7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14039,
+          "following_count": 534,
+          "like_count": 18908,
+          "listed_count": 48,
+          "media_count": 307,
+          "tweet_count": 9948
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-03T13:54:47.000Z",
+        "description": "可以叫我圈 | ♂ | 发点女装照骗",
+        "id": "4873941537",
+        "location": "艾尔",
+        "name": "〇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033045596819566593/YqqHR436_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 176,
+          "like_count": 8113,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 1623
+        },
+        "username": "OOOMiku_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "Old Rotten Account(Abandoned).|film|リズと青い鳥| Occasionally a runner|宇治爱好者|康泰时G2仙人|🚫Politics English 中文 日本語勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hachiiii.com",
+                "end": 23,
+                "expanded_url": "https://hachiiii.com/",
+                "start": 0,
+                "url": "https://t.co/lyB01L1ONn"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Uji-shi, Kyoto",
+        "name": "かさち",
+        "pinned_tweet_id": "2061659059145839050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061661590878060544/fk9PrUeP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 788,
+          "like_count": 101897,
+          "listed_count": 3,
+          "media_count": 2953,
+          "tweet_count": 30001
+        },
+        "url": "https://t.co/lyB01L1ONn",
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

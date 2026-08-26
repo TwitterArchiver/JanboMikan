@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2018504718293618955",
+    "created_at": "2026-02-03T04:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018537002933903740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1243955613148811265",
+          "start": 0,
+          "username": "LGBBQ_Ellenya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018537002933903740",
+    "in_reply_to_user_id": "1243955613148811265",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018519228501102723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGBBQ_Ellenya 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2018504718293618955",
+        "created_at": "2026-02-03T04:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018537002933903740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1243955613148811265",
+              "start": 0,
+              "username": "LGBBQ_Ellenya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018537002933903740",
+        "in_reply_to_user_id": "1243955613148811265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018519228501102723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGBBQ_Ellenya 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243955613148811265",
+        "conversation_id": "2018504718293618955",
+        "created_at": "2026-02-03T02:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018519228501102723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018519228501102723",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018516247638692224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 跳过剧情直接触发CG兄弟魔丸给我嘬一口😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 297,
+          "like_count": 7448,
+          "listed_count": 21,
+          "media_count": 123,
+          "tweet_count": 3798
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T17:38:33.000Z",
+        "description": "🤨🫵🏳️‍🌈🏳️‍⚧️❓强大雄性猛男系mtx\n是可爱耄耄，全名:艾莲娜•索尔达托娃•千秋 一般路过欧美日子左人 安卓人安卓思维苹果生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cooked_Ellenya",
+                "end": 23,
+                "expanded_url": "https://t.me/Cooked_Ellenya",
+                "start": 0,
+                "url": "https://t.co/ZYi5gafUts"
+              }
+            ]
+          }
+        },
+        "id": "1243955613148811265",
+        "location": "Born&live 🇪🇸",
+        "name": "糖基哈德🏳️‍⚧️第一日不落最利的刃🇪🇦👊🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833102763451875328/6DH157wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 2664,
+          "like_count": 272372,
+          "listed_count": 21,
+          "media_count": 4761,
+          "tweet_count": 47167
+        },
+        "url": "https://t.co/ZYi5gafUts",
+        "username": "LGBBQ_Ellenya",
+        "verified": true
+      }
+    ]
+  }
+}

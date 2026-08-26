@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979069452713852990",
+    "created_at": "2025-10-17T08:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979109483826860074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838678304624381954",
+          "start": 0,
+          "username": "Rain061024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979109483826860074",
+    "in_reply_to_user_id": "1838678304624381954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979069452713852990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain061024 匀称的腿腿～🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979069435261456385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cRKnKXkAEi_Hu.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979069452713852990",
+        "created_at": "2025-10-17T08:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979109483826860074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838678304624381954",
+              "start": 0,
+              "username": "Rain061024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979109483826860074",
+        "in_reply_to_user_id": "1838678304624381954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979069452713852990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain061024 匀称的腿腿～🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979069435261456385"
+          ]
+        },
+        "author_id": "1838678304624381954",
+        "conversation_id": "1979069452713852990",
+        "created_at": "2025-10-17T06:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T07:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979069452713852990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "伪娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "药娘"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "mtf"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SyRTv7m6h",
+              "end": 73,
+              "expanded_url": "https://x.com/Rain061024/status/1979069452713852990/photo/1",
+              "media_key": "3_1979069435261456385",
+              "start": 50,
+              "url": "https://t.co/2SyRTv7m6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979069452713852990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好懒……不想营业……发一张早上随手拍的……qwq #男娘 #伪娘 #药娘 #mtf #可爱的男孩子 https://t.co/2SyRTv7m6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 79,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T20:34:17.000Z",
+        "description": "这里是雨怜Rain～！可以叫咱小怜小雨阿雨或者怜宝～？身高165cm/体重40kg～嘴巴很笨不会说话，没有社交生活（因为根本没有朋友T^T），重度社恐，梦想是成为可爱的女孩子～",
+        "id": "1838678304624381954",
+        "name": "雨怜Rain🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940349883128422400/p491fd2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 16,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 32
+        },
+        "username": "Rain061024",
+        "verified": false
+      }
+    ]
+  }
+}

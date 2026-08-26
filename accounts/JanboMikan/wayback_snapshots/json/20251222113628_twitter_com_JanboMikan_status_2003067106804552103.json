@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2003057946385891411",
+    "created_at": "2025-12-22T11:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003067106804552103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511393448066453508",
+          "start": 0,
+          "username": "doctorli999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003067106804552103",
+    "in_reply_to_user_id": "1511393448066453508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003064727820525770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doctorli999 憋盒我😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2003057946385891411",
+        "created_at": "2025-12-22T11:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003067106804552103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511393448066453508",
+              "start": 0,
+              "username": "doctorli999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003067106804552103",
+        "in_reply_to_user_id": "1511393448066453508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003064727820525770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doctorli999 憋盒我😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511393448066453508",
+        "conversation_id": "2003057946385891411",
+        "created_at": "2025-12-22T11:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003064727820525770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003064727820525770",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003057946385891411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 学长还是太权威了👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 212,
+          "like_count": 3937,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 1808
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T17:21:16.000Z",
+        "description": "焖身发大财\n互fo bot勿扰",
+        "id": "1511393448066453508",
+        "location": "南柯国",
+        "name": "篱秋～🥳",
+        "pinned_tweet_id": "1964729590766809413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983108158672535552/_rknLbcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 1539,
+          "like_count": 78273,
+          "listed_count": 10,
+          "media_count": 3577,
+          "tweet_count": 15690
+        },
+        "username": "doctorli999",
+        "verified": false
+      }
+    ]
+  }
+}

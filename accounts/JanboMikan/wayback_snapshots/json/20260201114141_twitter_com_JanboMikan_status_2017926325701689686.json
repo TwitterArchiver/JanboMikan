@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2017910541625483608",
+    "created_at": "2026-02-01T11:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T12:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017926325701689686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4873941537",
+          "start": 0,
+          "username": "OOOMiku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017926325701689686",
+    "in_reply_to_user_id": "4873941537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017924614010335570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OOOMiku_ ed了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2017910541625483608",
+        "created_at": "2026-02-01T11:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017926325701689686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4873941537",
+              "start": 0,
+              "username": "OOOMiku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017926325701689686",
+        "in_reply_to_user_id": "4873941537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017924614010335570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OOOMiku_ ed了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4873941537",
+        "conversation_id": "2017910541625483608",
+        "created_at": "2026-02-01T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017924614010335570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017924614010335570",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017924149327643027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 讲真这个现在频率起码下降60%了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 291,
+          "like_count": 7310,
+          "listed_count": 20,
+          "media_count": 121,
+          "tweet_count": 3718
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-03T13:54:47.000Z",
+        "description": "可以叫我圈|♂|来推发点另一个我|女装|绳",
+        "id": "4873941537",
+        "location": "艾尔",
+        "name": "〇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990299679851270144/M7AJ2vv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 155,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 261
+        },
+        "username": "OOOMiku_",
+        "verified": true
+      }
+    ]
+  }
+}

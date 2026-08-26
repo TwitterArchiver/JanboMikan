@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2034223286830366787",
+    "created_at": "2026-03-18T11:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T12:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034237698698055826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897894039397318658",
+          "start": 0,
+          "username": "31K4t3k"
+        },
+        {
+          "end": 18,
+          "id": "1812363069487742976",
+          "start": 9,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034237698698055826",
+    "in_reply_to_user_id": "1897894039397318658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034232185008304526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@31K4t3k @mingji_A 妈妈是摄影师是吧😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2034223286830366787",
+        "created_at": "2026-03-18T11:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034237698698055826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897894039397318658",
+              "start": 0,
+              "username": "31K4t3k"
+            },
+            {
+              "end": 18,
+              "id": "1812363069487742976",
+              "start": 9,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034237698698055826",
+        "in_reply_to_user_id": "1897894039397318658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034232185008304526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@31K4t3k @mingji_A 妈妈是摄影师是吧😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897894039397318658",
+        "conversation_id": "2034223286830366787",
+        "created_at": "2026-03-18T11:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034232185008304526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034232185008304526",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034223286830366787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 摄影师来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8771,
+          "following_count": 407,
+          "like_count": 12226,
+          "listed_count": 34,
+          "media_count": 182,
+          "tweet_count": 6478
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:17:00.000Z",
+        "description": "我恨桥。",
+        "id": "1897894039397318658",
+        "location": "Vienna",
+        "name": "justAnormalguy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973119950056235008/b2HTiGdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 1238,
+          "like_count": 84541,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 4923
+        },
+        "username": "31K4t3k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1826,
+          "like_count": 74110,
+          "listed_count": 10,
+          "media_count": 123,
+          "tweet_count": 14351
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

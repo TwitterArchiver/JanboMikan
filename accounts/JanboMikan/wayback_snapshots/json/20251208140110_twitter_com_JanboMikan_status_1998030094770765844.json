@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1997984628104400993",
+    "created_at": "2025-12-08T14:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T15:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998030094770765844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1469833570503905281",
+          "start": 0,
+          "username": "TinChlorideSn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998030094770765844",
+    "in_reply_to_user_id": "1469833570503905281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998028910475526154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TinChlorideSn 好哦~\n不过个人而言还是这样更好调节啦~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998028907619196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pstJmaoAAClMj.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1997984628104400993",
+        "created_at": "2025-12-08T14:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998030094770765844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1469833570503905281",
+              "start": 0,
+              "username": "TinChlorideSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998030094770765844",
+        "in_reply_to_user_id": "1469833570503905281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998028910475526154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TinChlorideSn 好哦~\n不过个人而言还是这样更好调节啦~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998028907619196928"
+          ]
+        },
+        "author_id": "1469833570503905281",
+        "conversation_id": "1997984628104400993",
+        "created_at": "2025-12-08T13:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998028910475526154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bl5i16HSK",
+              "end": 54,
+              "expanded_url": "https://x.com/TinChlorideSn/status/1998028910475526154/photo/1",
+              "media_key": "3_1998028907619196928",
+              "start": 31,
+              "url": "https://t.co/5bl5i16HSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998028910475526154",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997984628104400993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 其实可以开延时摄影呀，我就是这么拍的 https://t.co/5bl5i16HSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 179,
+          "like_count": 2655,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T00:57:05.000Z",
+        "description": "是喜欢穿jk的小南梁/有虐腹，虐肚脐倾向",
+        "id": "1469833570503905281",
+        "name": "FerrousSulfateFe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987505935447965696/u-BvLJS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 643,
+          "like_count": 4288,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 248
+        },
+        "username": "TinChlorideSn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2023064276488085982",
+    "created_at": "2026-02-16T10:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023337130597265587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4873941537",
+          "start": 0,
+          "username": "OOOMiku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023337130597265587",
+    "in_reply_to_user_id": "4873941537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023064276488085982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OOOMiku_ 圈老师以后成了万粉大V我就是原始粉丝先预定一个席位😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "分析中的浏览量也包括回复，其中有条回复浏览就6k多（",
+        "height": 1200,
+        "media_key": "3_2023063625876094976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNdpipbwAAGwTY.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2023064276488085982",
+        "created_at": "2026-02-16T10:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023337130597265587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4873941537",
+              "start": 0,
+              "username": "OOOMiku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023337130597265587",
+        "in_reply_to_user_id": "4873941537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023064276488085982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OOOMiku_ 圈老师以后成了万粉大V我就是原始粉丝先预定一个席位😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023063625876094976"
+          ]
+        },
+        "author_id": "4873941537",
+        "conversation_id": "2023064276488085982",
+        "created_at": "2026-02-15T15:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:55:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023063629676073078",
+          "2023064276488085982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0Ega6AjS3",
+              "end": 134,
+              "expanded_url": "https://x.com/OOOMiku_/status/2023064276488085982/photo/1",
+              "media_key": "3_2023063625876094976",
+              "start": 111,
+              "url": "https://t.co/y0Ega6AjS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023064276488085982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "算上今天也是试着连更了28天了\n首先感谢大伙的喜欢🥰\n感觉水平是比一开始高点了\n至于浏览和涨fo这块可以说是很稳定了，虽然不多，细水长流吧。也是达成了追星成功的成就\n什么时候会产出一条能够爆了的帖子呢？我不知道，随缘得了\n不过感觉加tag好像是对起号和浏览是有点帮助的，起码我那条浏览量甩别的几条街（\n今后也将继续更新公式小照片\n好了大伙晚安💤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 344,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算上今天也是试着连更了28天了\n首先感谢大伙的喜欢🥰\n感觉水平是比一开始高点了\n至于浏览和涨fo这块可以说是很稳定了，虽然不多，细水长流吧。也是达成了追星成功的成就\n什么时候会产出一条能够爆了的帖子呢？我不知道，随缘得了 https://t.co/y0Ega6AjS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 324,
+          "like_count": 8870,
+          "listed_count": 24,
+          "media_count": 142,
+          "tweet_count": 4597
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-03T13:54:47.000Z",
+        "description": "可以叫我圈|♂|来推发点另一个我",
+        "id": "4873941537",
+        "location": "艾尔",
+        "name": "〇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990299679851270144/M7AJ2vv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 169,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 455
+        },
+        "username": "OOOMiku_",
+        "verified": true
+      }
+    ]
+  }
+}

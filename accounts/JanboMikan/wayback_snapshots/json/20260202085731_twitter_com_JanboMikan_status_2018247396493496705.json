@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017889607082512384"
+      ],
+      "media_source_tweet_id": [
+        "2017915836946588096"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "2018247396493496705",
+    "created_at": "2026-02-02T08:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018247396493496705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pW6Lr5DY8p",
+          "end": 112,
+          "expanded_url": "https://x.com/JanboMikan/status/2017915836946588096/photo/1",
+          "media_key": "3_2017889607082512384",
+          "start": 89,
+          "url": "https://t.co/pW6Lr5DY8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018247396493496705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017915836946588096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 同学说既然晚上要去吃自助，那必须要提前把肚子清空才行。\n让我费了好一番功夫。\n集合的时候一问才知道他们只是没吃午饭而已。\n原来是去吃自助吗！！！ https://t.co/pW6Lr5DY8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2017889607082512384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAD76AobEAAL8_8.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017889607082512384"
+          ],
+          "media_source_tweet_id": [
+            "2017915836946588096"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2018247396493496705",
+        "created_at": "2026-02-02T08:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018247396493496705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pW6Lr5DY8p",
+              "end": 112,
+              "expanded_url": "https://x.com/JanboMikan/status/2017915836946588096/photo/1",
+              "media_key": "3_2017889607082512384",
+              "start": 89,
+              "url": "https://t.co/pW6Lr5DY8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018247396493496705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017915836946588096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 同学说既然晚上要去吃自助，那必须要提前把肚子清空才行。\n让我费了好一番功夫。\n集合的时候一问才知道他们只是没吃午饭而已。\n原来是去吃自助吗！！！ https://t.co/pW6Lr5DY8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017889607082512384"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2017915836946588096",
+        "created_at": "2026-02-01T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017915836946588096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pW6Lr5DY8p",
+              "end": 96,
+              "expanded_url": "https://x.com/JanboMikan/status/2017915836946588096/photo/1",
+              "media_key": "3_2017889607082512384",
+              "start": 73,
+              "url": "https://t.co/pW6Lr5DY8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017915836946588096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 26392,
+          "like_count": 325,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "同学说既然晚上要去吃自助，那必须要提前把肚子清空才行。\n让我费了好一番功夫。\n集合的时候一问才知道他们只是没吃午饭而已。\n原来是去吃自助吗！！！ https://t.co/pW6Lr5DY8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4495,
+          "following_count": 294,
+          "like_count": 7357,
+          "listed_count": 21,
+          "media_count": 121,
+          "tweet_count": 3744
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

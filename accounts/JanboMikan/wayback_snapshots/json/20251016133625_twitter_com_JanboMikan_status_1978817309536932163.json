@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978780446117806122",
+    "created_at": "2025-10-16T13:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978817309536932163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598723832230998016",
+          "start": 0,
+          "username": "Kotorixxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978817309536932163",
+    "in_reply_to_user_id": "1598723832230998016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978780446117806122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotorixxxxxx 刘海也好可爱ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978780436869640192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YKUsQbcAAAc5u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978780446117806122",
+        "created_at": "2025-10-16T13:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978817309536932163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598723832230998016",
+              "start": 0,
+              "username": "Kotorixxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978817309536932163",
+        "in_reply_to_user_id": "1598723832230998016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978780446117806122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotorixxxxxx 刘海也好可爱ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978780436869640192"
+          ]
+        },
+        "author_id": "1598723832230998016",
+        "conversation_id": "1978780446117806122",
+        "created_at": "2025-10-16T11:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978780446117806122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eh35lsx3Fl",
+              "end": 40,
+              "expanded_url": "https://x.com/Kotorixxxxxx/status/1978780446117806122/photo/1",
+              "media_key": "3_1978780436869640192",
+              "start": 17,
+              "url": "https://t.co/Eh35lsx3Fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978780446117806122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1185,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;.&lt;喜欢萌萌的感觉 https://t.co/Eh35lsx3Fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 62,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T17:00:54.000Z",
+        "description": "希望大家都能开心呢 不是女生 🚪52\n全国可✈️",
+        "id": "1598723832230998016",
+        "location": "成都",
+        "name": "南小彩🍥",
+        "pinned_tweet_id": "1913532584124162231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787455166813544448/EdRCLjMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15243,
+          "following_count": 783,
+          "like_count": 5427,
+          "listed_count": 54,
+          "media_count": 521,
+          "tweet_count": 5626
+        },
+        "username": "Kotorixxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

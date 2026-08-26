@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2055604179067109869",
+    "created_at": "2026-05-17T00:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055815562643849380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753527956935483392",
+          "start": 0,
+          "username": "MTXRin_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055815562643849380",
+    "in_reply_to_user_id": "1753527956935483392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055813655829299275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTXRin_2nd 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055604179067109869",
+        "created_at": "2026-05-17T00:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055815562643849380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753527956935483392",
+              "start": 0,
+              "username": "MTXRin_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055815562643849380",
+        "in_reply_to_user_id": "1753527956935483392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055813655829299275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTXRin_2nd 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753527956935483392",
+        "conversation_id": "2055604179067109869",
+        "created_at": "2026-05-17T00:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055813655829299275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055813655829299275",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055604179067109869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12978,
+          "following_count": 498,
+          "like_count": 17659,
+          "listed_count": 44,
+          "media_count": 273,
+          "tweet_count": 9135
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T21:17:27.000Z",
+        "description": "你好！这里是芥川凛！\n可以叫我 凛/秋凛/小R\n\nAndroid开发进修中……\n\nRainyNight.Sys 雨夜系统\nINFP/自发型多意识体/ASD/阿斯伯格/退役OIer/生竞预备役\n爱人@yywz258\n\n192cm/69kg/MtF/微天赋\n全世界无产者联合起来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "yywz258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/The_UFTL",
+                "end": 23,
+                "expanded_url": "https://x.com/The_UFTL",
+                "start": 0,
+                "url": "https://t.co/mBt37wzMzE"
+              }
+            ]
+          }
+        },
+        "id": "1753527956935483392",
+        "location": "2003",
+        "name": "泛式芥川凛🏳️‍⚧️（住校中）",
+        "pinned_tweet_id": "2048385897415266651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033094320111185920/r2ZCrfOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 595,
+          "like_count": 5113,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 4486
+        },
+        "url": "https://t.co/mBt37wzMzE",
+        "username": "MTXRin_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

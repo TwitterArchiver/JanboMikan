@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2048356420282724736",
+    "created_at": "2026-04-26T13:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048390460180480024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816124607268851713",
+          "start": 0,
+          "username": "VegAltairSirius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048390460180480024",
+    "in_reply_to_user_id": "1816124607268851713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048365840953901218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VegAltairSirius 那很好了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2048356420282724736",
+        "created_at": "2026-04-26T13:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048390460180480024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1816124607268851713",
+              "start": 0,
+              "username": "VegAltairSirius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048390460180480024",
+        "in_reply_to_user_id": "1816124607268851713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048365840953901218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VegAltairSirius 那很好了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816124607268851713",
+        "conversation_id": "2048356420282724736",
+        "created_at": "2026-04-26T11:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048365840953901218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048365840953901218",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048356420282724736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这身真好看吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12018,
+          "following_count": 478,
+          "like_count": 16444,
+          "listed_count": 42,
+          "media_count": 240,
+          "tweet_count": 8335
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T14:53:56.000Z",
+        "description": "All my information is meaningless because I am just passing by. I am an existentialist and don't talk about politics. I like to read yuri, it's beautiful.",
+        "id": "1816124607268851713",
+        "name": "VegAltair",
+        "pinned_tweet_id": "1932103020231467269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927247095485927424/5LwL4Mii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 233,
+          "like_count": 4046,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "username": "VegAltairSirius",
+        "verified": false
+      }
+    ]
+  }
+}

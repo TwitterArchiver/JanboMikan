@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2019340496716652997",
+    "created_at": "2026-02-05T10:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019360351331184925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 22,
+          "id": "2497764032",
+          "start": 10,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019360351331184925",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019353222092321044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @TainiiMikan 不也挺好🥴x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2019340496716652997",
+        "created_at": "2026-02-05T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019360351331184925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 22,
+              "id": "2497764032",
+              "start": 10,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019360351331184925",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019353222092321044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @TainiiMikan 不也挺好🥴x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2019340496716652997",
+        "created_at": "2026-02-05T10:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019353222092321044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2497764032",
+              "start": 0,
+              "username": "TainiiMikan"
+            },
+            {
+              "end": 24,
+              "id": "1976995735532138496",
+              "start": 13,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019353222092321044",
+        "in_reply_to_user_id": "2497764032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019353010598781015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TainiiMikan @JanboMikan 我get到我母上看我是啥心情了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 304,
+          "like_count": 7682,
+          "listed_count": 23,
+          "media_count": 126,
+          "tweet_count": 3938
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/毛绒玩具饲养员/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Ted_noncommute"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "图包🚪68",
+        "name": "Ted",
+        "pinned_tweet_id": "1990718236422189238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 1566,
+          "like_count": 41764,
+          "listed_count": 14,
+          "media_count": 408,
+          "tweet_count": 8756
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 大号 @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 63,
+          "like_count": 572,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 471
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

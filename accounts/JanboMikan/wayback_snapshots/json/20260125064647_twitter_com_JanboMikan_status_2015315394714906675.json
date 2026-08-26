@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015063679038013538",
+    "created_at": "2026-01-25T06:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015315394714906675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        },
+        {
+          "end": 19,
+          "id": "1904539885769457665",
+          "start": 8,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015315394714906675",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015273375015338220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq @yanmin1105 杂鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015063679038013538",
+        "created_at": "2026-01-25T06:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015315394714906675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            },
+            {
+              "end": 19,
+              "id": "1904539885769457665",
+              "start": 8,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015315394714906675",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015273375015338220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq @yanmin1105 杂鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685784710285266944",
+        "conversation_id": "2015063679038013538",
+        "created_at": "2026-01-25T03:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015273375015338220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904539885769457665",
+              "start": 0,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015273375015338220",
+        "in_reply_to_user_id": "1904539885769457665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015063679038013538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanmin1105 杂鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 283,
+          "like_count": 6654,
+          "listed_count": 21,
+          "media_count": 113,
+          "tweet_count": 3337
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 422,
+          "like_count": 9215,
+          "listed_count": 10,
+          "media_count": 1990,
+          "tweet_count": 9439
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨家长党丨物化生丨INFP-T丨天津人丨小八单推人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨一些负能的坏东西 @xiaoyan_in 丨搞黄小号（🚪68）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 131,
+                "start": 118,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "P.O.BOX No.298 Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1982095158201270466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 383,
+          "like_count": 3294,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1329
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2078434607503147113",
+    "created_at": "2026-07-20T14:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079213663928635406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699111175215276032",
+          "start": 0,
+          "username": "orange12070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079213663928635406",
+    "in_reply_to_user_id": "1699111175215276032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078855037120569741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange12070 你先给我用x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2078434607503147113",
+        "created_at": "2026-07-20T14:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079213663928635406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699111175215276032",
+              "start": 0,
+              "username": "orange12070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079213663928635406",
+        "in_reply_to_user_id": "1699111175215276032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078855037120569741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange12070 你先给我用x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699111175215276032",
+        "conversation_id": "2078434607503147113",
+        "created_at": "2026-07-19T14:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078855037120569741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078855037120569741",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078434607503147113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 那你给我用用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15578,
+          "following_count": 602,
+          "like_count": 21226,
+          "listed_count": 52,
+          "media_count": 363,
+          "tweet_count": 11236
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-05T17:24:16.000Z",
+        "description": "29元包年千G流量VPN👉🏻https://t.co/7q87cSyvWk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "velcel.yycloud.tz86.vip/#/register?cod…",
+                "end": 37,
+                "expanded_url": "https://velcel.yycloud.tz86.vip/#/register?code=dXrE87VC",
+                "start": 14,
+                "url": "https://t.co/7q87cSyvWk"
+              }
+            ]
+          }
+        },
+        "id": "1699111175215276032",
+        "location": "广州市",
+        "name": "橙酱爱涩涩",
+        "pinned_tweet_id": "2035279005415612618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706119567893024768/5-s2Ppje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11467,
+          "following_count": 1063,
+          "like_count": 17264,
+          "listed_count": 51,
+          "media_count": 110,
+          "tweet_count": 4264
+        },
+        "url": "",
+        "username": "orange12070",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046042228628607051",
+    "created_at": "2026-04-20T07:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046134708690723257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882027304194617344",
+          "start": 0,
+          "username": "henger_bf"
+        },
+        {
+          "end": 20,
+          "id": "1431080795536433154",
+          "start": 11,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046134708690723257",
+    "in_reply_to_user_id": "1882027304194617344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046085268927893507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henger_bf @yuluoqwq 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046042228628607051",
+        "created_at": "2026-04-20T07:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046134708690723257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882027304194617344",
+              "start": 0,
+              "username": "henger_bf"
+            },
+            {
+              "end": 20,
+              "id": "1431080795536433154",
+              "start": 11,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046134708690723257",
+        "in_reply_to_user_id": "1882027304194617344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046085268927893507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henger_bf @yuluoqwq 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882027304194617344",
+        "conversation_id": "2046042228628607051",
+        "created_at": "2026-04-20T04:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046085268927893507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046085268927893507",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046042228628607051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuluoqwq 好好看 羡慕喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11262,
+          "following_count": 458,
+          "like_count": 15752,
+          "listed_count": 41,
+          "media_count": 229,
+          "tweet_count": 7991
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T11:27:59.000Z",
+        "description": "坐标北京（已回京版～） 经典infp 🉑被缚  🉑缚手（学习练习中ing 菜鸡w）可女装喵 欢迎扩列qwq （可私信领取详细自我介绍 约玩请附带自我介绍喵～） \n喜欢跟漂亮姐姐或漂亮“姐姐”一起玩\n(所有行为均经过知情同意，无真实暴力行为发生)",
+        "id": "1882027304194617344",
+        "location": "北京",
+        "name": "秋风半夜瞑蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970294693879808/LL8PI3_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 644,
+          "like_count": 1276,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 391
+        },
+        "username": "henger_bf",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3432,
+          "following_count": 1554,
+          "like_count": 40675,
+          "listed_count": 13,
+          "media_count": 263,
+          "tweet_count": 4889
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

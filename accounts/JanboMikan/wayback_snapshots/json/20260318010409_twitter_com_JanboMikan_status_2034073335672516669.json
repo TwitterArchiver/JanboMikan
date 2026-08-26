@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033498523404992671",
+    "created_at": "2026-03-18T01:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034073335672516669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764603711316480000",
+          "start": 0,
+          "username": "Hug800mhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034073335672516669",
+    "in_reply_to_user_id": "1764603711316480000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033967809966051427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hug800mhz 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033498523404992671",
+        "created_at": "2026-03-18T01:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034073335672516669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764603711316480000",
+              "start": 0,
+              "username": "Hug800mhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034073335672516669",
+        "in_reply_to_user_id": "1764603711316480000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033967809966051427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hug800mhz 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764603711316480000",
+        "conversation_id": "2033498523404992671",
+        "created_at": "2026-03-17T18:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033967809966051427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033967809966051427",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033498523404992671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 但坏处是type-C在连上之前永远不会告诉你他支持那些协议()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8719,
+          "following_count": 406,
+          "like_count": 12097,
+          "listed_count": 34,
+          "media_count": 180,
+          "tweet_count": 6418
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T10:48:18.000Z",
+        "description": "男娘, 清水, 在读; 我很好说话的, 多和我互动呀☺️;  \n出于「想要向更多人分享自己照片」的目的而创建的账号; \n“线下遇到女装的我, 可以来摸摸腿搂搂腰, 我不介意的”",
+        "id": "1764603711316480000",
+        "name": "Hug",
+        "pinned_tweet_id": "1989935736943161696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764603912894713856/nnhOffTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2650,
+          "following_count": 77,
+          "like_count": 1453,
+          "listed_count": 11,
+          "media_count": 94,
+          "tweet_count": 261
+        },
+        "username": "Hug800mhz",
+        "verified": false
+      }
+    ]
+  }
+}

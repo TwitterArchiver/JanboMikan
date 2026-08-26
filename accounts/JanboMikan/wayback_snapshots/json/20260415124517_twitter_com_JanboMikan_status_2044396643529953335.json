@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044316418154606639",
+    "created_at": "2026-04-15T12:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044396643529953335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1408736706338033668",
+          "start": 0,
+          "username": "ACE_yumoooo"
+        },
+        {
+          "end": 22,
+          "id": "1431080795536433154",
+          "start": 13,
+          "username": "yuluoqwq"
+        },
+        {
+          "end": 33,
+          "id": "1597056816633896960",
+          "start": 23,
+          "username": "GouDan_JD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044396643529953335",
+    "in_reply_to_user_id": "1408736706338033668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044316418154606639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACE_yumoooo @yuluoqwq @GouDan_JD 你看你扫的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044316408713293824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7e8UXbsAAZwtE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044316418154606639",
+        "created_at": "2026-04-15T12:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044396643529953335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1408736706338033668",
+              "start": 0,
+              "username": "ACE_yumoooo"
+            },
+            {
+              "end": 22,
+              "id": "1431080795536433154",
+              "start": 13,
+              "username": "yuluoqwq"
+            },
+            {
+              "end": 33,
+              "id": "1597056816633896960",
+              "start": 23,
+              "username": "GouDan_JD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044396643529953335",
+        "in_reply_to_user_id": "1408736706338033668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044316418154606639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACE_yumoooo @yuluoqwq @GouDan_JD 你看你扫的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044316408713293824"
+          ]
+        },
+        "author_id": "1408736706338033668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2044316418154606639",
+        "created_at": "2026-04-15T07:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044316418154606639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "jk"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "男娘"
+            },
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1431080795536433154",
+              "start": 20,
+              "username": "yuluoqwq"
+            },
+            {
+              "end": 46,
+              "id": "1597056816633896960",
+              "start": 36,
+              "username": "GouDan_JD"
+            },
+            {
+              "end": 63,
+              "id": "1408736706338033668",
+              "start": 51,
+              "username": "ACE_yumoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vG9IbuGCgR",
+              "end": 126,
+              "expanded_url": "https://x.com/ACE_yumoooo/status/2044316418154606639/photo/1",
+              "media_key": "3_2044316408713293824",
+              "start": 103,
+              "url": "https://t.co/vG9IbuGCgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044316418154606639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 469,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“看你又被绳子绑又被笼子拴的”\n\n场地:@yuluoqwq\n🪢and📷:@GouDan_JD\n笼子里:@ACE_yumoooo\n\n（照片内容本人知情同意，无真实暴力发生）\n\n#jk #男娘 #可爱的男孩子 https://t.co/vG9IbuGCgR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10849,
+          "following_count": 453,
+          "like_count": 15346,
+          "listed_count": 40,
+          "media_count": 223,
+          "tweet_count": 7816
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 172,
+          "like_count": 1191,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 191
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 1546,
+          "like_count": 40793,
+          "listed_count": 13,
+          "media_count": 261,
+          "tweet_count": 4843
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T02:36:38.000Z",
+        "description": "谁叫我这样活该 缚起双手给你爱                               小猫@maobohe457",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "maobohe457"
+              }
+            ]
+          }
+        },
+        "id": "1597056816633896960",
+        "location": "GuangZhou",
+        "name": "🐶🥚",
+        "pinned_tweet_id": "1842026818389606601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896595923947421696/kH1bHhxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 602,
+          "like_count": 5040,
+          "listed_count": 12,
+          "media_count": 70,
+          "tweet_count": 782
+        },
+        "username": "GouDan_JD",
+        "verified": false
+      }
+    ]
+  }
+}

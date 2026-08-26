@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044266181432094895",
+    "created_at": "2026-04-15T12:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044396957331030422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044396957331030422",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044266181432094895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 是冰箱的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044266178932260864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6xQj2aQAArPnN.jpg",
+        "width": 1778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044266181432094895",
+        "created_at": "2026-04-15T12:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044396957331030422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044396957331030422",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044266181432094895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 是冰箱的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044266178932260864"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "conversation_id": "2044266181432094895",
+        "created_at": "2026-04-15T04:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044266181432094895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWftmfujP2",
+              "end": 60,
+              "expanded_url": "https://x.com/lnjijiji193046/status/2044266181432094895/photo/1",
+              "media_key": "3_2044266178932260864",
+              "start": 37,
+              "url": "https://t.co/xWftmfujP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044266181432094895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上热的想开空调\n摸索了半天终于摸到了遥控器\n只不过不是空调的（\n#男娘 https://t.co/xWftmfujP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10849,
+          "following_count": 453,
+          "like_count": 15348,
+          "listed_count": 40,
+          "media_count": 223,
+          "tweet_count": 7817
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男/50kg/168/喜欢可爱的东西/不约线下/有对象/无🚪/同好贴贴❤️",
+        "id": "1874683133423132672",
+        "location": "距离你 -14 cm",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004031245542739973/ZVr2ZubO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 155,
+          "like_count": 6714,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 1662
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062182068587827685",
+    "created_at": "2026-06-03T14:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062182068587827685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2497764032",
+          "start": 3,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062182068587827685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062181775921791319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TainiiMikan: 今天超级感谢铭纪和雨墨来帮我搬家，即日开始常驻深圳咯，待两个月。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062182068587827685",
+        "created_at": "2026-06-03T14:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062182068587827685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2497764032",
+              "start": 3,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062182068587827685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062181775921791319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TainiiMikan: 今天超级感谢铭纪和雨墨来帮我搬家，即日开始常驻深圳咯，待两个月。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497764032",
+        "conversation_id": "2062181775921791319",
+        "created_at": "2026-06-03T14:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062181775921791319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062181775921791319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天超级感谢铭纪和雨墨来帮我搬家，即日开始常驻深圳咯，待两个月。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13832,
+          "following_count": 529,
+          "like_count": 18764,
+          "listed_count": 48,
+          "media_count": 305,
+          "tweet_count": 9872
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 129,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1032
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2035310455313367081",
+    "created_at": "2026-03-21T13:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035343197661192308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778989851226071040",
+          "start": 0,
+          "username": "HXD3C0679"
+        },
+        {
+          "end": 20,
+          "id": "1812363069487742976",
+          "start": 11,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035343197661192308",
+    "in_reply_to_user_id": "1778989851226071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035339369914237095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXD3C0679 @mingji_A 存货这一块😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2035339360707760128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD76XWhbUAAjj6a.jpg",
+        "width": 343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2035310455313367081",
+        "created_at": "2026-03-21T13:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035343197661192308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778989851226071040",
+              "start": 0,
+              "username": "HXD3C0679"
+            },
+            {
+              "end": 20,
+              "id": "1812363069487742976",
+              "start": 11,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035343197661192308",
+        "in_reply_to_user_id": "1778989851226071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035339369914237095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXD3C0679 @mingji_A 存货这一块😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035339360707760128"
+          ]
+        },
+        "author_id": "1778989851226071040",
+        "conversation_id": "2035310455313367081",
+        "created_at": "2026-03-21T12:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035339369914237095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejiHtphhkZ",
+              "end": 55,
+              "expanded_url": "https://x.com/HXD3C0679/status/2035339369914237095/photo/1",
+              "media_key": "3_2035339360707760128",
+              "start": 32,
+              "url": "https://t.co/ejiHtphhkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035339369914237095",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035310455313367081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 怎么又去开房了啊😡 https://t.co/ejiHtphhkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9296,
+          "following_count": 411,
+          "like_count": 12852,
+          "listed_count": 35,
+          "media_count": 188,
+          "tweet_count": 6659
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25、 Lexus ES300h饲养员&VOLVO S90临时支配使用🤑\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 268,
+          "like_count": 6660,
+          "listed_count": 2,
+          "media_count": 1915,
+          "tweet_count": 5377
+        },
+        "username": "HXD3C0679",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 1908,
+          "like_count": 76640,
+          "listed_count": 11,
+          "media_count": 127,
+          "tweet_count": 14947
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

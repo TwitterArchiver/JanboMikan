@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020525836214899141",
+    "created_at": "2026-02-08T15:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T16:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020526546256347591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847925217038868480",
+          "start": 0,
+          "username": "longbao_yuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020526546256347591",
+    "in_reply_to_user_id": "1847925217038868480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020525836214899141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longbao_yuxi 好腿😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020525830980665345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApZib8agAEqtZt.jpg",
+        "width": 1721
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020525816782950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApZhnDakAAV1qK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020525832767438848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApZiimagAAOQX4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020525836214899141",
+        "created_at": "2026-02-08T15:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020526546256347591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847925217038868480",
+              "start": 0,
+              "username": "longbao_yuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020526546256347591",
+        "in_reply_to_user_id": "1847925217038868480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020525836214899141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longbao_yuxi 好腿😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020525830980665345",
+            "3_2020525816782950400",
+            "3_2020525832767438848"
+          ]
+        },
+        "author_id": "1847925217038868480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2020525836214899141",
+        "created_at": "2026-02-08T15:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020525836214899141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 51,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "明日方舟終末地"
+            },
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzYqcM2TlC",
+              "end": 113,
+              "expanded_url": "https://x.com/longbao_yuxi/status/2020525836214899141/photo/1",
+              "media_key": "3_2020525830980665345",
+              "start": 90,
+              "url": "https://t.co/zzYqcM2TlC"
+            },
+            {
+              "display_url": "pic.x.com/zzYqcM2TlC",
+              "end": 113,
+              "expanded_url": "https://x.com/longbao_yuxi/status/2020525836214899141/photo/1",
+              "media_key": "3_2020525816782950400",
+              "start": 90,
+              "url": "https://t.co/zzYqcM2TlC"
+            },
+            {
+              "display_url": "pic.x.com/zzYqcM2TlC",
+              "end": 113,
+              "expanded_url": "https://x.com/longbao_yuxi/status/2020525836214899141/photo/1",
+              "media_key": "3_2020525832767438848",
+              "start": 90,
+              "url": "https://t.co/zzYqcM2TlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020525836214899141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "管理员只是在办公而已…（？\n（背景很乱很乱抱歉捏🥹\n（为什么能捣鼓这么复杂的c服却懒得收拾一下啊喂！\n#ArknightsEndfield \n#明日方舟終末地 \n#cosplay https://t.co/zzYqcM2TlC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4937,
+          "following_count": 310,
+          "like_count": 8009,
+          "listed_count": 23,
+          "media_count": 130,
+          "tweet_count": 4093
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T08:58:12.000Z",
+        "description": "165/48 /hrt 09/08/25 /成就：单刷速通大证然后被家长二进宫碰到反跨医生结果他推荐的医生是友跨？/家暴党…/大概能算天赋党/褪鳞成羽，化鳍为爪，夺嘴改喙，变鱼作鹰/绝赞增肥中…/欧内桑@FrostyStrings/\n学生（？）@maveian14174",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "FrostyStrings"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "maveian14174"
+              }
+            ]
+          }
+        },
+        "id": "1847925217038868480",
+        "location": "上海",
+        "name": "玲珑语溪🍥",
+        "pinned_tweet_id": "2016918668324851740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691145704894464/HUop7X62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 132
+        },
+        "username": "longbao_yuxi",
+        "verified": false
+      }
+    ]
+  }
+}

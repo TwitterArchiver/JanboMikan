@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011642473245020494",
+    "created_at": "2026-01-16T08:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T09:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012085563579588622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012085563579588622",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011642473245020494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 200斤的丸子能吃几顿嘿嘿🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_2011642465108049927",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rKKfPbQAc6ANr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1088,
+        "media_key": "3_2011642465112244227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rKKfQbQAMGwKB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1368,
+        "media_key": "3_2011642465099591680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rKKfNaMAATOpg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1043,
+        "media_key": "3_2011642465112244224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rKKfQbQAAfGlZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011642473245020494",
+        "created_at": "2026-01-16T08:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012085563579588622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012085563579588622",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011642473245020494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 200斤的丸子能吃几顿嘿嘿🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011642465108049927",
+            "3_2011642465112244227",
+            "3_2011642465099591680",
+            "3_2011642465112244224"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2011642473245020494",
+        "created_at": "2026-01-15T03:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011642473245020494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFr4TaYXgK",
+              "end": 134,
+              "expanded_url": "https://x.com/maruko00o/status/2011642473245020494/photo/1",
+              "media_key": "3_2011642465108049927",
+              "start": 111,
+              "url": "https://t.co/XFr4TaYXgK"
+            },
+            {
+              "display_url": "pic.x.com/XFr4TaYXgK",
+              "end": 134,
+              "expanded_url": "https://x.com/maruko00o/status/2011642473245020494/photo/1",
+              "media_key": "3_2011642465112244227",
+              "start": 111,
+              "url": "https://t.co/XFr4TaYXgK"
+            },
+            {
+              "display_url": "pic.x.com/XFr4TaYXgK",
+              "end": 134,
+              "expanded_url": "https://x.com/maruko00o/status/2011642473245020494/photo/1",
+              "media_key": "3_2011642465099591680",
+              "start": 111,
+              "url": "https://t.co/XFr4TaYXgK"
+            },
+            {
+              "display_url": "pic.x.com/XFr4TaYXgK",
+              "end": 134,
+              "expanded_url": "https://x.com/maruko00o/status/2011642473245020494/photo/1",
+              "media_key": "3_2011642465112244224",
+              "start": 111,
+              "url": "https://t.co/XFr4TaYXgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011642473245020494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=mSFHKA…",
+                "end": 380,
+                "expanded_url": "https://www.youtube.com/watch?v=mSFHKAvTGNk",
+                "start": 357,
+                "url": "https://t.co/ihJh0KyEWz"
+              }
+            ]
+          },
+          "text": "Q&A 环节，回答下图问题：\n\n1 & 2. 身体相关合并回答： 并没有针对性锻炼，就是小鸟胃吃的很少，食人族可能都不屑于吃我的纯瘦。\n\n跑步 4 个月瘦 4 斤，相当于是每个月都能通过很健康的方式瘦 1 斤，很厉害了！体重看似可能没减少到你期望的数值，没准是因为脂肪减少的同时还在长肌肉，很健康的，坚持一下！\n（另外虽然我不是医学专业，但我觉得如果你不处于必须通过药物来介入治疗的重度肥胖状态的话，或许还是不要用药来减肥比较好。）\n\n并不是从小就是这个身材，曾经最重时期达到过 200 斤的里程碑式记录，之后一段时间因为种种问题导致精神状态不佳，经历了节目效果堪比 AGDQ 2016 上 TASBot 玩脳トレ的速通流程一样精彩的断崖式下跌，就一直稳定在照片里的状态了。\n\n（TASBot 脳トレ速通视频见： https://t.co/ihJh0KyEWz）\n\n3. 看起来是连续的问题，所以拼在一起回答。\n称呼以你叫着最舒服的那个为准就行，或者根据我出现时候的形象来决定一个。一定要说 pronouns 的话就是 he/him，中文用「他」就好，but still，依您喜好。\n\n4. 假发打理的话没有特意学习过，除了买来之后稍微修剪一下刘海，就是喷护理液、定期梳、定期洗。另外也要定期换，因为假发没法像头皮一样产生油脂来润滑，加上平时佩戴会产生静电发生摩擦，通常能买到的高温丝假发一定会在长期使用后发生形变，最后炸毛。（你要是放大看照片里我头发的话可以看到已经有些炸了）\n\n真发没什么造型可言，我平时会梳马尾，干活的时候就盘起来拿鲨鱼夹夹住。太长的话就去理发店跟理发师说「您看着剪就行，谢谢。」然后剪短一些，顺便有机会获得一个意料外的新发型。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7871,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Q&amp;A 环节，回答下图问题：\n\n1 &amp; 2. 身体相关合并回答： 并没有针对性锻炼，就是小鸟胃吃的很少，食人族可能都不屑于吃我的纯瘦。\n\n跑步 4 个月瘦 4 斤，相当于是每个月都能通过很健康的方式瘦 1 https://t.co/XFr4TaYXgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3921,
+          "following_count": 278,
+          "like_count": 5985,
+          "listed_count": 18,
+          "media_count": 102,
+          "tweet_count": 2904
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36952,
+          "following_count": 915,
+          "like_count": 20885,
+          "listed_count": 200,
+          "media_count": 844,
+          "tweet_count": 4661
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

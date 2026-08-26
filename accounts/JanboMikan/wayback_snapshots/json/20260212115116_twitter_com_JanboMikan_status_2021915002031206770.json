@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021778979301236965",
+    "created_at": "2026-02-12T11:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021915002031206770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1791997799380434944",
+          "start": 0,
+          "username": "Luxiaomo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021915002031206770",
+    "in_reply_to_user_id": "1791997799380434944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021913277132157119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luxiaomo_ 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021778979301236965",
+        "created_at": "2026-02-12T11:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021915002031206770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1791997799380434944",
+              "start": 0,
+              "username": "Luxiaomo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021915002031206770",
+        "in_reply_to_user_id": "1791997799380434944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021913277132157119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luxiaomo_ 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791997799380434944",
+        "conversation_id": "2021778979301236965",
+        "created_at": "2026-02-12T11:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021913277132157119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021913277132157119",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021778979301236965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这是好事啊（赞赏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5377,
+          "following_count": 321,
+          "like_count": 8451,
+          "listed_count": 24,
+          "media_count": 138,
+          "tweet_count": 4360
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:02:34.000Z",
+        "description": "碎碎念账号…互fo🉑私信...然后没了，总之就是一个废话很多的人（可以每天私信晚安 事贝斯手菜鸟一个",
+        "id": "1791997799380434944",
+        "location": "東京 豊島区",
+        "name": "鹿筱墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016201782050095105/sFQiPF1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 613,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "Luxiaomo_",
+        "verified": false
+      }
+    ]
+  }
+}

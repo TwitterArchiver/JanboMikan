@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2059228064458916218",
+    "created_at": "2026-05-26T12:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059251357677457436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "895396687216123905",
+          "start": 0,
+          "username": "Death_rod5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059251357677457436",
+    "in_reply_to_user_id": "895396687216123905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059248379880984788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Death_rod5 多灾多难牛牛历险记"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2059228064458916218",
+        "created_at": "2026-05-26T12:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059251357677457436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "895396687216123905",
+              "start": 0,
+              "username": "Death_rod5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059251357677457436",
+        "in_reply_to_user_id": "895396687216123905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059248379880984788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Death_rod5 多灾多难牛牛历险记"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895396687216123905",
+        "conversation_id": "2059228064458916218",
+        "created_at": "2026-05-26T12:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059248379880984788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059248379880984788",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059228064458916218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 转生成为蜜柑的牛牛第一天，被核磁，第二天被投屏，今天又吊烧，我不要留在这个异世界了，我要回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13306,
+          "following_count": 523,
+          "like_count": 18235,
+          "listed_count": 46,
+          "media_count": 290,
+          "tweet_count": 9542
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-09T21:29:41.000Z",
+        "description": "我的心沉没在了我从未抵达的远方",
+        "id": "895396687216123905",
+        "location": "Mukden, Greater Asia",
+        "name": "土堡王",
+        "pinned_tweet_id": "2011106033155113417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797309414623543297/wqhGsWyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 4845,
+          "like_count": 226858,
+          "listed_count": 18,
+          "media_count": 618,
+          "tweet_count": 71929
+        },
+        "username": "Death_rod5",
+        "verified": false
+      }
+    ]
+  }
+}

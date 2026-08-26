@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2000974918205497380",
+    "created_at": "2025-12-17T13:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001282897802895841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1458289368079421443",
+          "start": 0,
+          "username": "Kian031019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001282897802895841",
+    "in_reply_to_user_id": "1458289368079421443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000974918205497380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kian031019 已严肃调查😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000974867831963648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TkCmmbwAA1-po.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2000974918205497380",
+        "created_at": "2025-12-17T13:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001282897802895841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1458289368079421443",
+              "start": 0,
+              "username": "Kian031019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001282897802895841",
+        "in_reply_to_user_id": "1458289368079421443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000974918205497380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kian031019 已严肃调查😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000974867831963648"
+          ]
+        },
+        "author_id": "1458289368079421443",
+        "conversation_id": "2000974918205497380",
+        "created_at": "2025-12-16T17:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T18:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000974918205497380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 62,
+              "start": 56,
+              "tag": "橘シェリー"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "橘雪莉"
+            },
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "cospaly"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "cos"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "男娘"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "男の娘"
+            },
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENYM4BvawH",
+              "end": 122,
+              "expanded_url": "https://x.com/Kian031019/status/2000974918205497380/photo/1",
+              "media_key": "3_2000974867831963648",
+              "start": 99,
+              "url": "https://t.co/ENYM4BvawH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000974918205497380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“呜哇～正在大调查‘钢铁胃袋’的雪莉大侦探，居然被困在里面了，看来接下来只能被大调查了”\n#魔法少女ノ魔女裁判 ＃橘シェリー ＃橘雪莉 ＃cospaly ＃cos ＃男娘 #男の娘 #可爱的男孩子 https://t.co/ENYM4BvawH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 211,
+          "like_count": 3553,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 1543
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T04:24:47.000Z",
+        "description": "糖分依賴/回避依戀/社交懶惰/能量內耗",
+        "id": "1458289368079421443",
+        "location": "无锡/常州",
+        "name": "雨森リオ",
+        "pinned_tweet_id": "1990817819135455463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975926316042993664/XkhN6cC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 513,
+          "like_count": 20,
+          "listed_count": 11,
+          "media_count": 42,
+          "tweet_count": 96
+        },
+        "username": "Kian031019",
+        "verified": false
+      }
+    ]
+  }
+}

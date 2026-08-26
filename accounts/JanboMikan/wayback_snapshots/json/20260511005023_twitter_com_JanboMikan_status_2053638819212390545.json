@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053303837663052004",
+    "created_at": "2026-05-11T00:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053638819212390545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1509210603692642307",
+          "start": 0,
+          "username": "oer_ro"
+        },
+        {
+          "end": 21,
+          "id": "1284311987673919488",
+          "start": 8,
+          "username": "recruits0703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053638819212390545",
+    "in_reply_to_user_id": "1509210603692642307",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053485376132485231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oer_ro @recruits0703 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053303837663052004",
+        "created_at": "2026-05-11T00:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053638819212390545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1509210603692642307",
+              "start": 0,
+              "username": "oer_ro"
+            },
+            {
+              "end": 21,
+              "id": "1284311987673919488",
+              "start": 8,
+              "username": "recruits0703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053638819212390545",
+        "in_reply_to_user_id": "1509210603692642307",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053485376132485231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oer_ro @recruits0703 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509210603692642307",
+        "conversation_id": "2053303837663052004",
+        "created_at": "2026-05-10T14:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053485376132485231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1284311987673919488",
+              "start": 12,
+              "username": "recruits0703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053485376132485231",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053303837663052004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @recruits0703 哎又约"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12815,
+          "following_count": 494,
+          "like_count": 17308,
+          "listed_count": 43,
+          "media_count": 263,
+          "tweet_count": 8909
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T16:47:14.000Z",
+        "description": "减肥～",
+        "id": "1509210603692642307",
+        "name": "Liar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025860786380587009/Az8OrwCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 581,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 353
+        },
+        "username": "oer_ro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-18T02:20:26.000Z",
+        "description": "坐标香港/珠海，一个喜欢女装和被绑的新人cdm，因为约不到人所以自缚玩的比较多/龟速更新/\n喜欢幻想情景和cos，经常会yy自己被绑着进入某个情景或者角色扮演（剧情play之类的/\n很想试试吊缚和刑具…/\n有点社恐/172cm-67kg/\n欢迎扩列交流",
+        "id": "1284311987673919488",
+        "location": "珠海/香港/大湾区都能跑",
+        "name": "阿茶",
+        "pinned_tweet_id": "1817030440295055662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817019951775158272/TG57ROJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 383,
+          "like_count": 2405,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 390
+        },
+        "username": "recruits0703",
+        "verified": false
+      }
+    ]
+  }
+}

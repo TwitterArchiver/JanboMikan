@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979150638693933301",
+    "created_at": "2025-10-17T12:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979159051901768106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1608749014564081665",
+          "start": 0,
+          "username": "SS9451PTOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979159051901768106",
+    "in_reply_to_user_id": "1608749014564081665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979150638693933301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SS9451PTOW 姐姐夹我脸...！！（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979150635418161152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dbBFUWkAA0GFL.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979150638693933301",
+        "created_at": "2025-10-17T12:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979159051901768106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1608749014564081665",
+              "start": 0,
+              "username": "SS9451PTOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979159051901768106",
+        "in_reply_to_user_id": "1608749014564081665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979150638693933301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SS9451PTOW 姐姐夹我脸...！！（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979150635418161152"
+          ]
+        },
+        "author_id": "1608749014564081665",
+        "conversation_id": "1979150638693933301",
+        "created_at": "2025-10-17T11:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979150638693933301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "男の娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "足控"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "腿控"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "黑丝腿控"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "黑裤袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dH2pJ7nERq",
+              "end": 57,
+              "expanded_url": "https://x.com/SS9451PTOW/status/1979150638693933301/photo/1",
+              "media_key": "3_1979150635418161152",
+              "start": 34,
+              "url": "https://t.co/dH2pJ7nERq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979150638693933301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夹夹阿米娅～#男娘 #男の娘 #足控 #腿控 #黑丝腿控 #黑裤袜 https://t.co/dH2pJ7nERq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 80,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T08:57:15.000Z",
+        "description": "喜好白裤袜与黑裤袜的十八男大喵，不定时更新，清水！清水！清水！",
+        "id": "1608749014564081665",
+        "location": "C H I N A",
+        "name": "Suzuka",
+        "pinned_tweet_id": "1858436949050368417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834662082622693376/ng-aUcwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 333,
+          "like_count": 81,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 167
+        },
+        "username": "SS9451PTOW",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2083097225765548216",
+    "created_at": "2026-08-01T02:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083379000521699341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937385761785188352",
+          "start": 0,
+          "username": "BG9JUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083379000521699341",
+    "in_reply_to_user_id": "1937385761785188352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083243093613293755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG9JUE 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2083097225765548216",
+        "created_at": "2026-08-01T02:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083379000521699341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937385761785188352",
+              "start": 0,
+              "username": "BG9JUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083379000521699341",
+        "in_reply_to_user_id": "1937385761785188352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083243093613293755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG9JUE 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937385761785188352",
+        "conversation_id": "2083097225765548216",
+        "created_at": "2026-07-31T17:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083243093613293755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1372569867421839368",
+              "start": 12,
+              "username": "yeliu2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083243093613293755",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083097225765548216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yeliu2025 hso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15843,
+          "following_count": 612,
+          "like_count": 21610,
+          "listed_count": 52,
+          "media_count": 375,
+          "tweet_count": 11478
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T05:42:33.000Z",
+        "description": "无线电爱好/退役刷机佬/苦逼高中生/化竞小资历/🏳️‍⚧️(she/her)丨汝将永恒沐浴星光，不论昼夜更替，不论生死轮转，不论晦明阴阳，不论虚实幻灭。",
+        "id": "1937385761785188352",
+        "location": "北落师门",
+        "name": "Starlight",
+        "pinned_tweet_id": "1964342309602164749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037873320708931584/9T0uSZLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 431,
+          "like_count": 28033,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1868
+        },
+        "url": "",
+        "username": "BG9JUE",
+        "verified": false
+      }
+    ]
+  }
+}

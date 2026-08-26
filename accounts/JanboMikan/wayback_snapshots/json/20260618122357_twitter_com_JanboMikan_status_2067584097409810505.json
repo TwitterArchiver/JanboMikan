@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2067562980666212570",
+    "created_at": "2026-06-18T12:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067584097409810505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1799157811584311297",
+          "start": 0,
+          "username": "Dyijh1165582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067584097409810505",
+    "in_reply_to_user_id": "1799157811584311297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067567501542928410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyijh1165582 是后台还是后台里面x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2067562980666212570",
+        "created_at": "2026-06-18T12:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067584097409810505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1799157811584311297",
+              "start": 0,
+              "username": "Dyijh1165582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067584097409810505",
+        "in_reply_to_user_id": "1799157811584311297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067567501542928410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyijh1165582 是后台还是后台里面x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799157811584311297",
+        "conversation_id": "2067562980666212570",
+        "created_at": "2026-06-18T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067567501542928410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067567501542928410",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067562980666212570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 看皮影戏可以去后台吗😋🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14271,
+          "following_count": 552,
+          "like_count": 19548,
+          "listed_count": 48,
+          "media_count": 321,
+          "tweet_count": 10288
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T19:14:01.000Z",
+        "description": "06男娘179/53kg/原皮/cos照会不定时发布 ☆*:.｡. o(≧▽≦)o .｡.:*☆ 我不吃🍬！恶评会删 擴列🚪20¥，在宁波大学就读中！",
+        "id": "1799157811584311297",
+        "location": "m b h j k",
+        "name": "Naofumi（求互推互转",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868000095205216256/eW0Co5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 628,
+          "like_count": 520,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "Dyijh1165582",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2034438011610693998",
+    "created_at": "2026-03-19T04:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034492538661527817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1606188226821005312",
+          "start": 0,
+          "username": "YukiFox_5848103"
+        },
+        {
+          "end": 25,
+          "id": "909909858949922818",
+          "start": 17,
+          "username": "rnpgpsl"
+        },
+        {
+          "end": 35,
+          "id": "1812363069487742976",
+          "start": 26,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034492538661527817",
+    "in_reply_to_user_id": "1606188226821005312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034483865507778730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiFox_5848103 @rnpgpsl @mingji_A 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2034438011610693998",
+        "created_at": "2026-03-19T04:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034492538661527817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1606188226821005312",
+              "start": 0,
+              "username": "YukiFox_5848103"
+            },
+            {
+              "end": 25,
+              "id": "909909858949922818",
+              "start": 17,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 35,
+              "id": "1812363069487742976",
+              "start": 26,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034492538661527817",
+        "in_reply_to_user_id": "1606188226821005312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034483865507778730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiFox_5848103 @rnpgpsl @mingji_A 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606188226821005312",
+        "conversation_id": "2034438011610693998",
+        "created_at": "2026-03-19T04:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034483865507778730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 20,
+              "id": "909909858949922818",
+              "start": 12,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 30,
+              "id": "1812363069487742976",
+              "start": 21,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034483865507778730",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034438011610693998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @rnpgpsl @mingji_A 盯———"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8907,
+          "following_count": 408,
+          "like_count": 12380,
+          "listed_count": 35,
+          "media_count": 183,
+          "tweet_count": 6519
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T07:21:43.000Z",
+        "description": "这里是小白，一只可爱的白狐狸\n女装随缘更新\n最热爱的学科是物理\n永远向往自由\n（我是男孩子）",
+        "id": "1606188226821005312",
+        "name": "🦊Wh1te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816317047141457927/VZeh4f_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 840,
+          "like_count": 30009,
+          "listed_count": 3,
+          "media_count": 1025,
+          "tweet_count": 17961
+        },
+        "username": "YukiFox_5848103",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "23岁大叔|虾头看黄男 | 什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请用 discord/tg/手机号找我 | 进群🚪/熟人 | 曾经一个人舌战群儒和一群软件工程的隔空互骂 | 脸皮厚+不要脸 | 我是傻逼 | qq爆毙 | 极端反软件工程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "鴇鵬機工|Tokiho Engineering| shit post retweeter",
+        "pinned_tweet_id": "2020373669827236105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11013,
+          "following_count": 6510,
+          "like_count": 155964,
+          "listed_count": 26,
+          "media_count": 6523,
+          "tweet_count": 89914
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 1842,
+          "like_count": 74677,
+          "listed_count": 10,
+          "media_count": 123,
+          "tweet_count": 14458
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

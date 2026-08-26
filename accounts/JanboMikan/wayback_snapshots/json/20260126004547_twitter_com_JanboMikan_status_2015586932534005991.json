@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015502241063686249",
+    "created_at": "2026-01-26T00:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T01:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015586932534005991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1140709394755149826",
+          "start": 0,
+          "username": "Kiki1358_Pe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015586932534005991",
+    "in_reply_to_user_id": "1140709394755149826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015502241063686249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiki1358_Pe 谁问你了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015502241063686249",
+        "created_at": "2026-01-26T00:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T01:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015586932534005991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1140709394755149826",
+              "start": 0,
+              "username": "Kiki1358_Pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015586932534005991",
+        "in_reply_to_user_id": "1140709394755149826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015502241063686249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiki1358_Pe 谁问你了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1140709394755149826",
+        "conversation_id": "2015502241063686249",
+        "created_at": "2026-01-25T19:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015502241063686249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/janbomikan/sta…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/janbomikan/status/2013929568743076254",
+              "start": 127,
+              "url": "https://t.co/IKvMOLEK6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015502241063686249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013929568743076254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的高中同学，谁能想到有一天会在推特上看到他xnn的样子捏😁\n自从他室友回家之后，一个人拍女装真是一发不可收拾呀（笑\n他经常咨询我的意见，所以我总能超前观看嘿嘿嘿\nanyway，对于这种哪都不露的，和我完全不是一个赛道的，我是完全冲不动的好吧👎👎👎 https://t.co/IKvMOLEK6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 285,
+          "like_count": 6743,
+          "listed_count": 22,
+          "media_count": 115,
+          "tweet_count": 3386
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-17T19:54:47.000Z",
+        "description": "Femboi Bi switch /1i or 4i/190cm 65kg 16cm Φ4.5cm (Condom size at least 56mm+)/悉尼 福州/DM open cheers～ Stand with MtX🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me",
+                "start": 0,
+                "url": "https://t.co/5p4GW8Zbn3"
+              }
+            ]
+          }
+        },
+        "id": "1140709394755149826",
+        "location": "福州 or Sydney",
+        "name": "kiki1358",
+        "pinned_tweet_id": "1961464196161482784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794951474478522368/SHT41wHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6807,
+          "following_count": 948,
+          "like_count": 4011,
+          "listed_count": 23,
+          "media_count": 58,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/5p4GW8Zbn3",
+        "username": "Kiki1358_Pe",
+        "verified": false
+      }
+    ]
+  }
+}

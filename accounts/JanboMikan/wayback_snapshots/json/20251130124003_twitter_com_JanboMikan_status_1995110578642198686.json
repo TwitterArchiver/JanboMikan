@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1995061616539566500",
+    "created_at": "2025-11-30T12:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995110578642198686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995110578642198686",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 303,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995061616539566500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 看不清楚，麻烦拆一下包装谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1995061558691704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_h6tbbMAAapwB.jpg",
+        "width": 2428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995061616539566500",
+        "created_at": "2025-11-30T12:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995110578642198686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995110578642198686",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995061616539566500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 看不清楚，麻烦拆一下包装谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995061558691704832"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "1995061616539566500",
+        "created_at": "2025-11-30T09:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T10:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995061616539566500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvZJmiqjao",
+              "end": 33,
+              "expanded_url": "https://x.com/maruko00o/status/1995061616539566500/photo/1",
+              "media_key": "3_1995061558691704832",
+              "start": 10,
+              "url": "https://t.co/XvZJmiqjao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995061616539566500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 30997,
+          "like_count": 1036,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "着装率高达 50% https://t.co/XvZJmiqjao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 159,
+          "like_count": 2217,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 没有其他平台账号 墙内平台均为盗图 || 二号机 @maruko0000o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "maruko0000o"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35159,
+          "following_count": 911,
+          "like_count": 19435,
+          "listed_count": 190,
+          "media_count": 772,
+          "tweet_count": 3808
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

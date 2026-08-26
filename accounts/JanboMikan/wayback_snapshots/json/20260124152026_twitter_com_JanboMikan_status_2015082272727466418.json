@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2014980987579470015",
+    "created_at": "2026-01-24T15:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015082272727466418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        },
+        {
+          "end": 20,
+          "id": "1430384319122579459",
+          "start": 9,
+          "username": "0x044414D0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015082272727466418",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014980987579470015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl @0x044414D0 美女你谁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2014980983527804928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_amh1hXkAAELSX.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2014980987579470015",
+        "created_at": "2026-01-24T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015082272727466418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 20,
+              "id": "1430384319122579459",
+              "start": 9,
+              "username": "0x044414D0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015082272727466418",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014980987579470015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl @0x044414D0 美女你谁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014980983527804928"
+          ]
+        },
+        "author_id": "909909858949922818",
+        "conversation_id": "2014980987579470015",
+        "created_at": "2026-01-24T08:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014980987579470015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1430384319122579459",
+              "start": 22,
+              "username": "0x044414D0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oK9jtyvjc3",
+              "end": 57,
+              "expanded_url": "https://x.com/rnpgpsl/status/2014980987579470015/photo/1",
+              "media_key": "3_2014980983527804928",
+              "start": 34,
+              "url": "https://t.co/oK9jtyvjc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014980987579470015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 113,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "袜，兄弟们，我还拍过这种风格的\n小明既视感 @0x044414D0 https://t.co/oK9jtyvjc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4231,
+          "following_count": 282,
+          "like_count": 6614,
+          "listed_count": 21,
+          "media_count": 112,
+          "tweet_count": 3304
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "什么都干区主包|精神红脖子|我怎么没有对象| 48州可飞苦力｜有需求请用 discord/tg/手机号找我 |\n进群🚪/熟人\n来看一眼我的fb marketplace吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "鴇鵬機工 | Tokiho Engineering|我觉得我不是男娘",
+        "pinned_tweet_id": "2014946023630667874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10847,
+          "following_count": 6415,
+          "like_count": 152775,
+          "listed_count": 27,
+          "media_count": 6356,
+          "tweet_count": 84162
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T04:20:21.000Z",
+        "description": "He/him Cosplay & Cla/goth LolitaFashion 女装只是兴趣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/04KxxdW4At"
+              }
+            ]
+          }
+        },
+        "id": "1430384319122579459",
+        "location": "Middle of Nowhere",
+        "name": "小明不是黑长直学姐",
+        "pinned_tweet_id": "1721284007864774682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984863495393783808/wi9_hWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4413,
+          "following_count": 222,
+          "like_count": 4237,
+          "listed_count": 19,
+          "media_count": 554,
+          "tweet_count": 2891
+        },
+        "url": "https://t.co/04KxxdW4At",
+        "username": "0x044414D0",
+        "verified": false
+      }
+    ]
+  }
+}

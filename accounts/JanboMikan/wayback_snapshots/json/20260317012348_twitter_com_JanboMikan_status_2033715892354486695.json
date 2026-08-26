@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033136133136318974",
+    "created_at": "2026-03-17T01:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033715892354486695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3978166453",
+          "start": 0,
+          "username": "MrZhoushen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033715892354486695",
+    "in_reply_to_user_id": "3978166453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033592636347716043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrZhoushen 那有点松弛了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033136133136318974",
+        "created_at": "2026-03-17T01:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033715892354486695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3978166453",
+              "start": 0,
+              "username": "MrZhoushen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033715892354486695",
+        "in_reply_to_user_id": "3978166453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033592636347716043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrZhoushen 那有点松弛了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3978166453",
+        "conversation_id": "2033136133136318974",
+        "created_at": "2026-03-16T17:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033592636347716043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033592636347716043",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033136133136318974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不是十个如喝水吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8542,
+          "following_count": 404,
+          "like_count": 11864,
+          "listed_count": 36,
+          "media_count": 178,
+          "tweet_count": 6329
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-22T08:11:58.000Z",
+        "description": "_(:_」∠)_本体死肥宅desu是个男（女装）女通吃的s 新手开车w/ Male S English available want to meet cute CD and ladies/本体肥満宅 可愛い男の娘と女好き 日本語ok(ボロボロ)",
+        "id": "3978166453",
+        "location": "福州",
+        "name": "Scrooge",
+        "pinned_tweet_id": "1566682576147820544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/657107673494614016/jGRaJKiC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5244,
+          "following_count": 842,
+          "like_count": 114,
+          "listed_count": 31,
+          "media_count": 183,
+          "tweet_count": 2352
+        },
+        "username": "MrZhoushen",
+        "verified": false
+      }
+    ]
+  }
+}

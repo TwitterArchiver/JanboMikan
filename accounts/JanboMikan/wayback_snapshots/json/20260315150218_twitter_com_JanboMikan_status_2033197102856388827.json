@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032773740074074583",
+    "created_at": "2026-03-15T15:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033197102856388827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1933872308072132609",
+          "start": 0,
+          "username": "m_tckh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033197102856388827",
+    "in_reply_to_user_id": "1933872308072132609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033178262869045299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m_tckh 出院！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032773740074074583",
+        "created_at": "2026-03-15T15:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033197102856388827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1933872308072132609",
+              "start": 0,
+              "username": "m_tckh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033197102856388827",
+        "in_reply_to_user_id": "1933872308072132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033178262869045299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m_tckh 出院！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933872308072132609",
+        "conversation_id": "2032773740074074583",
+        "created_at": "2026-03-15T13:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033178262869045299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033178262869045299",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032773740074074583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 其实男子汉也行，天天被男子艹到流汗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8261,
+          "following_count": 401,
+          "like_count": 11597,
+          "listed_count": 34,
+          "media_count": 176,
+          "tweet_count": 6205
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T13:01:17.000Z",
+        "description": "再限老子流，老子就怒一下",
+        "id": "1933872308072132609",
+        "name": "我小林来了哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933873243586519040/phOvzxFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 73,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 701
+        },
+        "username": "m_tckh",
+        "verified": false
+      }
+    ]
+  }
+}

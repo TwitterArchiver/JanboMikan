@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2014550343326302584",
+    "created_at": "2026-01-23T12:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014675698993201510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1090136700741812224",
+          "start": 0,
+          "username": "Alice__486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014675698993201510",
+    "in_reply_to_user_id": "1090136700741812224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014550343326302584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice__486 可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2014550131069353984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Ueq7CbAAAZBbQ.jpg",
+        "width": 2952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2014550343326302584",
+        "created_at": "2026-01-23T12:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014675698993201510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1090136700741812224",
+              "start": 0,
+              "username": "Alice__486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014675698993201510",
+        "in_reply_to_user_id": "1090136700741812224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014550343326302584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice__486 可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014550131069353984"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "2014550343326302584",
+        "created_at": "2026-01-23T04:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014550343326302584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h86GZYe9gG",
+              "end": 27,
+              "expanded_url": "https://x.com/Alice__486/status/2014550343326302584/photo/1",
+              "media_key": "3_2014550131069353984",
+              "start": 4,
+              "url": "https://t.co/h86GZYe9gG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014550343326302584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2474,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "小蛋糕 https://t.co/h86GZYe9gG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 281,
+          "like_count": 6539,
+          "listed_count": 20,
+          "media_count": 112,
+          "tweet_count": 3250
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2005852057278763256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27339,
+          "following_count": 1715,
+          "like_count": 52654,
+          "listed_count": 94,
+          "media_count": 929,
+          "tweet_count": 15459
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

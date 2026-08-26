@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993234750660919298"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1993258371818860712",
+    "created_at": "2025-11-25T10:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993258371818860712"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ERwoYXumkz",
+          "end": 52,
+          "expanded_url": "https://x.com/JanboMikan/status/1993258371818860712/photo/1",
+          "media_key": "3_1993234750660919298",
+          "start": 29,
+          "url": "https://t.co/ERwoYXumkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993258371818860712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己像超市里的捏捏乐，谁路过都要戳一下😇。\n\n#男娘 https://t.co/ERwoYXumkz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3308,
+        "media_key": "3_1993234750660919298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lkcfMbwAIPWoW.jpg",
+        "width": 2736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993234750660919298"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1993258371818860712",
+        "created_at": "2025-11-25T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993258371818860712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERwoYXumkz",
+              "end": 52,
+              "expanded_url": "https://x.com/JanboMikan/status/1993258371818860712/photo/1",
+              "media_key": "3_1993234750660919298",
+              "start": 29,
+              "url": "https://t.co/ERwoYXumkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993258371818860712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己像超市里的捏捏乐，谁路过都要戳一下😇。\n\n#男娘 https://t.co/ERwoYXumkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 143,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

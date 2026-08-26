@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020090167084872181",
+    "created_at": "2026-02-08T05:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020367732223668233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020367732223668233",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020333771678208005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020090167084872181",
+        "created_at": "2026-02-08T05:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020367732223668233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020367732223668233",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020333771678208005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2020090167084872181",
+        "created_at": "2026-02-08T03:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020333771678208005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020333771678208005",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020322385115902079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 胡说！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4884,
+          "following_count": 308,
+          "like_count": 7919,
+          "listed_count": 23,
+          "media_count": 129,
+          "tweet_count": 4038
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 1858,
+          "like_count": 58068,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 3727
+        },
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

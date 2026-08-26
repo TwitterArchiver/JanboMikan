@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2067925371069018590",
+    "created_at": "2026-06-19T13:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067957625908764893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992627685798137856",
+          "start": 0,
+          "username": "Yuiko114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067957625908764893",
+    "in_reply_to_user_id": "1992627685798137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067951142349533505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiko114514 我要逃走呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2067925371069018590",
+        "created_at": "2026-06-19T13:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067957625908764893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992627685798137856",
+              "start": 0,
+              "username": "Yuiko114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067957625908764893",
+        "in_reply_to_user_id": "1992627685798137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067951142349533505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiko114514 我要逃走呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992627685798137856",
+        "conversation_id": "2067925371069018590",
+        "created_at": "2026-06-19T12:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067951142349533505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067951142349533505",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067925371069018590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 油门焊死！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14271,
+          "following_count": 551,
+          "like_count": 19588,
+          "listed_count": 49,
+          "media_count": 322,
+          "tweet_count": 10312
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🐱🍊🐧🌸🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "location": "月ノ森女子学園",
+        "name": "家人",
+        "pinned_tweet_id": "2029474996989640721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042086484711489536/je29RfuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 734,
+          "like_count": 9498,
+          "listed_count": 9,
+          "media_count": 2211,
+          "tweet_count": 6269
+        },
+        "url": "",
+        "username": "Yuiko114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2010925521949880345",
+    "created_at": "2026-01-13T04:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T05:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010934147234349316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641646069422657536",
+          "start": 0,
+          "username": "biechaolemiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010934147234349316",
+    "in_reply_to_user_id": "1641646069422657536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010925521949880345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biechaolemiao 好次😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010760741528223744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-eoPa8XQAAZL95.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2010925521949880345",
+        "created_at": "2026-01-13T04:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010934147234349316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641646069422657536",
+              "start": 0,
+              "username": "biechaolemiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010934147234349316",
+        "in_reply_to_user_id": "1641646069422657536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010925521949880345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biechaolemiao 好次😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010760741528223744"
+          ]
+        },
+        "author_id": "1641646069422657536",
+        "conversation_id": "2010925521949880345",
+        "created_at": "2026-01-13T04:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010925521949880345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgs0VBdDaq",
+              "end": 49,
+              "expanded_url": "https://x.com/biechaolemiao/status/2010925521949880345/photo/1",
+              "media_key": "3_2010760741528223744",
+              "start": 26,
+              "url": "https://t.co/mgs0VBdDaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010925521949880345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "依旧真空黑巧喵\n不过裤袜自带胖次的话还算真空裤袜嘛 https://t.co/mgs0VBdDaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 271,
+          "like_count": 5700,
+          "listed_count": 15,
+          "media_count": 99,
+          "tweet_count": 2756
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:38:23.000Z",
+        "description": "赛博猫猫 小红点suki 私信评论都会看 不约不线下接寄拍 妹妹扩列",
+        "id": "1641646069422657536",
+        "name": "麥麥",
+        "pinned_tweet_id": "2008101171152458000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839860857106432/dYS_NEor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10656,
+          "following_count": 212,
+          "like_count": 5091,
+          "listed_count": 46,
+          "media_count": 302,
+          "tweet_count": 895
+        },
+        "username": "biechaolemiao",
+        "verified": false
+      }
+    ]
+  }
+}

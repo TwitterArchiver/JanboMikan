@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2013212747069022601",
+    "created_at": "2026-01-19T13:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T14:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013242892467454281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4873941537",
+          "start": 0,
+          "username": "OOOMiku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013242892467454281",
+    "in_reply_to_user_id": "4873941537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013212747069022601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OOOMiku_ 你是男娘皇帝😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_2013212744011403264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BeUwAW0AADpAR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2013212747069022601",
+        "created_at": "2026-01-19T13:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013242892467454281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4873941537",
+              "start": 0,
+              "username": "OOOMiku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013242892467454281",
+        "in_reply_to_user_id": "4873941537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013212747069022601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OOOMiku_ 你是男娘皇帝😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013212744011403264"
+          ]
+        },
+        "author_id": "4873941537",
+        "conversation_id": "2013212747069022601",
+        "created_at": "2026-01-19T11:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013212747069022601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irxVJyidw6",
+              "end": 108,
+              "expanded_url": "https://x.com/OOOMiku_/status/2013212747069022601/photo/1",
+              "media_key": "3_2013212744011403264",
+              "start": 85,
+              "url": "https://t.co/irxVJyidw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013212747069022601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在推天天刷这群神人推主绞尽脑汁做出来的推文，怎么不算被他们攻略呢？他们拼尽全力，只是为了让我点赞评论转发关注，每次只要逗我发笑就算好感度上涨，这么看我刷推还是太爽了。 https://t.co/irxVJyidw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4050,
+          "following_count": 279,
+          "like_count": 6189,
+          "listed_count": 18,
+          "media_count": 107,
+          "tweet_count": 3066
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-03T13:54:47.000Z",
+        "description": "可以叫我圈∣来推发点另一个我",
+        "id": "4873941537",
+        "location": "艾尔",
+        "name": "〇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990299679851270144/M7AJ2vv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 145,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 128
+        },
+        "username": "OOOMiku_",
+        "verified": true
+      }
+    ]
+  }
+}

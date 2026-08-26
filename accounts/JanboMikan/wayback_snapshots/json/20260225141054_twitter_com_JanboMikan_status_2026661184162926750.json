@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026588419103879401",
+    "created_at": "2026-02-25T14:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026661184162926750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "449621175",
+          "start": 0,
+          "username": "JayLai_1234"
+        },
+        {
+          "end": 26,
+          "id": "1365678062013083666",
+          "start": 13,
+          "username": "yuyuqing0725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026661184162926750",
+    "in_reply_to_user_id": "449621175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026660239639281769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayLai_1234 @yuyuqing0725 这也有双关太好笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "3_2026660234358652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAkvtVbgAAIAW4.jpg",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026588419103879401",
+        "created_at": "2026-02-25T14:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026661184162926750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "449621175",
+              "start": 0,
+              "username": "JayLai_1234"
+            },
+            {
+              "end": 26,
+              "id": "1365678062013083666",
+              "start": 13,
+              "username": "yuyuqing0725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026661184162926750",
+        "in_reply_to_user_id": "449621175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026660239639281769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayLai_1234 @yuyuqing0725 这也有双关太好笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026660234358652928"
+          ]
+        },
+        "author_id": "449621175",
+        "conversation_id": "2026588419103879401",
+        "created_at": "2026-02-25T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026660239639281769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1365678062013083666",
+              "start": 12,
+              "username": "yuyuqing0725"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIqk4cjEQf",
+              "end": 49,
+              "expanded_url": "https://x.com/JayLai_1234/status/2026660239639281769/photo/1",
+              "media_key": "3_2026660234358652928",
+              "start": 26,
+              "url": "https://t.co/LIqk4cjEQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026660239639281769",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026588419103879401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuyuqing0725 https://t.co/LIqk4cjEQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6626,
+          "following_count": 356,
+          "like_count": 9886,
+          "listed_count": 30,
+          "media_count": 156,
+          "tweet_count": 5209
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-29T09:18:34.000Z",
+        "description": "",
+        "id": "449621175",
+        "name": "Jay",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 62,
+          "like_count": 24495,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 97
+        },
+        "username": "JayLai_1234",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T15:00:15.000Z",
+        "description": "193/180 ♂，如果能被喜欢很荣幸\n匿名提问：https://t.co/ZnlAoS4e89\n聊天频道：https://t.co/A0kTg2Efpo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu79791",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yu79791",
+                "start": 25,
+                "url": "https://t.co/ZnlAoS4e89"
+              },
+              {
+                "display_url": "t.me/testyuyuyu",
+                "end": 77,
+                "expanded_url": "https://t.me/testyuyuyu",
+                "start": 54,
+                "url": "https://t.co/A0kTg2Efpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yutestyu",
+                "end": 23,
+                "expanded_url": "https://t.me/yutestyu",
+                "start": 0,
+                "url": "https://t.co/3oo73KLzNO"
+              }
+            ]
+          }
+        },
+        "id": "1365678062013083666",
+        "name": "yuyyyyyyy",
+        "pinned_tweet_id": "2009848978414940182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992979822331695104/EYtklChg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 1068,
+          "like_count": 5597,
+          "listed_count": 6,
+          "media_count": 115,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/3oo73KLzNO",
+        "username": "yuyuqing0725",
+        "verified": false
+      }
+    ]
+  }
+}

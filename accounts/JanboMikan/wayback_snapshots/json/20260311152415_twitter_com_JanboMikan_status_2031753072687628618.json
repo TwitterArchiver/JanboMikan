@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2031642290469646459",
+    "created_at": "2026-03-11T15:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T16:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031753072687628618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528551852195074049",
+          "start": 0,
+          "username": "zzruantang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031753072687628618",
+    "in_reply_to_user_id": "1528551852195074049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031642290469646459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzruantang_ 圣光🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031642286615068672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHX5URagAA71Da.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2031642290469646459",
+        "created_at": "2026-03-11T15:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031753072687628618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528551852195074049",
+              "start": 0,
+              "username": "zzruantang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031753072687628618",
+        "in_reply_to_user_id": "1528551852195074049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031642290469646459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzruantang_ 圣光🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031642286615068672"
+          ]
+        },
+        "author_id": "1528551852195074049",
+        "conversation_id": "2031642290469646459",
+        "created_at": "2026-03-11T08:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031642290469646459"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "jk制服"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YQtZiSmC1",
+              "end": 44,
+              "expanded_url": "https://x.com/zzruantang_/status/2031642290469646459/photo/1",
+              "media_key": "3_2031642286615068672",
+              "start": 21,
+              "url": "https://t.co/1YQtZiSmC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031642290469646459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 7153,
+          "like_count": 598,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "大胆的拍摄风格这一块\n#jk制服 #白丝 https://t.co/1YQtZiSmC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7656,
+          "following_count": 402,
+          "like_count": 11226,
+          "listed_count": 34,
+          "media_count": 171,
+          "tweet_count": 5948
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T01:43:29.000Z",
+        "description": "是♂，欢迎聊天但是不要下头，性取向正常超喜欢JK",
+        "id": "1528551852195074049",
+        "name": "🍬软糖",
+        "pinned_tweet_id": "1977591019156975788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031667850231029760/1HlPnhcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26344,
+          "following_count": 118,
+          "like_count": 1232,
+          "listed_count": 87,
+          "media_count": 196,
+          "tweet_count": 949
+        },
+        "username": "zzruantang_",
+        "verified": false
+      }
+    ]
+  }
+}

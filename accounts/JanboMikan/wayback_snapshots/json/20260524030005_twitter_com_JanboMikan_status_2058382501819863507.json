@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058369840990359747",
+    "created_at": "2026-05-24T03:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058382501819863507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "843276761127256064",
+          "start": 0,
+          "username": "mo_chen_mo_chen"
+        },
+        {
+          "end": 26,
+          "id": "1812363069487742976",
+          "start": 17,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058382501819863507",
+    "in_reply_to_user_id": "843276761127256064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058375425093693630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo_chen_mo_chen @mingji_A 学习一起了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058369840990359747",
+        "created_at": "2026-05-24T03:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058382501819863507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "843276761127256064",
+              "start": 0,
+              "username": "mo_chen_mo_chen"
+            },
+            {
+              "end": 26,
+              "id": "1812363069487742976",
+              "start": 17,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058382501819863507",
+        "in_reply_to_user_id": "843276761127256064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058375425093693630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_chen_mo_chen @mingji_A 学习一起了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "843276761127256064",
+        "conversation_id": "2058369840990359747",
+        "created_at": "2026-05-24T02:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058375425093693630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058375425093693630",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058369840990359747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 你俩怎么又黏一起了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13162,
+          "following_count": 515,
+          "like_count": 18018,
+          "listed_count": 45,
+          "media_count": 285,
+          "tweet_count": 9384
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-19T01:43:41.000Z",
+        "description": "男性，女装coser，177cm/50kg，紫眸臭脸黑长直控。中文/English/日本語。感谢点赞转发关注！恋爱中不约不处。匿名提问👉 https://t.co/Rb0luReNa0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mochenmochen",
+                "end": 92,
+                "expanded_url": "https://ngl.link/mochenmochen",
+                "start": 69,
+                "url": "https://t.co/Rb0luReNa0"
+              }
+            ]
+          }
+        },
+        "id": "843276761127256064",
+        "location": "Sichuan",
+        "name": "陌辰陌辰Mo",
+        "pinned_tweet_id": "2029232246251765806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705510011953438720/tllIfYZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 79,
+          "like_count": 767,
+          "listed_count": 8,
+          "media_count": 130,
+          "tweet_count": 267
+        },
+        "username": "mo_chen_mo_chen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 2549,
+          "like_count": 94077,
+          "listed_count": 22,
+          "media_count": 199,
+          "tweet_count": 20724
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

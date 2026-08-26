@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2022859607765586236",
+    "created_at": "2026-02-15T04:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022888837996056689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778989851226071040",
+          "start": 0,
+          "username": "HXD3C0679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022888837996056689",
+    "in_reply_to_user_id": "1778989851226071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022876076784128230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXD3C0679 这么吃干抹净！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2022859607765586236",
+        "created_at": "2026-02-15T04:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022888837996056689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778989851226071040",
+              "start": 0,
+              "username": "HXD3C0679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022888837996056689",
+        "in_reply_to_user_id": "1778989851226071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022876076784128230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXD3C0679 这么吃干抹净！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778989851226071040",
+        "conversation_id": "2022859607765586236",
+        "created_at": "2026-02-15T03:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022876076784128230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022876076784128230",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022875147661910120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 饭盒也要让咱拿走装食物哦😍😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5447,
+          "following_count": 322,
+          "like_count": 8739,
+          "listed_count": 24,
+          "media_count": 141,
+          "tweet_count": 4503
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25、 Lexus ES300h饲养员&VOLVO S90临时支配使用🤑\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 260,
+          "like_count": 6084,
+          "listed_count": 2,
+          "media_count": 1673,
+          "tweet_count": 4931
+        },
+        "username": "HXD3C0679",
+        "verified": false
+      }
+    ]
+  }
+}

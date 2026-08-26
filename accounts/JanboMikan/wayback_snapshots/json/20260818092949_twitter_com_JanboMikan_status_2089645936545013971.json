@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2088943863545364864",
+    "created_at": "2026-08-18T09:29:49.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089645936545013971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089645936545013971",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089621926394421651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 支持国产喵（x）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2088943863545364864",
+        "created_at": "2026-08-18T09:29:49.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089645936545013971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089645936545013971",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089621926394421651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 支持国产喵（x）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430052755352166401",
+        "conversation_id": "2088943863545364864",
+        "created_at": "2026-08-18T07:54:25.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089621926394421651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089621926394421651",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088943863545364864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 泰补输的最惨一次😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2089645936545013971",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17584,
+          "following_count": 630,
+          "like_count": 22335,
+          "listed_count": 54,
+          "media_count": 403,
+          "tweet_count": 11984
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05年184天空树🎄65kg/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "is_identity_verified": false,
+        "location": "距离你2.8km",
+        "most_recent_tweet_id": "2089628304550895953",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2089603023245074593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430052755352166401/1745322913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075627645828816896/q8ZxpfQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 919,
+          "like_count": 3973,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1729
+        },
+        "url": "",
+        "username": "Wendy_Ai2005",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

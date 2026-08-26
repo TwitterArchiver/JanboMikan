@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1992508541408813566",
+    "created_at": "2025-11-23T08:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992510074405974399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bin.disroot.org/?b1b3d8796913d…",
+          "end": 31,
+          "expanded_url": "https://bin.disroot.org/?b1b3d8796913d4bd#AnSgRdv1djAPaoq48JCJyvZ1YKqHi4osbS9cfZ2bpsJt",
+          "start": 8,
+          "unwound_url": "https://bin.disroot.org/?b1b3d8796913d4bd#AnSgRdv1djAPaoq48JCJyvZ1YKqHi4osbS9cfZ2bpsJt",
+          "url": "https://t.co/nPvWOUwAfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992510074405974399",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992508541408813566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "提示词（外链）：https://t.co/nPvWOUwAfs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3676,
+        "media_key": "3_1992507778523648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bPRI8a0AAE03r.jpg",
+        "width": 3114
+      },
+      {
+        "height": 2464,
+        "media_key": "3_1992507780234919936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bPRPUawAAwhoT.jpg",
+        "width": 3463
+      },
+      {
+        "height": 374,
+        "media_key": "3_1992507960497754112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bPbu2bUAA_-tt.jpg",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1992508541408813566",
+        "created_at": "2025-11-23T08:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992510074405974399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bin.disroot.org/?b1b3d8796913d…",
+              "end": 31,
+              "expanded_url": "https://bin.disroot.org/?b1b3d8796913d4bd#AnSgRdv1djAPaoq48JCJyvZ1YKqHi4osbS9cfZ2bpsJt",
+              "start": 8,
+              "unwound_url": "https://bin.disroot.org/?b1b3d8796913d4bd#AnSgRdv1djAPaoq48JCJyvZ1YKqHi4osbS9cfZ2bpsJt",
+              "url": "https://t.co/nPvWOUwAfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992510074405974399",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992508541408813566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "提示词（外链）：https://t.co/nPvWOUwAfs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992507778523648000",
+            "3_1992507780234919936",
+            "3_1992507960497754112"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1992508541408813566",
+        "created_at": "2025-11-23T08:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992508541408813566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrMLWNiJMa",
+              "end": 126,
+              "expanded_url": "https://x.com/JanboMikan/status/1992508541408813566/photo/1",
+              "media_key": "3_1992507778523648000",
+              "start": 103,
+              "url": "https://t.co/CrMLWNiJMa"
+            },
+            {
+              "display_url": "pic.x.com/CrMLWNiJMa",
+              "end": 126,
+              "expanded_url": "https://x.com/JanboMikan/status/1992508541408813566/photo/1",
+              "media_key": "3_1992507780234919936",
+              "start": 103,
+              "url": "https://t.co/CrMLWNiJMa"
+            },
+            {
+              "display_url": "pic.x.com/CrMLWNiJMa",
+              "end": 126,
+              "expanded_url": "https://x.com/JanboMikan/status/1992508541408813566/photo/1",
+              "media_key": "3_1992507960497754112",
+              "start": 103,
+              "url": "https://t.co/CrMLWNiJMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992508541408813566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩一个nano banana pro把真人/二次元转为手办的提示词（来自于网络）。\n3 pro对比2.5 flash的优点是背景也具有很强的一致性。\n提示词太长推文发不下，以图片形式附上（OCR一下吧）~ https://t.co/CrMLWNiJMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 133,
+          "like_count": 1548,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008207511485317249",
+    "created_at": "2026-01-06T15:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008557124058751137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561299821977280512",
+          "start": 0,
+          "username": "MargueriteHazl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008557124058751137",
+    "in_reply_to_user_id": "1561299821977280512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008207511485317249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MargueriteHazl8 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2008207508230586368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96WFrtbQAAY5x7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008207511485317249",
+        "created_at": "2026-01-06T15:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008557124058751137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561299821977280512",
+              "start": 0,
+              "username": "MargueriteHazl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008557124058751137",
+        "in_reply_to_user_id": "1561299821977280512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008207511485317249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MargueriteHazl8 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008207508230586368"
+          ]
+        },
+        "author_id": "1561299821977280512",
+        "conversation_id": "2008207511485317249",
+        "created_at": "2026-01-05T16:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008207511485317249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5rJiPdiie",
+              "end": 39,
+              "expanded_url": "https://x.com/MargueriteHazl8/status/2008207511485317249/photo/1",
+              "media_key": "3_2008207508230586368",
+              "start": 16,
+              "url": "https://t.co/y5rJiPdiie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008207511485317249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 15418,
+          "like_count": 898,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "厚底鞋把脚背绷得最温柔的弧度。 https://t.co/y5rJiPdiie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 248,
+          "like_count": 5128,
+          "listed_count": 13,
+          "media_count": 92,
+          "tweet_count": 2466
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T10:31:33.000Z",
+        "description": "Marguerite｜白皮长腿｜只收最听话的｜跪好再说话",
+        "id": "1561299821977280512",
+        "name": "早雨s",
+        "pinned_tweet_id": "2003692816338420186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970508738797936642/T--rsbcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16780,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 24,
+          "media_count": 27,
+          "tweet_count": 59
+        },
+        "username": "MargueriteHazl8",
+        "verified": false
+      }
+    ]
+  }
+}

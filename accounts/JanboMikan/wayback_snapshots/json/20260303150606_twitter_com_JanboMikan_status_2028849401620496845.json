@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2028821987611853085",
+    "created_at": "2026-03-03T15:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028849401620496845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3292210117",
+          "start": 0,
+          "username": "Ye_Chika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028849401620496845",
+    "in_reply_to_user_id": "3292210117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028821987611853085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ye_Chika 喜欢大调查这一块😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028821984998731776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfS2KBaMAAZcrH.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2028821987611853085",
+        "created_at": "2026-03-03T15:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028849401620496845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3292210117",
+              "start": 0,
+              "username": "Ye_Chika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028849401620496845",
+        "in_reply_to_user_id": "3292210117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028821987611853085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ye_Chika 喜欢大调查这一块😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028821984998731776"
+          ]
+        },
+        "author_id": "3292210117",
+        "conversation_id": "2028821987611853085",
+        "created_at": "2026-03-03T13:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028821987611853085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbRkWBupkp",
+              "end": 151,
+              "expanded_url": "https://x.com/Ye_Chika/status/2028821987611853085/photo/1",
+              "media_key": "3_2028821984998731776",
+              "start": 128,
+              "url": "https://t.co/ZbRkWBupkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028821987611853085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 191,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近没更新是因为主播最近回到了1999年去成为变身英雄拯救世界了\n如果你觉得1999有点撞设定了，那就1980好了，主播穿越回了1980年的东京，成为股市传奇（指一上来打小钢珠赚了五十亿然后大买特买）\n\n除去玩梗的要素，我对侦探风格的衣服确实没什么抵抗力 https://t.co/ZbRkWBupkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7175,
+          "following_count": 382,
+          "like_count": 10503,
+          "listed_count": 32,
+          "media_count": 163,
+          "tweet_count": 5539
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-25T08:05:32.000Z",
+        "description": "一个路过的女装少年，记不记住其实都不太重要啦",
+        "id": "3292210117",
+        "location": "初星学园",
+        "name": "叶千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911481242920386561/9928KjJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7729,
+          "following_count": 425,
+          "like_count": 2939,
+          "listed_count": 32,
+          "media_count": 395,
+          "tweet_count": 1688
+        },
+        "username": "Ye_Chika",
+        "verified": false
+      }
+    ]
+  }
+}

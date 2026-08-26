@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2019727785330118910",
+    "created_at": "2026-02-06T11:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019731382818554179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1506184194950832129",
+          "start": 0,
+          "username": "rkKasim2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019731382818554179",
+    "in_reply_to_user_id": "1506184194950832129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019729324707029039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rkKasim2 我是杂鱼不能当老师🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2019727785330118910",
+        "created_at": "2026-02-06T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019731382818554179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1506184194950832129",
+              "start": 0,
+              "username": "rkKasim2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019731382818554179",
+        "in_reply_to_user_id": "1506184194950832129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019729324707029039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rkKasim2 我是杂鱼不能当老师🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506184194950832129",
+        "conversation_id": "2019727785330118910",
+        "created_at": "2026-02-06T11:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019729324707029039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019729324707029039",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019727785330118910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 怎么不是蜜柑是老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809,
+          "following_count": 304,
+          "like_count": 7752,
+          "listed_count": 23,
+          "media_count": 128,
+          "tweet_count": 3984
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T08:22:10.000Z",
+        "description": "决定努力改掉奇怪的XP了，要喜欢上好多xnn，骚扰性社恐，",
+        "id": "1506184194950832129",
+        "location": "How Are You",
+        "name": "雌堕母鬣狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989000873079631873/7BAu4mnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 78,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 365
+        },
+        "username": "rkKasim2",
+        "verified": false
+      }
+    ]
+  }
+}

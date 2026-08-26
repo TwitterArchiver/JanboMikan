@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058503273720492451",
+    "created_at": "2026-05-24T15:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058574539102253173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906196697018966016",
+          "start": 0,
+          "username": "wang_wen15656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058574539102253173",
+    "in_reply_to_user_id": "1906196697018966016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058564915364004207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_wen15656 那不到了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058503273720492451",
+        "created_at": "2026-05-24T15:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058574539102253173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906196697018966016",
+              "start": 0,
+              "username": "wang_wen15656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058574539102253173",
+        "in_reply_to_user_id": "1906196697018966016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058564915364004207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_wen15656 那不到了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906196697018966016",
+        "conversation_id": "2058503273720492451",
+        "created_at": "2026-05-24T15:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058564915364004207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058564915364004207",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058503273720492451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不锈钢？那不应该没有磁性吗，不过黄铜的更多吧，应该最多就是发热？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13183,
+          "following_count": 518,
+          "like_count": 18058,
+          "listed_count": 45,
+          "media_count": 286,
+          "tweet_count": 9424
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T04:08:50.000Z",
+        "description": "Photograph/cosplayer ；\n言和厨子/少前指挥官/VocaloidChina全员厨；\n男的🙃（大约在男娘的路上一去不复返？）；\n产量很低（满脑子涩涩大约还是个受？🥵）；\n中v/少前欢迎扩列+q",
+        "id": "1906196697018966016",
+        "location": "国棉17厂",
+        "name": "小王今天吃🌾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049076496338407425/9Y5XjfEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 95,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 124
+        },
+        "username": "wang_wen15656",
+        "verified": false
+      }
+    ]
+  }
+}

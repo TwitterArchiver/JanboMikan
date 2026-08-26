@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2084543273167958162",
+    "created_at": "2026-08-05T01:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084821671157096921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1157884109085007874",
+          "start": 0,
+          "username": "ShiroTachibana0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084821671157096921",
+    "in_reply_to_user_id": "1157884109085007874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084654724679352537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroTachibana0 摸摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2084654705318445056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4uaNXaQAACDhn.jpg",
+        "width": 1836
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2084654716295016448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4ua2QbcAAu1NJ.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2084543273167958162",
+        "created_at": "2026-08-05T01:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084821671157096921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1157884109085007874",
+              "start": 0,
+              "username": "ShiroTachibana0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084821671157096921",
+        "in_reply_to_user_id": "1157884109085007874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084654724679352537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroTachibana0 摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084654705318445056",
+            "3_2084654716295016448"
+          ]
+        },
+        "author_id": "1157884109085007874",
+        "conversation_id": "2084543273167958162",
+        "created_at": "2026-08-04T14:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084654724679352537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbkySgjOta",
+              "end": 54,
+              "expanded_url": "https://x.com/ShiroTachibana0/status/2084654724679352537/photo/1",
+              "media_key": "3_2084654705318445056",
+              "start": 31,
+              "url": "https://t.co/BbkySgjOta"
+            },
+            {
+              "display_url": "pic.x.com/BbkySgjOta",
+              "end": 54,
+              "expanded_url": "https://x.com/ShiroTachibana0/status/2084654724679352537/photo/1",
+              "media_key": "3_2084654716295016448",
+              "start": 31,
+              "url": "https://t.co/BbkySgjOta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084654724679352537",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084653170186494073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不介意的话……你也可以摸摸我的QWQ https://t.co/BbkySgjOta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15979,
+          "following_count": 616,
+          "like_count": 21774,
+          "listed_count": 53,
+          "media_count": 383,
+          "tweet_count": 11596
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-04T05:20:58.000Z",
+        "description": "诞生日2026年6月23日下午两点｜坐标香港｜有女朋友｜身高162.9cm｜坦克体重（在减了QAQ）｜已完成SRS｜成人ADHD｜重度抑郁症｜重度焦虑症｜适应障碍｜mtf｜药龄5年+｜休学五年",
+        "id": "1157884109085007874",
+        "location": "香港",
+        "name": "shirotachibana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805047716512481280/vqoS2rs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 344,
+          "like_count": 2796,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "ShiroTachibana0",
+        "verified": false
+      }
+    ]
+  }
+}

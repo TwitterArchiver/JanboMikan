@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2090714521728086438",
+    "created_at": "2026-08-21T08:19:06.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090715303005372519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090715303005372519",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090714521728086438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 看牛的来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3958,
+        "media_key": "3_2090632651132784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNrUc6aUAAhB-2.jpg",
+        "width": 2969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2090714521728086438",
+        "created_at": "2026-08-21T08:19:06.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090715303005372519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090715303005372519",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090714521728086438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 看牛的来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090632651132784640"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2090714521728086438",
+        "created_at": "2026-08-21T08:16:00.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090714521728086438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdvkLXcsKB",
+              "end": 93,
+              "expanded_url": "https://x.com/mingji_A/status/2090714521728086438/photo/1",
+              "media_key": "3_2090632651132784640",
+              "start": 70,
+              "url": "https://t.co/DdvkLXcsKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090714521728086438",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090632651132784640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕都过去了\n那女生回你了吗\n她是不是一整天都没理你了\n要不你把七夕准备的那1314发我吧\n我能充俩648\n剩下的18还能看牛来😋\n#男娘 https://t.co/DdvkLXcsKB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2090715303005372519",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18086,
+          "following_count": 632,
+          "like_count": 22478,
+          "listed_count": 55,
+          "media_count": 407,
+          "tweet_count": 12040
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2090714521728086438",
+        "name": "銘紀Å",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812363069487742976/1767595151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4807,
+          "following_count": 2672,
+          "like_count": 96362,
+          "listed_count": 25,
+          "media_count": 255,
+          "tweet_count": 23328
+        },
+        "url": "",
+        "username": "mingji_A",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

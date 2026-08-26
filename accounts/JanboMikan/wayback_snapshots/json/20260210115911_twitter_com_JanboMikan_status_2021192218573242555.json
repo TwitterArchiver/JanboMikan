@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021063747117158502",
+    "created_at": "2026-02-10T11:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021192218573242555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021192218573242555",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021063747117158502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 说得太好了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1751,
+        "media_key": "3_2021063722060640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxCv0XacAA4H1Q.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021063747117158502",
+        "created_at": "2026-02-10T11:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021192218573242555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021192218573242555",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021063747117158502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 说得太好了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021063722060640256"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2021063747117158502",
+        "created_at": "2026-02-10T03:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021063747117158502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6DxVq3Ufg",
+              "end": 104,
+              "expanded_url": "https://x.com/maruko00o/status/2021063747117158502/photo/1",
+              "media_key": "3_2021063722060640256",
+              "start": 81,
+              "url": "https://t.co/Y6DxVq3Ufg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021063747117158502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回复下图提问：\n\n这种恐惧很正常，我在一开始以女装外出的时候也有过这种心理状态，我觉得对于跨性别 & 喜爱跨性别装扮的人来说，多多少少都会经历这种阶段。\n\n有个心理学概念叫「聚光灯效应」，我们总觉得周围的人在一直注意着，审视着自己，但事实上其实不然。路上的路人在你身上停留的时间，可能只有零点几秒，更不太可能一直盯着你看，一般来说大家其实是不会太在意周围人长什么样，穿什么服饰的。\n\n我们对自己的熟悉程度肯定是远超别人眼中的自己的。你认为自己「一眼男」，是因为你这一生都在看着自己的长相，也因此哪怕是一点点你认为「不该出现」的「男性细节」，都会被你在穿着社会所认为有异于你应该穿着的服装时被无限地放大。「有朋友认为挺像女性」，恰恰印证其实这些特征对于其他人来说，并不是非常显眼。\n\n另外，在我们不违法、不伤害别人的情况下，就算真的「被别人看穿」又能如何？会发生的事基本就是，别人发现这是一个在变装的人，然后继续去干自己要做的事情。\n\n「开启厚实脸皮」倒是没什么问题，但我们不用硬撑着这么去做，而是转变一下心态：你只是在穿自己喜欢的衣服，展示自己喜欢的审美，不需要为此感到羞愧。既然已经可以在深夜散步，不如尝试一下在更早的时间，慢慢到人更多的地方走动走动，我相信你会发现，其实真的没什么人会过分注意你，大胆出门就好。\n\n追求美的权力不应只留给无人的深夜。你，和我们每个人都值得在阳光下，向所有人自由地展示自己的美。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5905,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "回复下图提问：\n\n这种恐惧很正常，我在一开始以女装外出的时候也有过这种心理状态，我觉得对于跨性别 &amp; 喜爱跨性别装扮的人来说，多多少少都会经历这种阶段。 https://t.co/Y6DxVq3Ufg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5172,
+          "following_count": 317,
+          "like_count": 8276,
+          "listed_count": 22,
+          "media_count": 135,
+          "tweet_count": 4242
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37627,
+          "following_count": 932,
+          "like_count": 21677,
+          "listed_count": 210,
+          "media_count": 887,
+          "tweet_count": 5160
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

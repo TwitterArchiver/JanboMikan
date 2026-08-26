@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2014540876807299539",
+    "created_at": "2026-01-23T13:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014695550818631907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577443392",
+          "start": 0,
+          "username": "guyutongxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014695550818631907",
+    "in_reply_to_user_id": "1577443392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014690907824754824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guyutongxue 我也要搬吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2014540876807299539",
+        "created_at": "2026-01-23T13:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014695550818631907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577443392",
+              "start": 0,
+              "username": "guyutongxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014695550818631907",
+        "in_reply_to_user_id": "1577443392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014690907824754824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guyutongxue 我也要搬吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577443392",
+        "conversation_id": "2014540876807299539",
+        "created_at": "2026-01-23T13:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014690907824754824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014690907824754824",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014676340264599691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 搬搬你的😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4212,
+          "following_count": 281,
+          "like_count": 6557,
+          "listed_count": 20,
+          "media_count": 112,
+          "tweet_count": 3258
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T11:39:02.000Z",
+        "description": "https://t.co/Lxi79jLvG5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/guyutongxue",
+                "end": 23,
+                "expanded_url": "https://github.com/guyutongxue",
+                "start": 0,
+                "url": "https://t.co/Lxi79jLvG5"
+              }
+            ]
+          }
+        },
+        "id": "1577443392",
+        "name": "谷雨同学",
+        "pinned_tweet_id": "1953809994521968678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932639081747619840/RFbL3cJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 48,
+          "like_count": 699,
+          "listed_count": 22,
+          "media_count": 105,
+          "tweet_count": 211
+        },
+        "username": "guyutongxue",
+        "verified": false
+      }
+    ]
+  }
+}

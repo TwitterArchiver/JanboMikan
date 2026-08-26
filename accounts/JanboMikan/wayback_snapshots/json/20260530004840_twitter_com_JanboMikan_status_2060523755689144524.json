@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2060307920819204230",
+    "created_at": "2026-05-30T00:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060523755689144524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1508694120209944578",
+          "start": 0,
+          "username": "Fiammetta___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060523755689144524",
+    "in_reply_to_user_id": "1508694120209944578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060307920819204230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiammetta___ 冰饭😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060307918508187648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJevIsqa4AA3Tya.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2060307920819204230",
+        "created_at": "2026-05-30T00:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060523755689144524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1508694120209944578",
+              "start": 0,
+              "username": "Fiammetta___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060523755689144524",
+        "in_reply_to_user_id": "1508694120209944578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060307920819204230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiammetta___ 冰饭😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060307918508187648"
+          ]
+        },
+        "author_id": "1508694120209944578",
+        "conversation_id": "2060307920819204230",
+        "created_at": "2026-05-29T10:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060307920819204230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EE4zROrZE",
+              "end": 31,
+              "expanded_url": "https://x.com/Fiammetta___/status/2060307920819204230/photo/1",
+              "media_key": "3_2060307918508187648",
+              "start": 8,
+              "url": "https://t.co/4EE4zROrZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060307920819204230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 238,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冷饭热热也是饭 https://t.co/4EE4zROrZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13597,
+          "following_count": 531,
+          "like_count": 18463,
+          "listed_count": 46,
+          "media_count": 294,
+          "tweet_count": 9692
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T06:35:03.000Z",
+        "description": "中文🆗English🆗 日本語（少しだけ）\n本体♂ \n懒癌选手\n看心情营业\n谢谢关注",
+        "id": "1508694120209944578",
+        "location": "你心里",
+        "name": "獭獭妮亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013512452076441600/M5tvhpwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 313,
+          "like_count": 8035,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 1240
+        },
+        "username": "Fiammetta___",
+        "verified": false
+      }
+    ]
+  }
+}

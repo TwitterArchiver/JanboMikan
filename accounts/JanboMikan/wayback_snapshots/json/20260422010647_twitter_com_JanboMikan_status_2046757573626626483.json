@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046396992428069213",
+    "created_at": "2026-04-22T01:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046757573626626483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696410116097257472",
+          "start": 0,
+          "username": "RST_AloneStar"
+        },
+        {
+          "end": 24,
+          "id": "1812363069487742976",
+          "start": 15,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046757573626626483",
+    "in_reply_to_user_id": "1696410116097257472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046668787811029017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RST_AloneStar @mingji_A 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046396992428069213",
+        "created_at": "2026-04-22T01:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046757573626626483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696410116097257472",
+              "start": 0,
+              "username": "RST_AloneStar"
+            },
+            {
+              "end": 24,
+              "id": "1812363069487742976",
+              "start": 15,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046757573626626483",
+        "in_reply_to_user_id": "1696410116097257472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046668787811029017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RST_AloneStar @mingji_A 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696410116097257472",
+        "conversation_id": "2046396992428069213",
+        "created_at": "2026-04-21T19:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046668787811029017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046668787811029017",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046396992428069213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A Bro你的逆天文案灵感真的没有枯竭的时候吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11359,
+          "following_count": 463,
+          "like_count": 16003,
+          "listed_count": 42,
+          "media_count": 232,
+          "tweet_count": 8099
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T06:31:14.000Z",
+        "description": "CN/EN OK! JP下手 MUG Player 曾经的xyn  | \n*已断糖一年 |\nBiliBili：_AloneStar_ |\nSister：@Yujiudu |\nCouple Partner：@trifoliateor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "Yujiudu"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "trifoliateor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KeFhX2Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KeFhX2Z",
+                "start": 0,
+                "url": "https://t.co/0ibihKmT3t"
+              }
+            ]
+          }
+        },
+        "id": "1696410116097257472",
+        "location": "Mars",
+        "name": "_AloneStar_🍥",
+        "pinned_tweet_id": "2033547542739517567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924042577342464/wA7u-hqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 977,
+          "like_count": 1034,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/0ibihKmT3t",
+        "username": "RST_AloneStar",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3545,
+          "following_count": 2242,
+          "like_count": 89977,
+          "listed_count": 16,
+          "media_count": 165,
+          "tweet_count": 18035
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

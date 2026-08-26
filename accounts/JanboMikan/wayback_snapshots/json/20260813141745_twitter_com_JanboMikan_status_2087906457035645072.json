@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2087131919699816612",
+    "created_at": "2026-08-13T14:17:45.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087906457035645072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732724006787420160",
+          "start": 0,
+          "username": "Venti718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087906457035645072",
+    "in_reply_to_user_id": "1732724006787420160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087726846192582835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Venti718 我们希罗是这样的x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2087131919699816612",
+        "created_at": "2026-08-13T14:17:45.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087906457035645072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087906457035645072",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087726846192582835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 我们希罗是这样的x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732724006787420160",
+        "conversation_id": "2087131919699816612",
+        "created_at": "2026-08-13T02:24:02.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087726846192582835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087726846192582835",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087131919699816612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 死亡回溯神力"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2087906457035645072",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16781,
+          "following_count": 624,
+          "like_count": 22165,
+          "listed_count": 55,
+          "media_count": 398,
+          "tweet_count": 11864
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "准高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～\n\n提问箱:https://t.co/vNDxyQRyIh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ask.akiyamamio.one",
+                "end": 63,
+                "expanded_url": "http://ask.akiyamamio.one",
+                "start": 40,
+                "url": "https://t.co/vNDxyQRyIh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "https://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/xkPNWUK1rU"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "is_identity_verified": false,
+        "location": "Tianjin",
+        "most_recent_tweet_id": "2087888993954517356",
+        "name": "澪老师不是零老师🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732724006787420160/1755168073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 2459,
+          "like_count": 24381,
+          "listed_count": 1,
+          "media_count": 612,
+          "tweet_count": 8067
+        },
+        "url": "https://t.co/xkPNWUK1rU",
+        "username": "Venti718",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

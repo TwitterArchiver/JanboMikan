@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990047133270188032",
+        "3_1990047133274357762",
+        "3_1990047133291216896"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1990238462033928451",
+    "created_at": "2025-11-17T02:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990238462033928451"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOK6cLEwdn",
+          "end": 60,
+          "expanded_url": "https://x.com/JanboMikan/status/1990238462033928451/photo/1",
+          "media_key": "3_1990047133270188032",
+          "start": 37,
+          "url": "https://t.co/YOK6cLEwdn"
+        },
+        {
+          "display_url": "pic.x.com/YOK6cLEwdn",
+          "end": 60,
+          "expanded_url": "https://x.com/JanboMikan/status/1990238462033928451/photo/1",
+          "media_key": "3_1990047133274357762",
+          "start": 37,
+          "url": "https://t.co/YOK6cLEwdn"
+        },
+        {
+          "display_url": "pic.x.com/YOK6cLEwdn",
+          "end": 60,
+          "expanded_url": "https://x.com/JanboMikan/status/1990238462033928451/photo/1",
+          "media_key": "3_1990047133291216896",
+          "start": 37,
+          "url": "https://t.co/YOK6cLEwdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990238462033928451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对自己照片冲是不是有点变态。\n\n（更个迟到的200fo福利吧）\n\n#男娘 https://t.co/YOK6cLEwdn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990238462033928451].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990238462033928451",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990238462033928451"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1990047133270188032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54RUvDaoAAGvYM.jpg",
+        "width": 541
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1990047133274357762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54RUvEaQAIc_8h.jpg",
+        "width": 541
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1990047133291216896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54RUvIbgAAUbyU.jpg",
+        "width": 541
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 117,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

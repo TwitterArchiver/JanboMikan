@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998769680664977668",
+    "created_at": "2025-12-11T11:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999083426398527683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813971881990742016",
+          "start": 0,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999083426398527683",
+    "in_reply_to_user_id": "1813971881990742016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999078082683285755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXTYYDZ 确实...啊不对不对！！是因为这个脱的吗！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998769680664977668",
+        "created_at": "2025-12-11T11:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999083426398527683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813971881990742016",
+              "start": 0,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999083426398527683",
+        "in_reply_to_user_id": "1813971881990742016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999078082683285755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXTYYDZ 确实...啊不对不对！！是因为这个脱的吗！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1998769680664977668",
+        "created_at": "2025-12-11T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999078082683285755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999078082683285755",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998769680664977668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不闻，这袜子我不白脱了吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 195,
+          "like_count": 2931,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "ISFP。热爱抽象艺术的精神状态令人担忧的不正常人类，也可能不是人类。\n县城社畜一枚，不爱干活，经常辞职。\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "全中国空气最埋汰的地方",
+        "name": "田小唐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997592615932547073/ycDC9sEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 1043,
+          "like_count": 56997,
+          "listed_count": 7,
+          "media_count": 2434,
+          "tweet_count": 15345
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

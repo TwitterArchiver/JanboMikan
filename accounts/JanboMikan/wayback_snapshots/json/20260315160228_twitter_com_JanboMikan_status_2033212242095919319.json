@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033211624212046155",
+    "created_at": "2026-03-15T16:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T17:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033212242095919319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        },
+        {
+          "end": 27,
+          "id": "1893148438239522816",
+          "start": 14,
+          "username": "Ave_Nagasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033212242095919319",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033211624212046155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina @Ave_Nagasaki 可以看打枪吗🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2033211618373537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdrMcpaEAAkhVX.jpg",
+        "width": 2688
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2033211618407178240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdrMcxbYAAoJ8g.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033211624212046155",
+        "created_at": "2026-03-15T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033212242095919319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            },
+            {
+              "end": 27,
+              "id": "1893148438239522816",
+              "start": 14,
+              "username": "Ave_Nagasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033212242095919319",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033211624212046155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina @Ave_Nagasaki 可以看打枪吗🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033211618373537792",
+            "3_2033211618407178240"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2033211624212046155",
+        "created_at": "2026-03-15T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033211624212046155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1893148438239522816",
+              "start": 21,
+              "username": "Ave_Nagasaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkPDYXOCuW",
+              "end": 75,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2033211624212046155/photo/1",
+              "media_key": "3_2033211618373537792",
+              "start": 52,
+              "url": "https://t.co/bkPDYXOCuW"
+            },
+            {
+              "display_url": "pic.x.com/bkPDYXOCuW",
+              "end": 75,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2033211624212046155/photo/1",
+              "media_key": "3_2033211618407178240",
+              "start": 52,
+              "url": "https://t.co/bkPDYXOCuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033211624212046155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去了神奇的地方，看到了很多稀罕货😍感谢@Ave_Nagasaki 提供地址。\n真是老鼠进米缸啊😋😋 https://t.co/bkPDYXOCuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8267,
+          "following_count": 402,
+          "like_count": 11617,
+          "listed_count": 33,
+          "media_count": 176,
+          "tweet_count": 6220
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男的！//日常推//看女装直接去亮点//都内一般会社員//120% sub//169cm 50-60Kg//不扩列//莫谈国事//提问箱📦在下面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "塩化Ayano",
+        "pinned_tweet_id": "2030143800707104768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8891,
+          "following_count": 566,
+          "like_count": 3591,
+          "listed_count": 39,
+          "media_count": 156,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "love @lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "location": "暗黙のTOKYO HARBOUR",
+        "name": "大博打思惑師",
+        "pinned_tweet_id": "1934670312270123485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031879075443421184/x24V0LBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 207,
+          "like_count": 9332,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 4790
+        },
+        "username": "Ave_Nagasaki",
+        "verified": false
+      }
+    ]
+  }
+}

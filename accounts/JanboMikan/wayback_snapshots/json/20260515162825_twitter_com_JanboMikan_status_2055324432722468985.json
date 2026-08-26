@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2055029516880449873",
+    "created_at": "2026-05-15T16:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055324432722468985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797176172293566464",
+          "start": 0,
+          "username": "hui_nan50805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055324432722468985",
+    "in_reply_to_user_id": "1797176172293566464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055029516880449873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui_nan50805 这还是中文吗😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_2055029514145783808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITudIGaYAA2kjs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055029516880449873",
+        "created_at": "2026-05-15T16:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055324432722468985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797176172293566464",
+              "start": 0,
+              "username": "hui_nan50805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055324432722468985",
+        "in_reply_to_user_id": "1797176172293566464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055029516880449873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_nan50805 这还是中文吗😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055029514145783808"
+          ]
+        },
+        "author_id": "1797176172293566464",
+        "conversation_id": "2055029516880449873",
+        "created_at": "2026-05-14T20:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055029516880449873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 101,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "男の娘"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3WG99yIrX",
+              "end": 143,
+              "expanded_url": "https://x.com/hui_nan50805/status/2055029516880449873/photo/1",
+              "media_key": "3_2055029514145783808",
+              "start": 120,
+              "url": "https://t.co/u3WG99yIrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055029516880449873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 39997,
+          "like_count": 700,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "过年了，男娘家里来了亲戚。\n\n表弟：哥哥你有平板锁吗？\n男娘：有啊，这个是塑料的，这个是不锈钢的，这个是钛合金的。\n表弟：😭哥哥你把小蚯蚓收起来好不好，我好害怕，你把平板的密码锁解开，我要玩熊大快跑。\n#可爱的男孩子 \n#男の娘 \n#男娘 https://t.co/u3WG99yIrX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12920,
+          "following_count": 496,
+          "like_count": 17591,
+          "listed_count": 43,
+          "media_count": 272,
+          "tweet_count": 9090
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T07:59:39.000Z",
+        "description": "战术网红风格玩家，刚入坑二次元",
+        "id": "1797176172293566464",
+        "location": "塔卫二",
+        "name": "光月真昼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803509098782015488/HT7VVjjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 251,
+          "like_count": 3378,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 661
+        },
+        "username": "hui_nan50805",
+        "verified": false
+      }
+    ]
+  }
+}

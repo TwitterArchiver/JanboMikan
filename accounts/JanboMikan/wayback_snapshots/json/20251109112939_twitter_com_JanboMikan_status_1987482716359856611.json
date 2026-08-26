@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1987363691130724748",
+    "created_at": "2025-11-09T11:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987482716359856611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806995588145467392",
+          "start": 0,
+          "username": "Nonzenki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987482716359856611",
+    "in_reply_to_user_id": "1806995588145467392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987363691130724748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nonzenki 魔爪：\n喝的×\n拍摄道具√\n所以是功能饮料"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1987363681290846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SIvRbagAA4qh1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1987363691130724748",
+        "created_at": "2025-11-09T11:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987482716359856611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806995588145467392",
+              "start": 0,
+              "username": "Nonzenki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987482716359856611",
+        "in_reply_to_user_id": "1806995588145467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987363691130724748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonzenki 魔爪：\n喝的×\n拍摄道具√\n所以是功能饮料"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987363681290846208"
+          ]
+        },
+        "author_id": "1806995588145467392",
+        "conversation_id": "1987363691130724748",
+        "created_at": "2025-11-09T03:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987363691130724748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKTRQKjb5Q",
+              "end": 35,
+              "expanded_url": "https://x.com/Nonzenki/status/1987363691130724748/photo/1",
+              "media_key": "3_1987363681290846208",
+              "start": 12,
+              "url": "https://t.co/wKTRQKjb5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987363691130724748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1063,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "特意带了魔爪来拍正片呢 https://t.co/wKTRQKjb5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 107,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:18:25.000Z",
+        "description": "06/东方project/喜欢cos/偶尔女装😉/历史/写作/单机游戏/都市传说/考古‖陪我一路走来的重要的人:@ShengMingSen  @MIcedblacktea @tuanyuehuan @JianYu233 @ZC225031_友跨但只友正常跨😃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "ShengMingSen"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "MIcedblacktea"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "tuanyuehuan"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "JianYu233"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "ZC225031_"
+              }
+            ]
+          }
+        },
+        "id": "1806995588145467392",
+        "location": "Unknown",
+        "name": "Neinzenki",
+        "pinned_tweet_id": "1854786234310443204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854494345191383040/QqhQvkPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 842,
+          "like_count": 23797,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 2857
+        },
+        "username": "Nonzenki",
+        "verified": false
+      }
+    ]
+  }
+}

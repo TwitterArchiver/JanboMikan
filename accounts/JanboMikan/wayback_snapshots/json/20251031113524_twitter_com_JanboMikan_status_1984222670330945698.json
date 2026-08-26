@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984144302793207872",
+    "created_at": "2025-10-31T11:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T12:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984222670330945698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861414615214891009",
+          "start": 0,
+          "username": "nannan5946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984222670330945698",
+    "in_reply_to_user_id": "1861414615214891009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984144302793207872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nannan5946 一眼看到文案和第一张图的我：厕所？（逃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984144298976464896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kYujub0AA9G9y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984144299668475904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kYumTbEAAoSxy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984144299068723200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kYukEbkAAmKOo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984144302793207872",
+        "created_at": "2025-10-31T11:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984222670330945698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861414615214891009",
+              "start": 0,
+              "username": "nannan5946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984222670330945698",
+        "in_reply_to_user_id": "1861414615214891009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984144302793207872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nannan5946 一眼看到文案和第一张图的我：厕所？（逃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984144298976464896",
+            "3_1984144299668475904",
+            "3_1984144299068723200"
+          ]
+        },
+        "author_id": "1861414615214891009",
+        "conversation_id": "1984144302793207872",
+        "created_at": "2025-10-31T06:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T07:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984144302793207872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "男娘cd"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkGLIWF1y3",
+              "end": 56,
+              "expanded_url": "https://x.com/nannan5946/status/1984144302793207872/photo/1",
+              "media_key": "3_1984144298976464896",
+              "start": 33,
+              "url": "https://t.co/fkGLIWF1y3"
+            },
+            {
+              "display_url": "pic.x.com/fkGLIWF1y3",
+              "end": 56,
+              "expanded_url": "https://x.com/nannan5946/status/1984144302793207872/photo/1",
+              "media_key": "3_1984144299668475904",
+              "start": 33,
+              "url": "https://t.co/fkGLIWF1y3"
+            },
+            {
+              "display_url": "pic.x.com/fkGLIWF1y3",
+              "end": 56,
+              "expanded_url": "https://x.com/nannan5946/status/1984144302793207872/photo/1",
+              "media_key": "3_1984144299068723200",
+              "start": 33,
+              "url": "https://t.co/fkGLIWF1y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984144302793207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1179,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦~这是哪个小男娘在厕所里这样穿吖\n＃男娘 ＃男娘cd ＃伪娘 https://t.co/fkGLIWF1y3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 98,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T14:20:20.000Z",
+        "description": "🌏029丨清水推丨可爱风，三坑，正太丨互fo丨含糖:维生素BCD丨172cm  61 kg丨男娘同好可以扩列哦丨🚪10=好友位丨\n自己https://t.co/fhdcoTuFWI\n纸飞机群https://t.co/hqrxVDYOF3\n谢谢大家的喜欢，喃喃会努力变得更好哒~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/nan_nan5946",
+                "end": 90,
+                "expanded_url": "http://t.me/nan_nan5946",
+                "start": 67,
+                "url": "https://t.co/fhdcoTuFWI"
+              },
+              {
+                "display_url": "t.me/nannnan94127",
+                "end": 118,
+                "expanded_url": "https://t.me/nannnan94127",
+                "start": 95,
+                "url": "https://t.co/hqrxVDYOF3"
+              }
+            ]
+          }
+        },
+        "id": "1861414615214891009",
+        "location": "china",
+        "name": "喃喃（互fo）",
+        "pinned_tweet_id": "1976159922518884821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894025400235573248/Soucu8B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 113,
+          "like_count": 823,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 346
+        },
+        "username": "nannan5946",
+        "verified": false
+      }
+    ]
+  }
+}

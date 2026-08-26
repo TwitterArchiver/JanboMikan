@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015439519630164018",
+    "created_at": "2026-01-26T12:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015771071350514149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682711024921718784",
+          "start": 0,
+          "username": "deidei0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015771071350514149",
+    "in_reply_to_user_id": "1682711024921718784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015768334214877246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deidei0721 小心上火😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015439519630164018",
+        "created_at": "2026-01-26T12:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015771071350514149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682711024921718784",
+              "start": 0,
+              "username": "deidei0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015771071350514149",
+        "in_reply_to_user_id": "1682711024921718784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015768334214877246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deidei0721 小心上火😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682711024921718784",
+        "conversation_id": "2015439519630164018",
+        "created_at": "2026-01-26T12:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015768334214877246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015768334214877246",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015439519630164018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我能不能一个人吃完这一盒(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4348,
+          "following_count": 286,
+          "like_count": 6801,
+          "listed_count": 21,
+          "media_count": 116,
+          "tweet_count": 3425
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T11:15:59.000Z",
+        "description": "07年178/52 只会呼噜呼噜的东百废萌话唠男娘，事男大，无🚪不线下，同好贴贴扩列喵    最最最喜欢：@NikaidoHiro0110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "NikaidoHiro0110"
+              }
+            ]
+          }
+        },
+        "id": "1682711024921718784",
+        "name": "呆呆zoop",
+        "pinned_tweet_id": "2015133186670678353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014593590987784194/iobHjEyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 289,
+          "like_count": 2070,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 583
+        },
+        "username": "deidei0721",
+        "verified": false
+      }
+    ]
+  }
+}

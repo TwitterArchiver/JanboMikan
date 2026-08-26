@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044410284836782431",
+    "created_at": "2026-04-16T01:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044596585569681408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044596585569681408",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044410284836782431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 很有道理，视频截帧+字幕，应该很大程度上能让大模型获得视频最大程度的详细信息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3356,
+        "media_key": "3_2044410234597457921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF80RtBawAEGHKr.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2044410252100251648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF80SuOaMAA-h5q.jpg",
+        "width": 1782
+      },
+      {
+        "height": 704,
+        "media_key": "3_2044410260258246657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF80TMnbUAEmkeL.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044410284836782431",
+        "created_at": "2026-04-16T01:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044596585569681408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044596585569681408",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044410284836782431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 很有道理，视频截帧+字幕，应该很大程度上能让大模型获得视频最大程度的详细信息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044410234597457921",
+            "3_2044410252100251648",
+            "3_2044410260258246657"
+          ]
+        },
+        "author_id": "1482030767358496768",
+        "conversation_id": "2044410284836782431",
+        "created_at": "2026-04-15T13:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044410284836782431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Capture key frames from a local video, annotate them, and export a composite storyboard image for AI analysis.",
+              "display_url": "tuu.run/tools/video-st…",
+              "end": 104,
+              "expanded_url": "https://tuu.run/tools/video-storyboard/",
+              "start": 81,
+              "status": 200,
+              "title": "Video Storyboard Sheet | TuuBox",
+              "unwound_url": "https://tuu.run/tools/video-storyboard/",
+              "url": "https://t.co/gEGs1OKz82"
+            },
+            {
+              "display_url": "pic.x.com/ePh8rNN4Z4",
+              "end": 128,
+              "expanded_url": "https://x.com/tcdwww/status/2044410284836782431/photo/1",
+              "media_key": "3_2044410234597457921",
+              "start": 105,
+              "url": "https://t.co/ePh8rNN4Z4"
+            },
+            {
+              "display_url": "pic.x.com/ePh8rNN4Z4",
+              "end": 128,
+              "expanded_url": "https://x.com/tcdwww/status/2044410284836782431/photo/1",
+              "media_key": "3_2044410252100251648",
+              "start": 105,
+              "url": "https://t.co/ePh8rNN4Z4"
+            },
+            {
+              "display_url": "pic.x.com/ePh8rNN4Z4",
+              "end": 128,
+              "expanded_url": "https://x.com/tcdwww/status/2044410284836782431/photo/1",
+              "media_key": "3_2044410260258246657",
+              "start": 105,
+              "url": "https://t.co/ePh8rNN4Z4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044410284836782431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1702,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为了满足我自己的趣味需求，我 Vibe 了一个在线小工具，可以帮你把视频的若干帧截取下来放在一张大图上，可以拿去发给多模态模型，做视频分镜分析等等。\n欢迎来玩！\nhttps://t.co/gEGs1OKz82 https://t.co/ePh8rNN4Z4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10861,
+          "following_count": 454,
+          "like_count": 15412,
+          "listed_count": 40,
+          "media_count": 224,
+          "tweet_count": 7843
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王。家有可爱 OC：https://t.co/LTD9O1NBKt | 关注 ≠ 完全赞同其立场",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukinowan.com",
+                "end": 46,
+                "expanded_url": "http://yukinowan.com",
+                "start": 23,
+                "url": "https://t.co/LTD9O1NBKt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuriDi"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2037374601207136345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 479,
+          "like_count": 87654,
+          "listed_count": 11,
+          "media_count": 1036,
+          "tweet_count": 12002
+        },
+        "url": "https://t.co/IJpduuriDi",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

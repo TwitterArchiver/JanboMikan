@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984213767870415347",
+    "created_at": "2025-11-04T08:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T09:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985625496680611849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1560862380115972096",
+          "start": 0,
+          "username": "xxnlng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985625496680611849",
+    "in_reply_to_user_id": "1560862380115972096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985611568596607023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxnlng2 叔叔是流浪汉🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984213767870415347",
+        "created_at": "2025-11-04T08:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985625496680611849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1560862380115972096",
+              "start": 0,
+              "username": "xxnlng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985625496680611849",
+        "in_reply_to_user_id": "1560862380115972096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985611568596607023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxnlng2 叔叔是流浪汉🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560862380115972096",
+        "conversation_id": "1984213767870415347",
+        "created_at": "2025-11-04T07:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985611568596607023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985611568596607023",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984213767870415347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 叔叔你头发好长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 99,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T05:33:01.000Z",
+        "description": "喜欢❤️空心菜，喜欢讲骚话的抽象小南娘，微社恐",
+        "id": "1560862380115972096",
+        "location": "Aizuwakamatsu-shi, Fukushima",
+        "name": "阿丧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980086737184460800/kw1gbWLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 29,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 290
+        },
+        "username": "xxnlng2",
+        "verified": false
+      }
+    ]
+  }
+}

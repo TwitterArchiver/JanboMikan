@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2009943306353160575",
+    "created_at": "2026-01-10T11:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009948571710476767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1537059044573483010",
+          "start": 0,
+          "username": "R_EasonE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009948571710476767",
+    "in_reply_to_user_id": "1537059044573483010",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009943586687909892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R_EasonE 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2009943306353160575",
+        "created_at": "2026-01-10T11:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009948571710476767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1537059044573483010",
+              "start": 0,
+              "username": "R_EasonE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009948571710476767",
+        "in_reply_to_user_id": "1537059044573483010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009943586687909892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R_EasonE 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537059044573483010",
+        "conversation_id": "2009943306353160575",
+        "created_at": "2026-01-10T11:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009943586687909892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009943586687909892",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009943306353160575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 🥺这么可爱的毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3349,
+          "following_count": 258,
+          "like_count": 5434,
+          "listed_count": 13,
+          "media_count": 96,
+          "tweet_count": 2635
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T13:07:48.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ | @reveriesdetout /@xiangcaopuff",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "reveriesdetout"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "xiangcaopuff"
+              }
+            ]
+          }
+        },
+        "id": "1537059044573483010",
+        "location": "Peking",
+        "name": "R_EasonRE",
+        "pinned_tweet_id": "1921821023944466622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776141671190904832/MJ8KYlEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 991,
+          "like_count": 11736,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 612
+        },
+        "username": "R_EasonE",
+        "verified": false
+      }
+    ]
+  }
+}

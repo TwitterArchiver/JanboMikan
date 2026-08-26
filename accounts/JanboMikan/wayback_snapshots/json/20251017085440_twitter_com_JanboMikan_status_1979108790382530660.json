@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1976897838790619308",
+    "created_at": "2025-10-17T08:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979108790382530660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1624624686083764225",
+          "start": 0,
+          "username": "08cn1"
+        },
+        {
+          "end": 20,
+          "id": "1769078117052854272",
+          "start": 7,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979108790382530660",
+    "in_reply_to_user_id": "1624624686083764225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976897838790619308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@08cn1 @huahuojiang_ 姐姐太好看了露脸也完全无压力…！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1976897838790619308",
+        "created_at": "2025-10-17T08:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979108790382530660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1624624686083764225",
+              "start": 0,
+              "username": "08cn1"
+            },
+            {
+              "end": 20,
+              "id": "1769078117052854272",
+              "start": 7,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979108790382530660",
+        "in_reply_to_user_id": "1624624686083764225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976897838790619308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@08cn1 @huahuojiang_ 姐姐太好看了露脸也完全无压力…！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624624686083764225",
+        "conversation_id": "1976897838790619308",
+        "created_at": "2025-10-11T06:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976897838790619308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976897838790619308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7354,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么主页推荐全是挡脸对镜自拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 79,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T04:22:10.000Z",
+        "description": "168cm，60kg/双性恋男娘0.5/不搞高p，拒绝万年挡脸/03年 现居成都/日子人/fo≠endorsement/宠物：@xiaolinainiaini/微信号：_19cn08_2003，好友位88CNY，拒绝非绿线下也并无福利，不看推特私信，zn私信先过门否则拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "xiaolinainiaini"
+              }
+            ]
+          }
+        },
+        "id": "1624624686083764225",
+        "location": "四川成都",
+        "name": "优爱吃不饱",
+        "pinned_tweet_id": "1959204916817535317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879516094412816384/hEO-bqVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20901,
+          "following_count": 425,
+          "like_count": 2688,
+          "listed_count": 110,
+          "media_count": 211,
+          "tweet_count": 653
+        },
+        "username": "08cn1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1939327665745564090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6641,
+          "following_count": 3625,
+          "like_count": 94918,
+          "listed_count": 19,
+          "media_count": 5599,
+          "tweet_count": 83041
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

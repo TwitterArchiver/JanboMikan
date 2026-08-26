@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1987097765688594815",
+    "created_at": "2025-11-08T10:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987109625486065889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1709927281152634880",
+          "start": 0,
+          "username": "Lie1814327Lie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987109625486065889",
+    "in_reply_to_user_id": "1709927281152634880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987099207929614834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lie1814327Lie 呜喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1987097765688594815",
+        "created_at": "2025-11-08T10:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987109625486065889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1709927281152634880",
+              "start": 0,
+              "username": "Lie1814327Lie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987109625486065889",
+        "in_reply_to_user_id": "1709927281152634880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987099207929614834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lie1814327Lie 呜喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709927281152634880",
+        "conversation_id": "1987097765688594815",
+        "created_at": "2025-11-08T10:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987099207929614834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987099207929614834",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987097765688594815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 确实。摸摸你，好胃口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 106,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:43:35.000Z",
+        "description": "",
+        "id": "1709927281152634880",
+        "name": "白银lie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709927542709444608/FZHxt0Vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 157,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "Lie1814327Lie",
+        "verified": false
+      }
+    ]
+  }
+}

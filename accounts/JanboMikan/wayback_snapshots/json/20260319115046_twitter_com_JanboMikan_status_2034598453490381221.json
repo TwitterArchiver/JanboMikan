@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2034585682426085586",
+    "created_at": "2026-03-19T11:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T12:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034598453490381221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034598453490381221",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034586438038339852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 下次再也不相信了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2034585682426085586",
+        "created_at": "2026-03-19T11:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034598453490381221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034598453490381221",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034586438038339852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 下次再也不相信了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "2034585682426085586",
+        "created_at": "2026-03-19T11:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034586438038339852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034586438038339852",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034585682426085586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 小广告上的电话（可能需要解码）：dQw4w9WgXcQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8990,
+          "following_count": 408,
+          "like_count": 12460,
+          "listed_count": 35,
+          "media_count": 184,
+          "tweet_count": 6533
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王。家有可爱 OC： https://t.co/LTD9O1NBKt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukinowan.com",
+                "end": 47,
+                "expanded_url": "http://yukinowan.com",
+                "start": 24,
+                "url": "https://t.co/LTD9O1NBKt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuriDi"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 473,
+          "like_count": 83670,
+          "listed_count": 9,
+          "media_count": 978,
+          "tweet_count": 11516
+        },
+        "url": "https://t.co/IJpduuriDi",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

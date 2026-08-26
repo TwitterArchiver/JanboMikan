@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2054397440162508937",
+    "created_at": "2026-05-14T00:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054724827416768893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746504520522489856",
+          "start": 0,
+          "username": "Tom_Chicken114"
+        },
+        {
+          "end": 26,
+          "id": "1372569867421839368",
+          "start": 16,
+          "username": "yeliu2025"
+        },
+        {
+          "end": 41,
+          "id": "1406156375156084741",
+          "start": 27,
+          "username": "ice_820893746"
+        },
+        {
+          "end": 51,
+          "id": "1338483456905420801",
+          "start": 42,
+          "username": "CN_Probe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054724827416768893",
+    "in_reply_to_user_id": "1746504520522489856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054710434507432140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_Chicken114 @yeliu2025 @ice_820893746 @CN_Probe 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2054397440162508937",
+        "created_at": "2026-05-14T00:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054724827416768893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746504520522489856",
+              "start": 0,
+              "username": "Tom_Chicken114"
+            },
+            {
+              "end": 26,
+              "id": "1372569867421839368",
+              "start": 16,
+              "username": "yeliu2025"
+            },
+            {
+              "end": 41,
+              "id": "1406156375156084741",
+              "start": 27,
+              "username": "ice_820893746"
+            },
+            {
+              "end": 51,
+              "id": "1338483456905420801",
+              "start": 42,
+              "username": "CN_Probe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054724827416768893",
+        "in_reply_to_user_id": "1746504520522489856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054710434507432140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_Chicken114 @yeliu2025 @ice_820893746 @CN_Probe 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746504520522489856",
+        "conversation_id": "2054397440162508937",
+        "created_at": "2026-05-13T23:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054710434507432140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1372569867421839368",
+              "start": 12,
+              "username": "yeliu2025"
+            },
+            {
+              "end": 37,
+              "id": "1406156375156084741",
+              "start": 23,
+              "username": "ice_820893746"
+            },
+            {
+              "end": 47,
+              "id": "1338483456905420801",
+              "start": 38,
+              "username": "CN_Probe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054710434507432140",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054397440162508937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yeliu2025 @ice_820893746 @CN_Probe 绑绑wode🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12885,
+          "following_count": 495,
+          "like_count": 17510,
+          "listed_count": 43,
+          "media_count": 270,
+          "tweet_count": 9044
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T12:08:29.000Z",
+        "description": "意义不明的主页懒得打理，爱咋咋地吧xwx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.tomchicken.icu",
+                "end": 23,
+                "expanded_url": "https://blog.tomchicken.icu/",
+                "start": 0,
+                "url": "https://t.co/3e6YnjQBX2"
+              }
+            ]
+          }
+        },
+        "id": "1746504520522489856",
+        "name": "Chicken Tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758801445279981568/Uqpr23Ux_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 265,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/3e6YnjQBX2",
+        "username": "Tom_Chicken114",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T15:25:45.000Z",
+        "description": "是菜鸟绳艺摄影爱好者₍˄·͈༝·͈˄*₎◞想要成为经验丰富的s，喜欢cos类型和探索绳艺与拘束～绳屋持续优化中~地标重庆/深圳（璃社），欢迎私信+企鹅联系喵～\n（防消失linnight2026）",
+        "id": "1372569867421839368",
+        "location": "重庆",
+        "name": "林夜",
+        "pinned_tweet_id": "2048127884439740770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008991542787317760/P7O5xoKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 847,
+          "like_count": 5594,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 330
+        },
+        "username": "yeliu2025",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T07:46:31.000Z",
+        "description": "这个人很懒，连简介懒得想。",
+        "id": "1406156375156084741",
+        "location": "Japan",
+        "name": "冰块🧊喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028744221872832512/15phPjlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 97,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ice_820893746",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T13:58:25.000Z",
+        "description": "kiger&撮影\n📷:Sony A1M2/Leica Q3 43",
+        "id": "1338483456905420801",
+        "location": "Xi'an&Shanghai",
+        "name": "Probe",
+        "pinned_tweet_id": "2042230278056529988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937006780091076608/SXtP1r7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8225,
+          "following_count": 788,
+          "like_count": 13037,
+          "listed_count": 38,
+          "media_count": 152,
+          "tweet_count": 838
+        },
+        "username": "CN_Probe",
+        "verified": true
+      }
+    ]
+  }
+}

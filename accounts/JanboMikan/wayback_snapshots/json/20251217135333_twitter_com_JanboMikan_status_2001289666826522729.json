@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001198732444925954",
+        "3_2001198738790928386"
+      ],
+      "media_source_tweet_id": [
+        "2001198743253627142",
+        "2001198743253627142"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001289666826522729",
+    "created_at": "2025-12-17T13:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001289666826522729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468298719447887872",
+          "start": 3,
+          "username": "dviolettchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxhDbgJv8H",
+          "end": 83,
+          "expanded_url": "https://x.com/dviolettchan/status/2001198743253627142/photo/1",
+          "media_key": "3_2001198732444925954",
+          "start": 60,
+          "url": "https://t.co/lxhDbgJv8H"
+        },
+        {
+          "display_url": "pic.x.com/lxhDbgJv8H",
+          "end": 83,
+          "expanded_url": "https://x.com/dviolettchan/status/2001198743253627142/photo/1",
+          "media_key": "3_2001198738790928386",
+          "start": 60,
+          "url": "https://t.co/lxhDbgJv8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001289666826522729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001198743253627142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dviolettchan: 我妈问我是不是去卖保险了。\n\n我说，不是，我其实是在卖一个还没有被证明有效的想法。 https://t.co/lxhDbgJv8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3212,
+        "media_key": "3_2001198732444925954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WvpPRXgAIDzm8.jpg",
+        "width": 2141
+      },
+      {
+        "height": 2823,
+        "media_key": "3_2001198738790928386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Wvpm6X0AItulC.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001198732444925954",
+            "3_2001198738790928386"
+          ],
+          "media_source_tweet_id": [
+            "2001198743253627142",
+            "2001198743253627142"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001289666826522729",
+        "created_at": "2025-12-17T13:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001289666826522729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468298719447887872",
+              "start": 3,
+              "username": "dviolettchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxhDbgJv8H",
+              "end": 83,
+              "expanded_url": "https://x.com/dviolettchan/status/2001198743253627142/photo/1",
+              "media_key": "3_2001198732444925954",
+              "start": 60,
+              "url": "https://t.co/lxhDbgJv8H"
+            },
+            {
+              "display_url": "pic.x.com/lxhDbgJv8H",
+              "end": 83,
+              "expanded_url": "https://x.com/dviolettchan/status/2001198743253627142/photo/1",
+              "media_key": "3_2001198738790928386",
+              "start": 60,
+              "url": "https://t.co/lxhDbgJv8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001289666826522729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001198743253627142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dviolettchan: 我妈问我是不是去卖保险了。\n\n我说，不是，我其实是在卖一个还没有被证明有效的想法。 https://t.co/lxhDbgJv8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001198732444925954",
+            "3_2001198738790928386"
+          ]
+        },
+        "author_id": "1468298719447887872",
+        "conversation_id": "2001198743253627142",
+        "created_at": "2025-12-17T07:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001198743253627142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxhDbgJv8H",
+              "end": 65,
+              "expanded_url": "https://x.com/dviolettchan/status/2001198743253627142/photo/1",
+              "media_key": "3_2001198732444925954",
+              "start": 42,
+              "url": "https://t.co/lxhDbgJv8H"
+            },
+            {
+              "display_url": "pic.x.com/lxhDbgJv8H",
+              "end": 65,
+              "expanded_url": "https://x.com/dviolettchan/status/2001198743253627142/photo/1",
+              "media_key": "3_2001198738790928386",
+              "start": 42,
+              "url": "https://t.co/lxhDbgJv8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001198743253627142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1816,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我妈问我是不是去卖保险了。\n\n我说，不是，我其实是在卖一个还没有被证明有效的想法。 https://t.co/lxhDbgJv8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 211,
+          "like_count": 3556,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 1545
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 美少女点赞bot | 北美菜校ECE PhD Candidate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 411,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

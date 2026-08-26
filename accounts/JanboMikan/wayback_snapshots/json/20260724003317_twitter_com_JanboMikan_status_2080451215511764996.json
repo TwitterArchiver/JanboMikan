@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2080246551415255220",
+    "created_at": "2026-07-24T00:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080451215511764996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1560959425",
+          "start": 0,
+          "username": "RhenCloud_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080451215511764996",
+    "in_reply_to_user_id": "1560959425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080326906470342671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RhenCloud_ 那nsfw了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2080246551415255220",
+        "created_at": "2026-07-24T00:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080451215511764996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1560959425",
+              "start": 0,
+              "username": "RhenCloud_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080451215511764996",
+        "in_reply_to_user_id": "1560959425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080326906470342671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhenCloud_ 那nsfw了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560959425",
+        "conversation_id": "2080246551415255220",
+        "created_at": "2026-07-23T16:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080326906470342671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080326906470342671",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080246551415255220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 看看免冠照（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15731,
+          "following_count": 607,
+          "like_count": 21362,
+          "listed_count": 52,
+          "media_count": 366,
+          "tweet_count": 11338
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-01T16:34:33.000Z",
+        "description": "🏳️‍⚧️MTF HRT: 2026.05.24\n家长反对党\nhttps://t.co/QQ1gFO9AHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rhencloud_chat…",
+                "end": 54,
+                "expanded_url": "https://t.me/rhencloud_chat_bot",
+                "start": 31,
+                "url": "https://t.co/QQ1gFO9AHS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhen.cloud",
+                "end": 23,
+                "expanded_url": "https://rhen.cloud",
+                "start": 0,
+                "url": "https://t.co/9WUSPofmNG"
+              }
+            ]
+          }
+        },
+        "id": "1560959425",
+        "location": "世界的尽头",
+        "name": "泠云",
+        "pinned_tweet_id": "2049168373322596425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047200196996784128/Qstb92OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 190,
+          "like_count": 6159,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/9WUSPofmNG",
+        "username": "RhenCloud_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067240036396138497"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2068650137757610175",
+    "created_at": "2026-06-21T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068650137757610175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kv1BmHGy2B",
+          "end": 165,
+          "expanded_url": "https://x.com/JanboMikan/status/2068650137757610175/photo/1",
+          "media_key": "3_2067240036396138497",
+          "start": 142,
+          "url": "https://t.co/kv1BmHGy2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068650137757610175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗澡顺便清洁后面。\n凭着肌肉记忆往洗手台上一摸，抓起那个长颈口的装灌肠液的塑料瓶，抵进深处一捏到底。\n不到三秒，肠道里传来的不是熟悉的清凉感，而是像吞了一块烧红的碳一样，甚至能感觉到有液体在黏膜上沸腾发烫。\n我浑身颤抖发着冷汗地将瓶子凑近自己八百度的近视眼前面一看：\n「威猛先生」。 https://t.co/kv1BmHGy2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3375,
+        "media_key": "3_2067240036396138497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBP3ELbgAE67gm.jpg",
+        "width": 3056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067240036396138497"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2068650137757610175",
+        "created_at": "2026-06-21T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068650137757610175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kv1BmHGy2B",
+              "end": 165,
+              "expanded_url": "https://x.com/JanboMikan/status/2068650137757610175/photo/1",
+              "media_key": "3_2067240036396138497",
+              "start": 142,
+              "url": "https://t.co/kv1BmHGy2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068650137757610175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡顺便清洁后面。\n凭着肌肉记忆往洗手台上一摸，抓起那个长颈口的装灌肠液的塑料瓶，抵进深处一捏到底。\n不到三秒，肠道里传来的不是熟悉的清凉感，而是像吞了一块烧红的碳一样，甚至能感觉到有液体在黏膜上沸腾发烫。\n我浑身颤抖发着冷汗地将瓶子凑近自己八百度的近视眼前面一看：\n「威猛先生」。 https://t.co/kv1BmHGy2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14360,
+          "following_count": 558,
+          "like_count": 19669,
+          "listed_count": 50,
+          "media_count": 326,
+          "tweet_count": 10368
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

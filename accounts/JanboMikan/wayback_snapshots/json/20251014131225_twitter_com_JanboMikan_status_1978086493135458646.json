@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1977752792346366009",
+    "created_at": "2025-10-14T13:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T14:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978086493135458646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825786158682615810",
+          "start": 0,
+          "username": "zhenzhou153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978086493135458646",
+    "in_reply_to_user_id": "1825786158682615810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977752792346366009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhenzhou153 神秘液体......！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977752789024645120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JjrttaIAAdUK0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1977752792346366009",
+        "created_at": "2025-10-14T13:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T14:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978086493135458646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825786158682615810",
+              "start": 0,
+              "username": "zhenzhou153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978086493135458646",
+        "in_reply_to_user_id": "1825786158682615810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977752792346366009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhenzhou153 神秘液体......！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977752789024645120"
+          ]
+        },
+        "author_id": "1825786158682615810",
+        "conversation_id": "1977752792346366009",
+        "created_at": "2025-10-13T15:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977752792346366009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxn5htdJ09",
+              "end": 44,
+              "expanded_url": "https://x.com/zhenzhou153/status/1977752792346366009/photo/1",
+              "media_key": "3_1977752789024645120",
+              "start": 21,
+              "url": "https://t.co/jxn5htdJ09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977752792346366009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好凉～\n（镜子上什么都没有×9）\n#男娘 https://t.co/jxn5htdJ09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元",
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T06:45:28.000Z",
+        "description": "♂～整整178cm（68kg）/ 减肥ing/喜欢好看的衣服和鞋子/清水（大概）/线上是个话痨（标题是口嗨）/有喜欢的cos可以跟咱说",
+        "id": "1825786158682615810",
+        "location": "武汉",
+        "name": "雪绒",
+        "pinned_tweet_id": "1976256050564321767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830592966962118656/H1XFL8qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 45,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 97
+        },
+        "username": "zhenzhou153",
+        "verified": false
+      }
+    ]
+  }
+}

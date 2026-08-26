@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2027934417302552624",
+    "created_at": "2026-03-01T13:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028100887089189008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861414615214891009",
+          "start": 0,
+          "username": "nannan5946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028100887089189008",
+    "in_reply_to_user_id": "1861414615214891009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027934417302552624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nannan5946 可爱宝宝🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027934409320787968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSrmc9bcAAsQkS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2027934417302552624",
+        "created_at": "2026-03-01T13:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028100887089189008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861414615214891009",
+              "start": 0,
+              "username": "nannan5946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028100887089189008",
+        "in_reply_to_user_id": "1861414615214891009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027934417302552624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nannan5946 可爱宝宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027934409320787968"
+          ]
+        },
+        "author_id": "1861414615214891009",
+        "conversation_id": "2027934417302552624",
+        "created_at": "2026-03-01T02:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027934417302552624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "伪娘"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "男娘cd"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQBuDTXdcW",
+              "end": 58,
+              "expanded_url": "https://x.com/nannan5946/status/2027934417302552624/photo/1",
+              "media_key": "3_2027934409320787968",
+              "start": 35,
+              "url": "https://t.co/wQBuDTXdcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027934417302552624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，这样看就像是有两个喃喃~\n\n＃男娘 ＃伪娘 ＃男娘cd ＃白丝 https://t.co/wQBuDTXdcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7171,
+          "following_count": 379,
+          "like_count": 10356,
+          "listed_count": 32,
+          "media_count": 161,
+          "tweet_count": 5455
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T14:20:20.000Z",
+        "description": "这里是喃喃喵丨三观超级正丨既是一个超级正直的人也是小男娘喵丨身体健康，不下海，清水推丨喜欢贴贴和做有意思的事|20好友位丨男娘同好可以扩列哦丨https://t.co/fhdcoTuFWI\n纸飞机群https://t.co/hqrxVDYOF3\n谢谢大家的喜欢，喃喃会努力变得更好哒~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/nan_nan5946",
+                "end": 94,
+                "expanded_url": "http://t.me/nan_nan5946",
+                "start": 71,
+                "url": "https://t.co/fhdcoTuFWI"
+              },
+              {
+                "display_url": "t.me/nannnan94127",
+                "end": 122,
+                "expanded_url": "https://t.me/nannnan94127",
+                "start": 99,
+                "url": "https://t.co/hqrxVDYOF3"
+              }
+            ]
+          }
+        },
+        "id": "1861414615214891009",
+        "location": "🌏029",
+        "name": "喃喃（互fo）",
+        "pinned_tweet_id": "2001125679908389173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984859272497532928/rjYlEQhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 157,
+          "like_count": 1507,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 574
+        },
+        "username": "nannan5946",
+        "verified": false
+      }
+    ]
+  }
+}

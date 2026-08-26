@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2004845440060301318",
+    "created_at": "2025-12-27T13:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T14:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004914946786947254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004914946786947254",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004845440060301318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 还得是北方有暖气\n南方人得靠一身正气过冬🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2004845422037323776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KkSgoaUAA0ITs.jpg",
+        "width": 2690
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2004845422070956034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KkSgwbgAIREVM.jpg",
+        "width": 2726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2004845440060301318",
+        "created_at": "2025-12-27T13:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004914946786947254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004914946786947254",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004845440060301318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 还得是北方有暖气\n南方人得靠一身正气过冬🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004845422037323776",
+            "3_2004845422070956034"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2004845440060301318",
+        "created_at": "2025-12-27T09:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004845440060301318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RyOYjT5hBu",
+              "end": 36,
+              "expanded_url": "https://x.com/maruko00o/status/2004845440060301318/photo/1",
+              "media_key": "3_2004845422037323776",
+              "start": 13,
+              "url": "https://t.co/RyOYjT5hBu"
+            },
+            {
+              "display_url": "pic.x.com/RyOYjT5hBu",
+              "end": 36,
+              "expanded_url": "https://x.com/maruko00o/status/2004845440060301318/photo/1",
+              "media_key": "3_2004845422070956034",
+              "start": 13,
+              "url": "https://t.co/RyOYjT5hBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004845440060301318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3841,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "等天气暖和些再穿这件出门 https://t.co/RyOYjT5hBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 218,
+          "like_count": 4282,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 1993
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2002241345264468435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36158,
+          "following_count": 917,
+          "like_count": 20414,
+          "listed_count": 195,
+          "media_count": 811,
+          "tweet_count": 4339
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

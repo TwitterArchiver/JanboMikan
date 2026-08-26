@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001476258136248324",
+    "created_at": "2025-12-18T09:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001587157576941743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1793504977878482944",
+          "start": 0,
+          "username": "mehato1818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001587157576941743",
+    "in_reply_to_user_id": "1793504977878482944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001581217100259631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mehato1818 帮你艾特（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001476258136248324",
+        "created_at": "2025-12-18T09:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001587157576941743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1793504977878482944",
+              "start": 0,
+              "username": "mehato1818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001587157576941743",
+        "in_reply_to_user_id": "1793504977878482944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001581217100259631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mehato1818 帮你艾特（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793504977878482944",
+        "conversation_id": "2001476258136248324",
+        "created_at": "2025-12-18T09:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001581217100259631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001581217100259631",
+        "in_reply_to_user_id": "1793504977878482944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001580846529331364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不要问为什么不是蓝名，这位我真没有艾特的勇气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 212,
+          "like_count": 3626,
+          "listed_count": 9,
+          "media_count": 73,
+          "tweet_count": 1591
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T04:51:26.000Z",
+        "description": "中文〇/日本語△\n二次元 在玩永7/明日方舟\n水平很差，辩经不要找我\n爱女且女嬷/无法和男同拉郎和解\n五千年性压抑土地上长大的男同性恨🏳️‍🌈\n精神病\n正主@GenshinImpact\n江西人所以进🚪38w8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "GenshinImpact"
+              }
+            ]
+          }
+        },
+        "id": "1793504977878482944",
+        "location": "深圳，奶龙巨像",
+        "name": "胖猫爱奶龙",
+        "pinned_tweet_id": "1942277332158537951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932248354479919104/KYAJXyLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 353,
+          "like_count": 6653,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2894
+        },
+        "username": "mehato1818",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026613148845752358",
+    "created_at": "2026-02-26T15:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T16:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027045584201449589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829003222431776768",
+          "start": 0,
+          "username": "hhjjz666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027045584201449589",
+    "in_reply_to_user_id": "1829003222431776768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027035528403575239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjjz666 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027035486129180673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCF6CPHXUAERNDI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026613148845752358",
+        "created_at": "2026-02-26T15:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027045584201449589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829003222431776768",
+              "start": 0,
+              "username": "hhjjz666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027045584201449589",
+        "in_reply_to_user_id": "1829003222431776768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027035528403575239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjjz666 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027035486129180673"
+          ]
+        },
+        "author_id": "1829003222431776768",
+        "conversation_id": "2026613148845752358",
+        "created_at": "2026-02-26T14:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027035528403575239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlRcmX1xM9",
+              "end": 45,
+              "expanded_url": "https://x.com/hhjjz666/status/2027035528403575239/photo/1",
+              "media_key": "3_2027035486129180673",
+              "start": 22,
+              "url": "https://t.co/zlRcmX1xM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027035528403575239",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026613148845752358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 很杂鱼了哦~摸摸~ https://t.co/zlRcmX1xM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6948,
+          "following_count": 371,
+          "like_count": 10041,
+          "listed_count": 31,
+          "media_count": 157,
+          "tweet_count": 5292
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T03:49:01.000Z",
+        "description": "这里是雪呀～一个爱吃蓝莓喜欢喝一点酒的~大！猛！男！~私信看到必回哦~点赞看到也可能会私信~（大概是有点傲娇魅魔可爱的小男娘）",
+        "id": "1829003222431776768",
+        "name": "凛冬の瑞雪",
+        "pinned_tweet_id": "2026862688354353292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026528993797603328/5VUtylId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 32,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 37
+        },
+        "username": "hhjjz666",
+        "verified": false
+      }
+    ]
+  }
+}

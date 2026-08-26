@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2081582159270384071",
+    "created_at": "2026-07-28T03:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081950464862720157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462089567385702410",
+          "start": 0,
+          "username": "mengyangqup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081950464862720157",
+    "in_reply_to_user_id": "1462089567385702410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081582159270384071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengyangqup 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081582155910762496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOND8S3aUAAr5c2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081582156510572544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOND8VGasAAXLp4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081582156649017344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOND8VnbMAANTde.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2081582159270384071",
+        "created_at": "2026-07-28T03:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081950464862720157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462089567385702410",
+              "start": 0,
+              "username": "mengyangqup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081950464862720157",
+        "in_reply_to_user_id": "1462089567385702410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081582159270384071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengyangqup 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081582155910762496",
+            "3_2081582156510572544",
+            "3_2081582156649017344"
+          ]
+        },
+        "author_id": "1462089567385702410",
+        "conversation_id": "2081582159270384071",
+        "created_at": "2026-07-27T03:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081582159270384071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "黑丝"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女装"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "过膝袜"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "手水服"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SozJPtbs2O",
+              "end": 64,
+              "expanded_url": "https://x.com/mengyangqup/status/2081582159270384071/photo/1",
+              "media_key": "3_2081582155910762496",
+              "start": 41,
+              "url": "https://t.co/SozJPtbs2O"
+            },
+            {
+              "display_url": "pic.x.com/SozJPtbs2O",
+              "end": 64,
+              "expanded_url": "https://x.com/mengyangqup/status/2081582159270384071/photo/1",
+              "media_key": "3_2081582156510572544",
+              "start": 41,
+              "url": "https://t.co/SozJPtbs2O"
+            },
+            {
+              "display_url": "pic.x.com/SozJPtbs2O",
+              "end": 64,
+              "expanded_url": "https://x.com/mengyangqup/status/2081582159270384071/photo/1",
+              "media_key": "3_2081582156649017344",
+              "start": 41,
+              "url": "https://t.co/SozJPtbs2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582159270384071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3200,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是榨精小能手qwq #男娘 #可爱の男孩子 #黑丝 #女装 #过膝袜 #手水服 https://t.co/SozJPtbs2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15819,
+          "following_count": 609,
+          "like_count": 21490,
+          "listed_count": 52,
+          "media_count": 370,
+          "tweet_count": 11406
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T16:04:59.000Z",
+        "description": "07 174/57kg 是男娘\n不线下！不线下！不线下！不线下！不线下！\n   私信仅回关注以及可爱男娘 欢迎贴贴~ \n谢谢喜欢大家喜欢~ 祝大家天天开心~",
+        "id": "1462089567385702410",
+        "name": "小小云朵",
+        "pinned_tweet_id": "2079373508745011612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970898680032133120/uYMWl-Dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 65,
+          "like_count": 1092,
+          "listed_count": 9,
+          "media_count": 128,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "mengyangqup",
+        "verified": false
+      }
+    ]
+  }
+}

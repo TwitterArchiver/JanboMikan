@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2083145655036391909",
+    "created_at": "2026-07-31T13:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083176086863753273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1271041851705810945",
+          "start": 0,
+          "username": "radsven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083176086863753273",
+    "in_reply_to_user_id": "1271041851705810945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083169678516752640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@radsven 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2083145655036391909",
+        "created_at": "2026-07-31T13:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083176086863753273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1271041851705810945",
+              "start": 0,
+              "username": "radsven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083176086863753273",
+        "in_reply_to_user_id": "1271041851705810945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083169678516752640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@radsven 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271041851705810945",
+        "conversation_id": "2083145655036391909",
+        "created_at": "2026-07-31T12:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083169678516752640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083169678516752640",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083145655036391909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 他们说得没错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15840,
+          "following_count": 612,
+          "like_count": 21597,
+          "listed_count": 52,
+          "media_count": 375,
+          "tweet_count": 11471
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-11T11:29:39.000Z",
+        "description": "The only thing that can warm my cold heart is a hug from Kosuzu, but she's not real...\nHow cruel it is that such beauty exists only in fiction...",
+        "id": "1271041851705810945",
+        "location": "Rijeka, Croatia",
+        "name": "Reimu Komeiji 🟡",
+        "pinned_tweet_id": "2029123628235972863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068975167804768256/661gclMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 600,
+          "like_count": 69776,
+          "listed_count": 0,
+          "media_count": 624,
+          "tweet_count": 6084
+        },
+        "url": "",
+        "username": "radsven",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2007368021833392164",
+    "created_at": "2026-01-03T14:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007454639952630255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007454639952630255",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007368021833392164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan 因果性不是相关性😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2007368019266228224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9uak_nX0AAPJXb.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1384,
+        "media_key": "3_2007368019626938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ualA9X0AA1t3q.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2007368021833392164",
+        "created_at": "2026-01-03T14:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007454639952630255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007454639952630255",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007368021833392164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan 因果性不是相关性😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007368019266228224",
+            "3_2007368019626938368"
+          ]
+        },
+        "author_id": "1468298719447887872",
+        "conversation_id": "2007368021833392164",
+        "created_at": "2026-01-03T08:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007368021833392164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "紫云的碎碎念"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KczpGZYNgd",
+              "end": 114,
+              "expanded_url": "https://x.com/dviolettchan/status/2007368021833392164/photo/1",
+              "media_key": "3_2007368019266228224",
+              "start": 91,
+              "url": "https://t.co/KczpGZYNgd"
+            },
+            {
+              "display_url": "pic.x.com/KczpGZYNgd",
+              "end": 114,
+              "expanded_url": "https://x.com/dviolettchan/status/2007368021833392164/photo/1",
+              "media_key": "3_2007368019626938368",
+              "start": 91,
+              "url": "https://t.co/KczpGZYNgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007368021833392164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2530,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#紫云的碎碎念\n\n最近大家似乎都在玩这个……？\n\n从我的角度出发，这些格子更多是在描述群聊交流习惯，跟女装那些事情不一定相关。\n\n所以说，即使我连字成功，也不能说我是小南梁…的吧？ https://t.co/KczpGZYNgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 234,
+          "like_count": 4858,
+          "listed_count": 13,
+          "media_count": 88,
+          "tweet_count": 2299
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 美少女点赞bot | 北美菜校ECE PhD Candidate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 320,
+          "like_count": 1040,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

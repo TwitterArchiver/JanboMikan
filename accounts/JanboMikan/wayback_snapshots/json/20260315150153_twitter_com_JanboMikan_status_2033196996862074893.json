@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032785240180273490",
+    "created_at": "2026-03-15T15:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033196996862074893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1678058596339433472",
+          "start": 0,
+          "username": "Ruo_Haruka"
+        },
+        {
+          "end": 21,
+          "id": "1812363069487742976",
+          "start": 12,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033196996862074893",
+    "in_reply_to_user_id": "1678058596339433472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033173232568947022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruo_Haruka @mingji_A 来贴😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033173232568947022].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033173232568947022",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033173232568947022"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032785240180273490",
+        "created_at": "2026-03-15T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033196996862074893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1678058596339433472",
+              "start": 0,
+              "username": "Ruo_Haruka"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033196996862074893",
+        "in_reply_to_user_id": "1678058596339433472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033173232568947022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruo_Haruka @mingji_A 来贴😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8261,
+          "following_count": 401,
+          "like_count": 11594,
+          "listed_count": 34,
+          "media_count": 176,
+          "tweet_count": 6203
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T15:08:54.000Z",
+        "description": "萌物suki/是个高p怪线下查无此人",
+        "id": "1678058596339433472",
+        "name": "布丁汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802737147252736/qrP4DtVm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 498,
+          "like_count": 42058,
+          "listed_count": 5,
+          "media_count": 1002,
+          "tweet_count": 2444
+        },
+        "username": "Ruo_Haruka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 1771,
+          "like_count": 72291,
+          "listed_count": 9,
+          "media_count": 118,
+          "tweet_count": 14024
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

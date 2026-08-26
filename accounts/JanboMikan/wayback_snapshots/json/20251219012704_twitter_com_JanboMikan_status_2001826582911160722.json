@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001608516382183832",
+    "created_at": "2025-12-19T01:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T02:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001826582911160722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850538060938891264",
+          "start": 0,
+          "username": "sonshin1812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001826582911160722",
+    "in_reply_to_user_id": "1850538060938891264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001812049882702187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonshin1812 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001608516382183832",
+        "created_at": "2025-12-19T01:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001826582911160722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850538060938891264",
+              "start": 0,
+              "username": "sonshin1812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001826582911160722",
+        "in_reply_to_user_id": "1850538060938891264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001812049882702187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonshin1812 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850538060938891264",
+        "conversation_id": "2001608516382183832",
+        "created_at": "2025-12-19T00:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T01:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001812049882702187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001812049882702187",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001608516382183832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 萝莉啊，想推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 214,
+          "like_count": 3682,
+          "listed_count": 9,
+          "media_count": 75,
+          "tweet_count": 1627
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T14:00:54.000Z",
+        "description": "欧易邀请码:16041108",
+        "id": "1850538060938891264",
+        "name": "加密晨哥🇨🇳(卡比龙900 一条)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885406601424572416/WXA03R9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 25,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 328
+        },
+        "username": "sonshin1812",
+        "verified": false
+      }
+    ]
+  }
+}

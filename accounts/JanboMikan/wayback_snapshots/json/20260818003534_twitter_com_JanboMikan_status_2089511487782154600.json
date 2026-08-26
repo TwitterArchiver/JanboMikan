@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2089204562926395731",
+    "created_at": "2026-08-18T00:35:34.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T01:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089511487782154600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "718796360250691585",
+          "start": 0,
+          "username": "lpngpkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089511487782154600",
+    "in_reply_to_user_id": "718796360250691585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089421223495164342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lpngpkl 没做😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2089204562926395731",
+        "created_at": "2026-08-18T00:35:34.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089511487782154600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "718796360250691585",
+              "start": 0,
+              "username": "lpngpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089511487782154600",
+        "in_reply_to_user_id": "718796360250691585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089421223495164342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lpngpkl 没做😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "718796360250691585",
+        "conversation_id": "2089204562926395731",
+        "created_at": "2026-08-17T18:36:53.000Z",
+        "display_text_range": [
+          33,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089421223495164342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            },
+            {
+              "end": 32,
+              "id": "1131911207915380736",
+              "start": 22,
+              "username": "nene00219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089421223495164342",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089204562926395731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A @nene00219 又做又做"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2089511487782154600",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17308,
+          "following_count": 628,
+          "like_count": 22312,
+          "listed_count": 54,
+          "media_count": 403,
+          "tweet_count": 11967
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-09T13:43:01.000Z",
+        "description": "老号已死不用找了\nwelcome to DM me tecnical issue\n二次元：@pinkeye404\nFacebook marketplace https://t.co/6wJ7IW09A5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "pinkeye404"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 101,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/",
+                "start": 78,
+                "url": "https://t.co/6wJ7IW09A5"
+              }
+            ]
+          }
+        },
+        "id": "718796360250691585",
+        "is_identity_verified": false,
+        "location": "Auburn, AL - Blacksburg, VA",
+        "most_recent_tweet_id": "2089461897913348511",
+        "name": "粉眼睛不写代码（有没有人来弗吉尼亚看看孤寡老人）",
+        "pinned_tweet_id": "1716108985252663473",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718796360250691585/1761752613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435341372379136/1PFZ5R8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 711,
+          "like_count": 4062,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 1041
+        },
+        "url": "",
+        "username": "lpngpkl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

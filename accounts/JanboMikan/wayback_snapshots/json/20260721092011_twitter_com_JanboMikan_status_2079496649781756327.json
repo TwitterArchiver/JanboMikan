@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2079159394596462661",
+    "created_at": "2026-07-21T09:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079496649781756327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "156219202",
+          "start": 0,
+          "username": "ToshinoAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079496649781756327",
+    "in_reply_to_user_id": "156219202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079434468301865251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToshinoAyano 还是好少😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2079159394596462661",
+        "created_at": "2026-07-21T09:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079496649781756327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "156219202",
+              "start": 0,
+              "username": "ToshinoAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079496649781756327",
+        "in_reply_to_user_id": "156219202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079434468301865251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToshinoAyano 还是好少😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156219202",
+        "conversation_id": "2079159394596462661",
+        "created_at": "2026-07-21T05:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079434468301865251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079434468301865251",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079159394596462661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我不同意卖58，蜜柑这样标致的男娘至少得88（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15653,
+          "following_count": 603,
+          "like_count": 21283,
+          "listed_count": 52,
+          "media_count": 363,
+          "tweet_count": 11279
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "椰子味的Potong，精神不正常～ 木有qq，也木有其他的通讯方式！日常/树洞号小蛋糕@SweetCream37012提问箱：https://t.co/Z6eakkatCP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "SweetCream37012"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/toshinoayano",
+                "end": 86,
+                "expanded_url": "http://ngl.link/toshinoayano",
+                "start": 63,
+                "url": "https://t.co/Z6eakkatCP"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "location": "Singapore",
+        "name": "小雪糕🍦",
+        "pinned_tweet_id": "2073222032070959275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047558886518112257/RWFVWo6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 1767,
+          "like_count": 23276,
+          "listed_count": 16,
+          "media_count": 128,
+          "tweet_count": 11353
+        },
+        "url": "",
+        "username": "ToshinoAyano",
+        "verified": true
+      }
+    ]
+  }
+}

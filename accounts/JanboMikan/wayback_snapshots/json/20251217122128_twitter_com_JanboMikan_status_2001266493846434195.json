@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001245992474288152",
+    "created_at": "2025-12-17T12:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T13:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001266493846434195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706600551855656960",
+          "start": 0,
+          "username": "Jameswesore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001266493846434195",
+    "in_reply_to_user_id": "1706600551855656960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001260961219678326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jameswesore 你真好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001245992474288152",
+        "created_at": "2025-12-17T12:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001266493846434195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706600551855656960",
+              "start": 0,
+              "username": "Jameswesore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001266493846434195",
+        "in_reply_to_user_id": "1706600551855656960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001260961219678326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jameswesore 你真好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706600551855656960",
+        "conversation_id": "2001245992474288152",
+        "created_at": "2025-12-17T11:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001260961219678326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001260961219678326",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001245992474288152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 😌不要焦虑，就算你哪天氵一贴我也会看的\n（ps：p1主包的jiojio好长）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 210,
+          "like_count": 3519,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 1523
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T09:24:29.000Z",
+        "description": "HHH",
+        "id": "1706600551855656960",
+        "location": "NO",
+        "name": "小怂包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706664014959566848/K-KpzgUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 567,
+          "like_count": 1781,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 672
+        },
+        "username": "Jameswesore",
+        "verified": false
+      }
+    ]
+  }
+}

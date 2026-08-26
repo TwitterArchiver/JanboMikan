@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037127455895674883"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2038934339959013656",
+    "created_at": "2026-03-31T11:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038934339959013656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IAbPYWGEoi",
+          "end": 125,
+          "expanded_url": "https://x.com/JanboMikan/status/2038934339959013656/photo/1",
+          "media_key": "3_2037127455895674883",
+          "start": 102,
+          "url": "https://t.co/IAbPYWGEoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038934339959013656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去食堂买早餐。\n看见今天的灌汤包和烤肠还不错，再配点喝的，完美。\n一开口嘴瓢了，指着豆浆，对着食堂阿姨脱口而出：「我要这个灌肠。」\n阿姨手里那把不锈钢长柄勺瞬间停在半空，浓白色的豆浆滴答滴答地落回锅里。 https://t.co/IAbPYWGEoi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2037127455895674883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVUoMLbYAMn1WV.jpg",
+        "width": 3567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037127455895674883"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2038934339959013656",
+        "created_at": "2026-03-31T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038934339959013656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAbPYWGEoi",
+              "end": 125,
+              "expanded_url": "https://x.com/JanboMikan/status/2038934339959013656/photo/1",
+              "media_key": "3_2037127455895674883",
+              "start": 102,
+              "url": "https://t.co/IAbPYWGEoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038934339959013656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去食堂买早餐。\n看见今天的灌汤包和烤肠还不错，再配点喝的，完美。\n一开口嘴瓢了，指着豆浆，对着食堂阿姨脱口而出：「我要这个灌肠。」\n阿姨手里那把不锈钢长柄勺瞬间停在半空，浓白色的豆浆滴答滴答地落回锅里。 https://t.co/IAbPYWGEoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9773,
+          "following_count": 423,
+          "like_count": 13740,
+          "listed_count": 38,
+          "media_count": 200,
+          "tweet_count": 7085
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008856136850743680",
+    "created_at": "2026-01-08T00:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T01:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009054310471225364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1405494464987074565",
+          "start": 0,
+          "username": "Leo19186248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009054310471225364",
+    "in_reply_to_user_id": "1405494464987074565",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009044823748252037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leo19186248 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2009044821680476160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-GPnvYaUAAJGoE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-08T00:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009054310471225364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1405494464987074565",
+              "start": 0,
+              "username": "Leo19186248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009054310471225364",
+        "in_reply_to_user_id": "1405494464987074565",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009044823748252037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leo19186248 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009044821680476160"
+          ]
+        },
+        "author_id": "1405494464987074565",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-07T23:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009044823748252037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFzKDWXX1R",
+              "end": 46,
+              "expanded_url": "https://x.com/Leo19186248/status/2009044823748252037/photo/1",
+              "media_key": "3_2009044821680476160",
+              "start": 23,
+              "url": "https://t.co/tFzKDWXX1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009044823748252037",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008856136850743680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 怎麼又有我的事啊（惱 https://t.co/tFzKDWXX1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 249,
+          "like_count": 5241,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 2520
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-17T11:56:17.000Z",
+        "description": "Pixiv:https://t.co/yXUfn793dE\nIG:https://t.co/IeKuKqTqOJ\n\n一個喜歡軍裝的路人甲\n\nDead Beats一個",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/31723306",
+                "end": 29,
+                "expanded_url": "http://pixiv.net/users/31723306",
+                "start": 6,
+                "url": "https://t.co/yXUfn793dE"
+              },
+              {
+                "display_url": "instagram.com/thisisleo010?i…",
+                "end": 56,
+                "expanded_url": "https://www.instagram.com/thisisleo010?igsh=ZXVraDViYXA0Z3Rt",
+                "start": 33,
+                "url": "https://t.co/IeKuKqTqOJ"
+              }
+            ]
+          }
+        },
+        "id": "1405494464987074565",
+        "location": "台中市, 台灣",
+        "name": "🇹🇼🇹🇼刀槍的繪畫帳🇹🇼🇹🇼",
+        "pinned_tweet_id": "1903450760303747266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929721633113362433/lud4Zd1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1921,
+          "like_count": 76452,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 1236
+        },
+        "username": "Leo19186248",
+        "verified": false
+      }
+    ]
+  }
+}

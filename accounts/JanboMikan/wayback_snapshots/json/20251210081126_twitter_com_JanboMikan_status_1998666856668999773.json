@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998201802635055277",
+    "created_at": "2025-12-10T08:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998666856668999773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1531882275591180288",
+          "start": 0,
+          "username": "dogdog461892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998666856668999773",
+    "in_reply_to_user_id": "1531882275591180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998201802635055277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogdog461892 边框好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1799,
+        "media_key": "3_1998201793353043968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7sJ8bJbUAA-Us9.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998201802635055277",
+        "created_at": "2025-12-10T08:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998666856668999773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1531882275591180288",
+              "start": 0,
+              "username": "dogdog461892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998666856668999773",
+        "in_reply_to_user_id": "1531882275591180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998201802635055277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogdog461892 边框好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998201793353043968"
+          ]
+        },
+        "author_id": "1531882275591180288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1998201802635055277",
+        "created_at": "2025-12-09T01:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T02:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998201802635055277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "cosplay"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "男娘"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IflSe99Jji",
+              "end": 84,
+              "expanded_url": "https://x.com/dogdog461892/status/1998201802635055277/photo/1",
+              "media_key": "3_1998201793353043968",
+              "start": 61,
+              "url": "https://t.co/IflSe99Jji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998201802635055277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6686,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "还要我说多少遍？\n你的青春由我last炫来无限复活！\n惹啊！（重新发一下）\n#cosplay #男娘 #明日方舟 #伪娘 https://t.co/IflSe99Jji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 190,
+          "like_count": 2809,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T06:16:27.000Z",
+        "description": "抽象低俗推 炫狗电棍激推                                爱玩抽象的宝宝们你们好呀 可以扩我呜呜 q2206622858",
+        "id": "1531882275591180288",
+        "location": "福州十六中",
+        "name": "犬犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960389730816001/87xS6zNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 360,
+          "like_count": 689,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 169
+        },
+        "username": "dogdog461892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2017915836946588096",
+    "created_at": "2026-02-02T04:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T05:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018180712739021161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1386539491054088198",
+          "start": 0,
+          "username": "yoooyoyooy"
+        },
+        {
+          "end": 24,
+          "id": "1510601261019631618",
+          "start": 12,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018180712739021161",
+    "in_reply_to_user_id": "1386539491054088198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018178586889613587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoooyoyooy @kujirarara_ 踢你鼻子🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2017915836946588096",
+        "created_at": "2026-02-02T04:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018180712739021161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1386539491054088198",
+              "start": 0,
+              "username": "yoooyoyooy"
+            },
+            {
+              "end": 24,
+              "id": "1510601261019631618",
+              "start": 12,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018180712739021161",
+        "in_reply_to_user_id": "1386539491054088198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018178586889613587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoooyoyooy @kujirarara_ 踢你鼻子🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386539491054088198",
+        "conversation_id": "2017915836946588096",
+        "created_at": "2026-02-02T04:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018178586889613587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 24,
+              "id": "1976995735532138496",
+              "start": 13,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018178586889613587",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018175643406799090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ @JanboMikan 你不许舔，让我舔🙂‍↔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 293,
+          "like_count": 7354,
+          "listed_count": 21,
+          "media_count": 121,
+          "tweet_count": 3742
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜CN/EN/JP｜请在置顶查看自我介绍",
+        "id": "1386539491054088198",
+        "name": "佑",
+        "pinned_tweet_id": "1985683100014428393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 796,
+          "like_count": 216863,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 4249
+        },
+        "username": "yoooyoyooy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 平面设计/轨道交通/城市规划/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009930561843040256/slqpkRic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 516,
+          "like_count": 91961,
+          "listed_count": 17,
+          "media_count": 1308,
+          "tweet_count": 5926
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

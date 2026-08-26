@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076661619795673088"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2078072233990279383",
+    "created_at": "2026-07-17T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078072233990279383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bFo31auMXh",
+          "end": 128,
+          "expanded_url": "https://x.com/JanboMikan/status/2078072233990279383/photo/1",
+          "media_key": "3_2076661619795673088",
+          "start": 105,
+          "url": "https://t.co/bFo31auMXh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078072233990279383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男娘群里聊天。\n群友A：我悟了！治好gd的终极方法就是找个直男狠狠操自己一顿，我现在感觉自己比顺女还顺女。\n（两天后）\n群友A：崩溃了，他是个男同。他夸我身材好不是因为我像女的，是因为我的肩膀比他前男友还宽。 https://t.co/bFo31auMXh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2076661619795673088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHIvZabwAAvfNZ.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076661619795673088"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2078072233990279383",
+        "created_at": "2026-07-17T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078072233990279383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFo31auMXh",
+              "end": 128,
+              "expanded_url": "https://x.com/JanboMikan/status/2078072233990279383/photo/1",
+              "media_key": "3_2076661619795673088",
+              "start": 105,
+              "url": "https://t.co/bFo31auMXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072233990279383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男娘群里聊天。\n群友A：我悟了！治好gd的终极方法就是找个直男狠狠操自己一顿，我现在感觉自己比顺女还顺女。\n（两天后）\n群友A：崩溃了，他是个男同。他夸我身材好不是因为我像女的，是因为我的肩膀比他前男友还宽。 https://t.co/bFo31auMXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15482,
+          "following_count": 599,
+          "like_count": 21112,
+          "listed_count": 52,
+          "media_count": 360,
+          "tweet_count": 11172
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      }
+    ]
+  }
+}

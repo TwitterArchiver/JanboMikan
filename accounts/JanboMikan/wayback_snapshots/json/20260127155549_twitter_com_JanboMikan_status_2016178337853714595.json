@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015841707439579627",
+    "created_at": "2026-01-27T15:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016178337853714595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990582127478599680",
+          "start": 0,
+          "username": "Cokise0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016178337853714595",
+    "in_reply_to_user_id": "1990582127478599680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015841707439579627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cokise0 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015841699000668160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_m1WEha0AABu4h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015841707439579627",
+        "created_at": "2026-01-27T15:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016178337853714595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990582127478599680",
+              "start": 0,
+              "username": "Cokise0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016178337853714595",
+        "in_reply_to_user_id": "1990582127478599680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015841707439579627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cokise0 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015841699000668160"
+          ]
+        },
+        "author_id": "1990582127478599680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2015841707439579627",
+        "created_at": "2026-01-26T17:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015841707439579627"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "pjsk"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "望月穗波"
+            },
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlfchV4Y5k",
+              "end": 44,
+              "expanded_url": "https://x.com/Cokise0/status/2015841707439579627/photo/1",
+              "media_key": "3_2015841699000668160",
+              "start": 21,
+              "url": "https://t.co/YlfchV4Y5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015841707439579627",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#pjsk #望月穗波 #cosplay https://t.co/YlfchV4Y5k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4353,
+          "following_count": 284,
+          "like_count": 6966,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 3516
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T00:45:44.000Z",
+        "description": "男的，纯发疯 不是纯绿 也不是纯黄，门槛随机投喂，好友只加漂亮女生或男生 没有脸照跑来私信默认丑逼",
+        "id": "1990582127478599680",
+        "name": "我想要15块钱",
+        "pinned_tweet_id": "2012652835150725214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013490400627937282/aBqrm52t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 21,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 91
+        },
+        "username": "Cokise0",
+        "verified": false
+      }
+    ]
+  }
+}

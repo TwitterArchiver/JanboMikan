@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033351772073607220",
+    "created_at": "2026-03-16T03:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T04:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033387757092118698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1477934592795414530",
+          "start": 0,
+          "username": "Raven_Rere"
+        },
+        {
+          "end": 21,
+          "id": "1812363069487742976",
+          "start": 12,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033387757092118698",
+    "in_reply_to_user_id": "1477934592795414530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033354532709879919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raven_Rere @mingji_A 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-16T03:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033387757092118698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1477934592795414530",
+              "start": 0,
+              "username": "Raven_Rere"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033387757092118698",
+        "in_reply_to_user_id": "1477934592795414530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033354532709879919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raven_Rere @mingji_A 天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477934592795414530",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-16T01:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T02:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033354532709879919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033354532709879919",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033351772073607220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 捅宵说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 403,
+          "like_count": 11637,
+          "listed_count": 33,
+          "media_count": 177,
+          "tweet_count": 6232
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T09:27:31.000Z",
+        "description": "仿生魅魔会梦见电子菩萨吗♠️ 分身@Raven_Rerebabe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "Raven_Rerebabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ravencat",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ravencat",
+                "start": 0,
+                "url": "https://t.co/oJAH0Ym4GQ"
+              }
+            ]
+          }
+        },
+        "id": "1477934592795414530",
+        "location": "Shanghai",
+        "name": "RavenCat鸦猫🐦‍⬛🐈‍⬛",
+        "pinned_tweet_id": "2013585134818337187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028160062712336384/rAwKO7Hc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 383,
+          "like_count": 1944,
+          "listed_count": 3,
+          "media_count": 545,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/oJAH0Ym4GQ",
+        "username": "Raven_Rere",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 1778,
+          "like_count": 72389,
+          "listed_count": 9,
+          "media_count": 118,
+          "tweet_count": 14044
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

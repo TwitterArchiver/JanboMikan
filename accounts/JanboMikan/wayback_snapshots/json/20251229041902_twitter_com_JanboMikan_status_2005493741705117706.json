@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2005325109108846701",
+    "created_at": "2025-12-29T04:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T05:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005493741705117706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 22,
+          "id": "1510601261019631618",
+          "start": 10,
+          "username": "kujirarara_"
+        },
+        {
+          "end": 31,
+          "id": "1507794054511497219",
+          "start": 23,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005493741705117706",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005325109108846701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @kujirarara_ @Miyu__Z 好看！小蛋糕！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005325102200815617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RYjkfagAEsSwJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005325102192414720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RYjkdaUAA881m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2005325109108846701",
+        "created_at": "2025-12-29T04:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005493741705117706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 22,
+              "id": "1510601261019631618",
+              "start": 10,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 31,
+              "id": "1507794054511497219",
+              "start": 23,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005493741705117706",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005325109108846701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @kujirarara_ @Miyu__Z 好看！小蛋糕！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005325102200815617",
+            "3_2005325102192414720"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2005325109108846701",
+        "created_at": "2025-12-28T17:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005325109108846701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1510601261019631618",
+              "start": 3,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 27,
+              "id": "1507794054511497219",
+              "start": 19,
+              "username": "Miyu__Z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lO4de3YYR",
+              "end": 64,
+              "expanded_url": "https://x.com/Ted_yeet/status/2005325109108846701/photo/1",
+              "media_key": "3_2005325102200815617",
+              "start": 41,
+              "url": "https://t.co/5lO4de3YYR"
+            },
+            {
+              "display_url": "pic.x.com/5lO4de3YYR",
+              "end": 64,
+              "expanded_url": "https://x.com/Ted_yeet/status/2005325109108846701/photo/1",
+              "media_key": "3_2005325102192414720",
+              "start": 41,
+              "url": "https://t.co/5lO4de3YYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005325109108846701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1831,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在蓝鲸@kujirarara_ 和腐竹@Miyu__Z 的轮番安利下购入同款蕾服 https://t.co/5lO4de3YYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 222,
+          "like_count": 4405,
+          "listed_count": 9,
+          "media_count": 87,
+          "tweet_count": 2061
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "还活着",
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998252928256331777/KzMIHBb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 1489,
+          "like_count": 36953,
+          "listed_count": 11,
+          "media_count": 374,
+          "tweet_count": 7596
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 平面设计/轨道交通/城市规划/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004526916343390208/iIF13MNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 511,
+          "like_count": 89626,
+          "listed_count": 16,
+          "media_count": 1292,
+          "tweet_count": 5740
+        },
+        "username": "kujirarara_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "争取成为人类的日常|| 里账，放眼熟的推友: @fuzhu514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "fuzhu514"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "我是顺直郭楠（",
+        "name": "腐竹喵",
+        "pinned_tweet_id": "1999198862008025535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999413903890219013/lR3UvdSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 388,
+          "like_count": 27235,
+          "listed_count": 9,
+          "media_count": 183,
+          "tweet_count": 5364
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

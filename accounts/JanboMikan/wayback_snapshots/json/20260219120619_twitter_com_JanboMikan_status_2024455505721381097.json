@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024076442603299212",
+    "created_at": "2026-02-19T12:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T13:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024455505721381097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752569012012363776",
+          "start": 0,
+          "username": "queue_prompt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024455505721381097",
+    "in_reply_to_user_id": "1752569012012363776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024450284420988945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queue_prompt 这个穿法很奇特！😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024076442603299212",
+        "created_at": "2026-02-19T12:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024455505721381097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752569012012363776",
+              "start": 0,
+              "username": "queue_prompt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024455505721381097",
+        "in_reply_to_user_id": "1752569012012363776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024450284420988945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queue_prompt 这个穿法很奇特！😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752569012012363776",
+        "conversation_id": "2024076442603299212",
+        "created_at": "2026-02-19T11:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024450284420988945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024450284420988945",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024076442603299212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我之前不小心买了s码的jk穿不下，然后某同学发现裙子套到脖子上有种侦探的感觉（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5654,
+          "following_count": 332,
+          "like_count": 9186,
+          "listed_count": 27,
+          "media_count": 147,
+          "tweet_count": 4775
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T05:46:59.000Z",
+        "description": "",
+        "id": "1752569012012363776",
+        "name": "queue_prompt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016811635126784005/lksQ5Rjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 80,
+          "like_count": 9749,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 2540
+        },
+        "username": "queue_prompt",
+        "verified": false
+      }
+    ]
+  }
+}

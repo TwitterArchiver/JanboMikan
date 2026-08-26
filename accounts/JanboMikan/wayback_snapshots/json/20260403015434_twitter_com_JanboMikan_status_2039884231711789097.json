@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2039874485831311794",
+    "created_at": "2026-04-03T01:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039884231711789097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999034817514807296",
+          "start": 0,
+          "username": "Kirara_Kazari"
+        },
+        {
+          "end": 24,
+          "id": "1812363069487742976",
+          "start": 15,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039884231711789097",
+    "in_reply_to_user_id": "1999034817514807296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039883983694295309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Kazari @mingji_A 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2039874485831311794",
+        "created_at": "2026-04-03T01:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039884231711789097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999034817514807296",
+              "start": 0,
+              "username": "Kirara_Kazari"
+            },
+            {
+              "end": 24,
+              "id": "1812363069487742976",
+              "start": 15,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039884231711789097",
+        "in_reply_to_user_id": "1999034817514807296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039883983694295309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Kazari @mingji_A 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999034817514807296",
+        "conversation_id": "2039874485831311794",
+        "created_at": "2026-04-03T01:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039883983694295309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039883983694295309",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039874485831311794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 好美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9881,
+          "following_count": 426,
+          "like_count": 14039,
+          "listed_count": 39,
+          "media_count": 203,
+          "tweet_count": 7215
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:33:47.000Z",
+        "description": "愿我们重新起航。起飞吧，一起。|  osu 5 digit player | 前端小趴菜 |\nopen to everything. | 一代目:@Kirara_Miku 寻回中 | 欢迎新朋友老朋友互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Kirara_Miku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/TzQPM7boUW"
+              }
+            ]
+          }
+        },
+        "id": "1999034817514807296",
+        "location": "風莉の星",
+        "name": "雲母 風莉",
+        "pinned_tweet_id": "1999050355527839797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999034960959963137/ClOIp2wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 645,
+          "like_count": 30847,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/TzQPM7boUW",
+        "username": "Kirara_Kazari",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 2056,
+          "like_count": 84407,
+          "listed_count": 14,
+          "media_count": 141,
+          "tweet_count": 16175
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

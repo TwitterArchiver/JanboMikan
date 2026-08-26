@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058369840990359747",
+    "created_at": "2026-05-24T02:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058382290712223882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        },
+        {
+          "end": 23,
+          "id": "1812363069487742976",
+          "start": 14,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058382290712223882",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058370601723764945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina @mingji_A 我们清水的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058369840990359747",
+        "created_at": "2026-05-24T02:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058382290712223882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            },
+            {
+              "end": 23,
+              "id": "1812363069487742976",
+              "start": 14,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058382290712223882",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058370601723764945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina @mingji_A 我们清水的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "933563089106083840",
+        "conversation_id": "2058369840990359747",
+        "created_at": "2026-05-24T02:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058370601723764945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058370601723764945",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058369840990359747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 又跟铭酱做了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13162,
+          "following_count": 514,
+          "like_count": 18014,
+          "listed_count": 45,
+          "media_count": 285,
+          "tweet_count": 9379
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男・Peking出身//Aya記録//一般都内会社員//フォロバ気分//不首先不礼貌//Pharmacy・Org Synth🧪\n避難所 @Ayn_kitkia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "Ayn_kitkia"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "東京 港区",
+        "name": "Ayano🥛",
+        "pinned_tweet_id": "2039187683206213651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043838487275962368/b8ieql-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12490,
+          "following_count": 564,
+          "like_count": 11496,
+          "listed_count": 56,
+          "media_count": 238,
+          "tweet_count": 8035
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 2549,
+          "like_count": 94077,
+          "listed_count": 22,
+          "media_count": 199,
+          "tweet_count": 20724
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

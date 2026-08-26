@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029512251175002275",
+    "created_at": "2026-03-05T12:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T13:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029536120464458022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1854099041396899840",
+          "start": 0,
+          "username": "4698pjxbs"
+        },
+        {
+          "end": 23,
+          "id": "1643877169754521601",
+          "start": 11,
+          "username": "tornq147194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029536120464458022",
+    "in_reply_to_user_id": "1854099041396899840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029531807801114788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4698pjxbs @tornq147194 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029512251175002275",
+        "created_at": "2026-03-05T12:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029536120464458022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1854099041396899840",
+              "start": 0,
+              "username": "4698pjxbs"
+            },
+            {
+              "end": 23,
+              "id": "1643877169754521601",
+              "start": 11,
+              "username": "tornq147194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029536120464458022",
+        "in_reply_to_user_id": "1854099041396899840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029531807801114788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4698pjxbs @tornq147194 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "conversation_id": "2029512251175002275",
+        "created_at": "2026-03-05T12:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029531807801114788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 24,
+              "id": "1643877169754521601",
+              "start": 12,
+              "username": "tornq147194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029531807801114788",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029512251175002275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @tornq147194 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7246,
+          "following_count": 386,
+          "like_count": 10655,
+          "listed_count": 33,
+          "media_count": 165,
+          "tweet_count": 5634
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "🚪114514",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇺🇦",
+        "pinned_tweet_id": "1907479132423757864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996935239063801856/TQyVEoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 835,
+          "like_count": 10142,
+          "listed_count": 11,
+          "media_count": 172,
+          "tweet_count": 5941
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T07:24:06.000Z",
+        "description": "一个普通的历史爱好者，专注于中日朝三国历史研究。中国史最近研究集中在先秦史，日本史现在集中在藤原道长时期的庄园和关白摄政制度。朝鲜史现在围绕太祖王建电视剧（弓裔太有乐子了）。讨厌网络逆天跨性别。",
+        "id": "1643877169754521601",
+        "name": "陶仁齐",
+        "pinned_tweet_id": "1901194127473324359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968004631035904/rBKb5LnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 249,
+          "like_count": 4801,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 3294
+        },
+        "username": "tornq147194",
+        "verified": false
+      }
+    ]
+  }
+}

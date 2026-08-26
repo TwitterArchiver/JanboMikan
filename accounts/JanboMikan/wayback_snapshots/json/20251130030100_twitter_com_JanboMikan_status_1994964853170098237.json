@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1994964853170098237",
+    "created_at": "2025-11-30T03:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994964853170098237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1140709394755149826",
+          "start": 8,
+          "username": "Kiki1358_Pe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/JanboMikan/status/1985913503795069096",
+          "start": 100,
+          "url": "https://t.co/hW3aWbTx9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994964853170098237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985913503795069096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚和高中同学 @Kiki1358_Pe 打FaceTime，同时帮对方修了两个小时的漫展场照（屏幕分享，Lr现场教学...）。\n报酬是转我的一条推。\n我人真是太好了😇。\n\n下次要让对面用身体支付。 https://t.co/hW3aWbTx9C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1994964853170098237",
+        "created_at": "2025-11-30T03:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994964853170098237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1140709394755149826",
+              "start": 8,
+              "username": "Kiki1358_Pe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1985913503795069096",
+              "start": 100,
+              "url": "https://t.co/hW3aWbTx9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994964853170098237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985913503795069096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚和高中同学 @Kiki1358_Pe 打FaceTime，同时帮对方修了两个小时的漫展场照（屏幕分享，Lr现场教学...）。\n报酬是转我的一条推。\n我人真是太好了😇。\n\n下次要让对面用身体支付。 https://t.co/hW3aWbTx9C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1985913503795069096",
+        "created_at": "2025-11-05T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985913503795069096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kiki1358_Pe/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Kiki1358_Pe/status/1985912869847011640",
+              "start": 56,
+              "url": "https://t.co/PfMfKx50EK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985913503795069096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2663,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985912869847011640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到高中同学也玩推特，还是同类。\n甚至是7kfo大V。\n有没有人能理解一下在推上互相认出对方时候的救赎感。😰 https://t.co/PfMfKx50EK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 156,
+          "like_count": 2149,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-17T19:54:47.000Z",
+        "description": "Femboi MtX🏳️‍⚧️Bi switch /190cm 60kg 16cm Φ4.55cm (Condom size 56mm+) 悉尼/福州/DM open cheers～ 推广请自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me",
+                "start": 0,
+                "url": "https://t.co/5p4GW8Zbn3"
+              }
+            ]
+          }
+        },
+        "id": "1140709394755149826",
+        "location": "福州 or Sydney",
+        "name": "kiki1358",
+        "pinned_tweet_id": "1961464196161482784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794951474478522368/SHT41wHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6977,
+          "following_count": 957,
+          "like_count": 3919,
+          "listed_count": 22,
+          "media_count": 57,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/5p4GW8Zbn3",
+        "username": "Kiki1358_Pe",
+        "verified": false
+      }
+    ]
+  }
+}

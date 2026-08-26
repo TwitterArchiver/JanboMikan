@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998044899326001384",
+    "created_at": "2025-12-10T08:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998663986989138191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933519697611493376",
+          "start": 0,
+          "username": "jylydcaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998663986989138191",
+    "in_reply_to_user_id": "1933519697611493376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998660697698480421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jylydcaw 我去，不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998044899326001384",
+        "created_at": "2025-12-10T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998663986989138191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933519697611493376",
+              "start": 0,
+              "username": "jylydcaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998663986989138191",
+        "in_reply_to_user_id": "1933519697611493376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998660697698480421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jylydcaw 我去，不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933519697611493376",
+        "conversation_id": "1998044899326001384",
+        "created_at": "2025-12-10T07:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998660697698480421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998660697698480421",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998044899326001384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 列外致歉，已经堕落了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 189,
+          "like_count": 2798,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T13:40:12.000Z",
+        "description": "CN JP EN ⭕/臭搞oc🎩/三流写手✒️/喜欢涩涩，XP超广♥️/吐槽役，抽象怪，乐子人/人工智能在读🎓/文学历史哲学狂热ing\n在这账号可能看到:1.咱感兴趣的内容 2.朋友推文 3.日常碎碎念 4.oc故事或短篇纯爱\n   遇君有幸：@HonmaSakura_3rd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "HonmaSakura_3rd"
+              }
+            ]
+          }
+        },
+        "id": "1933519697611493376",
+        "name": "ジャンユアン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995673705893285888/abJ2SO4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 80,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "jylydcaw",
+        "verified": false
+      }
+    ]
+  }
+}

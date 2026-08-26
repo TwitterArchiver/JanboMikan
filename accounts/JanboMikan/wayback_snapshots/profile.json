@@ -1,0 +1,20 @@
+{
+  "name": "ジャンボ蜜柑",
+  "username": "@JanboMikan",
+  "bio": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+  "location": "深圳(全广随机出现)/珠海/福州",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 156,
+        "start": 144,
+        "username": "TainiiMikan"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg"
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062127154205508069",
+    "created_at": "2026-06-04T00:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062328855713730737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052312573727686656",
+          "start": 0,
+          "username": "20061230wanning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062328855713730737",
+    "in_reply_to_user_id": "2052312573727686656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062213930672619530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20061230wanning 安检小哥见多识广"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062127154205508069",
+        "created_at": "2026-06-04T00:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062328855713730737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052312573727686656",
+              "start": 0,
+              "username": "20061230wanning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062328855713730737",
+        "in_reply_to_user_id": "2052312573727686656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062213930672619530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20061230wanning 安检小哥见多识广"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052312573727686656",
+        "conversation_id": "2062127154205508069",
+        "created_at": "2026-06-03T16:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062213930672619530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062213930672619530",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062127154205508069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 有一次过安检 我巨大的旅行包里面装了假寄吧和润滑油 安检小哥哥拦住我说液体不让带 让我拿出来 我一开始还没有反应过来是什么 然后小哥直接说“就是你玩具旁边的那个” 我：……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13899,
+          "following_count": 529,
+          "like_count": 18777,
+          "listed_count": 47,
+          "media_count": 305,
+          "tweet_count": 9880
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:00:39.000Z",
+        "description": "",
+        "id": "2052312573727686656",
+        "name": "婉凝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053350669046951936/3A7bT1qW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 59,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "20061230wanning",
+        "verified": false
+      }
+    ]
+  }
+}

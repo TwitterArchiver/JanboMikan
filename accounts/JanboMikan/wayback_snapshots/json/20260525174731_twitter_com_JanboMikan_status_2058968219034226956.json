@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058865664916377928",
+    "created_at": "2026-05-25T17:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058968219034226956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1469665357908824064",
+          "start": 0,
+          "username": "Takagi_0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058968219034226956",
+    "in_reply_to_user_id": "1469665357908824064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058867049829687803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takagi_0620 这是一张编制的大网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058865664916377928",
+        "created_at": "2026-05-25T17:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058968219034226956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469665357908824064",
+              "start": 0,
+              "username": "Takagi_0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058968219034226956",
+        "in_reply_to_user_id": "1469665357908824064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058867049829687803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takagi_0620 这是一张编制的大网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469665357908824064",
+        "conversation_id": "2058865664916377928",
+        "created_at": "2026-05-25T11:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058867049829687803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058867049829687803",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058865664916377928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 自习室里的所有人：你也不想这件事传出去吧😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13264,
+          "following_count": 522,
+          "like_count": 18152,
+          "listed_count": 45,
+          "media_count": 289,
+          "tweet_count": 9486
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T13:48:41.000Z",
+        "description": "是一只文学少女",
+        "id": "1469665357908824064",
+        "location": "Union of Britain ",
+        "name": "KaedeRen",
+        "pinned_tweet_id": "2058207553402888533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058120950688907264/YQRDzsNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18582,
+          "following_count": 375,
+          "like_count": 11852,
+          "listed_count": 19,
+          "media_count": 57,
+          "tweet_count": 1047
+        },
+        "username": "Takagi_0620",
+        "verified": false
+      }
+    ]
+  }
+}

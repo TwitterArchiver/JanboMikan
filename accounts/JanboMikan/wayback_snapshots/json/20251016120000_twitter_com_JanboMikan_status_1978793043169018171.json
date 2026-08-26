@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978732813160693760",
+        "3_1978732813395599360"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978793043169018171",
+    "created_at": "2025-10-16T12:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T13:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978793043169018171"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "男娘"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "伪娘"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "水手服"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "白丝"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "女装"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4OVOuU3z5p",
+          "end": 74,
+          "expanded_url": "https://x.com/JanboMikan/status/1978793043169018171/photo/1",
+          "media_key": "3_1978732813160693760",
+          "start": 51,
+          "url": "https://t.co/4OVOuU3z5p"
+        },
+        {
+          "display_url": "pic.x.com/4OVOuU3z5p",
+          "end": 74,
+          "expanded_url": "https://x.com/JanboMikan/status/1978793043169018171/photo/1",
+          "media_key": "3_1978732813395599360",
+          "start": 51,
+          "url": "https://t.co/4OVOuU3z5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978793043169018171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "室友半夜不睡觉在床上开小灯，是在干什么呢......？？\n\n#男娘 #伪娘 #水手服 #白丝 #女装 https://t.co/4OVOuU3z5p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1978732813160693760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XfAoHaQAAfssv.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1978732813395599360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XfAo_aoAAWXBN.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978732813160693760",
+            "3_1978732813395599360"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978793043169018171",
+        "created_at": "2025-10-16T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978793043169018171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "伪娘"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "水手服"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "白丝"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OVOuU3z5p",
+              "end": 74,
+              "expanded_url": "https://x.com/JanboMikan/status/1978793043169018171/photo/1",
+              "media_key": "3_1978732813160693760",
+              "start": 51,
+              "url": "https://t.co/4OVOuU3z5p"
+            },
+            {
+              "display_url": "pic.x.com/4OVOuU3z5p",
+              "end": 74,
+              "expanded_url": "https://x.com/JanboMikan/status/1978793043169018171/photo/1",
+              "media_key": "3_1978732813395599360",
+              "start": 51,
+              "url": "https://t.co/4OVOuU3z5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978793043169018171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "室友半夜不睡觉在床上开小灯，是在干什么呢......？？\n\n#男娘 #伪娘 #水手服 #白丝 #女装 https://t.co/4OVOuU3z5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 62,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

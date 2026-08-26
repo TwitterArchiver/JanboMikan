@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1977668171286126730",
+    "created_at": "2025-10-14T13:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T14:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978095820617519305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649024955047378944",
+          "start": 0,
+          "username": "tachibana_Neco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978095820617519305",
+    "in_reply_to_user_id": "1649024955047378944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977668171286126730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tachibana_Neco 姐姐夹我脸....！！？🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977668167804801025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IWuHGaUAEtzyY.jpg",
+        "width": 1407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1977668171286126730",
+        "created_at": "2025-10-14T13:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T14:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978095820617519305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649024955047378944",
+              "start": 0,
+              "username": "tachibana_Neco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978095820617519305",
+        "in_reply_to_user_id": "1649024955047378944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977668171286126730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tachibana_Neco 姐姐夹我脸....！！？🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977668167804801025"
+          ]
+        },
+        "author_id": "1649024955047378944",
+        "conversation_id": "1977668171286126730",
+        "created_at": "2025-10-13T09:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977668171286126730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgvMOShRCO",
+              "end": 32,
+              "expanded_url": "https://x.com/tachibana_Neco/status/1977668171286126730/photo/1",
+              "media_key": "3_1977668167804801025",
+              "start": 9,
+              "url": "https://t.co/EgvMOShRCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977668171286126730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6112,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "呜喵喵？ #白丝 https://t.co/EgvMOShRCO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T12:19:28.000Z",
+        "description": "meow~ 喜欢音游/不线下/欢迎私信",
+        "id": "1649024955047378944",
+        "location": "樱花小茶馆",
+        "name": "樱茶",
+        "pinned_tweet_id": "1955246436339351741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649025031715033089/ZAp5JTXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 816,
+          "like_count": 3832,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 2823
+        },
+        "username": "tachibana_Neco",
+        "verified": false
+      }
+    ]
+  }
+}

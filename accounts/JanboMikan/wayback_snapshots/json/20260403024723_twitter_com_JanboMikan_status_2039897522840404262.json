@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2039897522840404262",
+    "created_at": "2026-04-03T02:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039897522840404262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039897522840404262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039659109742793135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 去猫咖千万别穿薄运动裤。\n胖橘猫趴我裆部踩，踩了两下它大概觉得脚感太硬，不知怎的爪子猛地一抠。\n指甲尖穿破布料，死死卡进了◯◯锁正前方的孔里。\n拔不出来，它急得往外狠狠一拽。\n我痛得眼前发黑，全身冷汗僵死在沙发上。\n现在问题来了，对面全是人，我该…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2806,
+        "media_key": "3_2038791993422434304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEs-hBra0AAegat.jpg",
+        "width": 3605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2039897522840404262",
+        "created_at": "2026-04-03T02:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039897522840404262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039897522840404262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039659109742793135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 去猫咖千万别穿薄运动裤。\n胖橘猫趴我裆部踩，踩了两下它大概觉得脚感太硬，不知怎的爪子猛地一抠。\n指甲尖穿破布料，死死卡进了◯◯锁正前方的孔里。\n拔不出来，它急得往外狠狠一拽。\n我痛得眼前发黑，全身冷汗僵死在沙发上。\n现在问题来了，对面全是人，我该…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038791993422434304"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2039659109742793135",
+        "created_at": "2026-04-02T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039659109742793135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpP8rWuh4g",
+              "end": 160,
+              "expanded_url": "https://x.com/JanboMikan/status/2039659109742793135/photo/1",
+              "media_key": "3_2038791993422434304",
+              "start": 137,
+              "url": "https://t.co/PpP8rWuh4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039659109742793135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 22298,
+          "like_count": 271,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "去猫咖千万别穿薄运动裤。\n胖橘猫趴我裆部踩，踩了两下它大概觉得脚感太硬，不知怎的爪子猛地一抠。\n指甲尖穿破布料，死死卡进了◯◯锁正前方的孔里。\n拔不出来，它急得往外狠狠一拽。\n我痛得眼前发黑，全身冷汗僵死在沙发上。\n现在问题来了，对面全是人，我该怎么把这猫从我裆上摘下来？ https://t.co/PpP8rWuh4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9883,
+          "following_count": 426,
+          "like_count": 14050,
+          "listed_count": 39,
+          "media_count": 203,
+          "tweet_count": 7222
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

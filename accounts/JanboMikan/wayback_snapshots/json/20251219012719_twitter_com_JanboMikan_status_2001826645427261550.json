@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001608516382183832",
+    "created_at": "2025-12-19T01:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T02:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001826645427261550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826867962244202498",
+          "start": 0,
+          "username": "ayanamiCww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001826645427261550",
+    "in_reply_to_user_id": "1826867962244202498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001814894010884377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanamiCww 宝宝也可爱！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001608516382183832",
+        "created_at": "2025-12-19T01:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001826645427261550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826867962244202498",
+              "start": 0,
+              "username": "ayanamiCww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001826645427261550",
+        "in_reply_to_user_id": "1826867962244202498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001814894010884377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanamiCww 宝宝也可爱！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826867962244202498",
+        "conversation_id": "2001608516382183832",
+        "created_at": "2025-12-19T00:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T01:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001814894010884377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001814894010884377",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001608516382183832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 214,
+          "like_count": 3683,
+          "listed_count": 9,
+          "media_count": 75,
+          "tweet_count": 1628
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:24:09.000Z",
+        "description": "男♂娘，广深出没,小号备用@ayay_203 重度恋足/捆绑拘束/tk/sp/sm   接产品测评/寄拍/视频定制/出原味\n加联系方式🚪50哦~\n有性瘾~私信会回，欢迎同好扩列!🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "ayay_203"
+              }
+            ]
+          }
+        },
+        "id": "1826867962244202498",
+        "location": "距离您5.3km",
+        "name": "C薇薇（求转推",
+        "pinned_tweet_id": "2000401411067236655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879108907970502657/YHqUDJjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7809,
+          "following_count": 1334,
+          "like_count": 9037,
+          "listed_count": 39,
+          "media_count": 28,
+          "tweet_count": 863
+        },
+        "username": "ayanamiCww",
+        "verified": false
+      }
+    ]
+  }
+}

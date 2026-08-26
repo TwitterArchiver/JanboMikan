@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2080246551415255220",
+    "created_at": "2026-07-23T15:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080317868634415383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080317868634415383",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080255753424920935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg nsfw了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2080246551415255220",
+        "created_at": "2026-07-23T15:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080317868634415383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080317868634415383",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080255753424920935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg nsfw了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758399635733798912",
+        "conversation_id": "2080246551415255220",
+        "created_at": "2026-07-23T11:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080255753424920935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080255753424920935",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080246551415255220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 看看免冠照👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15717,
+          "following_count": 606,
+          "like_count": 21351,
+          "listed_count": 52,
+          "media_count": 366,
+          "tweet_count": 11329
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "2048349307766812905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 511,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 13923,
+          "tweet_count": 21428
+        },
+        "url": "",
+        "username": "wdlyrg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036010190932418910",
+    "created_at": "2026-03-23T12:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036054943489225214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        },
+        {
+          "end": 24,
+          "id": "1621759778614812677",
+          "start": 14,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036054943489225214",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036054329048875176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing @maruko00o 我不是JK所以我不穿😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036010190932418910",
+        "created_at": "2026-03-23T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036054943489225214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            },
+            {
+              "end": 24,
+              "id": "1621759778614812677",
+              "start": 14,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036054943489225214",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036054329048875176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing @maruko00o 我不是JK所以我不穿😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527114974841012225",
+        "conversation_id": "2036010190932418910",
+        "created_at": "2026-03-23T12:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036054329048875176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1621759778614812677",
+              "start": 12,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036054329048875176",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036043080030470604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @maruko00o 那看看蜜柑宝宝的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9374,
+          "following_count": 414,
+          "like_count": 13036,
+          "listed_count": 37,
+          "media_count": 191,
+          "tweet_count": 6741
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫我小雨丨是清水 不涩涩丨注孤之人丨定焦战神丨键政禁止 看到就ban丨会按快门丨头壳是自设+特蕾西娅丨脾气很大丨Aquarius丨 INFP-T 4w5丨社恐丨可能友跨丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2020464992466657542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010763568497807360/FxMLCd-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 911,
+          "like_count": 5377,
+          "listed_count": 14,
+          "media_count": 197,
+          "tweet_count": 4961
+        },
+        "username": "Kiger_YuQing",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38630,
+          "following_count": 938,
+          "like_count": 23061,
+          "listed_count": 211,
+          "media_count": 954,
+          "tweet_count": 6133
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

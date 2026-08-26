@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2027693921678332237",
+    "created_at": "2026-02-28T13:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027730858757771674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4873941537",
+          "start": 0,
+          "username": "OOOMiku_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027730858757771674",
+    "in_reply_to_user_id": "4873941537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027693921678332237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OOOMiku_ ⭕是真的⭕吗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2027693819010129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPQyQNaoAATR7r.jpg",
+        "width": 3642
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2027693916192112640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPQ36PaAAAJB6G.jpg",
+        "width": 3642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2027693921678332237",
+        "created_at": "2026-02-28T13:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027730858757771674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4873941537",
+              "start": 0,
+              "username": "OOOMiku_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027730858757771674",
+        "in_reply_to_user_id": "4873941537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027693921678332237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OOOMiku_ ⭕是真的⭕吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027693819010129920",
+            "3_2027693916192112640"
+          ]
+        },
+        "author_id": "4873941537",
+        "conversation_id": "2027693921678332237",
+        "created_at": "2026-02-28T10:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027693921678332237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n09L4w0uVV",
+              "end": 25,
+              "expanded_url": "https://x.com/OOOMiku_/status/2027693921678332237/photo/1",
+              "media_key": "3_2027693819010129920",
+              "start": 2,
+              "url": "https://t.co/n09L4w0uVV"
+            },
+            {
+              "display_url": "pic.x.com/n09L4w0uVV",
+              "end": 25,
+              "expanded_url": "https://x.com/OOOMiku_/status/2027693921678332237/photo/1",
+              "media_key": "3_2027693916192112640",
+              "start": 2,
+              "url": "https://t.co/n09L4w0uVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027693921678332237",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 407,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "⭕ https://t.co/n09L4w0uVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7143,
+          "following_count": 375,
+          "like_count": 10235,
+          "listed_count": 31,
+          "media_count": 160,
+          "tweet_count": 5394
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-03T13:54:47.000Z",
+        "description": "可以叫我圈|♂|来推发点另一个我",
+        "id": "4873941537",
+        "location": "艾尔",
+        "name": "〇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990299679851270144/M7AJ2vv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 173,
+          "like_count": 2454,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 621
+        },
+        "username": "OOOMiku_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2022849575472763012",
+    "created_at": "2026-02-15T05:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022903095014101306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774477637534281728",
+          "start": 0,
+          "username": "GeimoGeimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022903095014101306",
+    "in_reply_to_user_id": "1774477637534281728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022849575472763012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeimoGeimo 😙🍗好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022849566224322561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKa9oTakAEDcwA.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2022849575472763012",
+        "created_at": "2026-02-15T05:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022903095014101306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774477637534281728",
+              "start": 0,
+              "username": "GeimoGeimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022903095014101306",
+        "in_reply_to_user_id": "1774477637534281728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022849575472763012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeimoGeimo 😙🍗好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022849566224322561"
+          ]
+        },
+        "author_id": "1774477637534281728",
+        "conversation_id": "2022849575472763012",
+        "created_at": "2026-02-15T01:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022849575472763012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3mDWfxM3o",
+              "end": 32,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2022849575472763012/photo/1",
+              "media_key": "3_2022849566224322561",
+              "start": 9,
+              "url": "https://t.co/u3mDWfxM3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022849575472763012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1361,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我的🥢腿🥰🥰 https://t.co/u3mDWfxM3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5447,
+          "following_count": 322,
+          "like_count": 8748,
+          "listed_count": 24,
+          "media_count": 141,
+          "tweet_count": 4511
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/臭打游戏的，随缘更新照片/偶尔发点画",
+        "id": "1774477637534281728",
+        "location": "东百读研🐶",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004756239209951232/hqctl2-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3234,
+          "following_count": 318,
+          "like_count": 9613,
+          "listed_count": 11,
+          "media_count": 36,
+          "tweet_count": 1257
+        },
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

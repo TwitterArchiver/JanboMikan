@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062449526280220919",
+    "created_at": "2026-06-04T09:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062467800015528279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1234123751072993281",
+          "start": 0,
+          "username": "Haruhi_Smith"
+        },
+        {
+          "end": 23,
+          "id": "1812363069487742976",
+          "start": 14,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062467800015528279",
+    "in_reply_to_user_id": "1234123751072993281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062453863001755743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruhi_Smith @mingji_A 这是我对厉害文案的夸赞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062449526280220919",
+        "created_at": "2026-06-04T09:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062467800015528279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1234123751072993281",
+              "start": 0,
+              "username": "Haruhi_Smith"
+            },
+            {
+              "end": 23,
+              "id": "1812363069487742976",
+              "start": 14,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062467800015528279",
+        "in_reply_to_user_id": "1234123751072993281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453863001755743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruhi_Smith @mingji_A 这是我对厉害文案的夸赞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234123751072993281",
+        "conversation_id": "2062449526280220919",
+        "created_at": "2026-06-04T08:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062453863001755743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062453863001755743",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062452443208896941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 你也有觉得逆天的时候啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13950,
+          "following_count": 531,
+          "like_count": 18815,
+          "listed_count": 47,
+          "media_count": 305,
+          "tweet_count": 9896
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T14:30:18.000Z",
+        "description": "transles / CS Grad, no longer looking for PhD / 不线下 /  https://t.co/JaeqbedOGN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/haruhi_smith",
+                "end": 78,
+                "expanded_url": "http://t.me/haruhi_smith",
+                "start": 55,
+                "url": "https://t.co/JaeqbedOGN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luvletter2333",
+                "end": 23,
+                "expanded_url": "https://github.com/luvletter2333",
+                "start": 0,
+                "url": "https://t.co/bUokPGYwoh"
+              }
+            ]
+          }
+        },
+        "id": "1234123751072993281",
+        "location": "兵库県立西宫北高等学校 SOS団",
+        "name": "Haruhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351750805020315649/99ZVLa23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 1168,
+          "like_count": 110954,
+          "listed_count": 9,
+          "media_count": 51,
+          "tweet_count": 2645
+        },
+        "url": "https://t.co/bUokPGYwoh",
+        "username": "Haruhi_Smith",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4436,
+          "following_count": 2590,
+          "like_count": 95093,
+          "listed_count": 25,
+          "media_count": 215,
+          "tweet_count": 21506
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

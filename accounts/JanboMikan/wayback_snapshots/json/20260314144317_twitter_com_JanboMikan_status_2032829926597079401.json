@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032411360022208636",
+    "created_at": "2026-03-14T14:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032829926597079401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1503063876606255104",
+          "start": 0,
+          "username": "NeaOkawa"
+        },
+        {
+          "end": 21,
+          "id": "1182505815082553344",
+          "start": 10,
+          "username": "AlanTse777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032829926597079401",
+    "in_reply_to_user_id": "1503063876606255104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032757688824901657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeaOkawa @AlanTse777 那很崩溃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032411360022208636",
+        "created_at": "2026-03-14T14:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032829926597079401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1503063876606255104",
+              "start": 0,
+              "username": "NeaOkawa"
+            },
+            {
+              "end": 21,
+              "id": "1182505815082553344",
+              "start": 10,
+              "username": "AlanTse777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032829926597079401",
+        "in_reply_to_user_id": "1503063876606255104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032757688824901657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeaOkawa @AlanTse777 那很崩溃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503063876606255104",
+        "conversation_id": "2032411360022208636",
+        "created_at": "2026-03-14T09:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032757688824901657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1182505815082553344",
+              "start": 12,
+              "username": "AlanTse777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032757688824901657",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032411360022208636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @AlanTse777 看完這推文後我的圖靈完備性正在崩潰（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8022,
+          "following_count": 399,
+          "like_count": 11419,
+          "listed_count": 33,
+          "media_count": 175,
+          "tweet_count": 6076
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T17:42:25.000Z",
+        "description": "廢文雜記。\n\n***アホ、昭和さいごの次元混沌***",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dklmrc.com",
+                "end": 23,
+                "expanded_url": "http://dklmrc.com",
+                "start": 0,
+                "url": "https://t.co/POSQps5XKu"
+              }
+            ]
+          }
+        },
+        "id": "1503063876606255104",
+        "location": "Hong Kong",
+        "name": "Nea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935965502326947845/Q1GsPJA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 41,
+          "like_count": 7946,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/POSQps5XKu",
+        "username": "NeaOkawa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T03:58:59.000Z",
+        "description": "一名愛整MEME圖，烤肉，鐘意香港及Vtuber的香港人 One Hongkonger who love MEME, Clipping, Vtuber &Hong Kong 歡迎各位投稿Vtuber直播精華！你肯投我就剪, 黃底黑字Icon是我的特色，不定期直播，請各位多多指教",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AlanTse777",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@AlanTse777",
+                "start": 0,
+                "url": "https://t.co/9RXi1eVyRq"
+              }
+            ]
+          }
+        },
+        "id": "1182505815082553344",
+        "name": "Alan Tse",
+        "pinned_tweet_id": "1568988400140812288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509924104945938436/Dc0wGDMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2813,
+          "following_count": 4780,
+          "like_count": 94713,
+          "listed_count": 9,
+          "media_count": 4138,
+          "tweet_count": 66628
+        },
+        "url": "https://t.co/9RXi1eVyRq",
+        "username": "AlanTse777",
+        "verified": false
+      }
+    ]
+  }
+}

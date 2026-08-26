@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2005857214339125749",
+    "created_at": "2025-12-31T13:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T14:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006359360927416440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1083759056337088512",
+          "start": 0,
+          "username": "CrazyBunnyDoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006359360927416440",
+    "in_reply_to_user_id": "1083759056337088512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005857214339125749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrazyBunnyDoll 兔老师永远年轻可爱哇！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2005857210186747904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y8gVNWUAADHtW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005857210178383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y8gVLWsAAiiEN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005857210258137088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y8gVeXoAAOEID.jpg",
+        "width": 1082
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005857210174169088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y8gVKWYAAU6uU.jpg",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2005857214339125749",
+        "created_at": "2025-12-31T13:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T14:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006359360927416440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1083759056337088512",
+              "start": 0,
+              "username": "CrazyBunnyDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006359360927416440",
+        "in_reply_to_user_id": "1083759056337088512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005857214339125749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrazyBunnyDoll 兔老师永远年轻可爱哇！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005857210186747904",
+            "3_2005857210178383872",
+            "3_2005857210258137088",
+            "3_2005857210174169088"
+          ]
+        },
+        "author_id": "1083759056337088512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2005857214339125749",
+        "created_at": "2025-12-30T04:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005857214339125749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "年终总结"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHk4WaL4fd",
+              "end": 111,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2005857214339125749/photo/1",
+              "media_key": "3_2005857210186747904",
+              "start": 88,
+              "url": "https://t.co/YHk4WaL4fd"
+            },
+            {
+              "display_url": "pic.x.com/YHk4WaL4fd",
+              "end": 111,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2005857214339125749/photo/1",
+              "media_key": "3_2005857210178383872",
+              "start": 88,
+              "url": "https://t.co/YHk4WaL4fd"
+            },
+            {
+              "display_url": "pic.x.com/YHk4WaL4fd",
+              "end": 111,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2005857214339125749/photo/1",
+              "media_key": "3_2005857210258137088",
+              "start": 88,
+              "url": "https://t.co/YHk4WaL4fd"
+            },
+            {
+              "display_url": "pic.x.com/YHk4WaL4fd",
+              "end": 111,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2005857214339125749/photo/1",
+              "media_key": "3_2005857210174169088",
+              "start": 88,
+              "url": "https://t.co/YHk4WaL4fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005857214339125749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3526,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "预祝大家2026新年快乐！\n\n这是一个来自奔四的Lolita那啥系双坑男孩子的年终总结～\n\n真是一个忙碌充实的2025年，希望2026年可以健健康康，一切顺利～\n\n#年终总结 https://t.co/YHk4WaL4fd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 229,
+          "like_count": 4610,
+          "listed_count": 10,
+          "media_count": 85,
+          "tweet_count": 2177
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T16:14:29.000Z",
+        "description": "INFJ-T / 日常咸鱼 / 沉迷lolita小裙子 / 贫穷让我沉迷加班 / 小透明，欢迎扩列 / 脸大如饼，越减越肥 / 照骗什么的都是假的 (￣∇￣) / 小红书：CrazyBunnyDoll",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/crazybunnydoll",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/crazybunnydoll",
+                "start": 0,
+                "url": "https://t.co/Fk377BXLOY"
+              }
+            ]
+          }
+        },
+        "id": "1083759056337088512",
+        "name": "疯兔",
+        "pinned_tweet_id": "1884464461735686247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997763325556654080/OU5H8JY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 245,
+          "like_count": 6919,
+          "listed_count": 21,
+          "media_count": 1105,
+          "tweet_count": 7819
+        },
+        "url": "https://t.co/Fk377BXLOY",
+        "username": "CrazyBunnyDoll",
+        "verified": false
+      }
+    ]
+  }
+}

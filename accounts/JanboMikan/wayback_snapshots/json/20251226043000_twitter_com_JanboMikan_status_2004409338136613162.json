@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2004357536389185928",
+    "created_at": "2025-12-26T04:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004409338136613162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004409338136613162",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004357536389185928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 发现了，马上超似😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_2004357522959065088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9DojC7bYAACQkb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004357522959093763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9DojC7b0AMxnSt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2004357536389185928",
+        "created_at": "2025-12-26T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004409338136613162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004409338136613162",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004357536389185928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 发现了，马上超似😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004357522959065088",
+            "3_2004357522959093763"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "conversation_id": "2004357536389185928",
+        "created_at": "2025-12-26T01:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T02:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004357536389185928"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "黑丝袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wr1PK43puF",
+              "end": 50,
+              "expanded_url": "https://x.com/lnjijiji193046/status/2004357536389185928/photo/1",
+              "media_key": "3_2004357522959065088",
+              "start": 27,
+              "url": "https://t.co/wr1PK43puF"
+            },
+            {
+              "display_url": "pic.x.com/wr1PK43puF",
+              "end": 50,
+              "expanded_url": "https://x.com/lnjijiji193046/status/2004357536389185928/photo/1",
+              "media_key": "3_2004357522959093763",
+              "start": 27,
+              "url": "https://t.co/wr1PK43puF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004357536389185928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小小的复活一下应该没人发现吧，嘻嘻\n#男娘 #黑丝袜 https://t.co/wr1PK43puF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 217,
+          "like_count": 4173,
+          "listed_count": 8,
+          "media_count": 83,
+          "tweet_count": 1934
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/没回信息是在忙喵/评论感兴趣的会互动/不约线下/有对象/同好欢迎贴贴❤️",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004031245542739973/ZVr2ZubO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 150,
+          "like_count": 5935,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 1428
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

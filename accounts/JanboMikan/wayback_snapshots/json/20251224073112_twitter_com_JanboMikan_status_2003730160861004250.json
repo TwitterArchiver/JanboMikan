@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2003719696504471652",
+    "created_at": "2025-12-24T07:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T08:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003730160861004250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        },
+        {
+          "end": 29,
+          "id": "1898086811727282176",
+          "start": 13,
+          "username": "LLdls7e3Na60100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003730160861004250",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003719696504471652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime @LLdls7e3Na60100 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003719687939723264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86kcKUakAAKiLr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003719688921186304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86kcN-agAAsnMq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003719692356308992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86kcaxaUAAiNOL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2003719696504471652",
+        "created_at": "2025-12-24T07:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003730160861004250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 29,
+              "id": "1898086811727282176",
+              "start": 13,
+              "username": "LLdls7e3Na60100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003730160861004250",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003719696504471652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @LLdls7e3Na60100 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003719687939723264",
+            "3_2003719688921186304",
+            "3_2003719692356308992"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2003719696504471652",
+        "created_at": "2025-12-24T06:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T07:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003719696504471652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtKPsFbhYY",
+              "end": 50,
+              "expanded_url": "https://x.com/realNyarime/status/2003719696504471652/photo/1",
+              "media_key": "3_2003719687939723264",
+              "start": 27,
+              "url": "https://t.co/rtKPsFbhYY"
+            },
+            {
+              "display_url": "pic.x.com/rtKPsFbhYY",
+              "end": 50,
+              "expanded_url": "https://x.com/realNyarime/status/2003719696504471652/photo/1",
+              "media_key": "3_2003719688921186304",
+              "start": 27,
+              "url": "https://t.co/rtKPsFbhYY"
+            },
+            {
+              "display_url": "pic.x.com/rtKPsFbhYY",
+              "end": 50,
+              "expanded_url": "https://x.com/realNyarime/status/2003719696504471652/photo/1",
+              "media_key": "3_2003719692356308992",
+              "start": 27,
+              "url": "https://t.co/rtKPsFbhYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003719696504471652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 505,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看，是4505(0)🥺\n展示小皮鞋什么的太羞耻了吧！ https://t.co/rtKPsFbhYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 215,
+          "like_count": 4036,
+          "listed_count": 8,
+          "media_count": 81,
+          "tweet_count": 1859
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | Photographer | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2001871885462835388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748210295873536/pIkwHPVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3327,
+          "following_count": 763,
+          "like_count": 8297,
+          "listed_count": 12,
+          "media_count": 510,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T19:02:38.000Z",
+        "description": "",
+        "id": "1898086811727282176",
+        "name": "Homura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990628779455332352/inEPajDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 45,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 67
+        },
+        "username": "LLdls7e3Na60100",
+        "verified": false
+      }
+    ]
+  }
+}

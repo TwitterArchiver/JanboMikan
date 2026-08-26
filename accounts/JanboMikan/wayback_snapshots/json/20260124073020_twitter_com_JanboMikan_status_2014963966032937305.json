@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2014654349989888209",
+    "created_at": "2026-01-24T07:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014963966032937305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565591413282476033",
+          "start": 0,
+          "username": "sakanadesu0449"
+        },
+        {
+          "end": 25,
+          "id": "1499442786453663745",
+          "start": 16,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014963966032937305",
+    "in_reply_to_user_id": "1565591413282476033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014962552669900822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanadesu0449 @Ted_yeet 这么R18G😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2014654349989888209",
+        "created_at": "2026-01-24T07:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014963966032937305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            },
+            {
+              "end": 25,
+              "id": "1499442786453663745",
+              "start": 16,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014963966032937305",
+        "in_reply_to_user_id": "1565591413282476033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014962552669900822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 @Ted_yeet 这么R18G😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565591413282476033",
+        "conversation_id": "2014654349989888209",
+        "created_at": "2026-01-24T07:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014962552669900822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1499442786453663745",
+              "start": 12,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014962552669900822",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014660753698206049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @Ted_yeet 喂我喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 282,
+          "like_count": 6581,
+          "listed_count": 21,
+          "media_count": 112,
+          "tweet_count": 3276
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "name": "魚",
+        "pinned_tweet_id": "2014664265249206486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 1891,
+          "like_count": 12723,
+          "listed_count": 5,
+          "media_count": 2907,
+          "tweet_count": 21555
+        },
+        "username": "sakanadesu0449",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "还活着",
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4053,
+          "following_count": 1525,
+          "like_count": 39631,
+          "listed_count": 12,
+          "media_count": 391,
+          "tweet_count": 8185
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2006448269346709540",
+    "created_at": "2026-01-01T11:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006687585595507044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1984725515023106051",
+          "start": 0,
+          "username": "Xuan_M0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006687585595507044",
+    "in_reply_to_user_id": "1984725515023106051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006448269346709540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan_M0o 雪糕嘿嘿🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2006446318462578690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hUS8jaMAI2Ngc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2006448269346709540",
+        "created_at": "2026-01-01T11:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006687585595507044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1984725515023106051",
+              "start": 0,
+              "username": "Xuan_M0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006687585595507044",
+        "in_reply_to_user_id": "1984725515023106051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006448269346709540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan_M0o 雪糕嘿嘿🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006446318462578690"
+          ]
+        },
+        "author_id": "1984725515023106051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2006448269346709540",
+        "created_at": "2025-12-31T19:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:31:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006448117462516077",
+          "2006448269346709540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "量產型"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "雾囲気"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "天使界隈"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "水色"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "地雷系"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "男娘"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "伪娘"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "男の娘"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "白丝"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "新年快乐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPr2kKOcdH",
+              "end": 139,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2006448269346709540/photo/1",
+              "media_key": "3_2006446318462578690",
+              "start": 116,
+              "url": "https://t.co/YPr2kKOcdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006448269346709540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "元旦快乐～♡\n新的一年，小天使也会继续努力为各位净化疲惫的身躯和灵魂哦w\n愿各位人类继续虔诚地侍奉天使，由天使为你们达成愿望吧～🤍🩵\n\n#量產型 #雾囲気 #天使界隈 #水色 #地雷系 #男娘 #伪娘 #男の娘 #白丝 #新年快乐 https://t.co/YPr2kKOcdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 231,
+          "like_count": 4668,
+          "listed_count": 12,
+          "media_count": 86,
+          "tweet_count": 2207
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T20:54:03.000Z",
+        "description": "喜欢女装穿搭和可爱事物的男孩子♂（男娘？）/\n01年，坐标江苏，168cm，56kg/\n性别认同正常，偏双性恋/\n是二次元游戏宅的同时也喜欢旅游摄影w/\n水色系和地雷系重度依赖🤍🩵，但是性格并不地雷哦！/\n属性是偏温柔又严厉大哥哥（or大姐姐）类型的S/Dom Daddy，涉猎很广很包容w～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Matsu_M0o",
+                "end": 23,
+                "expanded_url": "http://t.me/Matsu_M0o",
+                "start": 0,
+                "url": "https://t.co/ZyIQLYtvqz"
+              }
+            ]
+          }
+        },
+        "id": "1984725515023106051",
+        "location": "想要互关扩列可以私信哦～！",
+        "name": "Matsu茉",
+        "pinned_tweet_id": "1996888509815415089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985054814359949312/2EddkLkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 159,
+          "like_count": 321,
+          "listed_count": 10,
+          "media_count": 85,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/ZyIQLYtvqz",
+        "username": "Xuan_M0o",
+        "verified": true
+      }
+    ]
+  }
+}

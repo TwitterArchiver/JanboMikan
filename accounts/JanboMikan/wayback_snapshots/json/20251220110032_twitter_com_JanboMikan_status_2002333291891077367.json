@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002296156664311812"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2002333291891077367",
+    "created_at": "2025-12-20T11:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002333291891077367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3s0zCkZkw",
+          "end": 119,
+          "expanded_url": "https://x.com/JanboMikan/status/2002333291891077367/photo/1",
+          "media_key": "3_2002296156664311812",
+          "start": 96,
+          "url": "https://t.co/d3s0zCkZkw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002333291891077367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2000fo抽日记更新回，现在开始！\n9天前才刚刚1500fo耶，好快，感谢大家支持！！\n\n详细规则请看我发的上一条哦~简单来说就是前15名评论发日期（限定11.20-12.19一个月内）~ https://t.co/d3s0zCkZkw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2002296156664311812",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mVvvEbMAQ-irv.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002296156664311812"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002333291891077367",
+        "created_at": "2025-12-20T11:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002333291891077367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3s0zCkZkw",
+              "end": 119,
+              "expanded_url": "https://x.com/JanboMikan/status/2002333291891077367/photo/1",
+              "media_key": "3_2002296156664311812",
+              "start": 96,
+              "url": "https://t.co/d3s0zCkZkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002333291891077367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo抽日记更新回，现在开始！\n9天前才刚刚1500fo耶，好快，感谢大家支持！！\n\n详细规则请看我发的上一条哦~简单来说就是前15名评论发日期（限定11.20-12.19一个月内）~ https://t.co/d3s0zCkZkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 212,
+          "like_count": 3776,
+          "listed_count": 8,
+          "media_count": 79,
+          "tweet_count": 1705
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

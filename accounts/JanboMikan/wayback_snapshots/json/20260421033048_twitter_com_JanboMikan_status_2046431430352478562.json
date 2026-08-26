@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046426162516414957",
+    "created_at": "2026-04-21T03:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046431430352478562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046431430352478562",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046426162516414957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 一眼看成🍡准备SRS手术😱x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046426148356386817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZdvU_acAEglPV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2046426148352278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZdvU-bwAA4j8n.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1073,
+        "media_key": "3_2046426148339621888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZdvU7aoAAMnG5.jpg",
+        "width": 1073
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2046426148352258048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZdvU-bcAA03dH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046426162516414957",
+        "created_at": "2026-04-21T03:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046431430352478562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046431430352478562",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046426162516414957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 一眼看成🍡准备SRS手术😱x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046426148356386817",
+            "3_2046426148352278528",
+            "3_2046426148339621888",
+            "3_2046426148352258048"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "2046426162516414957",
+        "created_at": "2026-04-21T03:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046426162516414957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JdIFrC4DBj",
+              "end": 125,
+              "expanded_url": "https://x.com/maruko00o/status/2046426162516414957/photo/1",
+              "media_key": "3_2046426148356386817",
+              "start": 102,
+              "url": "https://t.co/JdIFrC4DBj"
+            },
+            {
+              "display_url": "pic.x.com/JdIFrC4DBj",
+              "end": 125,
+              "expanded_url": "https://x.com/maruko00o/status/2046426162516414957/photo/1",
+              "media_key": "3_2046426148352278528",
+              "start": 102,
+              "url": "https://t.co/JdIFrC4DBj"
+            },
+            {
+              "display_url": "pic.x.com/JdIFrC4DBj",
+              "end": 125,
+              "expanded_url": "https://x.com/maruko00o/status/2046426162516414957/photo/1",
+              "media_key": "3_2046426148339621888",
+              "start": 102,
+              "url": "https://t.co/JdIFrC4DBj"
+            },
+            {
+              "display_url": "pic.x.com/JdIFrC4DBj",
+              "end": 125,
+              "expanded_url": "https://x.com/maruko00o/status/2046426162516414957/photo/1",
+              "media_key": "3_2046426148352258048",
+              "start": 102,
+              "url": "https://t.co/JdIFrC4DBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046426162516414957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近一直在忙别的事情，好久好久没有回复提问箱了，速速回复一下（\n\n1. 确实！最近也看到很多在这个时间段准备进行 SRS 手术的推友的消息，春天是意味着复苏和新生的季节，大概也是比较适合进行手术的时间。\n既然你说「没有因为那个东西焦虑」，或许你对自己性别认同是比较安定的，不过因为你留言里没提供更多信息，我比较好奇后面说「难过」的原因是什么。\n或许你是对推友感到心疼和担忧？或许是看到朋友的「旧身份」消失感到有些悲伤？又或许是看到大家都能勇敢的通过这些方法变成真正的自己，反过来和自己对比之后感觉有点低落？\n总之，只要有感情的人，看到朋友或是熟人出现了改变，肯定是会产生情绪波动的。或许试着顺其自然接受这种感受和对方的改变就好。如果确实比较难过，也可以稍微减少刷社交软件的次数，照顾好自己的情绪。🤗\n\n2. 对美产生向往和性冲动很正常。\n不过如果对方分享照片并不意在成为观看者的性素材的话，这么做本质上是不太平等且不太尊重对方的行为。\n虽然说私下怎么做是你的自由，不过我的建议是：要么不要这么做；如果一定要做的话，请把照片里你幻想的客体和现实中的这位朋友分开。\n\n3. 身高大概 177cm，体重大概 58kg。\n倒是没什么特别推荐的店家，量好身体数据对照着尺码表买适合的大小一般不会有太大问题。或者你可以在搜索的时候加入「大码」、「外贸」之类的关键词就可以搜到比较大码、适合高个子的款式。\n\n4. 最近 malymoon 很火吗感觉经常能看到（\n感觉我不太能驾驭那种风格，暂时不考虑。（不过或许哪天晚上刷购物软件就冲动下单了。🥴）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近一直在忙别的事情，好久好久没有回复提问箱了，速速回复一下（\n\n1. 确实！最近也看到很多在这个时间段准备进行 SRS 手术的推友的消息，春天是意味着复苏和新生的季节，大概也是比较适合进行手术的时间。 https://t.co/JdIFrC4DBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11298,
+          "following_count": 458,
+          "like_count": 15864,
+          "listed_count": 41,
+          "media_count": 231,
+          "tweet_count": 8035
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 小红书: maruko00o || 此外没有其他平台账号 均为盗图 || 二号机 @maruko0000o || ✉ 提问：https://t.co/jsujap0ZY2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "maruko0000o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maruko00o",
+                "end": 90,
+                "expanded_url": "https://ngl.link/maruko00o",
+                "start": 67,
+                "url": "https://t.co/jsujap0ZY2"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "pinned_tweet_id": "2006564626708967903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38927,
+          "following_count": 933,
+          "like_count": 23906,
+          "listed_count": 211,
+          "media_count": 998,
+          "tweet_count": 6675
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

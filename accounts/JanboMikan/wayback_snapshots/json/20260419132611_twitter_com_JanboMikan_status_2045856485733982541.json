@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2045834085290099027",
+    "created_at": "2026-04-19T13:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045856485733982541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378681079876313090",
+          "start": 0,
+          "username": "Ayane014081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045856485733982541",
+    "in_reply_to_user_id": "1378681079876313090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045834085290099027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayane014081 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3031,
+        "media_key": "3_2045834054914945024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRDO9CaMAA7_vF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2045834085290099027",
+        "created_at": "2026-04-19T13:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045856485733982541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378681079876313090",
+              "start": 0,
+              "username": "Ayane014081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045856485733982541",
+        "in_reply_to_user_id": "1378681079876313090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045834085290099027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayane014081 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045834054914945024"
+          ]
+        },
+        "author_id": "1378681079876313090",
+        "conversation_id": "2045834085290099027",
+        "created_at": "2026-04-19T11:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045834085290099027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUyUpxom7h",
+              "end": 41,
+              "expanded_url": "https://x.com/Ayane014081/status/2045834085290099027/photo/1",
+              "media_key": "3_2045834054914945024",
+              "start": 18,
+              "url": "https://t.co/gUyUpxom7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045834085290099027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天你要体验的是双马尾jk的日常😋 https://t.co/gUyUpxom7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11197,
+          "following_count": 458,
+          "like_count": 15717,
+          "listed_count": 41,
+          "media_count": 228,
+          "tweet_count": 7967
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T12:09:27.000Z",
+        "description": "祝你从别人身上想起我～\n已有对象🥰",
+        "id": "1378681079876313090",
+        "name": "绫音SakuyaAyane",
+        "pinned_tweet_id": "1395608207729434634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923311953403092992/ukN2DR-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 930,
+          "like_count": 59298,
+          "listed_count": 19,
+          "media_count": 147,
+          "tweet_count": 3243
+        },
+        "username": "Ayane014081",
+        "verified": false
+      }
+    ]
+  }
+}

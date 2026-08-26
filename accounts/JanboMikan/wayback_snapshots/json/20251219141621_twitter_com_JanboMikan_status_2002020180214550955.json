@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001970774715113892",
+    "created_at": "2025-12-19T14:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002020180214550955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982093933338595328",
+          "start": 0,
+          "username": "VonUngern2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002020180214550955",
+    "in_reply_to_user_id": "1982093933338595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002019520479732062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonUngern2007 说的是蜜柑，不是别的x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001970774715113892",
+        "created_at": "2025-12-19T14:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002020180214550955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982093933338595328",
+              "start": 0,
+              "username": "VonUngern2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002020180214550955",
+        "in_reply_to_user_id": "1982093933338595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002019520479732062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonUngern2007 说的是蜜柑，不是别的x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982093933338595328",
+        "conversation_id": "2001970774715113892",
+        "created_at": "2025-12-19T14:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002019520479732062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002019520479732062",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001970774715113892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 已严肃学习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 214,
+          "like_count": 3707,
+          "listed_count": 8,
+          "media_count": 76,
+          "tweet_count": 1658
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T14:37:38.000Z",
+        "description": "Glad to see u",
+        "id": "1982093933338595328",
+        "name": "Von Ungern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982094396322394112/cXonTRoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "VonUngern2007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021111913560801520",
+    "created_at": "2026-02-11T01:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T02:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021395792217756064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1365678062013083666",
+          "start": 0,
+          "username": "yuyuqing0725"
+        },
+        {
+          "end": 23,
+          "id": "1254442404410621958",
+          "start": 14,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021395792217756064",
+    "in_reply_to_user_id": "1365678062013083666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021362588924379218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuqing0725 @zwh20081 约约你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021111913560801520",
+        "created_at": "2026-02-11T01:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021395792217756064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1365678062013083666",
+              "start": 0,
+              "username": "yuyuqing0725"
+            },
+            {
+              "end": 23,
+              "id": "1254442404410621958",
+              "start": 14,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021395792217756064",
+        "in_reply_to_user_id": "1365678062013083666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021362588924379218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuqing0725 @zwh20081 约约你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365678062013083666",
+        "conversation_id": "2021111913560801520",
+        "created_at": "2026-02-10T23:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021362588924379218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1254442404410621958",
+              "start": 12,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021362588924379218",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021111913560801520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @zwh20081 还在约还在约😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 317,
+          "like_count": 8319,
+          "listed_count": 23,
+          "media_count": 135,
+          "tweet_count": 4268
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T15:00:15.000Z",
+        "description": "193/180 ♂，如果能被喜欢很荣幸\n匿名提问：https://t.co/ZnlAoS4e89\n聊天频道：https://t.co/A0kTg2Efpo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu79791",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yu79791",
+                "start": 25,
+                "url": "https://t.co/ZnlAoS4e89"
+              },
+              {
+                "display_url": "t.me/testyuyuyu",
+                "end": 77,
+                "expanded_url": "https://t.me/testyuyuyu",
+                "start": 54,
+                "url": "https://t.co/A0kTg2Efpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yutestyu",
+                "end": 23,
+                "expanded_url": "https://t.me/yutestyu",
+                "start": 0,
+                "url": "https://t.co/3oo73KLzNO"
+              }
+            ]
+          }
+        },
+        "id": "1365678062013083666",
+        "name": "yuyyyyyyy",
+        "pinned_tweet_id": "2009848978414940182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992979822331695104/EYtklChg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 997,
+          "like_count": 5141,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/3oo73KLzNO",
+        "username": "yuyuqing0725",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEO\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务\n💖 @Littleloong233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 132,
+                "username": "Littleloong233"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 190,
+          "like_count": 9077,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 5382
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

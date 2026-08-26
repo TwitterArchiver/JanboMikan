@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1983481531059585050",
+    "created_at": "2025-10-29T14:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983536781552402672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1466720983805403136",
+          "start": 0,
+          "username": "NuoMiXiaoWanShe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983536781552402672",
+    "in_reply_to_user_id": "1466720983805403136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983481531059585050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuoMiXiaoWanShe 贴贴也太好了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_1983481494711701504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4a96RbaEAAIEEw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1983481531059585050",
+        "created_at": "2025-10-29T14:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983536781552402672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1466720983805403136",
+              "start": 0,
+              "username": "NuoMiXiaoWanShe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983536781552402672",
+        "in_reply_to_user_id": "1466720983805403136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983481531059585050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuoMiXiaoWanShe 贴贴也太好了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983481494711701504"
+          ]
+        },
+        "author_id": "1466720983805403136",
+        "conversation_id": "1983481531059585050",
+        "created_at": "2025-10-29T10:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983481531059585050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0IHF1mxc4",
+              "end": 30,
+              "expanded_url": "https://x.com/NuoMiXiaoWanShe/status/1983481531059585050/photo/1",
+              "media_key": "3_1983481494711701504",
+              "start": 7,
+              "url": "https://t.co/C0IHF1mxc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983481531059585050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 819,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两xnn同居 https://t.co/C0IHF1mxc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 95,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T10:48:35.000Z",
+        "description": "一只路过的狐狸而已",
+        "id": "1466720983805403136",
+        "location": "糯米孤独的小被窝",
+        "name": "糯米小丸神酱【Stat Trak™】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699389120920088576/Pl340DNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11159,
+          "following_count": 1833,
+          "like_count": 68175,
+          "listed_count": 14,
+          "media_count": 831,
+          "tweet_count": 6192
+        },
+        "username": "NuoMiXiaoWanShe",
+        "verified": false
+      }
+    ]
+  }
+}

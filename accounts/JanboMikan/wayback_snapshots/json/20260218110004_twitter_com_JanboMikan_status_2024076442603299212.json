@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023026514716225536"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024076442603299212",
+    "created_at": "2026-02-18T11:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024076442603299212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HwY6YxE9OR",
+          "end": 63,
+          "expanded_url": "https://x.com/JanboMikan/status/2024076442603299212/photo/1",
+          "media_key": "3_2023026514716225536",
+          "start": 40,
+          "url": "https://t.co/HwY6YxE9OR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024076442603299212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一个问题好奇很久了：为什么水手服胸口的地方要挂半条内裤？\n是因为胸有成竹吗。 https://t.co/HwY6YxE9OR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3690,
+        "media_key": "3_2023026514716225536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM75YzbcAAFGap.jpg",
+        "width": 3340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023026514716225536"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024076442603299212",
+        "created_at": "2026-02-18T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024076442603299212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwY6YxE9OR",
+              "end": 63,
+              "expanded_url": "https://x.com/JanboMikan/status/2024076442603299212/photo/1",
+              "media_key": "3_2023026514716225536",
+              "start": 40,
+              "url": "https://t.co/HwY6YxE9OR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024076442603299212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个问题好奇很久了：为什么水手服胸口的地方要挂半条内裤？\n是因为胸有成竹吗。 https://t.co/HwY6YxE9OR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5520,
+          "following_count": 329,
+          "like_count": 9119,
+          "listed_count": 24,
+          "media_count": 145,
+          "tweet_count": 4715
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2005115360232792186",
+    "created_at": "2025-12-28T15:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005300943177515249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 15,
+          "id": "1685784710285266944",
+          "start": 8,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005300943177515249",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005115360232792186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @mhtqwq 下次群里开个直播"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 361,
+        "media_key": "3_2005115351676452867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OZye5bgAMbpfw.jpg",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2005115360232792186",
+        "created_at": "2025-12-28T15:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005300943177515249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 15,
+              "id": "1685784710285266944",
+              "start": 8,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005300943177515249",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005115360232792186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @mhtqwq 下次群里开个直播"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005115351676452867"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2005115360232792186",
+        "created_at": "2025-12-28T03:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005115360232792186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8ZlYoA4Ru",
+              "end": 32,
+              "expanded_url": "https://x.com/BI3BXI/status/2005115360232792186/photo/1",
+              "media_key": "3_2005115351676452867",
+              "start": 9,
+              "url": "https://t.co/e8ZlYoA4Ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005115360232792186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4849,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？\n？？\n？？？ https://t.co/e8ZlYoA4Ru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 219,
+          "like_count": 4367,
+          "listed_count": 8,
+          "media_count": 86,
+          "tweet_count": 2035
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "DE BI3BXI｜AI/ML在读｜实习律师｜前世 @ryq59｜里垢@TabeWang｜Powered by @tonghua245 @mimilinkeyi @atheistsophist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "ryq59"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "TabeWang"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "tonghua245"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "mimilinkeyi"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "atheistsophist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "2003700112711909554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 3030,
+          "like_count": 28473,
+          "listed_count": 16,
+          "media_count": 907,
+          "tweet_count": 4852
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 426,
+          "like_count": 9268,
+          "listed_count": 8,
+          "media_count": 1806,
+          "tweet_count": 9090
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

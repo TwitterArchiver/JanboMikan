@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2043181306616680573",
+    "created_at": "2026-04-12T04:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043181306616680573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuluoqwq/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yuluoqwq/status/2043152772925948203",
+          "start": 2,
+          "url": "https://t.co/TMp1C7kRE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043181306616680573",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043152772925948203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥰 https://t.co/TMp1C7kRE2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2043152734288003072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFq8ljUawAAjj3Q.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2043181306616680573",
+        "created_at": "2026-04-12T04:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043181306616680573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuluoqwq/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yuluoqwq/status/2043152772925948203",
+              "start": 2,
+              "url": "https://t.co/TMp1C7kRE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043181306616680573",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043152772925948203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/TMp1C7kRE2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043152734288003072"
+          ]
+        },
+        "author_id": "1431080795536433154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043152772925948203",
+        "created_at": "2026-04-12T02:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043152772925948203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1431080795536433154",
+              "start": 10,
+              "username": "yuluoqwq"
+            },
+            {
+              "end": 37,
+              "id": "1408736706338033668",
+              "start": 25,
+              "username": "ACE_yumoooo"
+            },
+            {
+              "end": 48,
+              "id": "1597056816633896960",
+              "start": 38,
+              "username": "GouDan_JD"
+            },
+            {
+              "end": 60,
+              "id": "1976995735532138496",
+              "start": 49,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 71,
+              "id": "1372569867421839368",
+              "start": 61,
+              "username": "yeliu2025"
+            },
+            {
+              "end": 81,
+              "id": "1812363069487742976",
+              "start": 72,
+              "username": "mingji_A"
+            },
+            {
+              "end": 95,
+              "id": "1758826745204178944",
+              "start": 82,
+              "username": "QAQLingJiu09"
+            },
+            {
+              "end": 115,
+              "id": "1408736706338033668",
+              "start": 103,
+              "username": "ACE_yumoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MG5VrEdHRU",
+              "end": 139,
+              "expanded_url": "https://x.com/yuluoqwq/status/2043152772925948203/photo/1",
+              "media_key": "3_2043152734288003072",
+              "start": 116,
+              "url": "https://t.co/MG5VrEdHRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043152772925948203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴是对的\n场地： @yuluoqwq \n参与： @ACE_yumoooo @GouDan_JD @JanboMikan @yeliu2025 @mingji_A @QAQLingJiu09 \n笼子里的： @ACE_yumoooo https://t.co/MG5VrEdHRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10716,
+          "following_count": 448,
+          "like_count": 14978,
+          "listed_count": 39,
+          "media_count": 215,
+          "tweet_count": 7641
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3221,
+          "following_count": 1536,
+          "like_count": 40663,
+          "listed_count": 12,
+          "media_count": 258,
+          "tweet_count": 4805
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

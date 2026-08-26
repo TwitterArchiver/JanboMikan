@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053848140655235142",
+    "created_at": "2026-05-12T01:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054006862467797213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956917582864277504",
+          "start": 0,
+          "username": "qianhebro"
+        },
+        {
+          "end": 24,
+          "id": "1284311987673919488",
+          "start": 11,
+          "username": "recruits0703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054006862467797213",
+    "in_reply_to_user_id": "1956917582864277504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053855902751736318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianhebro @recruits0703 好！🤗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2053855899719196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDDDxqaYAALv9n.jpg",
+        "width": 292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053848140655235142",
+        "created_at": "2026-05-12T01:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054006862467797213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956917582864277504",
+              "start": 0,
+              "username": "qianhebro"
+            },
+            {
+              "end": 24,
+              "id": "1284311987673919488",
+              "start": 11,
+              "username": "recruits0703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054006862467797213",
+        "in_reply_to_user_id": "1956917582864277504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053855902751736318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianhebro @recruits0703 好！🤗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053855899719196672"
+          ]
+        },
+        "author_id": "1956917582864277504",
+        "conversation_id": "2053848140655235142",
+        "created_at": "2026-05-11T15:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053855902751736318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1284311987673919488",
+              "start": 12,
+              "username": "recruits0703"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PA6OhBoG1r",
+              "end": 53,
+              "expanded_url": "https://x.com/qianhebro/status/2053855902751736318/photo/1",
+              "media_key": "3_2053855899719196672",
+              "start": 30,
+              "url": "https://t.co/PA6OhBoG1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053855902751736318",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053848140655235142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @recruits0703 真好啊 https://t.co/PA6OhBoG1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12858,
+          "following_count": 494,
+          "like_count": 17373,
+          "listed_count": 45,
+          "media_count": 266,
+          "tweet_count": 8956
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T03:15:41.000Z",
+        "description": "平凡即是喜乐。\n属于我的小贝壳：琳蕊リンレイ @zhngzhngji12079",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "zhngzhngji12079"
+              }
+            ]
+          }
+        },
+        "id": "1956917582864277504",
+        "location": "武汉每天不一样。",
+        "name": "千鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956918009752064000/cZTF2DJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 100,
+          "like_count": 9551,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 333
+        },
+        "username": "qianhebro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-18T02:20:26.000Z",
+        "description": "坐标香港/珠海，一个喜欢女装和被绑的新人cdm，因为约不到人所以自缚玩的比较多/龟速更新/\n喜欢幻想情景和cos，经常会yy自己被绑着进入某个情景或者角色扮演（剧情play之类的/\n很想试试吊缚和刑具…/\n有点社恐/172cm-67kg/\n欢迎扩列交流",
+        "id": "1284311987673919488",
+        "location": "珠海/香港/大湾区都能跑",
+        "name": "阿茶",
+        "pinned_tweet_id": "1817030440295055662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817019951775158272/TG57ROJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 387,
+          "like_count": 2437,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 391
+        },
+        "username": "recruits0703",
+        "verified": false
+      }
+    ]
+  }
+}

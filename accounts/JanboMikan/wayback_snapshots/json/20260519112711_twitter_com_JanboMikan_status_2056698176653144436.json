@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2056691337899147535",
+    "created_at": "2026-05-19T11:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056698176653144436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1477934592795414530",
+          "start": 0,
+          "username": "Raven_Rere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056698176653144436",
+    "in_reply_to_user_id": "1477934592795414530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056693284937109889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raven_Rere 切掉啥x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2056691337899147535",
+        "created_at": "2026-05-19T11:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056698176653144436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1477934592795414530",
+              "start": 0,
+              "username": "Raven_Rere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056698176653144436",
+        "in_reply_to_user_id": "1477934592795414530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056693284937109889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raven_Rere 切掉啥x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477934592795414530",
+        "conversation_id": "2056691337899147535",
+        "created_at": "2026-05-19T11:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056693284937109889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056693284937109889",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056691337899147535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 你都叫同志了那还说啥了，切吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13067,
+          "following_count": 503,
+          "like_count": 17781,
+          "listed_count": 44,
+          "media_count": 277,
+          "tweet_count": 9225
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T09:27:31.000Z",
+        "description": "仿生魅魔会梦见电子菩萨吗\n分身@Raven_Rerebabe\n欢迎提问（为什么不问）https://t.co/oJAH0Ym4GQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "Raven_Rerebabe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ravencat",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ravencat",
+                "start": 42,
+                "url": "https://t.co/oJAH0Ym4GQ"
+              }
+            ]
+          }
+        },
+        "id": "1477934592795414530",
+        "location": "Shanghai",
+        "name": "RavenCat鸦猫🐦‍⬛🐈‍⬛",
+        "pinned_tweet_id": "2013585134818337187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040103873503993861/YHkNlqoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 422,
+          "like_count": 4139,
+          "listed_count": 4,
+          "media_count": 662,
+          "tweet_count": 4128
+        },
+        "username": "Raven_Rere",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1980316147745792416",
+    "created_at": "2025-10-21T12:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980608851239137506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980608851239137506",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980316147745792416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 背景也意外有一种凌乱美w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980316124530065408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3t_BemXwAAbEng.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1980316147745792416",
+        "created_at": "2025-10-21T12:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980608851239137506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980608851239137506",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980316147745792416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 背景也意外有一种凌乱美w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980316124530065408"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1980316147745792416",
+        "created_at": "2025-10-20T16:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T17:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980316147745792416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqVuErzi7A",
+              "end": 115,
+              "expanded_url": "https://x.com/Truffaut897456/status/1980316147745792416/photo/1",
+              "media_key": "3_1980316124530065408",
+              "start": 92,
+              "url": "https://t.co/PqVuErzi7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980316147745792416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12054,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仅试衣。。第一次买这种裙子，版型好糟，束腰在肋骨上，腰又被裙子挡起来了，显得我整个人很胖，可是我的腿和胳膊很细对不对（（（）不行，好贵，没时间买新衣服了，只能这样双开门出祥子了，嗯。 https://t.co/PqVuErzi7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 86,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1980128589967486983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4548,
+          "following_count": 724,
+          "like_count": 1976,
+          "listed_count": 12,
+          "media_count": 41,
+          "tweet_count": 907
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

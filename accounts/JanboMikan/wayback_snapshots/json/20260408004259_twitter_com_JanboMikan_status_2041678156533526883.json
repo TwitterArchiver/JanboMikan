@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2040603370491396429",
+    "created_at": "2026-04-08T00:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041678156533526883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1543982488019963905",
+          "start": 0,
+          "username": "XPz7qZexOZH76pb"
+        },
+        {
+          "end": 26,
+          "id": "1812363069487742976",
+          "start": 17,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041678156533526883",
+    "in_reply_to_user_id": "1543982488019963905",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041542226346754378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XPz7qZexOZH76pb @mingji_A 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2040603370491396429",
+        "created_at": "2026-04-08T00:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041678156533526883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543982488019963905",
+              "start": 0,
+              "username": "XPz7qZexOZH76pb"
+            },
+            {
+              "end": 26,
+              "id": "1812363069487742976",
+              "start": 17,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041678156533526883",
+        "in_reply_to_user_id": "1543982488019963905",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041542226346754378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XPz7qZexOZH76pb @mingji_A 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543982488019963905",
+        "conversation_id": "2040603370491396429",
+        "created_at": "2026-04-07T15:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041542226346754378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041542226346754378",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040603370491396429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10592,
+          "following_count": 440,
+          "like_count": 14672,
+          "listed_count": 39,
+          "media_count": 210,
+          "tweet_count": 7503
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T15:38:41.000Z",
+        "description": "一个普普通通的xyn，也许是xnn，未含糖，mtf/hrt未开始。未来的我想做一个安静的xnn/xyn，最终的梦想是想变成自己内心的另一个她。\n小号@LiFeng88725",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "LiFeng88725"
+              }
+            ]
+          }
+        },
+        "id": "1543982488019963905",
+        "name": "秋风 🍁🍂🫧🍥🏳️‍⚧️🍭🍬一直陪伴在你身边",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991527620484427783/O5xvpGxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 2471,
+          "like_count": 1108,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 758
+        },
+        "username": "XPz7qZexOZH76pb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 2132,
+          "like_count": 86896,
+          "listed_count": 17,
+          "media_count": 147,
+          "tweet_count": 16698
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

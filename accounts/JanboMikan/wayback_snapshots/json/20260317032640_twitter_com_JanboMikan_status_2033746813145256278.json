@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033351772073607220",
+    "created_at": "2026-03-17T03:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033746813145256278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1025046551163547648",
+          "start": 0,
+          "username": "ChaoShan2341"
+        },
+        {
+          "end": 24,
+          "id": "1956917582864277504",
+          "start": 14,
+          "username": "qianhebro"
+        },
+        {
+          "end": 34,
+          "id": "1812363069487742976",
+          "start": 25,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033746813145256278",
+    "in_reply_to_user_id": "1025046551163547648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033735886714892605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaoShan2341 @qianhebro @mingji_A 倒头就睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-17T03:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033746813145256278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1025046551163547648",
+              "start": 0,
+              "username": "ChaoShan2341"
+            },
+            {
+              "end": 24,
+              "id": "1956917582864277504",
+              "start": 14,
+              "username": "qianhebro"
+            },
+            {
+              "end": 34,
+              "id": "1812363069487742976",
+              "start": 25,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033746813145256278",
+        "in_reply_to_user_id": "1025046551163547648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033735886714892605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaoShan2341 @qianhebro @mingji_A 倒头就睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1025046551163547648",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-17T02:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033735886714892605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1956917582864277504",
+              "start": 12,
+              "username": "qianhebro"
+            },
+            {
+              "end": 32,
+              "id": "1812363069487742976",
+              "start": 23,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033735886714892605",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033351772073607220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @qianhebro @mingji_A 复习完了要干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8563,
+          "following_count": 404,
+          "like_count": 11899,
+          "listed_count": 34,
+          "media_count": 179,
+          "tweet_count": 6350
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-02T15:51:57.000Z",
+        "description": "Mortis人格：牢广笑话之钥匙串白背心味大老壁登/小睦头人格：黑暗涩涩之想体验各种新玩法小南梁/ENFP快樂小狗🐕/发明人：小黃瓜🥒发明項目：可樂拌腸粉/想和我的車車🚗处大象@Buick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 88,
+                "username": "Buick"
+              }
+            ]
+          }
+        },
+        "id": "1025046551163547648",
+        "location": "Hong Kong",
+        "name": "月之森超级大黄瓜🥒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033348189244592128/96idrHC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1517,
+          "like_count": 123159,
+          "listed_count": 7,
+          "media_count": 21,
+          "tweet_count": 3761
+        },
+        "username": "ChaoShan2341",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T03:15:41.000Z",
+        "description": "平凡即是喜乐。",
+        "id": "1956917582864277504",
+        "location": "武汉每天不一样",
+        "name": "千鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956918009752064000/cZTF2DJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 81,
+          "like_count": 4876,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 203
+        },
+        "username": "qianhebro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 1810,
+          "like_count": 73040,
+          "listed_count": 9,
+          "media_count": 119,
+          "tweet_count": 14149
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

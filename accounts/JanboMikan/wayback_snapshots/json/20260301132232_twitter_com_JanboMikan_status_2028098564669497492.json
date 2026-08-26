@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2027987353487478788",
+    "created_at": "2026-03-01T13:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028098564669497492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028098564669497492",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027987353487478788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 白丝也是防水的吗😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027987343567880192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTbvoZaAAAhWDB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2027987353487478788",
+        "created_at": "2026-03-01T13:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028098564669497492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028098564669497492",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027987353487478788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 白丝也是防水的吗😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027987343567880192"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "conversation_id": "2027987353487478788",
+        "created_at": "2026-03-01T06:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027987353487478788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jurDh4XmLQ",
+              "end": 47,
+              "expanded_url": "https://x.com/cha_li_jin/status/2027987353487478788/photo/1",
+              "media_key": "3_2027987343567880192",
+              "start": 24,
+              "url": "https://t.co/jurDh4XmLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027987353487478788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 8973,
+          "like_count": 635,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "死库水是男生最好的泳衣\n#男娘 #可爱的男孩子 https://t.co/jurDh4XmLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7170,
+          "following_count": 379,
+          "like_count": 10347,
+          "listed_count": 32,
+          "media_count": 161,
+          "tweet_count": 5454
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "我喜欢你…我讨厌你…丨阴湿阳光长发男，重度回避型，坐标珠三角，普通在读大学生，间歇性讨厌人类丨瑟瑟营业号/纯图号： @tashigan1230",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "tashigan1230"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "距离178m",
+        "name": "AAA星之果实批发零售察里津",
+        "pinned_tweet_id": "2016343571872547188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017837540590686211/LprwScgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9112,
+          "following_count": 791,
+          "like_count": 14518,
+          "listed_count": 52,
+          "media_count": 321,
+          "tweet_count": 2889
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": true
+      }
+    ]
+  }
+}

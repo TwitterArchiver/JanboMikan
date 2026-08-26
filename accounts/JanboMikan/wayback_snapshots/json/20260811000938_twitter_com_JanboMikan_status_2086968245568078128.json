@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2086806281613140464",
+    "created_at": "2026-08-11T00:09:38.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086968245568078128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990912416983601153",
+          "start": 0,
+          "username": "91DFjiaofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086968245568078128",
+    "in_reply_to_user_id": "990912416983601153",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086857169035788650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@91DFjiaofu 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2086806281613140464",
+        "created_at": "2026-08-11T00:09:38.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086968245568078128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990912416983601153",
+              "start": 0,
+              "username": "91DFjiaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086968245568078128",
+        "in_reply_to_user_id": "990912416983601153",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086857169035788650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@91DFjiaofu 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990912416983601153",
+        "conversation_id": "2086806281613140464",
+        "created_at": "2026-08-10T16:48:15.000Z",
+        "display_text_range": [
+          23,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086857169035788650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1131911207915380736",
+              "start": 12,
+              "username": "nene00219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086857169035788650",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086806281613140464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @nene00219 哎哎哎摸哪呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2086968245568078128",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16090,
+          "following_count": 621,
+          "like_count": 22026,
+          "listed_count": 53,
+          "media_count": 395,
+          "tweet_count": 11781
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-30T11:15:05.000Z",
+        "description": "爱打三角洲 tg:@xiong5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "xiong5201314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "df.qq.com",
+                "end": 23,
+                "expanded_url": "https://df.qq.com/",
+                "start": 0,
+                "url": "https://t.co/Tx31jDcMut"
+              }
+            ]
+          }
+        },
+        "id": "990912416983601153",
+        "is_identity_verified": false,
+        "location": "航天基地",
+        "most_recent_tweet_id": "2086857645772923097",
+        "name": "跨性别睾酮教父",
+        "pinned_tweet_id": "1952390523546636415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990912416983601153/1635426191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073555279577591808/A7Vubu7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 5086,
+          "like_count": 56815,
+          "listed_count": 13,
+          "media_count": 149,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/Tx31jDcMut",
+        "username": "91DFjiaofu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

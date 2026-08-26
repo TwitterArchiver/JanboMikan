@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978733207718920192",
+        "3_1978733207714717696"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979155443286184307",
+    "created_at": "2025-10-17T12:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979155443286184307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "男娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "伪娘"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "水手服"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "女装"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f2moAH6pfa",
+          "end": 59,
+          "expanded_url": "https://x.com/JanboMikan/status/1979155443286184307/photo/1",
+          "media_key": "3_1978733207718920192",
+          "start": 36,
+          "url": "https://t.co/f2moAH6pfa"
+        },
+        {
+          "display_url": "pic.x.com/f2moAH6pfa",
+          "end": 59,
+          "expanded_url": "https://x.com/JanboMikan/status/1979155443286184307/photo/1",
+          "media_key": "3_1978733207714717696",
+          "start": 36,
+          "url": "https://t.co/f2moAH6pfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979155443286184307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经能5秒打一个金鱼结了...（？\n\n#男娘 #伪娘 #水手服 #女装 https://t.co/f2moAH6pfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1978733207718920192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XfXl9bAAA7wnO.jpg",
+        "width": 540
+      },
+      {
+        "height": 675,
+        "media_key": "3_1978733207714717696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XfXl8a4AAyAm9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978733207718920192",
+            "3_1978733207714717696"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979155443286184307",
+        "created_at": "2025-10-17T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979155443286184307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "伪娘"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "水手服"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2moAH6pfa",
+              "end": 59,
+              "expanded_url": "https://x.com/JanboMikan/status/1979155443286184307/photo/1",
+              "media_key": "3_1978733207718920192",
+              "start": 36,
+              "url": "https://t.co/f2moAH6pfa"
+            },
+            {
+              "display_url": "pic.x.com/f2moAH6pfa",
+              "end": 59,
+              "expanded_url": "https://x.com/JanboMikan/status/1979155443286184307/photo/1",
+              "media_key": "3_1978733207714717696",
+              "start": 36,
+              "url": "https://t.co/f2moAH6pfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979155443286184307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经能5秒打一个金鱼结了...（？\n\n#男娘 #伪娘 #水手服 #女装 https://t.co/f2moAH6pfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 80,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

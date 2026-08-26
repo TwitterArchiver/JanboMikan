@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032049369357435264",
+    "created_at": "2026-03-12T15:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032115096164712939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013892455503142915",
+          "start": 0,
+          "username": "_with_tomato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032115096164712939",
+    "in_reply_to_user_id": "2013892455503142915",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032104492553158702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_with_tomato zentai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032049369357435264",
+        "created_at": "2026-03-12T15:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032115096164712939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013892455503142915",
+              "start": 0,
+              "username": "_with_tomato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032115096164712939",
+        "in_reply_to_user_id": "2013892455503142915",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032104492553158702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_with_tomato zentai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013892455503142915",
+        "conversation_id": "2032049369357435264",
+        "created_at": "2026-03-12T14:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032104492553158702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032104492553158702",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032049369357435264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这是什么衣服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7750,
+          "following_count": 400,
+          "like_count": 11268,
+          "listed_count": 33,
+          "media_count": 172,
+          "tweet_count": 5986
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T08:32:43.000Z",
+        "description": "会直接block鉴证的/个人推不严肃/随机性发布评论a股美股币圈lgbt➕日常生活涩涩推/帖子内容和回复内容均为自己在床上边打飞机边想出来的文案，请有自己的判断不要上纲上线/比较脆弱怼我的时候请尽量不用脏话谢谢",
+        "id": "2013892455503142915",
+        "name": "番茄与全球资本大战然后全球资本毫发无伤番茄躺在地上呜呜呜呜😭",
+        "pinned_tweet_id": "2023823951483596911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028813632818278400/z3804bcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 492,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 856
+        },
+        "username": "_with_tomato",
+        "verified": false
+      }
+    ]
+  }
+}

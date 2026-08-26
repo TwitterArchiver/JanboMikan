@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015803999916802048"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015804091121951179",
+    "created_at": "2026-01-26T15:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015804091121951179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3pvyN6CZDN",
+          "end": 95,
+          "expanded_url": "https://x.com/JanboMikan/status/2015804091121951179/photo/1",
+          "media_key": "3_2015803999916802048",
+          "start": 72,
+          "url": "https://t.co/3pvyN6CZDN"
+        },
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/JanboMikan/status/2015439519630164018",
+          "start": 96,
+          "url": "https://t.co/MLOybBLoOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015804091121951179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015439519630164018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真是的，一直盯着人家的腿看干嘛？巧克力在手上啦！\n\n还要我喂你才肯张嘴吗？你是小孩子嘛？\n手都要举酸了……就这一次哦？\n啊——\n\n快点吃掉啦！ https://t.co/3pvyN6CZDN https://t.co/MLOybBLoOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2708,
+        "media_key": "3_2015803999916802048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mTDsfaQAA5sxq.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2742,
+        "media_key": "3_2015423852554395648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g5UNNaoAAM-KG.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015803999916802048"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015804091121951179",
+        "created_at": "2026-01-26T15:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015804091121951179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pvyN6CZDN",
+              "end": 95,
+              "expanded_url": "https://x.com/JanboMikan/status/2015804091121951179/photo/1",
+              "media_key": "3_2015803999916802048",
+              "start": 72,
+              "url": "https://t.co/3pvyN6CZDN"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/JanboMikan/status/2015439519630164018",
+              "start": 96,
+              "url": "https://t.co/MLOybBLoOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015804091121951179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015439519630164018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是的，一直盯着人家的腿看干嘛？巧克力在手上啦！\n\n还要我喂你才肯张嘴吗？你是小孩子嘛？\n手都要举酸了……就这一次哦？\n啊——\n\n快点吃掉啦！ https://t.co/3pvyN6CZDN https://t.co/MLOybBLoOv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015423852554395648"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015439519630164018",
+        "created_at": "2026-01-25T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015439519630164018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbE8Rrl2Xy",
+              "end": 103,
+              "expanded_url": "https://x.com/JanboMikan/status/2015439519630164018/photo/1",
+              "media_key": "3_2015423852554395648",
+              "start": 80,
+              "url": "https://t.co/XbE8Rrl2Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015439519630164018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3816,
+          "like_count": 90,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "回来啦？\n喏，买了你爱吃的巧克力当奖励。\n你看，有这么多呢！\n\n坐到我对面来，手放好，不许乱摸——\n听到了没？要是表现好的话，也不是不能考虑给你点别的甜头…… https://t.co/XbE8Rrl2Xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 286,
+          "like_count": 6812,
+          "listed_count": 21,
+          "media_count": 117,
+          "tweet_count": 3434
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

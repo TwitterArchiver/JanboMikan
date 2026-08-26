@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008493757088579974",
+    "created_at": "2026-01-08T05:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T06:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009130276128215384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945354869860392968",
+          "start": 0,
+          "username": "zer0ptr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009130276128215384",
+    "in_reply_to_user_id": "1945354869860392968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009126135574265980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zer0ptr 😘😘😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008493757088579974",
+        "created_at": "2026-01-08T05:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009130276128215384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945354869860392968",
+              "start": 0,
+              "username": "zer0ptr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009130276128215384",
+        "in_reply_to_user_id": "1945354869860392968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009126135574265980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zer0ptr 😘😘😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945354869860392968",
+        "conversation_id": "2008493757088579974",
+        "created_at": "2026-01-08T04:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T05:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009126135574265980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009126135574265980",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008493757088579974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 好可爱，想和老师一起女装喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3222,
+          "following_count": 251,
+          "like_count": 5253,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 2528
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T05:29:39.000Z",
+        "description": "Security Researcher at @SecureNexusLab / Interests in IoT-Security, Security4LLM and LLM4Security | Blog(bin trash): https://t.co/JgUXxKkTsx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "SecureNexusLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zer0ptr.github.io",
+                "end": 140,
+                "expanded_url": "http://zer0ptr.github.io",
+                "start": 117,
+                "url": "https://t.co/JgUXxKkTsx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zer0ptr.github.io",
+                "end": 23,
+                "expanded_url": "https://zer0ptr.github.io/",
+                "start": 0,
+                "url": "https://t.co/UCDJOgJJhe"
+              }
+            ]
+          }
+        },
+        "id": "1945354869860392968",
+        "location": "Hong Kong",
+        "name": "zer0ptr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007273849025638400/hYzonDoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 70,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/UCDJOgJJhe",
+        "username": "zer0ptr",
+        "verified": false
+      }
+    ]
+  }
+}

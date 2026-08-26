@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2000167364709810493",
+    "created_at": "2025-12-14T15:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000232598719897722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1202636054043381761",
+          "start": 0,
+          "username": "Sanae_chanw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000232598719897722",
+    "in_reply_to_user_id": "1202636054043381761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000167364709810493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanae_chanw 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2000167362121920512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IFnlabcAA1_1b.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2000167364709810493",
+        "created_at": "2025-12-14T15:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000232598719897722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1202636054043381761",
+              "start": 0,
+              "username": "Sanae_chanw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000232598719897722",
+        "in_reply_to_user_id": "1202636054043381761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000167364709810493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanae_chanw 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000167362121920512"
+          ]
+        },
+        "author_id": "1202636054043381761",
+        "conversation_id": "2000167364709810493",
+        "created_at": "2025-12-14T11:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000167364709810493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "海南"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoylnh2PD3",
+              "end": 64,
+              "expanded_url": "https://x.com/Sanae_chanw/status/2000167364709810493/photo/1",
+              "media_key": "3_2000167362121920512",
+              "start": 41,
+              "url": "https://t.co/xoylnh2PD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000167364709810493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #海南 #可爱の男孩子 到底有没有海南的男娘呜呜.......真的想要了 https://t.co/xoylnh2PD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 204,
+          "like_count": 3268,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-05T17:09:23.000Z",
+        "description": "INFP-T\n男娘\n柳州/海口\n东方众",
+        "id": "1202636054043381761",
+        "name": "早苗",
+        "pinned_tweet_id": "1551524409457840129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973959551419637761/28YvqvW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 322,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 73
+        },
+        "username": "Sanae_chanw",
+        "verified": false
+      }
+    ]
+  }
+}

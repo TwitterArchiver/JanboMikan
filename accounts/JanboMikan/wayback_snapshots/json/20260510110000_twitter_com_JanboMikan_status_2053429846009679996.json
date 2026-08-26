@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052214715720581120"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053429846009679996",
+    "created_at": "2026-05-10T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053429846009679996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mfv4hfZgS",
+          "end": 168,
+          "expanded_url": "https://x.com/JanboMikan/status/2053429846009679996/photo/1",
+          "media_key": "3_2052214715720581120",
+          "start": 145,
+          "url": "https://t.co/7mfv4hfZgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053429846009679996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和哥们玩密室逃脱。\n最后一道机关，需要一个金属法器才能开门。\n眼看倒计时快结束，我一咬牙。\n借着黑暗把自己那个金属疙瘩退了出来，丢进机关凹槽。\n「咔哒」一声，通关灯光骤然亮起。\n旁边的直男队友兴奋地捞起那个塞子捏在手里。\n「牛逼啊！你从哪里找的这个道具......我去！怎么还黏黏的！！」 https://t.co/7mfv4hfZgS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052214715720581120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHruaS1awAAppqW.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052214715720581120"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053429846009679996",
+        "created_at": "2026-05-10T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053429846009679996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mfv4hfZgS",
+              "end": 168,
+              "expanded_url": "https://x.com/JanboMikan/status/2053429846009679996/photo/1",
+              "media_key": "3_2052214715720581120",
+              "start": 145,
+              "url": "https://t.co/7mfv4hfZgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053429846009679996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和哥们玩密室逃脱。\n最后一道机关，需要一个金属法器才能开门。\n眼看倒计时快结束，我一咬牙。\n借着黑暗把自己那个金属疙瘩退了出来，丢进机关凹槽。\n「咔哒」一声，通关灯光骤然亮起。\n旁边的直男队友兴奋地捞起那个塞子捏在手里。\n「牛逼啊！你从哪里找的这个道具......我去！怎么还黏黏的！！」 https://t.co/7mfv4hfZgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12780,
+          "following_count": 495,
+          "like_count": 17239,
+          "listed_count": 43,
+          "media_count": 263,
+          "tweet_count": 8854
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

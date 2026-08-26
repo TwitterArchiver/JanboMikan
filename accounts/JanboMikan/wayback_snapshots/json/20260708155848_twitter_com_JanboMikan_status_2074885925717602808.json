@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2074858453840154824",
+    "created_at": "2026-07-08T15:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074885925717602808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "800304044250054656",
+          "start": 0,
+          "username": "ran25646"
+        },
+        {
+          "end": 22,
+          "id": "1408736706338033668",
+          "start": 10,
+          "username": "ACE_yumoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074885925717602808",
+    "in_reply_to_user_id": "800304044250054656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074859988200444126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ran25646 @ACE_yumoooo 还有盯帧x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2074858453840154824",
+        "created_at": "2026-07-08T15:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074885925717602808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "800304044250054656",
+              "start": 0,
+              "username": "ran25646"
+            },
+            {
+              "end": 22,
+              "id": "1408736706338033668",
+              "start": 10,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074885925717602808",
+        "in_reply_to_user_id": "800304044250054656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074859988200444126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ran25646 @ACE_yumoooo 还有盯帧x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "800304044250054656",
+        "conversation_id": "2074858453840154824",
+        "created_at": "2026-07-08T14:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074859988200444126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 24,
+              "id": "1408736706338033668",
+              "start": 12,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074859988200444126",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074858453840154824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @ACE_yumoooo 0:12开始，1:12结束的👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15008,
+          "following_count": 589,
+          "like_count": 20632,
+          "listed_count": 52,
+          "media_count": 349,
+          "tweet_count": 10903
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-20T11:45:27.000Z",
+        "description": "雌二醇加载中… 丨 防御塔：@Lily_White9961",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "Lily_White9961"
+              }
+            ]
+          }
+        },
+        "id": "800304044250054656",
+        "location": "大龙坑",
+        "name": "峡谷先锋（🦊观察员）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658902793317670913/op757Cfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 1432,
+          "like_count": 22701,
+          "listed_count": 5,
+          "media_count": 1249,
+          "tweet_count": 3199
+        },
+        "url": "",
+        "username": "ran25646",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，最喜欢就是绳子和cos了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路&碎碎念@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2066161196311707816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 293,
+          "like_count": 2781,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

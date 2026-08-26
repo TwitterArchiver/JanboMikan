@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2047269263069646912",
+    "created_at": "2026-04-24T01:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T02:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047485433286975782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585339869445779456",
+          "start": 0,
+          "username": "mikawaifusuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047485433286975782",
+    "in_reply_to_user_id": "1585339869445779456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047364338189537530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikawaifusuki 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2047269263069646912",
+        "created_at": "2026-04-24T01:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T02:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047485433286975782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585339869445779456",
+              "start": 0,
+              "username": "mikawaifusuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047485433286975782",
+        "in_reply_to_user_id": "1585339869445779456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047364338189537530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikawaifusuki 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585339869445779456",
+        "conversation_id": "2047269263069646912",
+        "created_at": "2026-04-23T17:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047364338189537530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047364338189537530",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047269263069646912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 流萤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11660,
+          "following_count": 468,
+          "like_count": 16246,
+          "listed_count": 44,
+          "media_count": 236,
+          "tweet_count": 8215
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T18:37:43.000Z",
+        "description": "主页置顶转发原神动态抽奖 | 下体人 | 以视奸意淫药娘mtf为人生目标 | 🏳️‍⚧️🍥 | #汉族力量 #汉族独立 #汉族觉醒 | 专注于汉民族主义 | 万达广场附近",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "汉族力量"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "汉族独立"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "汉族觉醒"
+              }
+            ]
+          }
+        },
+        "id": "1585339869445779456",
+        "location": "IP属地：河南 ",
+        "name": "小鸟游星野💈(万达广场附近🤟)",
+        "pinned_tweet_id": "1973893927108542625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748095987724201984/Af1IOmbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 143,
+          "like_count": 39987,
+          "listed_count": 24,
+          "media_count": 760,
+          "tweet_count": 10612
+        },
+        "username": "mikawaifusuki",
+        "verified": true
+      }
+    ]
+  }
+}

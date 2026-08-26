@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025121549930692611"
+      ],
+      "media_source_tweet_id": [
+        "2025121622726971783"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025122229227540852",
+    "created_at": "2026-02-21T08:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025122229227540852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2497764032",
+          "start": 3,
+          "username": "TainiiMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjY09I7MsB",
+          "end": 106,
+          "expanded_url": "https://x.com/TainiiMikan/status/2025121622726971783/photo/1",
+          "media_key": "3_2025121549930692611",
+          "start": 83,
+          "url": "https://t.co/KjY09I7MsB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025122229227540852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025121622726971783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TainiiMikan: 达成成就：涩涩视频被盗走。\n连我的破烂都有人偷该不会说明我火了吧😋x\n\n感谢提醒的热心推油们！\n（大家方便的话也可以顺手举报一下🥺 https://t.co/KjY09I7MsB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_2025121549930692611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqtUfKbgAMlq51.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025121549930692611"
+          ],
+          "media_source_tweet_id": [
+            "2025121622726971783"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025122229227540852",
+        "created_at": "2026-02-21T08:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025122229227540852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2497764032",
+              "start": 3,
+              "username": "TainiiMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjY09I7MsB",
+              "end": 106,
+              "expanded_url": "https://x.com/TainiiMikan/status/2025121622726971783/photo/1",
+              "media_key": "3_2025121549930692611",
+              "start": 83,
+              "url": "https://t.co/KjY09I7MsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025122229227540852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025121622726971783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TainiiMikan: 达成成就：涩涩视频被盗走。\n连我的破烂都有人偷该不会说明我火了吧😋x\n\n感谢提醒的热心推油们！\n（大家方便的话也可以顺手举报一下🥺 https://t.co/KjY09I7MsB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025121549930692611"
+          ]
+        },
+        "author_id": "2497764032",
+        "conversation_id": "2025121622726971783",
+        "created_at": "2026-02-21T08:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025121622726971783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjY09I7MsB",
+              "end": 89,
+              "expanded_url": "https://x.com/TainiiMikan/status/2025121622726971783/photo/1",
+              "media_key": "3_2025121549930692611",
+              "start": 66,
+              "url": "https://t.co/KjY09I7MsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025121622726971783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "达成成就：涩涩视频被盗走。\n连我的破烂都有人偷该不会说明我火了吧😋x\n\n感谢提醒的热心推油们！\n（大家方便的话也可以顺手举报一下🥺 https://t.co/KjY09I7MsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 336,
+          "like_count": 9384,
+          "listed_count": 25,
+          "media_count": 148,
+          "tweet_count": 4896
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 75,
+          "like_count": 669,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 566
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

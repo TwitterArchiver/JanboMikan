@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2062127154205508069",
+    "created_at": "2026-06-03T14:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062181093286334627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "863290811252785152",
+          "start": 0,
+          "username": "Chocolat_Kotori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062181093286334627",
+    "in_reply_to_user_id": "863290811252785152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062162601505616205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chocolat_Kotori 淘宝店铺白日梦贩卖机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2062127154205508069",
+        "created_at": "2026-06-03T14:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062181093286334627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "863290811252785152",
+              "start": 0,
+              "username": "Chocolat_Kotori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062181093286334627",
+        "in_reply_to_user_id": "863290811252785152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062162601505616205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chocolat_Kotori 淘宝店铺白日梦贩卖机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863290811252785152",
+        "conversation_id": "2062127154205508069",
+        "created_at": "2026-06-03T13:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062162601505616205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062162601505616205",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062127154205508069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我现在需要这个裙子的链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13830,
+          "following_count": 529,
+          "like_count": 18760,
+          "listed_count": 48,
+          "media_count": 305,
+          "tweet_count": 9868
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-13T07:12:23.000Z",
+        "description": "Привет! 重庆，偶尔女装的xnn，莫斯科中，喜欢挨捆，绿色推，不接受xsr。Русский язык Я умею говорить по русски, очень приятно познакомиться. 有主人@xbbbabalababa （4i）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "xbbbabalababa"
+              }
+            ]
+          }
+        },
+        "id": "863290811252785152",
+        "location": "重庆/广州 Москва",
+        "name": "Шоколад",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056912896236437504/pQVwn332_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 612,
+          "like_count": 1207,
+          "listed_count": 10,
+          "media_count": 57,
+          "tweet_count": 339
+        },
+        "username": "Chocolat_Kotori",
+        "verified": false
+      }
+    ]
+  }
+}

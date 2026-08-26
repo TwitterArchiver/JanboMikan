@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2012480018551812254",
+    "created_at": "2026-01-17T14:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012527157596262910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453406535950999560",
+          "start": 0,
+          "username": "9A9114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012527157596262910",
+    "in_reply_to_user_id": "1453406535950999560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012526198480310663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9A9114 蟹蟹🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2012480018551812254",
+        "created_at": "2026-01-17T14:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012527157596262910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453406535950999560",
+              "start": 0,
+              "username": "9A9114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012527157596262910",
+        "in_reply_to_user_id": "1453406535950999560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012526198480310663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9A9114 蟹蟹🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453406535950999560",
+        "conversation_id": "2012480018551812254",
+        "created_at": "2026-01-17T14:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012526198480310663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012526198480310663",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012480018551812254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可爱～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 278,
+          "like_count": 6064,
+          "listed_count": 18,
+          "media_count": 104,
+          "tweet_count": 2972
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T17:01:49.000Z",
+        "description": "帮忙转推一下，谢谢～、\n这里是9A91，一个喜欢贴贴和涩涩的男娘哦～\n活跃在各个奇奇怪怪的地下室（划掉）\n不约不约！同好可以贴贴～",
+        "id": "1453406535950999560",
+        "location": "无人の小角落",
+        "name": "9A91",
+        "pinned_tweet_id": "1700752115940147274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453406750401613824/3qsQjUkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 263,
+          "like_count": 345,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 479
+        },
+        "username": "9A9114",
+        "verified": false
+      }
+    ]
+  }
+}

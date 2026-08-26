@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2064013275659108827",
+    "created_at": "2026-06-08T15:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064013444760916296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1408736706338033668",
+          "start": 0,
+          "username": "ACE_yumoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064013444760916296",
+    "in_reply_to_user_id": "1408736706338033668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064013275659108827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACE_yumoooo 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064013250866630657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTZHbWa0AEQBYu.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064013265622192128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTZISUa0AAmoaG.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2064013275659108827",
+        "created_at": "2026-06-08T15:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064013444760916296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1408736706338033668",
+              "start": 0,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013444760916296",
+        "in_reply_to_user_id": "1408736706338033668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064013275659108827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACE_yumoooo 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064013250866630657",
+            "3_2064013265622192128"
+          ]
+        },
+        "author_id": "1408736706338033668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2064013275659108827",
+        "created_at": "2026-06-08T15:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064013275659108827"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 13,
+              "tag": "cosplay"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "可爱の男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ex9Xa3MvEP",
+              "end": 61,
+              "expanded_url": "https://x.com/ACE_yumoooo/status/2064013275659108827/photo/1",
+              "media_key": "3_2064013250866630657",
+              "start": 38,
+              "url": "https://t.co/ex9Xa3MvEP"
+            },
+            {
+              "display_url": "pic.x.com/ex9Xa3MvEP",
+              "end": 61,
+              "expanded_url": "https://x.com/ACE_yumoooo/status/2064013275659108827/photo/1",
+              "media_key": "3_2064013265622192128",
+              "start": 38,
+              "url": "https://t.co/ex9Xa3MvEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013275659108827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学园偶像什么的，牡蛎！！\n#cosplay #可爱的男孩子 #可爱の男孩子 https://t.co/ex9Xa3MvEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14107,
+          "following_count": 540,
+          "like_count": 19034,
+          "listed_count": 48,
+          "media_count": 311,
+          "tweet_count": 10025
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 230,
+          "like_count": 1898,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 307
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

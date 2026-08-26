@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978314485833326725",
+    "created_at": "2025-10-15T12:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978431460601176104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978431460601176104",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978314485833326725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 好唯美~氛围拉满...！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1978314476865867776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RiiP-aUAAqJb5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1978314476878536705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RiiQBboAE3fXp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978314485833326725",
+        "created_at": "2025-10-15T12:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978431460601176104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978431460601176104",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978314485833326725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 好唯美~氛围拉满...！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978314476865867776",
+            "3_1978314476878536705"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1978314485833326725",
+        "created_at": "2025-10-15T04:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978314485833326725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlPPN8pac8",
+              "end": 28,
+              "expanded_url": "https://x.com/LanziiLove/status/1978314485833326725/photo/1",
+              "media_key": "3_1978314476865867776",
+              "start": 5,
+              "url": "https://t.co/vlPPN8pac8"
+            },
+            {
+              "display_url": "pic.x.com/vlPPN8pac8",
+              "end": 28,
+              "expanded_url": "https://x.com/LanziiLove/status/1978314485833326725/photo/1",
+              "media_key": "3_1978314476878536705",
+              "start": 5,
+              "url": "https://t.co/vlPPN8pac8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978314485833326725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5303,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "旧图新发 https://t.co/vlPPN8pac8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 48,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.4万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19237,
+          "following_count": 913,
+          "like_count": 1205,
+          "listed_count": 52,
+          "media_count": 305,
+          "tweet_count": 1497
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

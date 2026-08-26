@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020813062488347096",
+    "created_at": "2026-02-20T04:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024710063290798468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741025501681184768",
+          "start": 0,
+          "username": "Kurumifafa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024710063290798468",
+    "in_reply_to_user_id": "1741025501681184768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020813062488347096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kurumifafa 可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020813053932285952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtexA0bMAAaJka.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020813062488347096",
+        "created_at": "2026-02-20T04:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024710063290798468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741025501681184768",
+              "start": 0,
+              "username": "Kurumifafa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024710063290798468",
+        "in_reply_to_user_id": "1741025501681184768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020813062488347096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kurumifafa 可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020813053932285952"
+          ]
+        },
+        "author_id": "1741025501681184768",
+        "conversation_id": "2020813062488347096",
+        "created_at": "2026-02-09T10:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020813062488347096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmNtRuRBYn",
+              "end": 26,
+              "expanded_url": "https://x.com/Kurumifafa/status/2020813062488347096/photo/1",
+              "media_key": "3_2020813053932285952",
+              "start": 3,
+              "url": "https://t.co/nmNtRuRBYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020813062488347096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打钱 https://t.co/nmNtRuRBYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5977,
+          "following_count": 333,
+          "like_count": 9272,
+          "listed_count": 25,
+          "media_count": 147,
+          "tweet_count": 4835
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T09:16:57.000Z",
+        "description": "希望我喜欢的人变得幸福｜最好的姐姐@moe_suki1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "moe_suki1"
+              }
+            ]
+          }
+        },
+        "id": "1741025501681184768",
+        "location": "孱陵路33号",
+        "name": "花蓝不是花篮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920748864497123328/9argo1vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 157,
+          "like_count": 4146,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 240
+        },
+        "username": "Kurumifafa",
+        "verified": false
+      }
+    ]
+  }
+}

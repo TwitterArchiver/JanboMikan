@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2017414927011745838",
+    "created_at": "2026-01-31T08:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017511843485650973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436139332528586779",
+          "start": 0,
+          "username": "HimeUzuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017511843485650973",
+    "in_reply_to_user_id": "1436139332528586779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017414927011745838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HimeUzuki 用脸可以吗🥺（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11466,
+        "height": 1920,
+        "media_key": "13_2017414858904584193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017414858904584193/img/sAI56_XNx5IPRG0h.jpg",
+        "public_metrics": {
+          "view_count": 563
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017414858904584193/vid/avc1/720x1280/kKr7x0T46rdd9ANv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017414858904584193/vid/avc1/1080x1920/OFR48VS2qnSbg8d6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017414858904584193/vid/avc1/320x568/j_5kZZCZ9oma_DgD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017414858904584193/pl/eWpAf59gJqt5Qne9.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017414858904584193/vid/avc1/480x852/-Ajhy4MhbGjZi3jr.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2017414927011745838",
+        "created_at": "2026-01-31T08:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017511843485650973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436139332528586779",
+              "start": 0,
+              "username": "HimeUzuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017511843485650973",
+        "in_reply_to_user_id": "1436139332528586779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017414927011745838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeUzuki 用脸可以吗🥺（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017414858904584193"
+          ]
+        },
+        "author_id": "1436139332528586779",
+        "conversation_id": "2017414927011745838",
+        "created_at": "2026-01-31T01:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017414927011745838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6QuEynafU",
+              "end": 35,
+              "expanded_url": "https://x.com/HimeUzuki/status/2017414927011745838/video/1",
+              "media_key": "13_2017414858904584193",
+              "start": 12,
+              "url": "https://t.co/y6QuEynafU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017414927011745838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1744,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我擦皮鞋（法国口音） https://t.co/y6QuEynafU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 291,
+          "like_count": 7209,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 3665
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T01:28:09.000Z",
+        "description": "🌟请叫咱Uzuki或者卯月！💼湾区普通打工人及Lo汉=ω= 👗日常高强度穿Lo选手~ 🎀甜玼最高！🚫色色打咩x 禁止转载禁止盗图！在奇奇怪怪地方发现咱的照片都不是本人(·•᷄ࡇ•᷅ ）💖努力让自己变得更加可爱_8(:3 」∠ )_ 请多指教！以及欢迎走进我的世界www",
+        "id": "1436139332528586779",
+        "location": "San Francisco Bay Area",
+        "name": "HimeUzuki",
+        "pinned_tweet_id": "2006390499465384345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622858246708162560/QwEnDc8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15941,
+          "following_count": 289,
+          "like_count": 22049,
+          "listed_count": 59,
+          "media_count": 1605,
+          "tweet_count": 9767
+        },
+        "username": "HimeUzuki",
+        "verified": true
+      }
+    ]
+  }
+}

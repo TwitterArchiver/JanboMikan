@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2057663031522590975",
+    "created_at": "2026-05-22T05:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057691078489465086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967947979588775936",
+          "start": 0,
+          "username": "YeZi040207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057691078489465086",
+    "in_reply_to_user_id": "1967947979588775936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057663031522590975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeZi040207 人工的智能也是人工智能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2057663022194196480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5JneFXgAA8R84.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2057663031522590975",
+        "created_at": "2026-05-22T05:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691078489465086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967947979588775936",
+              "start": 0,
+              "username": "YeZi040207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691078489465086",
+        "in_reply_to_user_id": "1967947979588775936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057663031522590975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeZi040207 人工的智能也是人工智能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057663022194196480"
+          ]
+        },
+        "author_id": "1967947979588775936",
+        "conversation_id": "2057663031522590975",
+        "created_at": "2026-05-22T03:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057663031522590975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE5pYIeG5l",
+              "end": 64,
+              "expanded_url": "https://x.com/YeZi040207/status/2057663031522590975/photo/1",
+              "media_key": "3_2057663022194196480",
+              "start": 41,
+              "url": "https://t.co/UE5pYIeG5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057663031522590975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现高中语文作文其实就是早期能工智人，出卷老师写提示词，我按照要求生成一篇大份 https://t.co/UE5pYIeG5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13108,
+          "following_count": 511,
+          "like_count": 17902,
+          "listed_count": 44,
+          "media_count": 280,
+          "tweet_count": 9298
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T13:45:55.000Z",
+        "description": "被缚/ENFP/男/可约绳",
+        "id": "1967947979588775936",
+        "name": "水素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986374081801838592/DaT7sRwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 285,
+          "like_count": 337,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 31
+        },
+        "username": "YeZi040207",
+        "verified": false
+      }
+    ]
+  }
+}

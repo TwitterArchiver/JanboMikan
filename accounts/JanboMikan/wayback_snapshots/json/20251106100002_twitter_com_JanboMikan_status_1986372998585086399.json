@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986365793454768128",
+        "3_1986365793521836032"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1986372998585086399",
+    "created_at": "2025-11-06T10:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T11:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986372998585086399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/09bmgdsN9m",
+          "end": 162,
+          "expanded_url": "https://x.com/JanboMikan/status/1986372998585086399/photo/1",
+          "media_key": "3_1986365793454768128",
+          "start": 139,
+          "url": "https://t.co/09bmgdsN9m"
+        },
+        {
+          "display_url": "pic.x.com/09bmgdsN9m",
+          "end": 162,
+          "expanded_url": "https://x.com/JanboMikan/status/1986372998585086399/photo/1",
+          "media_key": "3_1986365793521836032",
+          "start": 139,
+          "url": "https://t.co/09bmgdsN9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986372998585086399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和老一辈观念上的矛盾有时真的确实难以解决。\n看过一部科幻小说，讲的人类意识上传之后，为了一个mtf。\nAI给她创造了一个「支持自己的父母」，给她父母创造了一个「不想做女孩的儿子」。\n两个世界隔离，互相都不知道对方是AI模拟的。\n乍一看有点细恐，但恐怕这就是人类最完美的方案了。 https://t.co/09bmgdsN9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1986365793454768128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9KjjbwAA1Pr-.jpg",
+        "width": 541
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1986365793521836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9KjzbIAA_YJl.jpg",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986365793454768128",
+            "3_1986365793521836032"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1986372998585086399",
+        "created_at": "2025-11-06T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986372998585086399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09bmgdsN9m",
+              "end": 162,
+              "expanded_url": "https://x.com/JanboMikan/status/1986372998585086399/photo/1",
+              "media_key": "3_1986365793454768128",
+              "start": 139,
+              "url": "https://t.co/09bmgdsN9m"
+            },
+            {
+              "display_url": "pic.x.com/09bmgdsN9m",
+              "end": 162,
+              "expanded_url": "https://x.com/JanboMikan/status/1986372998585086399/photo/1",
+              "media_key": "3_1986365793521836032",
+              "start": 139,
+              "url": "https://t.co/09bmgdsN9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986372998585086399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和老一辈观念上的矛盾有时真的确实难以解决。\n看过一部科幻小说，讲的人类意识上传之后，为了一个mtf。\nAI给她创造了一个「支持自己的父母」，给她父母创造了一个「不想做女孩的儿子」。\n两个世界隔离，互相都不知道对方是AI模拟的。\n乍一看有点细恐，但恐怕这就是人类最完美的方案了。 https://t.co/09bmgdsN9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 103,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986365834449854469",
+        "3_1986365834474987520"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1986735391471284570",
+    "created_at": "2025-11-07T10:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T11:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986735391471284570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0OwbOjLdzy",
+          "end": 82,
+          "expanded_url": "https://x.com/JanboMikan/status/1986735391471284570/photo/1",
+          "media_key": "3_1986365834449854469",
+          "start": 59,
+          "url": "https://t.co/0OwbOjLdzy"
+        },
+        {
+          "display_url": "pic.x.com/0OwbOjLdzy",
+          "end": 82,
+          "expanded_url": "https://x.com/JanboMikan/status/1986735391471284570/photo/1",
+          "media_key": "3_1986365834474987520",
+          "start": 59,
+          "url": "https://t.co/0OwbOjLdzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986735391471284570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来我们都是形形色色的人，只是因为平淡的生活把我们磨平了棱角，导致我们没有了形状，向生活妥协……最终成为了色色的人！ https://t.co/0OwbOjLdzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1986365834449854469",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9M8RbIAU1LKY.jpg",
+        "width": 541
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1986365834474987520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5D9M8XaoAAraVs.jpg",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986365834449854469",
+            "3_1986365834474987520"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1986735391471284570",
+        "created_at": "2025-11-07T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986735391471284570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OwbOjLdzy",
+              "end": 82,
+              "expanded_url": "https://x.com/JanboMikan/status/1986735391471284570/photo/1",
+              "media_key": "3_1986365834449854469",
+              "start": 59,
+              "url": "https://t.co/0OwbOjLdzy"
+            },
+            {
+              "display_url": "pic.x.com/0OwbOjLdzy",
+              "end": 82,
+              "expanded_url": "https://x.com/JanboMikan/status/1986735391471284570/photo/1",
+              "media_key": "3_1986365834474987520",
+              "start": 59,
+              "url": "https://t.co/0OwbOjLdzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986735391471284570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来我们都是形形色色的人，只是因为平淡的生活把我们磨平了棱角，导致我们没有了形状，向生活妥协……最终成为了色色的人！ https://t.co/0OwbOjLdzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 103,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

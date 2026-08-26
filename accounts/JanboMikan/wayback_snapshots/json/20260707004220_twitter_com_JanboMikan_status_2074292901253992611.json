@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2073723579523318180",
+    "created_at": "2026-07-07T00:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074292901253992611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985743703013801987",
+          "start": 0,
+          "username": "SeijaKijin93227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074292901253992611",
+    "in_reply_to_user_id": "1985743703013801987",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074182839650959810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeijaKijin93227 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2073723579523318180",
+        "created_at": "2026-07-07T00:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074292901253992611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985743703013801987",
+              "start": 0,
+              "username": "SeijaKijin93227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074292901253992611",
+        "in_reply_to_user_id": "1985743703013801987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074182839650959810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeijaKijin93227 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985743703013801987",
+        "conversation_id": "2073723579523318180",
+        "created_at": "2026-07-06T17:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074182839650959810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074182839650959810",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073723579523318180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14951,
+          "following_count": 582,
+          "like_count": 20506,
+          "listed_count": 52,
+          "media_count": 346,
+          "tweet_count": 10853
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-04T16:19:44.000Z",
+        "description": "无可救药的极端份子",
+        "id": "1985743703013801987",
+        "name": "幻想乡如何失去幻想力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985745512348467200/L_jCehpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 336,
+          "like_count": 9414,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "SeijaKijin93227",
+        "verified": false
+      }
+    ]
+  }
+}

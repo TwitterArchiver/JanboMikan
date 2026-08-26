@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036837274315555329",
+    "created_at": "2026-03-26T03:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T04:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037007684629860781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464477075033702400",
+          "start": 0,
+          "username": "DuiMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037007684629860781",
+    "in_reply_to_user_id": "1464477075033702400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036837274315555329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuiMiao 可爱捏🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036836785293254656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERMQ7zaYAAV_QX.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036837274315555329",
+        "created_at": "2026-03-26T03:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037007684629860781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464477075033702400",
+              "start": 0,
+              "username": "DuiMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037007684629860781",
+        "in_reply_to_user_id": "1464477075033702400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036837274315555329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuiMiao 可爱捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036836785293254656"
+          ]
+        },
+        "author_id": "1464477075033702400",
+        "conversation_id": "2036837274315555329",
+        "created_at": "2026-03-25T16:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036837274315555329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "男の娘"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "量产型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rzTjRsyIe",
+              "end": 40,
+              "expanded_url": "https://x.com/DuiMiao/status/2036837274315555329/photo/1",
+              "media_key": "3_2036836785293254656",
+              "start": 17,
+              "url": "https://t.co/4rzTjRsyIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036837274315555329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2007,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "贵安\n＃男娘 ＃男の娘 ＃量产型 https://t.co/4rzTjRsyIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9440,
+          "following_count": 416,
+          "like_count": 13269,
+          "listed_count": 37,
+          "media_count": 192,
+          "tweet_count": 6858
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T06:12:08.000Z",
+        "description": "夏天将要到来",
+        "id": "1464477075033702400",
+        "name": "洋葱乳酪味鲨鱼",
+        "pinned_tweet_id": "2036305762956566858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983196575506829312/dCsmlQ8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 2306,
+          "like_count": 41907,
+          "listed_count": 12,
+          "media_count": 43,
+          "tweet_count": 1207
+        },
+        "username": "DuiMiao",
+        "verified": false
+      }
+    ]
+  }
+}

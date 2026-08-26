@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2071097126252421629",
+    "created_at": "2026-06-28T08:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071155029311172796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        },
+        {
+          "end": 26,
+          "id": "1606188226821005312",
+          "start": 10,
+          "username": "YukiFox_5848103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071155029311172796",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071138454096761099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 @YukiFox_5848103 那很能比了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071097126252421629",
+        "created_at": "2026-06-28T08:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071155029311172796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            },
+            {
+              "end": 26,
+              "id": "1606188226821005312",
+              "start": 10,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071155029311172796",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071138454096761099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 @YukiFox_5848103 那很能比了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2071097126252421629",
+        "created_at": "2026-06-28T07:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071138454096761099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 28,
+              "id": "1606188226821005312",
+              "start": 12,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071138454096761099",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071097126252421629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @YukiFox_5848103 9300USD VS 9USD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14627,
+          "following_count": 571,
+          "like_count": 20023,
+          "listed_count": 52,
+          "media_count": 335,
+          "tweet_count": 10582
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "ˈʏpsilɔn",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067210143670960128/Zy6zcsFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 833,
+          "like_count": 6760,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 6193
+        },
+        "url": "",
+        "username": "Y2D80355",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T07:21:43.000Z",
+        "description": "这里是小白，一只可爱的白狐狸\n女装随缘更新\n最热爱的学科是物理\n永远向往自由\n（我是男孩子）",
+        "id": "1606188226821005312",
+        "name": "🦊Wh1te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056762063670972416/Z4knCr9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 874,
+          "like_count": 32225,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 19063
+        },
+        "url": "",
+        "username": "YukiFox_5848103",
+        "verified": false
+      }
+    ]
+  }
+}

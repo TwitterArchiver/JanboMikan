@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999653431112531969"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999653530655998168",
+    "created_at": "2025-12-13T01:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999653530655998168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2fhSxgQnmk",
+          "end": 172,
+          "expanded_url": "https://x.com/JanboMikan/status/1999653530655998168/photo/1",
+          "media_key": "3_1999653431112531969",
+          "start": 149,
+          "url": "https://t.co/2fhSxgQnmk"
+        },
+        {
+          "display_url": "x.com/Gicrain/status…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/Gicrain/status/1999331012845969460",
+          "start": 173,
+          "url": "https://t.co/zdktSYjXdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999653530655998168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999331012845969460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近确实好多人号被冻结，人心惶惶的。 \n我也觉得IP问题比较大，而机场IP质量良莠不齐。\n大家都用ping0看，但实际上业内都知道这家基本就是个娱乐库。\nping0绿标但实际fraud score很高的机场IP其实很多，之前发现一位朋友就是。 \n也从MJJ角度简单分享一下IP质量真正要怎么看吧。 https://t.co/2fhSxgQnmk https://t.co/zdktSYjXdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_1999653431112531969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AyM3NagAEgMwU.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999653431112531969"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999653530655998168",
+        "created_at": "2025-12-13T01:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999653530655998168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fhSxgQnmk",
+              "end": 172,
+              "expanded_url": "https://x.com/JanboMikan/status/1999653530655998168/photo/1",
+              "media_key": "3_1999653431112531969",
+              "start": 149,
+              "url": "https://t.co/2fhSxgQnmk"
+            },
+            {
+              "display_url": "x.com/Gicrain/status…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/Gicrain/status/1999331012845969460",
+              "start": 173,
+              "url": "https://t.co/zdktSYjXdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999653530655998168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999331012845969460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近确实好多人号被冻结，人心惶惶的。 \n我也觉得IP问题比较大，而机场IP质量良莠不齐。\n大家都用ping0看，但实际上业内都知道这家基本就是个娱乐库。\nping0绿标但实际fraud score很高的机场IP其实很多，之前发现一位朋友就是。 \n也从MJJ角度简单分享一下IP质量真正要怎么看吧。 https://t.co/2fhSxgQnmk https://t.co/zdktSYjXdB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533490507204423680",
+        "conversation_id": "1999331012845969460",
+        "created_at": "2025-12-12T04:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999331012845969460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999331012845969460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ping0.cc",
+                "end": 391,
+                "expanded_url": "http://ping0.cc",
+                "start": 368,
+                "url": "https://t.co/pWKgNBLKn5"
+              }
+            ]
+          },
+          "text": "紧急通知：推特近期出现了大规模封号，请各位宝宝们注意保护好自己账号哦。\n\n下面是已知的被封号的行为：\n\n1.头像如果出现色情内容，会被平台冻结。平台规则中写有禁止色情头像。\n\n2.横幅（头像上方图片）出现色情内容，会被平台冻结。平台规则中写有禁止色情横幅。\n\n3.使用劣质VPN，如果一个节点出现了很多很多人，极大概率也会被平台冻结。\n\n4.在未退出软件X（本软件）的状态下切换VPN节点，极大概率会被冻结。\n\n头像与横幅中出现色情内容会被平台冻结，正常情况下并不会永久冻结，可以解封但解封后会被限流。\n\n如果是VPN导致的账号冻结，极大概率会被永久冻结。\n\n目前已知这个平台由Ai管控，极大多数人都是因为VPN节点的原因导致账号被永久冻结。平台目前应该是没有客服，一旦被冻结后几乎申诉不回来了。\n\n关于VPN，大家可以在浏览器输入网址https://t.co/pWKgNBLKn5查看自己当前使用的VPN状态是否低风险是否安全。\n\n从11月至12月，这段期间很多人都被平白无故永久冻结了账号，极大概率是因为VPN节点问题导致的。\n\n由于平台由Ai管控，也有可能是Ai的问题，群主本人在8月至10月份创建的三个新账号都被平白无故永久冻结了，也全都无法申诉。\n\n但被封号的核心原因应该还是VPN节点问题导致的，大家尽量不要用劣质VPN。\n\n近期平台出现了用户名更改次数的标记，尚不清楚会不会对账号造成影响，建议大家尽量不要随意更改自己的用户名。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 29346,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "紧急通知：推特近期出现了大规模封号，请各位宝宝们注意保护好自己账号哦。\n\n下面是已知的被封号的行为：\n\n1.头像如果出现色情内容，会被平台冻结。平台规则中写有禁止色情头像。\n\n2.横幅（头像上方图片）出现色情内容，会被平台冻结。平台规则中写有禁止色情横幅。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 197,
+          "like_count": 3053,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T16:47:01.000Z",
+        "description": "感謝兄弟們的關注。閨蜜@susuxiao766",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "susuxiao766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1701917464140152891",
+                "start": 0,
+                "url": "https://t.co/BhbMhVmJ2J"
+              }
+            ]
+          }
+        },
+        "id": "1533490507204423680",
+        "location": "燭短遺憾長故人自難忘…",
+        "name": "奶怡喵喵咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991249736469450752/SKgY291P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93820,
+          "following_count": 60,
+          "like_count": 218,
+          "listed_count": 710,
+          "media_count": 425,
+          "tweet_count": 3521
+        },
+        "url": "https://t.co/BhbMhVmJ2J",
+        "username": "Gicrain",
+        "verified": false
+      }
+    ]
+  }
+}

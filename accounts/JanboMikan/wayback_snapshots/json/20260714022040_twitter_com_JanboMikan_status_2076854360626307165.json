@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2076260287611568334",
+    "created_at": "2026-07-14T02:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076854360626307165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983919037810962432",
+          "start": 0,
+          "username": "orange6699166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076854360626307165",
+    "in_reply_to_user_id": "1983919037810962432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076833231916396633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orange6699166 甜菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11355,
+        "height": 720,
+        "media_key": "13_2076833166623711232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076833166623711232/img/f2K3lr6PJZ4wbDa_.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076833166623711232/vid/avc1/480x270/pHWSVWiX8qliYrx4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076833166623711232/vid/avc1/640x360/z3haGTe01uhVmrqG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076833166623711232/vid/avc1/1280x720/4GdwbtXsYTESG6Al.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076833166623711232/pl/vxUNdM5P0yM1_3H7.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2076260287611568334",
+        "created_at": "2026-07-14T02:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076854360626307165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983919037810962432",
+              "start": 0,
+              "username": "orange6699166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076854360626307165",
+        "in_reply_to_user_id": "1983919037810962432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076833231916396633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange6699166 甜菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076833166623711232"
+          ]
+        },
+        "author_id": "1983919037810962432",
+        "conversation_id": "2076260287611568334",
+        "created_at": "2026-07-14T00:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833231916396633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQVIqc1CjK",
+              "end": 46,
+              "expanded_url": "https://x.com/orange6699166/status/2076833231916396633/video/1",
+              "media_key": "13_2076833166623711232",
+              "start": 23,
+              "url": "https://t.co/wQVIqc1CjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076833231916396633",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076260287611568334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这就是答案，全家大同 https://t.co/wQVIqc1CjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15289,
+          "following_count": 595,
+          "like_count": 20921,
+          "listed_count": 52,
+          "media_count": 356,
+          "tweet_count": 11059
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T15:29:11.000Z",
+        "description": "推主是跨性别女，m，179/60kg",
+        "id": "1983919037810962432",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983919237950533632/nGPoOIGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 212,
+          "like_count": 1728,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "orange6699166",
+        "verified": false
+      }
+    ]
+  }
+}

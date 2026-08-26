@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2068260954505429025",
+    "created_at": "2026-06-20T09:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068262712443081187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2060941355896176640",
+          "start": 0,
+          "username": "naisan_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068262712443081187",
+    "in_reply_to_user_id": "2060941355896176640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068262295365685293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naisan_owo 是这样的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2068260954505429025",
+        "created_at": "2026-06-20T09:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068262712443081187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2060941355896176640",
+              "start": 0,
+              "username": "naisan_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068262712443081187",
+        "in_reply_to_user_id": "2060941355896176640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068262295365685293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naisan_owo 是这样的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060941355896176640",
+        "conversation_id": "2068260954505429025",
+        "created_at": "2026-06-20T09:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068262295365685293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068262295365685293",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068260954505429025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 还有户外露出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14280,
+          "following_count": 557,
+          "like_count": 19608,
+          "listed_count": 49,
+          "media_count": 323,
+          "tweet_count": 10322
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T04:30:11.000Z",
+        "description": "这里是杉杉喵，这个号不知道干什么但是还是整了",
+        "id": "2060941355896176640",
+        "name": "艿杉杉",
+        "pinned_tweet_id": "2061313030928085047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060942842718244864/oJk8lK-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 21,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "naisan_owo",
+        "verified": false
+      }
+    ]
+  }
+}

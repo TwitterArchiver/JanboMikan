@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990963505852526592"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1990836860067983447",
+    "created_at": "2025-11-19T02:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T03:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990963514689851692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lwR7nIYhpO",
+          "end": 32,
+          "expanded_url": "https://x.com/JanboMikan/status/1990963514689851692/photo/1",
+          "media_key": "3_1990963505852526592",
+          "start": 9,
+          "url": "https://t.co/lwR7nIYhpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990963514689851692",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990836860067983447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z https://t.co/lwR7nIYhpO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1990963505852526592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FSwo8bMAAvA09.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990963505852526592"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1990836860067983447",
+        "created_at": "2025-11-19T02:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990963514689851692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwR7nIYhpO",
+              "end": 32,
+              "expanded_url": "https://x.com/JanboMikan/status/1990963514689851692/photo/1",
+              "media_key": "3_1990963505852526592",
+              "start": 9,
+              "url": "https://t.co/lwR7nIYhpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990963514689851692",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990836860067983447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z https://t.co/lwR7nIYhpO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507794054511497219",
+        "conversation_id": "1990836860067983447",
+        "created_at": "2025-11-18T17:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990836860067983447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miyu__Z/status…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/Miyu__Z/status/1990663044247294382",
+              "start": 107,
+              "url": "https://t.co/u9hJ1CIthZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990836860067983447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 587,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990663044247294382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了😇原来吞通知、还有各种出错不是没有原因的\n\n出门吃饭时发现一家平时满座的店今天竟然没人，发现是点单系统用不了\n\n合理联想，果然我的推特彻底上不去了。一搜才知道是 cloudflare炸了，这下错怪马斯克了（ https://t.co/u9hJ1CIthZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 122,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "争取成为人类|| 里账，看情况放人: @fuzhu514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "fuzhu514"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "只是一个顺直郭楠而已...",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 299,
+          "like_count": 16390,
+          "listed_count": 8,
+          "media_count": 145,
+          "tweet_count": 3377
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

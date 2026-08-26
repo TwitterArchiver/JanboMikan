@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008415232700674518",
+    "created_at": "2026-01-07T16:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008935176794189871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997795964829184000",
+          "start": 0,
+          "username": "JohnDobson34751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008935176794189871",
+    "in_reply_to_user_id": "1997795964829184000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008415232700674518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnDobson34751 只要胆子大天天是放假😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2008415223318016000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G99TAStbcAAIhod.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008415232700674518",
+        "created_at": "2026-01-07T16:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008935176794189871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997795964829184000",
+              "start": 0,
+              "username": "JohnDobson34751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008935176794189871",
+        "in_reply_to_user_id": "1997795964829184000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008415232700674518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnDobson34751 只要胆子大天天是放假😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008415223318016000"
+          ]
+        },
+        "author_id": "1997795964829184000",
+        "conversation_id": "2008415232700674518",
+        "created_at": "2026-01-06T05:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008415232700674518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCN8LsBZdW",
+              "end": 38,
+              "expanded_url": "https://x.com/JohnDobson34751/status/2008415232700674518/photo/1",
+              "media_key": "3_2008415223318016000",
+              "start": 15,
+              "url": "https://t.co/qCN8LsBZdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008415232700674518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 108309,
+          "like_count": 5106,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "不想上课，提前给自己放寒假~ https://t.co/qCN8LsBZdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 249,
+          "like_count": 5224,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 2510
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T22:30:58.000Z",
+        "description": "`_____我主号 @Ryan8790198347",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "Ryan8790198347"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hgrcj.xiwarezz.mom",
+                "end": 23,
+                "expanded_url": "http://hgrcj.xiwarezz.mom",
+                "start": 0,
+                "url": "https://t.co/BXaN7qVJae"
+              }
+            ]
+          }
+        },
+        "id": "1997795964829184000",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "一碗小于",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008413235620524032/3SSi7M8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 1,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/BXaN7qVJae",
+        "username": "JohnDobson34751",
+        "verified": false
+      }
+    ]
+  }
+}

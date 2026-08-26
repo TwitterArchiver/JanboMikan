@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999276271105388544"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1999434179340284367",
+    "created_at": "2025-12-12T11:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999434179340284367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iwEX5sdFsX",
+          "end": 134,
+          "expanded_url": "https://x.com/JanboMikan/status/1999434179340284367/photo/1",
+          "media_key": "3_1999276271105388544",
+          "start": 111,
+          "url": "https://t.co/iwEX5sdFsX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999434179340284367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷推之所以焦虑，是因为你还在把它当朋友圈去羡慕别人的生活。\n如果像我一样把关注列表全换成小男娘。\n每天打开时间轴那一刻，自己瞬间变成坐拥三千佳丽的赛博唐玄宗。\n\n万粉大V算什么，还不是要争先恐后排着队等着我翻牌子，嘻嘻。 https://t.co/iwEX5sdFsX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_1999276271105388544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77bLQsasAA1uFb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999276271105388544"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999434179340284367",
+        "created_at": "2025-12-12T11:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999434179340284367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwEX5sdFsX",
+              "end": 134,
+              "expanded_url": "https://x.com/JanboMikan/status/1999434179340284367/photo/1",
+              "media_key": "3_1999276271105388544",
+              "start": 111,
+              "url": "https://t.co/iwEX5sdFsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999434179340284367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推之所以焦虑，是因为你还在把它当朋友圈去羡慕别人的生活。\n如果像我一样把关注列表全换成小男娘。\n每天打开时间轴那一刻，自己瞬间变成坐拥三千佳丽的赛博唐玄宗。\n\n万粉大V算什么，还不是要争先恐后排着队等着我翻牌子，嘻嘻。 https://t.co/iwEX5sdFsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 195,
+          "like_count": 2998,
+          "listed_count": 8,
+          "media_count": 55,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

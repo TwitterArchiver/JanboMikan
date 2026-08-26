@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011742616199795014",
+    "created_at": "2026-01-16T04:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T05:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012017766505844848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1984725515023106051",
+          "start": 0,
+          "username": "Xuan_M0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012017766505844848",
+    "in_reply_to_user_id": "1984725515023106051",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011742616199795014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan_M0o kk😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011741489328709632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-skOdNaYAAu8Ij.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011742616199795014",
+        "created_at": "2026-01-16T04:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012017766505844848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1984725515023106051",
+              "start": 0,
+              "username": "Xuan_M0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012017766505844848",
+        "in_reply_to_user_id": "1984725515023106051",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011742616199795014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan_M0o kk😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011741489328709632"
+          ]
+        },
+        "author_id": "1984725515023106051",
+        "conversation_id": "2011742616199795014",
+        "created_at": "2026-01-15T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011742616199795014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "量產型"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "雾囲気"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "地雷系"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "男娘"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "伪娘"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LK0TS9imj",
+              "end": 80,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2011742616199795014/photo/1",
+              "media_key": "3_2011741489328709632",
+              "start": 57,
+              "url": "https://t.co/3LK0TS9imj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011742616199795014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 928,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "想看小天使撩起裙子诱惑你的样子？真是hentai～🤍🩷\n\n#量產型 #雾囲気 #地雷系 #男娘 #伪娘 #男の娘 https://t.co/3LK0TS9imj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 278,
+          "like_count": 5960,
+          "listed_count": 18,
+          "media_count": 102,
+          "tweet_count": 2891
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T20:54:03.000Z",
+        "description": "喜欢女装穿搭和可爱事物的男孩子♂（男娘？）/\n01年，坐标江苏，168cm，56kg/\n性别认同正常，偏双性恋/\n是二次元游戏宅，也喜欢旅游摄影w/\n水色系和地雷系重度依赖🤍🩵，但是性格并不地雷哦！/\n属性是偏温柔又严厉大哥哥（or大姐姐）类型的S/Dom Daddy，涉猎很广很包容w～",
+        "id": "1984725515023106051",
+        "location": "想要互关扩列可以私信哦～！",
+        "name": "Matsu茉",
+        "pinned_tweet_id": "1996888509815415089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985054814359949312/2EddkLkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 183,
+          "like_count": 342,
+          "listed_count": 14,
+          "media_count": 103,
+          "tweet_count": 300
+        },
+        "username": "Xuan_M0o",
+        "verified": true
+      }
+    ]
+  }
+}

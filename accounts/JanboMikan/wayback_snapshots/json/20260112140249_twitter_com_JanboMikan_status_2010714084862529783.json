@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2010658381347033230",
+    "created_at": "2026-01-12T14:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T15:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010714084862529783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1477204755613032451",
+          "start": 0,
+          "username": "Dirty_Deed_"
+        },
+        {
+          "end": 29,
+          "id": "1739528757487239168",
+          "start": 13,
+          "username": "dream3042919440"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010714084862529783",
+    "in_reply_to_user_id": "1477204755613032451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010658381347033230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dirty_Deed_ @dream3042919440 答案是史莱姆化！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2010658379023478784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dLJI5bcAAx7Fb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2010658381347033230",
+        "created_at": "2026-01-12T14:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010714084862529783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1477204755613032451",
+              "start": 0,
+              "username": "Dirty_Deed_"
+            },
+            {
+              "end": 29,
+              "id": "1739528757487239168",
+              "start": 13,
+              "username": "dream3042919440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010714084862529783",
+        "in_reply_to_user_id": "1477204755613032451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010658381347033230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dirty_Deed_ @dream3042919440 答案是史莱姆化！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010658379023478784"
+          ]
+        },
+        "author_id": "1477204755613032451",
+        "conversation_id": "2010658381347033230",
+        "created_at": "2026-01-12T10:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010658381347033230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 111,
+              "id": "1739528757487239168",
+              "start": 95,
+              "username": "dream3042919440"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6n055Akj4D",
+              "end": 135,
+              "expanded_url": "https://x.com/Dirty_Deed_/status/2010658381347033230/photo/1",
+              "media_key": "3_2010658379023478784",
+              "start": 112,
+              "url": "https://t.co/6n055Akj4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010658381347033230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3401,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "某个杂鱼跟我说自己逃脱率百分之百\n还想挑战一下全包过夜？\n特地为了挑战性进行了多层加固\n缠绕膜＋静电胶带＋电工胶带的组合\n\n要是能靠自己出来那我岂不是白包了\n（声望下降.jpg）\n\n填充物：@dream3042919440 https://t.co/6n055Akj4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 263,
+          "like_count": 5594,
+          "listed_count": 14,
+          "media_count": 98,
+          "tweet_count": 2712
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T09:07:22.000Z",
+        "description": "常驻上海，全包师，约玩先看置顶，私信请带来意\n  全包群：正在建设中\n  XP：多材料全包及各类拘束\n\n狗子：\n@yoghri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 56,
+                "username": "yoghri"
+              }
+            ]
+          }
+        },
+        "id": "1477204755613032451",
+        "location": "距离您 46729137291光年",
+        "name": "霖（咪咪喵喵版）",
+        "pinned_tweet_id": "1887542347149225991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887549213891850240/OhwpNLqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10276,
+          "following_count": 77,
+          "like_count": 1318,
+          "listed_count": 26,
+          "media_count": 164,
+          "tweet_count": 503
+        },
+        "username": "Dirty_Deed_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T06:09:21.000Z",
+        "description": "sw，但缚手为主丨esfj丨暂居上海徐汇丨杭州“弦”也是刷新点丨时常也会玩绳子之外的丨欢迎绿色健康交流丨或许会有隐藏菜单（？",
+        "id": "1739528757487239168",
+        "name": "dream6841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811777519164751877/abSY035d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 106,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "dream3042919440",
+        "verified": false
+      }
+    ]
+  }
+}

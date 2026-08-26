@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2059228064458916218",
+    "created_at": "2026-05-26T13:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059259270718435366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858102501381414912",
+          "start": 0,
+          "username": "zaofushijian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059259270718435366",
+    "in_reply_to_user_id": "1858102501381414912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059256313910354355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaofushijian 豪赤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2059228064458916218",
+        "created_at": "2026-05-26T13:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059259270718435366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059259270718435366",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059256313910354355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian 豪赤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858102501381414912",
+        "conversation_id": "2059228064458916218",
+        "created_at": "2026-05-26T12:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059256313910354355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059256313910354355",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059228064458916218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 哇还有烤肠吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13310,
+          "following_count": 524,
+          "like_count": 18258,
+          "listed_count": 46,
+          "media_count": 290,
+          "tweet_count": 9557
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2032678631542255908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 160,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 964,
+          "tweet_count": 7594
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

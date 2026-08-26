@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026713605316685921",
+    "created_at": "2026-02-26T11:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026983149226573852"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "天菜",
+          "probability": 0.6483,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026983149226573852",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026713605316685921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina 天菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2026713601541873664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBVSFlbIAApfVe.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026713605316685921",
+        "created_at": "2026-02-26T11:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026983149226573852"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "天菜",
+              "probability": 0.6483,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026983149226573852",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026713605316685921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina 天菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026713601541873664"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1389326551435538435",
+              "name": "Apple AirTags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2026713605316685921",
+        "created_at": "2026-02-25T17:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026713605316685921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8XnWUMb3W",
+              "end": 35,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2026713605316685921/photo/1",
+              "media_key": "3_2026713601541873664",
+              "start": 12,
+              "url": "https://t.co/E8XnWUMb3W"
+            },
+            {
+              "display_url": "x.com/megabits_mzq/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/megabits_mzq/status/2026597861136412798",
+              "start": 36,
+              "url": "https://t.co/sow2krcRQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026713605316685921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 260764,
+          "like_count": 1596,
+          "quote_count": 15,
+          "reply_count": 41,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026597861136412798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我简单粗暴的办法 https://t.co/E8XnWUMb3W https://t.co/sow2krcRQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6907,
+          "following_count": 365,
+          "like_count": 9975,
+          "listed_count": 31,
+          "media_count": 157,
+          "tweet_count": 5261
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂//看女装的直接去亮点(偶尔有荤的注意⚠️)//都内一般会社員//120% purity sub//抽空搞点考斯普雷//需要回fo请DM//如果想问任何问题➡️https://t.co/VACXZCUkde",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 106,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 83,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Ayano",
+        "pinned_tweet_id": "2020722495960367480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4738,
+          "following_count": 506,
+          "like_count": 1769,
+          "listed_count": 23,
+          "media_count": 128,
+          "tweet_count": 2222
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

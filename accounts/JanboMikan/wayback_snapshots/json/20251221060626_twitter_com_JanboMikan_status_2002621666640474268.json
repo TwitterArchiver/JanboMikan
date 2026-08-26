@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2002599946953109582",
+    "created_at": "2025-12-21T06:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T07:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002621666640474268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1083759056337088512",
+          "start": 0,
+          "username": "CrazyBunnyDoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002621666640474268",
+    "in_reply_to_user_id": "1083759056337088512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002599946953109582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrazyBunnyDoll 工位和人一样少女~🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2002599941554819072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8qqCV-X0AAgSN0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2002599941558964224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8qqCV_XEAAZo3g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2002599946953109582",
+        "created_at": "2025-12-21T06:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T07:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002621666640474268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1083759056337088512",
+              "start": 0,
+              "username": "CrazyBunnyDoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002621666640474268",
+        "in_reply_to_user_id": "1083759056337088512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002599946953109582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrazyBunnyDoll 工位和人一样少女~🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002599941554819072",
+            "3_2002599941558964224"
+          ]
+        },
+        "author_id": "1083759056337088512",
+        "conversation_id": "2002599946953109582",
+        "created_at": "2025-12-21T04:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002599946953109582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IO7Wfh7hpj",
+              "end": 167,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2002599946953109582/photo/1",
+              "media_key": "3_2002599941554819072",
+              "start": 144,
+              "url": "https://t.co/IO7Wfh7hpj"
+            },
+            {
+              "display_url": "pic.x.com/IO7Wfh7hpj",
+              "end": 167,
+              "expanded_url": "https://x.com/CrazyBunnyDoll/status/2002599946953109582/photo/1",
+              "media_key": "3_2002599941558964224",
+              "start": 144,
+              "url": "https://t.co/IO7Wfh7hpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002599946953109582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论公司都多无聊：二月中才换新工位，十二月份就要求把个人物品全部清理回家，我桌子上的物品全是个人物品，电脑、键盘、鼠标、显示器、耳机都是自己买的，所以全都要清理走，剩下了一个空桌子……\n\n（你可以argue我是因为没工位才被赶的，但是我每天来办公室上班，两年多了也没给我工位就更加离谱了） https://t.co/IO7Wfh7hpj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 211,
+          "like_count": 3838,
+          "listed_count": 8,
+          "media_count": 80,
+          "tweet_count": 1747
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-11T16:14:29.000Z",
+        "description": "INFJ-T / 日常咸鱼 / 沉迷lolita小裙子 / 贫穷让我沉迷加班 / 小透明，欢迎扩列 / 脸大如饼，越减越肥 / 照骗什么的都是假的 (￣∇￣)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/crazybunnydoll",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/crazybunnydoll",
+                "start": 0,
+                "url": "https://t.co/Fk377BYjEw"
+              }
+            ]
+          }
+        },
+        "id": "1083759056337088512",
+        "name": "疯兔",
+        "pinned_tweet_id": "1884464461735686247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997763325556654080/OU5H8JY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 245,
+          "like_count": 6835,
+          "listed_count": 22,
+          "media_count": 1090,
+          "tweet_count": 7739
+        },
+        "url": "https://t.co/Fk377BYjEw",
+        "username": "CrazyBunnyDoll",
+        "verified": false
+      }
+    ]
+  }
+}

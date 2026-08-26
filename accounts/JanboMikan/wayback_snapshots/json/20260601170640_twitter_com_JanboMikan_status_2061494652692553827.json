@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2061324881594368416",
+    "created_at": "2026-06-01T17:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061494652692553827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1291003986921680897",
+          "start": 0,
+          "username": "CannedCha"
+        },
+        {
+          "end": 23,
+          "id": "1408736706338033668",
+          "start": 11,
+          "username": "ACE_yumoooo"
+        },
+        {
+          "end": 35,
+          "id": "1668037836996771840",
+          "start": 24,
+          "username": "cha_li_jin"
+        },
+        {
+          "end": 52,
+          "id": "1511574513967722505",
+          "start": 36,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061494652692553827",
+    "in_reply_to_user_id": "1291003986921680897",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061330795751760261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CannedCha @ACE_yumoooo @cha_li_jin @_Genshin_Ganyu_ 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2061324881594368416",
+        "created_at": "2026-06-01T17:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061494652692553827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1291003986921680897",
+              "start": 0,
+              "username": "CannedCha"
+            },
+            {
+              "end": 23,
+              "id": "1408736706338033668",
+              "start": 11,
+              "username": "ACE_yumoooo"
+            },
+            {
+              "end": 35,
+              "id": "1668037836996771840",
+              "start": 24,
+              "username": "cha_li_jin"
+            },
+            {
+              "end": 52,
+              "id": "1511574513967722505",
+              "start": 36,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494652692553827",
+        "in_reply_to_user_id": "1291003986921680897",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061330795751760261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CannedCha @ACE_yumoooo @cha_li_jin @_Genshin_Ganyu_ 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291003986921680897",
+        "conversation_id": "2061324881594368416",
+        "created_at": "2026-06-01T06:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061330795751760261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 24,
+              "id": "1408736706338033668",
+              "start": 12,
+              "username": "ACE_yumoooo"
+            },
+            {
+              "end": 36,
+              "id": "1668037836996771840",
+              "start": 25,
+              "username": "cha_li_jin"
+            },
+            {
+              "end": 53,
+              "id": "1511574513967722505",
+              "start": 37,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061330795751760261",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061324881594368416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @ACE_yumoooo @cha_li_jin @_Genshin_Ganyu_ 羡慕😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13651,
+          "following_count": 531,
+          "like_count": 18602,
+          "listed_count": 46,
+          "media_count": 302,
+          "tweet_count": 9783
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T13:32:27.000Z",
+        "description": "什么都不是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cannedcha.net",
+                "end": 23,
+                "expanded_url": "https://blog.cannedcha.net",
+                "start": 0,
+                "url": "https://t.co/6U4c15znjM"
+              }
+            ]
+          }
+        },
+        "id": "1291003986921680897",
+        "location": "/usr/bin",
+        "name": "小罐猹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848402946683478016/R2VVIE2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 649,
+          "like_count": 24284,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/6U4c15znjM",
+        "username": "CannedCha",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 222,
+          "like_count": 1775,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 288
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "神秘小号@tashigan1230\n事情要是想我意淫的那样发展该多好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "tashigan1230"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "距离114m",
+        "name": "AAA星之果实批发零售察里津",
+        "pinned_tweet_id": "2051180916379467849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044095358914179073/xeeXYzpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 812,
+          "like_count": 18291,
+          "listed_count": 60,
+          "media_count": 381,
+          "tweet_count": 3451
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "日常推、技术推\n椰羊老师 | BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美🥥🐑",
+        "pinned_tweet_id": "2041811802737238261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 1114,
+          "like_count": 3225,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 2479
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      }
+    ]
+  }
+}

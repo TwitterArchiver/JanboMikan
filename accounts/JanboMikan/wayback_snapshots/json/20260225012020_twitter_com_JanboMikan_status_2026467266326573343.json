@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026250763107000809",
+    "created_at": "2026-02-25T01:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026467266326573343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905675495179780101",
+          "start": 0,
+          "username": "fngshji2975131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026467266326573343",
+    "in_reply_to_user_id": "1905675495179780101",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026316689777033358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngshji2975131 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-25T01:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026467266326573343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1905675495179780101",
+              "start": 0,
+              "username": "fngshji2975131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026467266326573343",
+        "in_reply_to_user_id": "1905675495179780101",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026316689777033358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngshji2975131 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905675495179780101",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-24T15:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026316689777033358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026316689777033358",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250763107000809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6466,
+          "following_count": 356,
+          "like_count": 9758,
+          "listed_count": 29,
+          "media_count": 153,
+          "tweet_count": 5112
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T17:37:13.000Z",
+        "description": "或许是不知梦的缘故，流离之人追逐幻影",
+        "id": "1905675495179780101",
+        "name": "琉璃失梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009662390540140544/xC1cJfw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 44,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 61
+        },
+        "username": "fngshji2975131",
+        "verified": false
+      }
+    ]
+  }
+}

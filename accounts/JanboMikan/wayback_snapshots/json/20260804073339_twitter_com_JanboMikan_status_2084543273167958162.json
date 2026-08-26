@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084543260845064192"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2084543273167958162",
+    "created_at": "2026-08-04T07:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084543273167958162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "915427197329883137",
+          "start": 13,
+          "username": "Azhuquq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qz2039qmxA",
+          "end": 45,
+          "expanded_url": "https://x.com/JanboMikan/status/2084543273167958162/photo/1",
+          "media_key": "3_2084543260845064192",
+          "start": 22,
+          "url": "https://t.co/qz2039qmxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084543273167958162",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🖥️👴🏻\n🍊✍🏻\n\n📷: @Azhuquq https://t.co/qz2039qmxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084543260845064192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3JDSWawAAMd3f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084543260845064192"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2084543273167958162",
+        "created_at": "2026-08-04T07:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084543273167958162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "915427197329883137",
+              "start": 13,
+              "username": "Azhuquq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qz2039qmxA",
+              "end": 45,
+              "expanded_url": "https://x.com/JanboMikan/status/2084543273167958162/photo/1",
+              "media_key": "3_2084543260845064192",
+              "start": 22,
+              "url": "https://t.co/qz2039qmxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084543273167958162",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🖥️👴🏻\n🍊✍🏻\n\n📷: @Azhuquq https://t.co/qz2039qmxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15939,
+          "following_count": 617,
+          "like_count": 21744,
+          "listed_count": 53,
+          "media_count": 381,
+          "tweet_count": 11566
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-04T04:03:46.000Z",
+        "description": "这里是苏酱 | 广东 | 音游人 | 中文/粵語/EN | 偶尔在推上营业 | 喜欢可爱的东西 | JK/Lolita | 清水不涩涩 | MTX | ENBY | 想和🏳️‍⚧️/一起穿小裙子的人贴贴quq～",
+        "id": "915427197329883137",
+        "location": "广东 珠海",
+        "name": "神樂坂苏酱",
+        "pinned_tweet_id": "1975084763699716253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023786959198711813/SRS2Bjhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 314,
+          "like_count": 793,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "Azhuquq",
+        "verified": false
+      }
+    ]
+  }
+}

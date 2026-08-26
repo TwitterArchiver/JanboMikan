@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026611398810415237",
+    "created_at": "2026-02-26T01:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026824640195354938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859416269570834433",
+          "start": 0,
+          "username": "c1ndl8st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026824640195354938",
+    "in_reply_to_user_id": "1859416269570834433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026699560266117338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c1ndl8st 这么抬举😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026611398810415237",
+        "created_at": "2026-02-26T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026824640195354938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859416269570834433",
+              "start": 0,
+              "username": "c1ndl8st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026824640195354938",
+        "in_reply_to_user_id": "1859416269570834433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026699560266117338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c1ndl8st 这么抬举😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859416269570834433",
+        "conversation_id": "2026611398810415237",
+        "created_at": "2026-02-25T16:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026699560266117338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026699560266117338",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026611398810415237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 已经在好几个学校的群里看到转发了x\n\n超可爱男娘+段子大手子，内外兼修🫡😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763,
+          "following_count": 357,
+          "like_count": 9908,
+          "listed_count": 30,
+          "media_count": 156,
+          "tweet_count": 5219
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T01:59:45.000Z",
+        "description": "❤ Coding；南方某高校在读；网安专业，兴趣开发；",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.candlest.cc",
+                "end": 23,
+                "expanded_url": "https://blog.candlest.cc",
+                "start": 0,
+                "url": "https://t.co/DmlxuJB3Dg"
+              }
+            ]
+          }
+        },
+        "id": "1859416269570834433",
+        "name": "tty63",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015717227295817728/vGORZyS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 42,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/DmlxuJB3Dg",
+        "username": "c1ndl8st",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2078434607503147113",
+    "created_at": "2026-07-19T03:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078685396079403037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3007906338",
+          "start": 0,
+          "username": "elmoMrch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078685396079403037",
+    "in_reply_to_user_id": "3007906338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078620633647427842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elmoMrch 这是精神控制术x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2078434607503147113",
+        "created_at": "2026-07-19T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078685396079403037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3007906338",
+              "start": 0,
+              "username": "elmoMrch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078685396079403037",
+        "in_reply_to_user_id": "3007906338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078620633647427842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elmoMrch 这是精神控制术x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3007906338",
+        "conversation_id": "2078434607503147113",
+        "created_at": "2026-07-18T23:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078620633647427842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078620633647427842",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078434607503147113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可以教我把男娘变成我的杯子吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15518,
+          "following_count": 601,
+          "like_count": 21201,
+          "listed_count": 52,
+          "media_count": 361,
+          "tweet_count": 11213
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-02T12:45:43.000Z",
+        "description": "can talk about anime, Hentai, and Tokusatsu I am from Malaysia.I don't mind making friends No Life Matters. Male. 可以聊動漫，hentai和特攝片的馬來西亞人，不介意和大家交流，反极端主义，男",
+        "id": "3007906338",
+        "location": "Kuala Lumpur City, Kuala Lumpu",
+        "name": "フミトシ (MADE IN 🇲🇾🇲🇾)🔞No life matters🖕",
+        "pinned_tweet_id": "1379225227805122561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046367940422123520/iI2KCEco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1073,
+          "like_count": 252005,
+          "listed_count": 3,
+          "media_count": 1864,
+          "tweet_count": 12121
+        },
+        "url": "",
+        "username": "elmoMrch",
+        "verified": false
+      }
+    ]
+  }
+}

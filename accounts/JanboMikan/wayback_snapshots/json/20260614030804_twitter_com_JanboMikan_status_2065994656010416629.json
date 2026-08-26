@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2065636309650243921",
+    "created_at": "2026-06-14T03:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065994656010416629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678421943387664384",
+          "start": 0,
+          "username": "imnotseafish"
+        },
+        {
+          "end": 23,
+          "id": "1812363069487742976",
+          "start": 14,
+          "username": "mingji_A"
+        },
+        {
+          "end": 38,
+          "id": "1633715238322466817",
+          "start": 24,
+          "username": "plumedream233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065994656010416629",
+    "in_reply_to_user_id": "1678421943387664384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065809670699425910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotseafish @mingji_A @plumedream233 那没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2065636309650243921",
+        "created_at": "2026-06-14T03:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065994656010416629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678421943387664384",
+              "start": 0,
+              "username": "imnotseafish"
+            },
+            {
+              "end": 23,
+              "id": "1812363069487742976",
+              "start": 14,
+              "username": "mingji_A"
+            },
+            {
+              "end": 38,
+              "id": "1633715238322466817",
+              "start": 24,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065994656010416629",
+        "in_reply_to_user_id": "1678421943387664384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065809670699425910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotseafish @mingji_A @plumedream233 那没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678421943387664384",
+        "conversation_id": "2065636309650243921",
+        "created_at": "2026-06-13T14:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065809670699425910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            },
+            {
+              "end": 36,
+              "id": "1633715238322466817",
+              "start": 22,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065809670699425910",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065669142364233758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A @plumedream233 被超市了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14220,
+          "following_count": 545,
+          "like_count": 19396,
+          "listed_count": 48,
+          "media_count": 316,
+          "tweet_count": 10195
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:12:40.000Z",
+        "description": "无人在意",
+        "id": "1678421943387664384",
+        "location": "海洋馆？",
+        "name": "🐟",
+        "pinned_tweet_id": "1692413384959111319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858100921135415296/crGTHjdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 539,
+          "like_count": 26980,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 1411
+        },
+        "username": "imnotseafish",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 2633,
+          "like_count": 95741,
+          "listed_count": 24,
+          "media_count": 226,
+          "tweet_count": 22268
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "阴郁压抑的笨蛋...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063617540631490560/tNcx1JqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 731,
+          "like_count": 11109,
+          "listed_count": 3,
+          "media_count": 754,
+          "tweet_count": 7280
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false
+      }
+    ]
+  }
+}

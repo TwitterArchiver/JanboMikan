@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032459963659108859",
+    "created_at": "2026-03-14T04:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032679550405194176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3292210117",
+          "start": 0,
+          "username": "Ye_Chika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032679550405194176",
+    "in_reply_to_user_id": "3292210117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032459963659108859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ye_Chika 今天也超千夏，今天也超千夏，今天也超千夏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032459960664367104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS_kNeaoAAevOe.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032459963659108859",
+        "created_at": "2026-03-14T04:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032679550405194176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3292210117",
+              "start": 0,
+              "username": "Ye_Chika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032679550405194176",
+        "in_reply_to_user_id": "3292210117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032459963659108859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ye_Chika 今天也超千夏，今天也超千夏，今天也超千夏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032459960664367104"
+          ]
+        },
+        "author_id": "3292210117",
+        "conversation_id": "2032459963659108859",
+        "created_at": "2026-03-13T14:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032459963659108859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iKgivpZkv",
+              "end": 137,
+              "expanded_url": "https://x.com/Ye_Chika/status/2032459963659108859/photo/1",
+              "media_key": "3_2032459960664367104",
+              "start": 114,
+              "url": "https://t.co/0iKgivpZkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032459963659108859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1180,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "『欸？你在看哪里啊？！』\n『不许盯着腿看太久啦！变态！……不过、要是你现在立刻评论说「千夏今天也超可爱♡」超过三次的话……』\n『本小姐就、就勉为其难地原谅你偷瞄哦？（』\n\n如果你发现了引号和平常不一样了，那是因为文案是AI写的 https://t.co/0iKgivpZkv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7922,
+          "following_count": 398,
+          "like_count": 11405,
+          "listed_count": 33,
+          "media_count": 173,
+          "tweet_count": 6067
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-25T08:05:32.000Z",
+        "description": "一个路过的女装少年，记不记住其实都不太重要啦",
+        "id": "3292210117",
+        "location": "初星学园",
+        "name": "叶千夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911481242920386561/9928KjJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7705,
+          "following_count": 423,
+          "like_count": 2963,
+          "listed_count": 32,
+          "media_count": 398,
+          "tweet_count": 1694
+        },
+        "username": "Ye_Chika",
+        "verified": false
+      }
+    ]
+  }
+}

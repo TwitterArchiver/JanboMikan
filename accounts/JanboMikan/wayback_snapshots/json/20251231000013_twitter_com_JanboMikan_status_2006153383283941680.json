@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2005957037310763092",
+    "created_at": "2025-12-31T00:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T01:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006153383283941680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484921579255607299",
+          "start": 0,
+          "username": "Troublemaker_2_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006153383283941680",
+    "in_reply_to_user_id": "1484921579255607299",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006105464107344218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Troublemaker_2_ 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2005957037310763092",
+        "created_at": "2025-12-31T00:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T01:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006153383283941680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484921579255607299",
+              "start": 0,
+              "username": "Troublemaker_2_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006153383283941680",
+        "in_reply_to_user_id": "1484921579255607299",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006105464107344218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Troublemaker_2_ 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484921579255607299",
+        "conversation_id": "2005957037310763092",
+        "created_at": "2025-12-30T20:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T21:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006105464107344218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006105464107344218",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005957037310763092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 让我插插👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 228,
+          "like_count": 4569,
+          "listed_count": 10,
+          "media_count": 84,
+          "tweet_count": 2152
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T16:11:39.000Z",
+        "description": "Wu～",
+        "id": "1484921579255607299",
+        "location": "Inferno",
+        "name": "YN Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484921713510998016/iUq6_Tcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 52,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 228
+        },
+        "username": "Troublemaker_2_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2027287210178072691",
+    "created_at": "2026-02-27T10:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027334212165194033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1508694120209944578",
+          "start": 0,
+          "username": "Fiammetta___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027334212165194033",
+    "in_reply_to_user_id": "1508694120209944578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027287210178072691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiammetta___ 记忆唤醒了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "7_2027287182923407360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027287182923407360/pu/img/KYBcTK_sf1FfzhSt.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027287182923407360/pu/vid/avc1/320x568/KW9L6a9NDaejlfnv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027287182923407360/pu/vid/avc1/480x852/IevxQlkux1ezZlz9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027287182923407360/pu/vid/avc1/720x1280/mySWQWtXVvzIjJ8M.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027287182923407360/pu/pl/XufC8P_g0hyPu1Sx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2027287210178072691",
+        "created_at": "2026-02-27T10:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027334212165194033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1508694120209944578",
+              "start": 0,
+              "username": "Fiammetta___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027334212165194033",
+        "in_reply_to_user_id": "1508694120209944578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027287210178072691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiammetta___ 记忆唤醒了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027287182923407360"
+          ]
+        },
+        "author_id": "1508694120209944578",
+        "conversation_id": "2027287210178072691",
+        "created_at": "2026-02-27T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027287210178072691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KjygQYCIy",
+              "end": 34,
+              "expanded_url": "https://x.com/Fiammetta___/status/2027287210178072691/video/1",
+              "media_key": "7_2027287182923407360",
+              "start": 11,
+              "url": "https://t.co/2KjygQYCIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027287210178072691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大记忆重置术\n😠😠😠 https://t.co/2KjygQYCIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7042,
+          "following_count": 372,
+          "like_count": 10097,
+          "listed_count": 32,
+          "media_count": 158,
+          "tweet_count": 5331
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T06:35:03.000Z",
+        "description": "中文🆗English🆗 日本語（少しだけ）\n本体♂ \n懒癌选手\n看心情营业\n谢谢关注",
+        "id": "1508694120209944578",
+        "location": "你心里",
+        "name": "獭獭妮亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013512452076441600/M5tvhpwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 265,
+          "like_count": 5959,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 880
+        },
+        "username": "Fiammetta___",
+        "verified": false
+      }
+    ]
+  }
+}

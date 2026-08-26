@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2082783265317089674",
+    "created_at": "2026-07-31T05:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083057440342622574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717912093632983040",
+          "start": 0,
+          "username": "DSneddon80935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083057440342622574",
+    "in_reply_to_user_id": "1717912093632983040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083007846136852717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DSneddon80935 有一说一确实x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2082783265317089674",
+        "created_at": "2026-07-31T05:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083057440342622574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717912093632983040",
+              "start": 0,
+              "username": "DSneddon80935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083057440342622574",
+        "in_reply_to_user_id": "1717912093632983040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083007846136852717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DSneddon80935 有一说一确实x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717912093632983040",
+        "conversation_id": "2082783265317089674",
+        "created_at": "2026-07-31T01:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083007846136852717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083007846136852717",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082783265317089674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这个是文案吧，对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15834,
+          "following_count": 612,
+          "like_count": 21544,
+          "listed_count": 52,
+          "media_count": 373,
+          "tweet_count": 11449
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T14:32:27.000Z",
+        "description": "社畜一枚，家养的孩子：@dszsw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 11,
+                "username": "dszsw"
+              }
+            ]
+          }
+        },
+        "id": "1717912093632983040",
+        "name": "Lennox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717912955503673344/srIs4XDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1135,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1013
+        },
+        "url": "",
+        "username": "DSneddon80935",
+        "verified": false
+      }
+    ]
+  }
+}

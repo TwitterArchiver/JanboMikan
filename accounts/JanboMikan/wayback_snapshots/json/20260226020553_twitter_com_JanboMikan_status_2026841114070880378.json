@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026787519761715410",
+    "created_at": "2026-02-26T02:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026841114070880378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026841114070880378",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026787519761715410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 那张床上去躺过了吗😋x"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "镜厅\n是凡尔赛宫最华丽、最著名的大厅\n连接国王套房和王后套房，大厅长76米，高13米，宽10.5米\n一面是面向花园的17扇落地玻璃窗，另一面对称布置了17面巨大的镜子",
+        "height": 2048,
+        "media_key": "3_2026787515277901825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCYgbtWAAErM-4.jpg",
+        "width": 1542
+      },
+      {
+        "alt_text": "皇家礼拜堂",
+        "height": 2048,
+        "media_key": "3_2026787512249688064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCYgQbXIAAWaI6.jpg",
+        "width": 1542
+      },
+      {
+        "alt_text": "大特里亚农宫\n路易十四情妇蒙特斯庞侯爵夫人的卧室",
+        "height": 1542,
+        "media_key": "3_2026787510626443264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCYgKYWYAAwesj.jpg",
+        "width": 2048
+      },
+      {
+        "alt_text": "战争画廊\n主要展出众多战争主题的画作和战死的将军石像",
+        "height": 1542,
+        "media_key": "3_2026787513747066880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCYgWAXUAADpp8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026787519761715410",
+        "created_at": "2026-02-26T02:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026841114070880378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026841114070880378",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026787519761715410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 那张床上去躺过了吗😋x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026787515277901825",
+            "3_2026787512249688064",
+            "3_2026787510626443264",
+            "3_2026787513747066880"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2026787519761715410",
+        "created_at": "2026-02-25T22:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T23:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026787519761715410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SUATibIlbR",
+              "end": 168,
+              "expanded_url": "https://x.com/mario_2333/status/2026787519761715410/photo/1",
+              "media_key": "3_2026787515277901825",
+              "start": 145,
+              "url": "https://t.co/SUATibIlbR"
+            },
+            {
+              "display_url": "pic.x.com/SUATibIlbR",
+              "end": 168,
+              "expanded_url": "https://x.com/mario_2333/status/2026787519761715410/photo/1",
+              "media_key": "3_2026787512249688064",
+              "start": 145,
+              "url": "https://t.co/SUATibIlbR"
+            },
+            {
+              "display_url": "pic.x.com/SUATibIlbR",
+              "end": 168,
+              "expanded_url": "https://x.com/mario_2333/status/2026787519761715410/photo/1",
+              "media_key": "3_2026787510626443264",
+              "start": 145,
+              "url": "https://t.co/SUATibIlbR"
+            },
+            {
+              "display_url": "pic.x.com/SUATibIlbR",
+              "end": 168,
+              "expanded_url": "https://x.com/mario_2333/status/2026787519761715410/photo/1",
+              "media_key": "3_2026787513747066880",
+              "start": 145,
+              "url": "https://t.co/SUATibIlbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026787519761715410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去了凡尔赛来源的凡尔赛宫（×\n\n这地方加上后花园超级大的诶能走好久，不过感觉欧洲似乎宫殿都是差不多的样子，都是好多很豪华的油画qwq\n\n不过很棒的是还有中文导览，虽然那么多文物看不懂不过听各个房间的介绍和路易十四的故事就好玩多了！\n\n里面大概是这样的，都是差不多的啦，卧室各种功能室～ https://t.co/SUATibIlbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6776,
+          "following_count": 359,
+          "like_count": 9928,
+          "listed_count": 30,
+          "media_count": 156,
+          "tweet_count": 5233
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 256,
+          "like_count": 39105,
+          "listed_count": 16,
+          "media_count": 827,
+          "tweet_count": 12440
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980207968671952897",
+        "3_1980207968663523328"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1980242607985877369",
+    "created_at": "2025-10-20T12:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T13:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980242607985877369"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3753Yqzrz",
+          "end": 38,
+          "expanded_url": "https://x.com/JanboMikan/status/1980242607985877369/photo/1",
+          "media_key": "3_1980207968671952897",
+          "start": 15,
+          "url": "https://t.co/h3753Yqzrz"
+        },
+        {
+          "display_url": "pic.x.com/h3753Yqzrz",
+          "end": 38,
+          "expanded_url": "https://x.com/JanboMikan/status/1980242607985877369/photo/1",
+          "media_key": "3_1980207968663523328",
+          "start": 15,
+          "url": "https://t.co/h3753Yqzrz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980242607985877369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不可以视奸下面哦~\n\n#男娘 https://t.co/h3753Yqzrz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1980207968671952897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3scp-oW8AEHMl7.jpg",
+        "width": 541
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1980207968663523328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3scp-mWUAAN6Te.jpg",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980207968671952897",
+            "3_1980207968663523328"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1980242607985877369",
+        "created_at": "2025-10-20T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980242607985877369"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3753Yqzrz",
+              "end": 38,
+              "expanded_url": "https://x.com/JanboMikan/status/1980242607985877369/photo/1",
+              "media_key": "3_1980207968671952897",
+              "start": 15,
+              "url": "https://t.co/h3753Yqzrz"
+            },
+            {
+              "display_url": "pic.x.com/h3753Yqzrz",
+              "end": 38,
+              "expanded_url": "https://x.com/JanboMikan/status/1980242607985877369/photo/1",
+              "media_key": "3_1980207968663523328",
+              "start": 15,
+              "url": "https://t.co/h3753Yqzrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980242607985877369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不可以视奸下面哦~\n\n#男娘 https://t.co/h3753Yqzrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 85,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

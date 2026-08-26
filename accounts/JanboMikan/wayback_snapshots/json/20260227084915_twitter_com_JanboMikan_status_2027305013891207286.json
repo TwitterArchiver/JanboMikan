@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2027207102272602592",
+    "created_at": "2026-02-27T08:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027305013891207286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1436545079275966468",
+          "start": 0,
+          "username": "demon8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027305013891207286",
+    "in_reply_to_user_id": "1436545079275966468",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027236604528767241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@demon8077 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2027207102272602592",
+        "created_at": "2026-02-27T08:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027305013891207286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1436545079275966468",
+              "start": 0,
+              "username": "demon8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027305013891207286",
+        "in_reply_to_user_id": "1436545079275966468",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027236604528767241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@demon8077 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436545079275966468",
+        "conversation_id": "2027207102272602592",
+        "created_at": "2026-02-27T04:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027236604528767241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027236604528767241",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027207102272602592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 钻进去，让你唱歌~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7030,
+          "following_count": 372,
+          "like_count": 10077,
+          "listed_count": 31,
+          "media_count": 158,
+          "tweet_count": 5318
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T04:20:21.000Z",
+        "description": "心态是老头~可以聊天~一切想聊的都可以但是~不约~不约~不约~静静地观赏~",
+        "id": "1436545079275966468",
+        "location": "冥王星",
+        "name": "怠惰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991525316402245632/ygIWuYYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1069,
+          "like_count": 6983,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 11673
+        },
+        "username": "demon8077",
+        "verified": false
+      }
+    ]
+  }
+}

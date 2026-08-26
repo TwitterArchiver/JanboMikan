@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032785240180273490",
+    "created_at": "2026-03-14T14:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032832285201125463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825860031855865856",
+          "start": 0,
+          "username": "assdent3258"
+        },
+        {
+          "end": 22,
+          "id": "1812363069487742976",
+          "start": 13,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032832285201125463",
+    "in_reply_to_user_id": "1825860031855865856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032798205147287609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@assdent3258 @mingji_A 我吗.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032785240180273490",
+        "created_at": "2026-03-14T14:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032832285201125463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825860031855865856",
+              "start": 0,
+              "username": "assdent3258"
+            },
+            {
+              "end": 22,
+              "id": "1812363069487742976",
+              "start": 13,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032832285201125463",
+        "in_reply_to_user_id": "1825860031855865856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032798205147287609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@assdent3258 @mingji_A 我吗.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825860031855865856",
+        "conversation_id": "2032785240180273490",
+        "created_at": "2026-03-14T12:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032798205147287609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032798205147287609",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032785240180273490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 你的肛门有点松弛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8023,
+          "following_count": 399,
+          "like_count": 11460,
+          "listed_count": 33,
+          "media_count": 175,
+          "tweet_count": 6112
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T11:38:59.000Z",
+        "description": "",
+        "id": "1825860031855865856",
+        "name": "川和工团CHUD",
+        "pinned_tweet_id": "2023432547171237912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992761020998459392/1BZ4kLVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 526,
+          "like_count": 16835,
+          "listed_count": 3,
+          "media_count": 1710,
+          "tweet_count": 13621
+        },
+        "username": "assdent3258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1759,
+          "like_count": 71954,
+          "listed_count": 9,
+          "media_count": 118,
+          "tweet_count": 14010
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

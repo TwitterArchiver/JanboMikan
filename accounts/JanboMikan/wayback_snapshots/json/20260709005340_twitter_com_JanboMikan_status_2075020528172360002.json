@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2074858453840154824",
+    "created_at": "2026-07-09T00:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075020528172360002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1681837279411859456",
+          "start": 0,
+          "username": "AsatsukiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075020528172360002",
+    "in_reply_to_user_id": "1681837279411859456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074954492328690161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsatsukiSakura 已干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2074858453840154824",
+        "created_at": "2026-07-09T00:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075020528172360002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1681837279411859456",
+              "start": 0,
+              "username": "AsatsukiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075020528172360002",
+        "in_reply_to_user_id": "1681837279411859456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074954492328690161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsatsukiSakura 已干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681837279411859456",
+        "conversation_id": "2074858453840154824",
+        "created_at": "2026-07-08T20:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074954492328690161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 24,
+              "id": "1408736706338033668",
+              "start": 12,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074954492328690161",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074858453840154824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @ACE_yumoooo 要干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15024,
+          "following_count": 591,
+          "like_count": 20653,
+          "listed_count": 52,
+          "media_count": 349,
+          "tweet_count": 10920
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T01:23:56.000Z",
+        "description": "東方/百合豚/音ゲー/男娘爱好者/业余ACMer/CounterStrike \n#navination\nhttps://t.co/pLTnEkPcQ2\n键政↘️/R18内容 注意",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 40,
+                "tag": "navination"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/33407560",
+                "end": 75,
+                "expanded_url": "http://osu.ppy.sh/users/33407560",
+                "start": 52,
+                "url": "https://t.co/pLTnEkPcQ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "douyu.com/6657",
+                "end": 23,
+                "expanded_url": "http://douyu.com/6657",
+                "start": 0,
+                "url": "https://t.co/0ShuM9loT7"
+              }
+            ]
+          }
+        },
+        "id": "1681837279411859456",
+        "location": "Vienna, Austria",
+        "name": "刘亦博🍥",
+        "pinned_tweet_id": "2032529436554440837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944274935519563776/RPg0RnQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1673,
+          "like_count": 11271,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/0ShuM9loT7",
+        "username": "AsatsukiSakura",
+        "verified": false
+      }
+    ]
+  }
+}

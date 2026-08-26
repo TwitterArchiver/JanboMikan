@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2037484787330613335",
+    "created_at": "2026-03-28T15:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037910034588578268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955547744787214336",
+          "start": 0,
+          "username": "nagisarisu20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037910034588578268",
+    "in_reply_to_user_id": "1955547744787214336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037802185522831372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagisarisu20 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2037484787330613335",
+        "created_at": "2026-03-28T15:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037910034588578268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955547744787214336",
+              "start": 0,
+              "username": "nagisarisu20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037910034588578268",
+        "in_reply_to_user_id": "1955547744787214336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037802185522831372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagisarisu20 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955547744787214336",
+        "conversation_id": "2037484787330613335",
+        "created_at": "2026-03-28T08:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037802185522831372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037802185522831372",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037484787330613335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9673,
+          "following_count": 421,
+          "like_count": 13553,
+          "listed_count": 38,
+          "media_count": 197,
+          "tweet_count": 6961
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T08:31:41.000Z",
+        "description": "男の娘 兴趣使然 東京 大学生",
+        "id": "1955547744787214336",
+        "name": "科尔沃リス　kasumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955547902753091584/ZNSjcuTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 395,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 174
+        },
+        "username": "nagisarisu20",
+        "verified": false
+      }
+    ]
+  }
+}

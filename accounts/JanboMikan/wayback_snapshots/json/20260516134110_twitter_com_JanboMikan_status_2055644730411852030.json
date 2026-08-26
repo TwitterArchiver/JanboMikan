@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2055604179067109869",
+    "created_at": "2026-05-16T13:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055644730411852030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "792247316174344192",
+          "start": 0,
+          "username": "NikoSongMGGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055644730411852030",
+    "in_reply_to_user_id": "792247316174344192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055619649656737869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikoSongMGGA 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055604179067109869",
+        "created_at": "2026-05-16T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055644730411852030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "792247316174344192",
+              "start": 0,
+              "username": "NikoSongMGGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055644730411852030",
+        "in_reply_to_user_id": "792247316174344192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055619649656737869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikoSongMGGA 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "792247316174344192",
+        "conversation_id": "2055604179067109869",
+        "created_at": "2026-05-16T12:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055619649656737869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055619649656737869",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055604179067109869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 被雷霆文案吓晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12947,
+          "following_count": 497,
+          "like_count": 17633,
+          "listed_count": 43,
+          "media_count": 273,
+          "tweet_count": 9117
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-29T06:10:54.000Z",
+        "description": "Male♂️\n全手动色图转发Bot\n实名上网\nQQ/Discord/FB/WhatsApp👌\nFUCK WeChat🤌🖕\nMandarin/English👌\n泛性恋/纸性恋/车性恋🏎️\n唯一指定大老婆Subaru BRZ ZC6\nVRCHAT/SF6/Endfield国服/加我!",
+        "id": "792247316174344192",
+        "location": "Prince Albert, Saskatchewan",
+        "name": "NikoSong 🇨🇳 🇨🇦",
+        "pinned_tweet_id": "1747207064076636583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886439610235883521/v5mFj2oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 5094,
+          "like_count": 59456,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 17217
+        },
+        "username": "NikoSongMGGA",
+        "verified": false
+      }
+    ]
+  }
+}

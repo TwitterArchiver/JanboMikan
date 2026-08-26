@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029149859471872315",
+    "created_at": "2026-03-05T08:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T09:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029469864415646157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1164589798327115776",
+          "start": 0,
+          "username": "Domconms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029469864415646157",
+    "in_reply_to_user_id": "1164589798327115776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029459358753702190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Domconms 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029149859471872315",
+        "created_at": "2026-03-05T08:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029469864415646157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1164589798327115776",
+              "start": 0,
+              "username": "Domconms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029469864415646157",
+        "in_reply_to_user_id": "1164589798327115776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029459358753702190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Domconms 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164589798327115776",
+        "conversation_id": "2029149859471872315",
+        "created_at": "2026-03-05T07:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029459358753702190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029459358753702190",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029149859471872315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 🤔或许导师在想\n导师：你想要做甚么！！！你补药过来啊！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7233,
+          "following_count": 385,
+          "like_count": 10630,
+          "listed_count": 33,
+          "media_count": 164,
+          "tweet_count": 5611
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T17:27:12.000Z",
+        "description": "自暴自弃中，勿扰。\n只认简中。\n暴躁症状日益严重中。\n无喜欢的美少女，单身。\nyoutube\nhttps://t.co/NdUn7wp9Wf\nbilibili\nhttps://t.co/mOmZNhBWOA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ciki_",
+                "end": 70,
+                "expanded_url": "https://www.youtube.com/@ciki_",
+                "start": 47,
+                "url": "https://t.co/NdUn7wp9Wf"
+              },
+              {
+                "display_url": "space.bilibili.com/34932855133983…",
+                "end": 103,
+                "expanded_url": "https://space.bilibili.com/3493285513398320",
+                "start": 80,
+                "url": "https://t.co/mOmZNhBWOA"
+              }
+            ]
+          }
+        },
+        "id": "1164589798327115776",
+        "location": "Hong Kong",
+        "name": "Ciki很坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919132433334906880/99K6soCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 120
+        },
+        "username": "Domconms",
+        "verified": false
+      }
+    ]
+  }
+}

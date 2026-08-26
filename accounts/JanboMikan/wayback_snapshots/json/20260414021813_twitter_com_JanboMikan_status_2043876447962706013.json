@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2043693055153438853",
+    "created_at": "2026-04-14T02:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043876447962706013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        },
+        {
+          "end": 22,
+          "id": "1998627844398960640",
+          "start": 9,
+          "username": "linnighthuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043876447962706013",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043860517496742033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl @linnighthuan 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2043693055153438853",
+        "created_at": "2026-04-14T02:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043876447962706013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 22,
+              "id": "1998627844398960640",
+              "start": 9,
+              "username": "linnighthuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043876447962706013",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043860517496742033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl @linnighthuan 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "2043693055153438853",
+        "created_at": "2026-04-14T01:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043860517496742033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998627844398960640",
+              "start": 0,
+              "username": "linnighthuan"
+            },
+            {
+              "end": 25,
+              "id": "1976995735532138496",
+              "start": 14,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043860517496742033",
+        "in_reply_to_user_id": "1998627844398960640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043693055153438853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnighthuan @JanboMikan 🤤😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10808,
+          "following_count": 450,
+          "like_count": 15203,
+          "listed_count": 39,
+          "media_count": 220,
+          "tweet_count": 7735
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "虾头看黄男 （确信）| 什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请用 discord/tg/手机号找我 | 进群🚪/熟人 | 曾经一个人舌战群儒和一群软件工程的隔空互骂 | 脸皮厚+不要脸 | 我是傻逼 | qq爆毙 | 极端反软件工程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "工程，不写代码，反傻B，鴇鵬機工|Tokiho Engineering",
+        "pinned_tweet_id": "2039379857327480915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10842,
+          "following_count": 6493,
+          "like_count": 157214,
+          "listed_count": 26,
+          "media_count": 6597,
+          "tweet_count": 92184
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T05:39:18.000Z",
+        "description": "简与爱",
+        "id": "1998627844398960640",
+        "name": "沉沦夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998632575141908480/EmTrFYwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 46,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "username": "linnighthuan",
+        "verified": false
+      }
+    ]
+  }
+}

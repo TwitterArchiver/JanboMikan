@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2005594646169498015",
+    "created_at": "2025-12-29T11:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T12:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005607793416647121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818731995310309376",
+          "start": 0,
+          "username": "MOLeren198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005607793416647121",
+    "in_reply_to_user_id": "1818731995310309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005600754309161083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MOLeren198964 老师要丢大脸了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2005594646169498015",
+        "created_at": "2025-12-29T11:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005607793416647121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "MOLeren198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005607793416647121",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005600754309161083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MOLeren198964 老师要丢大脸了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818731995310309376",
+        "conversation_id": "2005594646169498015",
+        "created_at": "2025-12-29T11:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005600754309161083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005600754309161083",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005594646169498015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 老师这辈子值了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 223,
+          "like_count": 4435,
+          "listed_count": 9,
+          "media_count": 88,
+          "tweet_count": 2081
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "友跨顺直泛性恋。缺爱逼讨好型人格。不会攻击你们和block你们的！如果讲错话了我很抱歉ww……小账：@MoLeren114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "MoLeren114514"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "雋子隽子娟",
+        "pinned_tweet_id": "1907810174527852850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005206201844613120/4J57Onx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 2586,
+          "like_count": 156152,
+          "listed_count": 11,
+          "media_count": 1363,
+          "tweet_count": 29525
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      }
+    ]
+  }
+}

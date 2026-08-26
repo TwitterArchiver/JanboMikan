@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1987008626473763258",
+    "created_at": "2025-11-08T13:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987152942391304669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1784942881243086848",
+          "start": 0,
+          "username": "WomSleeping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987152942391304669",
+    "in_reply_to_user_id": "1784942881243086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987143744093888578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WomSleeping 嗯嗯，借口不错（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1987008626473763258",
+        "created_at": "2025-11-08T13:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987152942391304669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1784942881243086848",
+              "start": 0,
+              "username": "WomSleeping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987152942391304669",
+        "in_reply_to_user_id": "1784942881243086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987143744093888578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WomSleeping 嗯嗯，借口不错（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784942881243086848",
+        "conversation_id": "1987008626473763258",
+        "created_at": "2025-11-08T13:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987143744093888578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987143744093888578",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987135150829019511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 主要是我手边的厚裤子都太大了）\n穿着不太舒服？\n只有几条薄的穿着比较合身，所以现在是裤袜更保暖）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 106,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T13:48:52.000Z",
+        "description": "一个现实的理想主义者",
+        "id": "1784942881243086848",
+        "name": "Wom sleeping",
+        "pinned_tweet_id": "1959629745643225377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877633732120805376/T_aXQ-Pz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 3490,
+          "like_count": 41336,
+          "listed_count": 1,
+          "media_count": 1064,
+          "tweet_count": 8001
+        },
+        "username": "WomSleeping",
+        "verified": false
+      }
+    ]
+  }
+}

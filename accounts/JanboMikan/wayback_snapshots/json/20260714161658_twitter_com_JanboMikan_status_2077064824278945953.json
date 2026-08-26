@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2076985065549009350",
+    "created_at": "2026-07-14T16:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077064824278945953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463116235478999042",
+          "start": 0,
+          "username": "Nihili10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077064824278945953",
+    "in_reply_to_user_id": "1463116235478999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077046677190463763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nihili10 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2076985065549009350",
+        "created_at": "2026-07-14T16:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077064824278945953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463116235478999042",
+              "start": 0,
+              "username": "Nihili10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077064824278945953",
+        "in_reply_to_user_id": "1463116235478999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077046677190463763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihili10 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463116235478999042",
+        "conversation_id": "2076985065549009350",
+        "created_at": "2026-07-14T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077046677190463763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077046677190463763",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076985065549009350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan ✅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15387,
+          "following_count": 597,
+          "like_count": 20980,
+          "listed_count": 52,
+          "media_count": 357,
+          "tweet_count": 11099
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "location": "Perth",
+        "name": "Nihili不是男的（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 555,
+          "like_count": 51364,
+          "listed_count": 1,
+          "media_count": 842,
+          "tweet_count": 13116
+        },
+        "url": "",
+        "username": "Nihili10",
+        "verified": false
+      }
+    ]
+  }
+}

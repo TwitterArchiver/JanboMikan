@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2068537685418139861",
+    "created_at": "2026-06-21T06:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068587711041319229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        },
+        {
+          "end": 28,
+          "id": "1521868547600764929",
+          "start": 15,
+          "username": "douhaosensei"
+        },
+        {
+          "end": 39,
+          "id": "1372569867421839368",
+          "start": 29,
+          "username": "yeliu2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068587711041319229",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068547838657872121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 @douhaosensei @yeliu2025 干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2068537685418139861",
+        "created_at": "2026-06-21T06:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068587711041319229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            },
+            {
+              "end": 28,
+              "id": "1521868547600764929",
+              "start": 15,
+              "username": "douhaosensei"
+            },
+            {
+              "end": 39,
+              "id": "1372569867421839368",
+              "start": 29,
+              "username": "yeliu2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068587711041319229",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068547838657872121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 @douhaosensei @yeliu2025 干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2068537685418139861",
+        "created_at": "2026-06-21T04:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068547838657872121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1521868547600764929",
+              "start": 12,
+              "username": "douhaosensei"
+            },
+            {
+              "end": 36,
+              "id": "1372569867421839368",
+              "start": 26,
+              "username": "yeliu2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068547838657872121",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068537685418139861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @douhaosensei @yeliu2025 你们月都干点啥（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14339,
+          "following_count": 558,
+          "like_count": 19659,
+          "listed_count": 49,
+          "media_count": 325,
+          "tweet_count": 10360
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "喜欢到处乱窜的北方网友 。 \nPassion in AI & Cloud computing  Pansexual,友跨\n已被Musk干掉两个号。如果是真人，光速回fo \n脾气超好，啥都能聊，经常在线，欢迎pm~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021479451532591107/PByiQPHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 409,
+          "like_count": 1343,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 786
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:05:19.000Z",
+        "description": "图片仅供参考，谨以实物为准\n170/61|05年男生|爱玩cos|萌新绳匠|萝莉控大叔|高p哥布林|\n⁺✞ʚ拉菲重度依赖ɞ✟₊\n以清水为主| 国内抖音b站同名",
+        "id": "1521868547600764929",
+        "name": "逗號先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925232706922979331/xvY-m6tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 165,
+          "like_count": 2340,
+          "listed_count": 12,
+          "media_count": 85,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "douhaosensei",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T15:25:45.000Z",
+        "description": "是菜鸟绳艺摄影爱好者₍˄·͈༝·͈˄*₎◞想要成为经验丰富的s，喜欢cos类型和探索绳艺与拘束～绳屋持续优化中~地标重庆/深圳（璃社），欢迎私信+企鹅联系喵～\n（防消失linnight2026）",
+        "id": "1372569867421839368",
+        "location": "重庆",
+        "name": "林夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008991542787317760/P7O5xoKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 918,
+          "like_count": 6156,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "yeliu2025",
+        "verified": false
+      }
+    ]
+  }
+}

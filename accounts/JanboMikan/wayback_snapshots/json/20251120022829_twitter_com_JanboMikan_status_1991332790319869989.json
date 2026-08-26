@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1991214891504636233",
+    "created_at": "2025-11-20T02:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T03:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991332790319869989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991332790319869989",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991214891504636233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia 跟熟悉的人聊也一样，比如父母，更是容易两眼一黑x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1991214891504636233",
+        "created_at": "2025-11-20T02:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T03:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991332790319869989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991332790319869989",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991214891504636233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia 跟熟悉的人聊也一样，比如父母，更是容易两眼一黑x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559088842333769728",
+        "conversation_id": "1991214891504636233",
+        "created_at": "2025-11-19T18:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991214891504636233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsnyuia/status…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/hsnyuia/status/1990314333587624202",
+              "start": 136,
+              "url": "https://t.co/U4DnyjNMMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991214891504636233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990314333587624202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这句话依然没错，在网上跟陌生人谈这玩意就是浪费时间。\n起初有个人说男娘就是有性别认同有问题。我跟他说那是跨性别者，我把维基百科搬给他看他改口就说男娘都是同性恋。我把男娘的萌娘百科搬给他看，他又改口说男娘大部分都是同性恋，你不要在搬资料了没有用，因为大众都普遍这么认为。😓 https://t.co/U4DnyjNMMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 122,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "",
+        "id": "1559088842333769728",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1975265328822456504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967997570824990720/mxFlcf_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 1249,
+          "like_count": 10895,
+          "listed_count": 6,
+          "media_count": 645,
+          "tweet_count": 4981
+        },
+        "username": "hsnyuia",
+        "verified": false
+      }
+    ]
+  }
+}

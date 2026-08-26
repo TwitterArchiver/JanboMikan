@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001957448635359312",
+    "created_at": "2025-12-19T14:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002026178782413183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561593418425413632",
+          "start": 0,
+          "username": "MeiStingray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002026178782413183",
+    "in_reply_to_user_id": "1561593418425413632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001957448635359312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiStingray 好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2001957347116380161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hhmbJa8AEpowT.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001957448635359312",
+        "created_at": "2025-12-19T14:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002026178782413183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561593418425413632",
+              "start": 0,
+              "username": "MeiStingray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002026178782413183",
+        "in_reply_to_user_id": "1561593418425413632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001957448635359312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiStingray 好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001957347116380161"
+          ]
+        },
+        "author_id": "1561593418425413632",
+        "conversation_id": "2001957448635359312",
+        "created_at": "2025-12-19T10:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001957448635359312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KSXVzcwXK",
+              "end": 27,
+              "expanded_url": "https://x.com/MeiStingray/status/2001957448635359312/photo/1",
+              "media_key": "3_2001957347116380161",
+              "start": 4,
+              "url": "https://t.co/8KSXVzcwXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001957448635359312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 716,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "花束。 https://t.co/8KSXVzcwXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 214,
+          "like_count": 3725,
+          "listed_count": 8,
+          "media_count": 77,
+          "tweet_count": 1666
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "一般女装男子/梅装梅子.\n自我拍摄. Sachima-Eater.\n宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "The \"Bebop\"",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1897574302020727075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 493,
+          "like_count": 50419,
+          "listed_count": 16,
+          "media_count": 357,
+          "tweet_count": 12167
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": false
+      }
+    ]
+  }
+}

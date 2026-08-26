@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029149859471872315",
+    "created_at": "2026-03-04T12:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029165712493953355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1891876767951990784",
+          "start": 0,
+          "username": "nkx0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029165712493953355",
+    "in_reply_to_user_id": "1891876767951990784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029160095800566108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkx0721 这么有生活😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029149859471872315",
+        "created_at": "2026-03-04T12:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029165712493953355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1891876767951990784",
+              "start": 0,
+              "username": "nkx0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029165712493953355",
+        "in_reply_to_user_id": "1891876767951990784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029160095800566108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkx0721 这么有生活😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891876767951990784",
+        "conversation_id": "2029149859471872315",
+        "created_at": "2026-03-04T11:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029160095800566108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029160095800566108",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029149859471872315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 喷香滴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7183,
+          "following_count": 384,
+          "like_count": 10545,
+          "listed_count": 33,
+          "media_count": 164,
+          "tweet_count": 5570
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T15:46:29.000Z",
+        "description": "",
+        "id": "1891876767951990784",
+        "name": "uuk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891877046055305217/87hPmob8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "username": "nkx0721",
+        "verified": false
+      }
+    ]
+  }
+}

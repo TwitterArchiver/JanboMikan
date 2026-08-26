@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014857149802057729"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015741508381528306",
+    "created_at": "2026-01-26T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015741508381528306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CIVSrCePed",
+          "end": 86,
+          "expanded_url": "https://x.com/JanboMikan/status/2015741508381528306/photo/1",
+          "media_key": "3_2014857149802057729",
+          "start": 63,
+          "url": "https://t.co/CIVSrCePed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015741508381528306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最危险的地方是最安全的地方，古人诚不欺我。\n我把那个的包装盒光明正大地放在桌上好几天了，室友都没什么反应。\n看来确实瞧不见！ https://t.co/CIVSrCePed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2014857149802057729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Y15w8bkAEgQPO.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014857149802057729"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015741508381528306",
+        "created_at": "2026-01-26T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015741508381528306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIVSrCePed",
+              "end": 86,
+              "expanded_url": "https://x.com/JanboMikan/status/2015741508381528306/photo/1",
+              "media_key": "3_2014857149802057729",
+              "start": 63,
+              "url": "https://t.co/CIVSrCePed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015741508381528306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最危险的地方是最安全的地方，古人诚不欺我。\n我把那个的包装盒光明正大地放在桌上好几天了，室友都没什么反应。\n看来确实瞧不见！ https://t.co/CIVSrCePed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4341,
+          "following_count": 286,
+          "like_count": 6780,
+          "listed_count": 21,
+          "media_count": 116,
+          "tweet_count": 3412
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

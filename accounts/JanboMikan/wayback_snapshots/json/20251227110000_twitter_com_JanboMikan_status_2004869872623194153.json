@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004188079784185857"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2004869872623194153",
+    "created_at": "2025-12-27T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004869872623194153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LWn4H4n0Hq",
+          "end": 151,
+          "expanded_url": "https://x.com/JanboMikan/status/2004869872623194153/photo/1",
+          "media_key": "3_2004188079784185857",
+          "start": 128,
+          "url": "https://t.co/LWn4H4n0Hq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004869872623194153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "犹豫了很久还是决定告诉大家：我翻车了。\n说出来不单是给我的粉丝，更是给自己一个交代吧。\n不过向推油们保证，还是会像以前一样兢兢业业地给大家产出有意思的作品！\n大家也不要过分担心，毕竟虽然单车骑太快撞到了珠海特产的石墩子差点飞出去，车翻了但人一点事都没有！ https://t.co/LWn4H4n0Hq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3619,
+        "media_key": "3_2004188079784185857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BOcJ6b0AE2SoC.jpg",
+        "width": 3183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004188079784185857"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2004869872623194153",
+        "created_at": "2025-12-27T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004869872623194153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWn4H4n0Hq",
+              "end": 151,
+              "expanded_url": "https://x.com/JanboMikan/status/2004869872623194153/photo/1",
+              "media_key": "3_2004188079784185857",
+              "start": 128,
+              "url": "https://t.co/LWn4H4n0Hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004869872623194153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "犹豫了很久还是决定告诉大家：我翻车了。\n说出来不单是给我的粉丝，更是给自己一个交代吧。\n不过向推油们保证，还是会像以前一样兢兢业业地给大家产出有意思的作品！\n大家也不要过分担心，毕竟虽然单车骑太快撞到了珠海特产的石墩子差点飞出去，车翻了但人一点事都没有！ https://t.co/LWn4H4n0Hq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2225,
+          "following_count": 218,
+          "like_count": 4267,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 1980
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

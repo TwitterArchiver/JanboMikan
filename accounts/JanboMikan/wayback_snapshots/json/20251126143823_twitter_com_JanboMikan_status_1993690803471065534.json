@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1993658073660145809",
+    "created_at": "2025-11-26T14:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993690803471065534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378681079876313090",
+          "start": 0,
+          "username": "Ayane014081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993690803471065534",
+    "in_reply_to_user_id": "1378681079876313090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993658073660145809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayane014081 可爱捏~\n（后面床底的打光有点像把床架在火上烤x）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993658062742380544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rlcflaYAAlNsN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1993658073660145809",
+        "created_at": "2025-11-26T14:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993690803471065534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378681079876313090",
+              "start": 0,
+              "username": "Ayane014081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993690803471065534",
+        "in_reply_to_user_id": "1378681079876313090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993658073660145809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayane014081 可爱捏~\n（后面床底的打光有点像把床架在火上烤x）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993658062742380544"
+          ]
+        },
+        "author_id": "1378681079876313090",
+        "conversation_id": "1993658073660145809",
+        "created_at": "2025-11-26T12:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993658073660145809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmrPrxuCB7",
+              "end": 82,
+              "expanded_url": "https://x.com/Ayane014081/status/1993658073660145809/photo/1",
+              "media_key": "3_1993658062742380544",
+              "start": 59,
+              "url": "https://t.co/VmrPrxuCB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993658073660145809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 655,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天穿点不一样的～\n裙子最短的一套\n大腿凉凉的🥵🥵\n已经比当年她的裙子都还要短了\n等我哪天找机会把我现在照片发给她😈 https://t.co/VmrPrxuCB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 142,
+          "like_count": 1810,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T12:09:27.000Z",
+        "description": "祝你从别人身上想起我～\n已有对象🥰",
+        "id": "1378681079876313090",
+        "name": "绫音SakuyaAyane",
+        "pinned_tweet_id": "1395608207729434634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923311953403092992/ukN2DR-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 918,
+          "like_count": 55913,
+          "listed_count": 13,
+          "media_count": 138,
+          "tweet_count": 2859
+        },
+        "username": "Ayane014081",
+        "verified": true
+      }
+    ]
+  }
+}

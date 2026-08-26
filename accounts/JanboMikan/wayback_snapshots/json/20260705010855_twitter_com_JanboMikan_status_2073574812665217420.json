@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2073054475426914639",
+    "created_at": "2026-07-05T01:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073574812665217420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "718796360250691585",
+          "start": 0,
+          "username": "lpngpkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073574812665217420",
+    "in_reply_to_user_id": "718796360250691585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073447694727577897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lpngpkl 我是杂鱼🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2073054475426914639",
+        "created_at": "2026-07-05T01:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073574812665217420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "718796360250691585",
+              "start": 0,
+              "username": "lpngpkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073574812665217420",
+        "in_reply_to_user_id": "718796360250691585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073447694727577897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lpngpkl 我是杂鱼🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "718796360250691585",
+        "conversation_id": "2073054475426914639",
+        "created_at": "2026-07-04T16:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073447694727577897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1967299260183158784",
+              "start": 12,
+              "username": "1p0xy_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073447694727577897",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073054475426914639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @1p0xy_star 羡慕大明星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14828,
+          "following_count": 580,
+          "like_count": 20374,
+          "listed_count": 52,
+          "media_count": 344,
+          "tweet_count": 10786
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-09T13:43:01.000Z",
+        "description": "welcome to DM me tecnical issue\nr18 @pinkeye404\nFacebook marketplace https://t.co/Eugy7lDCFr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "pinkeye404"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 92,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 69,
+                "url": "https://t.co/Eugy7lDCFr"
+              }
+            ]
+          }
+        },
+        "id": "718796360250691585",
+        "name": "我是工程师，不是写代码的",
+        "pinned_tweet_id": "1716108985252663473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435341372379136/1PFZ5R8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 658,
+          "like_count": 3669,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "lpngpkl",
+        "verified": false
+      }
+    ]
+  }
+}

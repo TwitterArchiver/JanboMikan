@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2023351659766976948",
+    "created_at": "2026-02-18T03:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023968155383853511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821504698773540864",
+          "start": 0,
+          "username": "maobohe457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023968155383853511",
+    "in_reply_to_user_id": "1821504698773540864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023965727846170898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maobohe457 坏狗狗捏捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2023351659766976948",
+        "created_at": "2026-02-18T03:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023968155383853511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821504698773540864",
+              "start": 0,
+              "username": "maobohe457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023968155383853511",
+        "in_reply_to_user_id": "1821504698773540864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023965727846170898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maobohe457 坏狗狗捏捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821504698773540864",
+        "conversation_id": "2023351659766976948",
+        "created_at": "2026-02-18T03:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023965727846170898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023965727846170898",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023351659766976948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 狗狗是我变的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5510,
+          "following_count": 329,
+          "like_count": 9095,
+          "listed_count": 24,
+          "media_count": 144,
+          "tweet_count": 4708
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T11:12:37.000Z",
+        "description": "我的心颠簸摇曳   只为停泊有你的港湾\n  心有所属@GouDan_JD\n  薄荷糖@Hiyuki_xia\n  防走丢@Koharu__nya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "GouDan_JD"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Hiyuki_xia"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Koharu__nya"
+              }
+            ]
+          }
+        },
+        "id": "1821504698773540864",
+        "location": "幻想乡",
+        "name": "猫薄荷",
+        "pinned_tweet_id": "1931386091657187660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830117323656871937/0xHAITQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18077,
+          "following_count": 499,
+          "like_count": 9806,
+          "listed_count": 62,
+          "media_count": 205,
+          "tweet_count": 3276
+        },
+        "username": "maobohe457",
+        "verified": false
+      }
+    ]
+  }
+}

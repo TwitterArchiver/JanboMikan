@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978870361061040273",
+    "created_at": "2025-10-17T09:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979110655014900085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979110655014900085",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978870361061040273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 为了别人的岁月静好，自己只能负重前行～😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978870361061040273",
+        "created_at": "2025-10-17T09:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979110655014900085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979110655014900085",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978870361061040273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 为了别人的岁月静好，自己只能负重前行～😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668037836996771840",
+        "conversation_id": "1978870361061040273",
+        "created_at": "2025-10-16T17:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978870361061040273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978870361061040273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不应该是个社交丰富阳光青春的大学生吗…\n为什么现在每天都在挺尸\n谁偷走了我的青春大学校园生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 79,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿宅鼠不会梦见日出丨副号 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "广州",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972464380152573952/DrbfLE7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5553,
+          "following_count": 804,
+          "like_count": 10071,
+          "listed_count": 17,
+          "media_count": 246,
+          "tweet_count": 1949
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

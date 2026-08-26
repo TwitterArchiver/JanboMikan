@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026588419103879401",
+    "created_at": "2026-02-25T09:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T10:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026592974386377023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960013012343070721",
+          "start": 0,
+          "username": "kawaiismalltori"
+        },
+        {
+          "end": 30,
+          "id": "1365678062013083666",
+          "start": 17,
+          "username": "yuyuqing0725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026592974386377023",
+    "in_reply_to_user_id": "1960013012343070721",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026592219310993553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiismalltori @yuyuqing0725 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026588419103879401",
+        "created_at": "2026-02-25T09:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026592974386377023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960013012343070721",
+              "start": 0,
+              "username": "kawaiismalltori"
+            },
+            {
+              "end": 30,
+              "id": "1365678062013083666",
+              "start": 17,
+              "username": "yuyuqing0725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026592974386377023",
+        "in_reply_to_user_id": "1960013012343070721",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026592219310993553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiismalltori @yuyuqing0725 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960013012343070721",
+        "conversation_id": "2026588419103879401",
+        "created_at": "2026-02-25T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026592219310993553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1365678062013083666",
+              "start": 12,
+              "username": "yuyuqing0725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026592219310993553",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026588419103879401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuyuqing0725 我也想要愛心手做cookie🙁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6558,
+          "following_count": 356,
+          "like_count": 9805,
+          "listed_count": 29,
+          "media_count": 154,
+          "tweet_count": 5151
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T16:15:02.000Z",
+        "description": "我是Mochirin小麻糬🍡\n永久上鎖 / 前列腺開發 / 深喉訓練 / 肛門擴張\n歡迎追蹤，私訊騷擾🆗\n#chastity #permanentlock #SPH #dildotraining",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "chastity"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "tag": "permanentlock"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "SPH"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "tag": "dildotraining"
+              }
+            ]
+          }
+        },
+        "id": "1960013012343070721",
+        "location": "家裡蹲",
+        "name": "Mochirin(小麻糬）🍡",
+        "pinned_tweet_id": "2024544300672139645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023487253658644480/ETfXgHFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 572,
+          "like_count": 10897,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 555
+        },
+        "username": "kawaiismalltori",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T15:00:15.000Z",
+        "description": "193/180 ♂，如果能被喜欢很荣幸\n匿名提问：https://t.co/ZnlAoS4e89\n聊天频道：https://t.co/A0kTg2Efpo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu79791",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yu79791",
+                "start": 25,
+                "url": "https://t.co/ZnlAoS4e89"
+              },
+              {
+                "display_url": "t.me/testyuyuyu",
+                "end": 77,
+                "expanded_url": "https://t.me/testyuyuyu",
+                "start": 54,
+                "url": "https://t.co/A0kTg2Efpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yutestyu",
+                "end": 23,
+                "expanded_url": "https://t.me/yutestyu",
+                "start": 0,
+                "url": "https://t.co/3oo73KLzNO"
+              }
+            ]
+          }
+        },
+        "id": "1365678062013083666",
+        "name": "yuyyyyyyy",
+        "pinned_tweet_id": "2009848978414940182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992979822331695104/EYtklChg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 1068,
+          "like_count": 5577,
+          "listed_count": 6,
+          "media_count": 115,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/3oo73KLzNO",
+        "username": "yuyuqing0725",
+        "verified": false
+      }
+    ]
+  }
+}

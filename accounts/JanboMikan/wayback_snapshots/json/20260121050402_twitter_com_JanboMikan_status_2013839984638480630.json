@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2013628895040623099",
+    "created_at": "2026-01-21T05:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T06:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013839984638480630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1252064283946438656",
+          "start": 0,
+          "username": "JLaststardust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013839984638480630",
+    "in_reply_to_user_id": "1252064283946438656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013628895040623099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLaststardust 一股强劲的音乐声响起😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013628891055759360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HYzsjXoAAtf_p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2013628895040623099",
+        "created_at": "2026-01-21T05:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013839984638480630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1252064283946438656",
+              "start": 0,
+              "username": "JLaststardust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013839984638480630",
+        "in_reply_to_user_id": "1252064283946438656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013628895040623099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLaststardust 一股强劲的音乐声响起😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013628891055759360"
+          ]
+        },
+        "author_id": "1252064283946438656",
+        "conversation_id": "2013628895040623099",
+        "created_at": "2026-01-20T15:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013628895040623099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWQVoajrtl",
+              "end": 23,
+              "expanded_url": "https://x.com/JLaststardust/status/2013628895040623099/photo/1",
+              "media_key": "3_2013628891055759360",
+              "start": 0,
+              "url": "https://t.co/oWQVoajrtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013628895040623099",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oWQVoajrtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4200,
+          "following_count": 279,
+          "like_count": 6340,
+          "listed_count": 19,
+          "media_count": 109,
+          "tweet_count": 3140
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-20T02:39:38.000Z",
+        "description": "｜🕹游戏开发者 ｜B站同名｜UE/UNITY｜新晋社畜\n｜Cosplay学习中\n｜武裝jk/少女前线/明日方舟/合金装备MGS/现代个人装备/后朋克｜绘画：https://t.co/jM1iBjVkjA\n“我将用一生来回答这个问题。”",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33032884/",
+                "end": 101,
+                "expanded_url": "https://www.pixiv.net/users/33032884/",
+                "start": 78,
+                "url": "https://t.co/jM1iBjVkjA"
+              }
+            ]
+          }
+        },
+        "id": "1252064283946438656",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "JK_降谷羽",
+        "pinned_tweet_id": "1788562004371964347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531136963348074496/TbfePWTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 3247,
+          "like_count": 98999,
+          "listed_count": 21,
+          "media_count": 2353,
+          "tweet_count": 11814
+        },
+        "username": "JLaststardust",
+        "verified": false
+      }
+    ]
+  }
+}

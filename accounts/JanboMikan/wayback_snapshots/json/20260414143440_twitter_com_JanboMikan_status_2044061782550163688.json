@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044007766176739450",
+    "created_at": "2026-04-14T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044061782550163688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "449621175",
+          "start": 0,
+          "username": "JayLai_1234"
+        },
+        {
+          "end": 22,
+          "id": "1812363069487742976",
+          "start": 13,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044061782550163688",
+    "in_reply_to_user_id": "449621175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044030522847047743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayLai_1234 @mingji_A 是果糖😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044007766176739450",
+        "created_at": "2026-04-14T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044061782550163688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "449621175",
+              "start": 0,
+              "username": "JayLai_1234"
+            },
+            {
+              "end": 22,
+              "id": "1812363069487742976",
+              "start": 13,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044061782550163688",
+        "in_reply_to_user_id": "449621175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044030522847047743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayLai_1234 @mingji_A 是果糖😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "449621175",
+        "conversation_id": "2044007766176739450",
+        "created_at": "2026-04-14T12:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044030522847047743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044030522847047743",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044007766176739450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 蜜柑是葡萄糖吧😋甜甜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10838,
+          "following_count": 452,
+          "like_count": 15266,
+          "listed_count": 40,
+          "media_count": 221,
+          "tweet_count": 7768
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-29T09:18:34.000Z",
+        "description": "",
+        "id": "449621175",
+        "name": "Jay",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 27429,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 119
+        },
+        "username": "JayLai_1234",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3337,
+          "following_count": 2177,
+          "like_count": 88600,
+          "listed_count": 15,
+          "media_count": 156,
+          "tweet_count": 17189
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

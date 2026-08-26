@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011755248293929213",
+    "created_at": "2026-01-16T08:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T09:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012079909368475940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        },
+        {
+          "end": 28,
+          "id": "1678688720126627841",
+          "start": 13,
+          "username": "xianjing_youhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012079909368475940",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012072399697822034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ @xianjing_youhu 凑企鹅😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011755248293929213",
+        "created_at": "2026-01-16T08:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012079909368475940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 28,
+              "id": "1678688720126627841",
+              "start": 13,
+              "username": "xianjing_youhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012079909368475940",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012072399697822034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ @xianjing_youhu 凑企鹅😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510601261019631618",
+        "conversation_id": "2011755248293929213",
+        "created_at": "2026-01-16T08:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012072399697822034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678688720126627841",
+              "start": 0,
+              "username": "xianjing_youhu"
+            },
+            {
+              "end": 27,
+              "id": "1976995735532138496",
+              "start": 16,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012072399697822034",
+        "in_reply_to_user_id": "1678688720126627841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012060443167375592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianjing_youhu @JanboMikan 咕咕嘎嘎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 278,
+          "like_count": 5969,
+          "listed_count": 18,
+          "media_count": 102,
+          "tweet_count": 2895
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 平面设计/轨道交通/城市规划/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009930561843040256/slqpkRic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 512,
+          "like_count": 90665,
+          "listed_count": 17,
+          "media_count": 1301,
+          "tweet_count": 5830
+        },
+        "username": "kujirarara_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T08:53:09.000Z",
+        "description": "可以叫我狐狐捏〜 | 07.02.22 | INFJ | MTF |  HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 术力口 | 🎀🎨推 | 小桃厨 | 交通吃 | 想要变成可爱猫娘 | 喜欢涩涩(x | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 147,
+                "username": "hcrk862"
+              }
+            ]
+          }
+        },
+        "id": "1678688720126627841",
+        "name": "仙境幽狐🐧🐱🍦🌰🍊🍋",
+        "pinned_tweet_id": "1981769896070701082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004928227643736064/xtjmdd2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 890,
+          "like_count": 31362,
+          "listed_count": 2,
+          "media_count": 1377,
+          "tweet_count": 4070
+        },
+        "username": "xianjing_youhu",
+        "verified": false
+      }
+    ]
+  }
+}

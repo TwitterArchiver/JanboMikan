@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026611398810415237",
+    "created_at": "2026-02-26T01:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026824542426116587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847925217038868480",
+          "start": 0,
+          "username": "longbao_yuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026824542426116587",
+    "in_reply_to_user_id": "1847925217038868480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026696711377399841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longbao_yuxi 投其所好😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026611398810415237",
+        "created_at": "2026-02-26T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026824542426116587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847925217038868480",
+              "start": 0,
+              "username": "longbao_yuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026824542426116587",
+        "in_reply_to_user_id": "1847925217038868480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026696711377399841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longbao_yuxi 投其所好😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847925217038868480",
+        "conversation_id": "2026611398810415237",
+        "created_at": "2026-02-25T16:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026696711377399841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026696711377399841",
+        "in_reply_to_user_id": "1847925217038868480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026696580921958432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 今天一打开xhs就跳出来了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6763,
+          "following_count": 357,
+          "like_count": 9907,
+          "listed_count": 30,
+          "media_count": 156,
+          "tweet_count": 5218
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T08:58:12.000Z",
+        "description": "165/48 /hrt 09/08/25 /成就：单刷速通大证然后被家长二进宫碰到反跨医生结果他推荐的医生是友跨？/家暴党…/大概能算天赋党/褪鳞成羽，化鳍为爪，夺嘴改喙，变鱼作鹰/绝赞增肥中…/欧内桑@FrostyStrings/\n非常好朋友 @mav114514\n憧憬成为大家的小太阳！（并会一直努力\n请多指教！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "FrostyStrings"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "mav114514"
+              }
+            ]
+          }
+        },
+        "id": "1847925217038868480",
+        "location": "上海",
+        "name": "玲珑语溪🍥",
+        "pinned_tweet_id": "2020525836214899141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691145704894464/HUop7X62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 82,
+          "like_count": 448,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 220
+        },
+        "username": "longbao_yuxi",
+        "verified": false
+      }
+    ]
+  }
+}

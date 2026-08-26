@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2048284687215505567",
+    "created_at": "2026-04-26T06:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048294312694394968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        },
+        {
+          "end": 25,
+          "id": "1886287595401011200",
+          "start": 13,
+          "username": "bishny44552"
+        },
+        {
+          "end": 42,
+          "id": "1511574513967722505",
+          "start": 26,
+          "username": "_Genshin_Ganyu_"
+        },
+        {
+          "end": 53,
+          "id": "1674272347216543745",
+          "start": 43,
+          "username": "awa_child"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048294312694394968",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048286056999698681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ @bishny44552 @_Genshin_Ganyu_ @awa_child 就🈷️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2048284687215505567",
+        "created_at": "2026-04-26T06:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048294312694394968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            },
+            {
+              "end": 25,
+              "id": "1886287595401011200",
+              "start": 13,
+              "username": "bishny44552"
+            },
+            {
+              "end": 42,
+              "id": "1511574513967722505",
+              "start": 26,
+              "username": "_Genshin_Ganyu_"
+            },
+            {
+              "end": 53,
+              "id": "1674272347216543745",
+              "start": 43,
+              "username": "awa_child"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048294312694394968",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048286056999698681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ @bishny44552 @_Genshin_Ganyu_ @awa_child 就🈷️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510601261019631618",
+        "conversation_id": "2048284687215505567",
+        "created_at": "2026-04-26T06:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048286056999698681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 24,
+              "id": "1886287595401011200",
+              "start": 12,
+              "username": "bishny44552"
+            },
+            {
+              "end": 41,
+              "id": "1511574513967722505",
+              "start": 25,
+              "username": "_Genshin_Ganyu_"
+            },
+            {
+              "end": 52,
+              "id": "1674272347216543745",
+              "start": 42,
+              "username": "awa_child"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048286056999698681",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048284687215505567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @bishny44552 @_Genshin_Ganyu_ @awa_child 又在月👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11980,
+          "following_count": 477,
+          "like_count": 16398,
+          "listed_count": 42,
+          "media_count": 239,
+          "tweet_count": 8313
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 平面设计/轨道交通/城市规划/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039215228106457090/qtQ52tZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 547,
+          "like_count": 103479,
+          "listed_count": 18,
+          "media_count": 1386,
+          "tweet_count": 6724
+        },
+        "username": "kujirarara_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:36:33.000Z",
+        "description": "",
+        "id": "1886287595401011200",
+        "location": "逃吧 挚爱",
+        "name": "白山羽｜ＳＡＩＫＡＩ",
+        "pinned_tweet_id": "1959523229384777887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886593725083811840/pIhqELMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 241,
+          "like_count": 2691,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 775
+        },
+        "username": "bishny44552",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "一般路过热心市民 | 椰羊老师 | BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美",
+        "pinned_tweet_id": "2041811802737238261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 914,
+          "like_count": 2602,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-29T04:23:59.000Z",
+        "description": "有猫🐈 | 狗狗…🐕🤔 | 会好的吧（？）",
+        "id": "1674272347216543745",
+        "name": "リン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890701682159538176/rNjKXe4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 713,
+          "like_count": 164839,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 1284
+        },
+        "username": "awa_child",
+        "verified": false
+      }
+    ]
+  }
+}

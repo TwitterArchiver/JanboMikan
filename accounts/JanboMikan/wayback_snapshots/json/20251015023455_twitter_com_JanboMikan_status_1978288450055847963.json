@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978283171801186341",
+    "created_at": "2025-10-15T02:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T03:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978288450055847963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750929042008907781",
+          "start": 0,
+          "username": "Kawakaze_Prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978288450055847963",
+    "in_reply_to_user_id": "1750929042008907781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978283171801186341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawakaze_Prism 马上就要在各大群聊见到自己了......！！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11749,
+        "height": 1280,
+        "media_key": "7_1978283059209478144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978283059209478144/pu/img/WFCK7U0nVqjMPZ4O.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978283059209478144/pu/vid/avc1/320x568/5Uv_W_SCssqaDKl6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978283059209478144/pu/vid/avc1/480x852/cv0Ft7FSzKqmjl4x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978283059209478144/pu/vid/avc1/720x1280/sPyeo9hSDwVFxJIl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978283059209478144/pu/pl/1e0pcZlbGJkU4F80.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978283171801186341",
+        "created_at": "2025-10-15T02:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978288450055847963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750929042008907781",
+              "start": 0,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978288450055847963",
+        "in_reply_to_user_id": "1750929042008907781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978283171801186341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawakaze_Prism 马上就要在各大群聊见到自己了......！！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978283059209478144"
+          ]
+        },
+        "author_id": "1750929042008907781",
+        "conversation_id": "1978283171801186341",
+        "created_at": "2025-10-15T02:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978283171801186341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aFBtjaATnU",
+              "end": 87,
+              "expanded_url": "https://x.com/Kawakaze_Prism/status/1978283171801186341/video/1",
+              "media_key": "7_1978283059209478144",
+              "start": 64,
+              "url": "https://t.co/aFBtjaATnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978283171801186341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3000fo感谢！💙\n作为群主我已经把视频发出来了，现在你们是不是也可以去压力别的群主了\n要是这条流量还没上一条高我就捅死你们 https://t.co/aFBtjaATnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 45,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 生理心理男不是mtf ‖ 166/54 ‖ 水色系重度依赖 ‖ 🚪20好友位 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 125,
+          "like_count": 70,
+          "listed_count": 8,
+          "media_count": 99,
+          "tweet_count": 418
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      }
+    ]
+  }
+}

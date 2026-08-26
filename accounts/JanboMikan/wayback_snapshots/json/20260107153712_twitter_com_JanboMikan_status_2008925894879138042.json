@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008856136850743680",
+    "created_at": "2026-01-07T15:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008925894879138042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4455570672",
+          "start": 0,
+          "username": "cchong_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008925894879138042",
+    "in_reply_to_user_id": "4455570672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008925501868626150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cchong_x 绿盲症犯了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2008925490858586112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EjFxbacAAWY-H.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-07T15:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008925894879138042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4455570672",
+              "start": 0,
+              "username": "cchong_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008925894879138042",
+        "in_reply_to_user_id": "4455570672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008925501868626150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cchong_x 绿盲症犯了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008925490858586112"
+          ]
+        },
+        "author_id": "4455570672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-07T15:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008925501868626150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rtdu8fklp",
+              "end": 35,
+              "expanded_url": "https://x.com/cchong_x/status/2008925501868626150/photo/1",
+              "media_key": "3_2008925490858586112",
+              "start": 12,
+              "url": "https://t.co/1rtdu8fklp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008925501868626150",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924913311289372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan https://t.co/1rtdu8fklp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 248,
+          "like_count": 5211,
+          "listed_count": 14,
+          "media_count": 93,
+          "tweet_count": 2504
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T18:35:05.000Z",
+        "description": "高浓度JK混合适量二次元调配而成🍹",
+        "id": "4455570672",
+        "location": "萨门",
+        "name": "懒虫虫虫虫虫虫",
+        "pinned_tweet_id": "1961384929591525572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967461971349188608/ZVbrrvkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 730,
+          "like_count": 6020,
+          "listed_count": 22,
+          "media_count": 337,
+          "tweet_count": 2717
+        },
+        "username": "cchong_x",
+        "verified": false
+      }
+    ]
+  }
+}

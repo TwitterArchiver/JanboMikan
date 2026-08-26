@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1993258371818860712",
+    "created_at": "2025-11-25T11:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T12:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993280104232046970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464586603305787393",
+          "start": 0,
+          "username": "Saka0430_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993280104232046970",
+    "in_reply_to_user_id": "1464586603305787393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993266171752464529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saka0430_ 噗妞噗妞~！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1993258371818860712",
+        "created_at": "2025-11-25T11:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993280104232046970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464586603305787393",
+              "start": 0,
+              "username": "Saka0430_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993280104232046970",
+        "in_reply_to_user_id": "1464586603305787393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993266171752464529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saka0430_ 噗妞噗妞~！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464586603305787393",
+        "conversation_id": "1993258371818860712",
+        "created_at": "2025-11-25T10:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993266171752464529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993266171752464529",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993258371818860712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 捏捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 143,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:23.000Z",
+        "description": "我不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.cn",
+                "end": 23,
+                "expanded_url": "http://www.114514.cn",
+                "start": 0,
+                "url": "https://t.co/gT7m8JoApj"
+              }
+            ]
+          }
+        },
+        "id": "1464586603305787393",
+        "location": "People's Republic of China",
+        "name": "saka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771413685862346752/Nvgg916m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 265,
+          "like_count": 7779,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/gT7m8JoApj",
+        "username": "Saka0430_",
+        "verified": false
+      }
+    ]
+  }
+}

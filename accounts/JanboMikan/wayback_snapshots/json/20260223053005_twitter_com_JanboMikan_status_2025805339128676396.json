@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2025525979649589318",
+    "created_at": "2026-02-23T05:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025805339128676396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025805339128676396",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025801638129307741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025525979649589318",
+        "created_at": "2026-02-23T05:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025805339128676396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025805339128676396",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025801638129307741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2025525979649589318",
+        "created_at": "2026-02-23T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025801638129307741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "include"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "include"
+            },
+            {
+              "end": 70,
+              "start": 62,
+              "tag": "include"
+            },
+            {
+              "end": 93,
+              "start": 85,
+              "tag": "include"
+            },
+            {
+              "end": 137,
+              "start": 130,
+              "tag": "define"
+            },
+            {
+              "end": 158,
+              "start": 151,
+              "tag": "define"
+            },
+            {
+              "end": 176,
+              "start": 169,
+              "tag": "define"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025801638129307741",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "include"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "include"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "include"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "include"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "define"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "define"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "tag": "define"
+              }
+            ]
+          },
+          "text": "#include <iostream>\n#include <vector>\n#include <queue>\n#include <string>\nusing namespace std;\n#define O0O0O string\n#define lIlIl int\n#define llIIll vector\nvoid scan_slacker_path(O0O0O target){\nllIIll<O0O0O> l1l1l1 = {\"工位\", \"茶水間\", \"洗手間\", \"吸菸區\"};\nllIIll<llIIll<lIlIl>> ll11ll = {{1, 2}, {0, 3}, {0}, {1}};\nllIIll<bool> IlIlIl(l1l1l1.size(), false);\nqueue<lIlIl> O0O0O0;\nIlIlIl[0] = true;\nO0O0O0.push(0);\ncout << \">> [Kernel] 正在追蹤目標 [\" << target << \"] 的廣度優先摸魚路徑...\" << endl;\nwhile(!O0O0O0.empty()){\nlIlIl lllIIl = O0O0O0.front();\nO0O0O0.pop();\ncout << \"[已定位]: \" << l1l1l1[lllIIl] << endl;\nfor(lIlIl IIllII : ll11ll[lllIIl]){\nif(!IlIlIl[IIllII]){\nIlIlIl[IIllII] = true;\ncout << \"   └─> 預測逃逸矢量: \" << l1l1l1[IIllII] << \"...\" << endl;\nO0O0O0.push(IIllII);\n}}}}\nint main(){\nO0O0O I1I1I1;\ncout << \"Enter Suspect Name: \";\ncin >> I1I1I1;\nscan_slacker_path(I1I1I1);\nreturn 0;\n}"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025525979649589318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan #include &lt;iostream&gt;\n#include &lt;vector&gt;\n#include &lt;queue&gt;\n#include &lt;string&gt;\nusing namespace std;\n#define O0O0O string\n#define lIlIl int\n#define llIIll vector\nvoid scan_slacker_path(O0O0O target){\nllIIll&lt;O0O0O&gt; l1l1l1 = {\"工位\", \"茶水間\", \"洗手間\", \"吸菸區\"};\nllIIll&lt;llIIll&lt;lIlIl&gt;&gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6282,
+          "following_count": 346,
+          "like_count": 9549,
+          "listed_count": 25,
+          "media_count": 150,
+          "tweet_count": 4981
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "許せない\n日本ツイッターアカウント: @HosinoEJ_Japan\nDiscord: https://t.co/ccn1U72HVa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "HosinoEJ_Japan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 67,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 44,
+                "url": "https://t.co/ccn1U72HVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://www.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/xmlDJbJSXi"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "Taito-ku, Tokyo",
+        "name": "星野眠𛂘 - 人身不安全中（お互いフォローでき）",
+        "pinned_tweet_id": "2024917642101096586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 437,
+          "like_count": 2605,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/xmlDJbJSXi",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

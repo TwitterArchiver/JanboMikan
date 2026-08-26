@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060990216400502784"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2060990239292916011",
+    "created_at": "2026-05-31T07:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060990239292916011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1408736706338033668",
+          "start": 11,
+          "username": "ACE_yumoooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LN8LDJd954",
+          "end": 47,
+          "expanded_url": "https://x.com/JanboMikan/status/2060990239292916011/photo/1",
+          "media_key": "3_2060990216400502784",
+          "start": 24,
+          "url": "https://t.co/LN8LDJd954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060990239292916011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么游客照🫨\n\n📷: @ACE_yumoooo https://t.co/LN8LDJd954"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060990216400502784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJobrqYbgAADVjh.jpg",
+        "width": 1631
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060990216400502784"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2060990239292916011",
+        "created_at": "2026-05-31T07:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060990239292916011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1408736706338033668",
+              "start": 11,
+              "username": "ACE_yumoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LN8LDJd954",
+              "end": 47,
+              "expanded_url": "https://x.com/JanboMikan/status/2060990239292916011/photo/1",
+              "media_key": "3_2060990216400502784",
+              "start": 24,
+              "url": "https://t.co/LN8LDJd954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060990239292916011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么游客照🫨\n\n📷: @ACE_yumoooo https://t.co/LN8LDJd954"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13636,
+          "following_count": 530,
+          "like_count": 18543,
+          "listed_count": 46,
+          "media_count": 298,
+          "tweet_count": 9743
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 218,
+          "like_count": 1726,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 279
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

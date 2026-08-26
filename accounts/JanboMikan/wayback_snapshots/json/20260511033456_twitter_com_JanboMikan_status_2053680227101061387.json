@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053656336471081412",
+    "created_at": "2026-05-11T03:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053680227101061387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1408736706338033668",
+          "start": 0,
+          "username": "ACE_yumoooo"
+        },
+        {
+          "end": 22,
+          "id": "1338483456905420801",
+          "start": 13,
+          "username": "CN_Probe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053680227101061387",
+    "in_reply_to_user_id": "1408736706338033668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053673886684950963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACE_yumoooo @CN_Probe 棉花娃娃也是娃娃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053656336471081412",
+        "created_at": "2026-05-11T03:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053680227101061387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1408736706338033668",
+              "start": 0,
+              "username": "ACE_yumoooo"
+            },
+            {
+              "end": 22,
+              "id": "1338483456905420801",
+              "start": 13,
+              "username": "CN_Probe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053680227101061387",
+        "in_reply_to_user_id": "1408736706338033668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053673886684950963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACE_yumoooo @CN_Probe 棉花娃娃也是娃娃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408736706338033668",
+        "conversation_id": "2053656336471081412",
+        "created_at": "2026-05-11T03:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053673886684950963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1338483456905420801",
+              "start": 12,
+              "username": "CN_Probe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053673886684950963",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053656336471081412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @CN_Probe 娃聚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12819,
+          "following_count": 494,
+          "like_count": 17323,
+          "listed_count": 43,
+          "media_count": 264,
+          "tweet_count": 8920
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 194,
+          "like_count": 1434,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 243
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T13:58:25.000Z",
+        "description": "kiger&撮影\n📷:Sony A1M2/Leica Q3 43",
+        "id": "1338483456905420801",
+        "location": "Xi'an&Shanghai",
+        "name": "Probe",
+        "pinned_tweet_id": "2042230278056529988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937006780091076608/SXtP1r7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8204,
+          "following_count": 786,
+          "like_count": 12982,
+          "listed_count": 38,
+          "media_count": 149,
+          "tweet_count": 831
+        },
+        "username": "CN_Probe",
+        "verified": true
+      }
+    ]
+  }
+}

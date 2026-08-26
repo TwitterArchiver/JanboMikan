@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2045793318710526317",
+    "created_at": "2026-04-19T10:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045817812019777859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813783439008755713",
+          "start": 0,
+          "username": "AmemiyaSuzune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045817812019777859",
+    "in_reply_to_user_id": "1813783439008755713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045793318710526317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmemiyaSuzune 美丽🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2362,
+        "media_key": "3_2045793309638209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQeLRDbMAAbGdQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2045793318710526317",
+        "created_at": "2026-04-19T10:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045817812019777859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813783439008755713",
+              "start": 0,
+              "username": "AmemiyaSuzune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045817812019777859",
+        "in_reply_to_user_id": "1813783439008755713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045793318710526317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmemiyaSuzune 美丽🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045793309638209536"
+          ]
+        },
+        "author_id": "1813783439008755713",
+        "conversation_id": "2045793318710526317",
+        "created_at": "2026-04-19T09:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045793318710526317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hv7EITnoSw",
+              "end": 23,
+              "expanded_url": "https://x.com/AmemiyaSuzune/status/2045793318710526317/photo/1",
+              "media_key": "3_2045793309638209536",
+              "start": 0,
+              "url": "https://t.co/hv7EITnoSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045793318710526317",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hv7EITnoSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11186,
+          "following_count": 458,
+          "like_count": 15683,
+          "listed_count": 41,
+          "media_count": 227,
+          "tweet_count": 7951
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T03:52:13.000Z",
+        "description": "HRT 19.05.20  |  我开始觉得，自己不用去改变什么，现在这样也挺好的。|  许愿可爱小男友降临到我身边❤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AmemiyaSuzune",
+                "end": 23,
+                "expanded_url": "http://t.me/AmemiyaSuzune",
+                "start": 0,
+                "url": "https://t.co/ACkgRLOZ4Y"
+              }
+            ]
+          }
+        },
+        "id": "1813783439008755713",
+        "location": "广州",
+        "name": "雨宫铃音",
+        "pinned_tweet_id": "2038156714936259042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043588294945189888/JVde-lQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 122,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/ACkgRLOZ4Y",
+        "username": "AmemiyaSuzune",
+        "verified": false
+      }
+    ]
+  }
+}

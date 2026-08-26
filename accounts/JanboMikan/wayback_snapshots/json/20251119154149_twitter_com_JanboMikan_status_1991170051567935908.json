@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1991032741044105564",
+    "created_at": "2025-11-19T15:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T16:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991170051567935908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846264453463236608",
+          "start": 0,
+          "username": "Caroyalink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991170051567935908",
+    "in_reply_to_user_id": "1846264453463236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991032741044105564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caroyalink 1000RPD，爽用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 232,
+        "media_key": "3_1991032737869058048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GRueTb0AAuqrg.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1991032741044105564",
+        "created_at": "2025-11-19T15:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991170051567935908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846264453463236608",
+              "start": 0,
+              "username": "Caroyalink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991170051567935908",
+        "in_reply_to_user_id": "1846264453463236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991032741044105564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caroyalink 1000RPD，爽用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991032737869058048"
+          ]
+        },
+        "author_id": "1846264453463236608",
+        "conversation_id": "1991032741044105564",
+        "created_at": "2025-11-19T06:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991032741044105564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jxg1kQulYE",
+              "end": 31,
+              "expanded_url": "https://x.com/Caroyalink/status/1991032741044105564/photo/1",
+              "media_key": "3_1991032737869058048",
+              "start": 8,
+              "url": "https://t.co/Jxg1kQulYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991032741044105564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以免费用喽😗 https://t.co/Jxg1kQulYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 121,
+          "like_count": 1250,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:58:52.000Z",
+        "description": "|王顺桃|INTJ|奇怪的爬行动物|自学了一些乱七八糟的东西🛠️📐⚡🖥️|不触犯原则底线都可以做朋友🥰|已̶献̶祭̶灵̶魂̶换̶取̶无̶穷̶的̶力̶量̶|スキルハンター|Я видел бабочку из другого мира |⚠️█████████ ⚠️|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tnews365",
+                "end": 23,
+                "expanded_url": "https://t.me/tnews365",
+                "start": 0,
+                "url": "https://t.co/4u1lFEskJw"
+              }
+            ]
+          }
+        },
+        "id": "1846264453463236608",
+        "location": "游戏开发部",
+        "name": "给木桃🎮🍑",
+        "pinned_tweet_id": "1986205607301685357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978774332974501888/H4sk_fx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 756,
+          "like_count": 900,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/4u1lFEskJw",
+        "username": "Caroyalink",
+        "verified": false
+      }
+    ]
+  }
+}

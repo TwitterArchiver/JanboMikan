@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1982828854067781690",
+    "created_at": "2025-10-27T15:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982829143579603244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1956567270739828736",
+          "start": 0,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982829143579603244",
+    "in_reply_to_user_id": "1956567270739828736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982828854067781690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truffaut897456 光亮得能当镜子了（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982828826896871424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RsUAWXsAA0WeC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982828826905169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RsUAYWUAAb--y.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1982828854067781690",
+        "created_at": "2025-10-27T15:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982829143579603244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1956567270739828736",
+              "start": 0,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982829143579603244",
+        "in_reply_to_user_id": "1956567270739828736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982828854067781690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truffaut897456 光亮得能当镜子了（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982828826896871424",
+            "3_1982828826905169920"
+          ]
+        },
+        "author_id": "1956567270739828736",
+        "conversation_id": "1982828854067781690",
+        "created_at": "2025-10-27T15:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982828854067781690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "伪娘"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wodmp4VQ9D",
+              "end": 60,
+              "expanded_url": "https://x.com/Truffaut897456/status/1982828854067781690/photo/1",
+              "media_key": "3_1982828826896871424",
+              "start": 37,
+              "url": "https://t.co/wodmp4VQ9D"
+            },
+            {
+              "display_url": "pic.x.com/wodmp4VQ9D",
+              "end": 60,
+              "expanded_url": "https://x.com/Truffaut897456/status/1982828854067781690/photo/1",
+              "media_key": "3_1982828826905169920",
+              "start": 37,
+              "url": "https://t.co/wodmp4VQ9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982828854067781690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我磨皮了十遍，看起来非常闪亮✨\n（撩裙）\n#男娘 #伪娘 #femboy https://t.co/wodmp4VQ9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 92,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "是男生（⚠️）喜欢电影🎦 不限类型 不限国家，喜欢记导演，标豆瓣（玩豆瓣的可以私信来互关），问豆包（低质的内容风格制作历史讨论），喜欢恐怖片（铅黄 好莱坞b恐 邵氏恐怖 香港恐怖 日恐），对烂片有瘾，品味也烂爆 二次元马娘少女乐队特摄车万古早动画都涉猎/喜欢拍cos和女装，纯高p，实际丑蛆🐛/",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "1982828854067781690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969769601384022016/D7d4y2EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4934,
+          "following_count": 789,
+          "like_count": 2419,
+          "listed_count": 13,
+          "media_count": 49,
+          "tweet_count": 1047
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

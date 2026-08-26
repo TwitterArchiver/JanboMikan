@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2042920605775729036",
+    "created_at": "2026-04-11T14:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042973334904934888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1415524189503582212",
+          "start": 0,
+          "username": "5vUHdcYKCe2GMA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042973334904934888",
+    "in_reply_to_user_id": "1415524189503582212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042930591679885502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5vUHdcYKCe2GMA7 那猜猜看了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2042920605775729036",
+        "created_at": "2026-04-11T14:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042973334904934888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1415524189503582212",
+              "start": 0,
+              "username": "5vUHdcYKCe2GMA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042973334904934888",
+        "in_reply_to_user_id": "1415524189503582212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042930591679885502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5vUHdcYKCe2GMA7 那猜猜看了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415524189503582212",
+        "conversation_id": "2042920605775729036",
+        "created_at": "2026-04-11T11:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042930591679885502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042930591679885502",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042920605775729036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 気まずい……🫠🤢\nというか、この状況で、なんで使っているんだよ！🫩🫩🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10700,
+          "following_count": 446,
+          "like_count": 14941,
+          "listed_count": 39,
+          "media_count": 215,
+          "tweet_count": 7627
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T04:11:00.000Z",
+        "description": "自撮り加工の放置場。だったけど……\nいろいろと迷走中。\n\nサブ垢なんだけどね、本垢を放置中。",
+        "id": "1415524189503582212",
+        "name": "三田琴華",
+        "pinned_tweet_id": "1805575819819204801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415562725497786368/L6WzL2er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 44,
+          "like_count": 15869,
+          "listed_count": 1,
+          "media_count": 992,
+          "tweet_count": 7827
+        },
+        "username": "5vUHdcYKCe2GMA7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2040239863979762148",
+    "created_at": "2026-04-04T09:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040361670837772565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1676538919591251973",
+          "start": 0,
+          "username": "kisunehime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040361670837772565",
+    "in_reply_to_user_id": "1676538919591251973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040361034540884311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kisunehime 唤醒了曾经的记忆😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2040239863979762148",
+        "created_at": "2026-04-04T09:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040361670837772565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676538919591251973",
+              "start": 0,
+              "username": "kisunehime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040361670837772565",
+        "in_reply_to_user_id": "1676538919591251973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040361034540884311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kisunehime 唤醒了曾经的记忆😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676538919591251973",
+        "conversation_id": "2040239863979762148",
+        "created_at": "2026-04-04T09:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040361034540884311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040361034540884311",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040239863979762148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我原本以為我不會在學校以外的地方看到這種東西W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10059,
+          "following_count": 428,
+          "like_count": 14161,
+          "listed_count": 39,
+          "media_count": 205,
+          "tweet_count": 7291
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T10:32:26.000Z",
+        "description": "是八美肉\n1.0繪師媽媽: @ShiinaYui_Ch\n2.0繪師媽媽:@KaikaMizutani\n建模老爸:@whiteJK14\n通用tag:#今天的狐狸也在努力社交\n直播：#狐姬出沒\n圖畫：#kisunehimeart\n梗圖和奇怪的東東：#狐不知道\n信件:kisunehime@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 73,
+                "tag": "今天的狐狸也在努力社交"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "狐姬出沒"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "tag": "kisunehimeart"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "狐不知道"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "ShiinaYui_Ch"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "KaikaMizutani"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "whiteJK14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kisunehime",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kisunehime",
+                "start": 0,
+                "url": "https://t.co/WkHXDrQKkf"
+              }
+            ]
+          }
+        },
+        "id": "1676538919591251973",
+        "location": "不知名的深山",
+        "name": "狐姬漾 kisunehime sama 狐狸八美肉系Vtuber",
+        "pinned_tweet_id": "1872446099337908453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775714956010565632/-mE10emb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 708,
+          "like_count": 27867,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 12158
+        },
+        "url": "https://t.co/WkHXDrQKkf",
+        "username": "kisunehime",
+        "verified": false
+      }
+    ]
+  }
+}

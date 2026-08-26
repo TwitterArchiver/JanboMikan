@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020682015566369148",
+    "created_at": "2026-02-10T10:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021170736132411830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "351655389",
+          "start": 0,
+          "username": "xmzing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021170736132411830",
+    "in_reply_to_user_id": "351655389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021164868020076739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmzing 非常凉快！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020682015566369148",
+        "created_at": "2026-02-10T10:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021170736132411830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "351655389",
+              "start": 0,
+              "username": "xmzing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021170736132411830",
+        "in_reply_to_user_id": "351655389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021164868020076739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmzing 非常凉快！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "351655389",
+        "conversation_id": "2020682015566369148",
+        "created_at": "2026-02-10T10:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021164868020076739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021164868020076739",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020682015566369148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan Mikan in 冷凍庫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5154,
+          "following_count": 317,
+          "like_count": 8261,
+          "listed_count": 22,
+          "media_count": 134,
+          "tweet_count": 4230
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-09T15:20:03.000Z",
+        "description": "",
+        "id": "351655389",
+        "name": "wiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885084053216645120/0gqmTcCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1433,
+          "like_count": 53879,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 13013
+        },
+        "username": "xmzing",
+        "verified": false
+      }
+    ]
+  }
+}

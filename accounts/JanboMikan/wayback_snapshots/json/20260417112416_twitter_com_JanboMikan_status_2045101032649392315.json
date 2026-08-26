@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044732542881001598",
+    "created_at": "2026-04-17T11:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045101032649392315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "103779167",
+          "start": 0,
+          "username": "eaxae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045101032649392315",
+    "in_reply_to_user_id": "103779167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045089897086918980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eaxae 还真是x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044732542881001598",
+        "created_at": "2026-04-17T11:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045101032649392315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "103779167",
+              "start": 0,
+              "username": "eaxae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045101032649392315",
+        "in_reply_to_user_id": "103779167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045089897086918980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eaxae 还真是x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "103779167",
+        "conversation_id": "2044732542881001598",
+        "created_at": "2026-04-17T10:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045089897086918980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045089897086918980",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044732542881001598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 命だけは大切にしろよ…まぁ尊厳は別にええか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10986,
+          "following_count": 455,
+          "like_count": 15509,
+          "listed_count": 45,
+          "media_count": 226,
+          "tweet_count": 7899
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-11T06:32:02.000Z",
+        "description": "熊の習さんって書けばええんか？",
+        "id": "103779167",
+        "location": "くさきの絶えぬ所。",
+        "name": "いくしい",
+        "pinned_tweet_id": "1803816094387311003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2840558205/f5f492a419e1651943cf4e91f3bcd7d0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 312,
+          "like_count": 2891,
+          "listed_count": 6,
+          "media_count": 316,
+          "tweet_count": 41698
+        },
+        "username": "eaxae",
+        "verified": false
+      }
+    ]
+  }
+}

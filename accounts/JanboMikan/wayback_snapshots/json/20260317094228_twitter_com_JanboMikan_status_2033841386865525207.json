@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033498523404992671",
+    "created_at": "2026-03-17T09:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033841386865525207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1570490813595144193",
+          "start": 0,
+          "username": "Levitic0118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033841386865525207",
+    "in_reply_to_user_id": "1570490813595144193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033772669410349315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Levitic0118 😋是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033498523404992671",
+        "created_at": "2026-03-17T09:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033841386865525207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1570490813595144193",
+              "start": 0,
+              "username": "Levitic0118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033841386865525207",
+        "in_reply_to_user_id": "1570490813595144193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033772669410349315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Levitic0118 😋是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570490813595144193",
+        "conversation_id": "2033498523404992671",
+        "created_at": "2026-03-17T05:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033772669410349315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033772669410349315",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033498523404992671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 啊？是這樣的嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8621,
+          "following_count": 405,
+          "like_count": 11929,
+          "listed_count": 35,
+          "media_count": 179,
+          "tweet_count": 6358
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T19:13:01.000Z",
+        "description": "嗨!我是利維提格 是一隻羊 可以叫我羊羊或羊姐 在準備中啦 信箱：leviticvtuber@gmail.com art:@TatarooP_owo @Ucha_sako live2d:@HakkaNekoLive2D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "TatarooP_owo"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "Ucha_sako"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "HakkaNekoLive2D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCYjWg…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCYjWgSLFBFmqnLzdBE5d0hw?si=nWZ3azhk0g_Txa2a",
+                "start": 0,
+                "url": "https://t.co/tJgyw9D1O9"
+              }
+            ]
+          }
+        },
+        "id": "1570490813595144193",
+        "location": "Taiwan",
+        "name": "利維提格Levitic(羊羊）🐑四捨五入是男娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982887748923973632/T2t54pER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 1711,
+          "like_count": 6710,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/tJgyw9D1O9",
+        "username": "Levitic0118",
+        "verified": false
+      }
+    ]
+  }
+}

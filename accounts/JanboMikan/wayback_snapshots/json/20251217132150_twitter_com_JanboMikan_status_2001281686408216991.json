@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2001279648265900044",
+    "created_at": "2025-12-17T13:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001281686408216991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499669471920746500",
+          "start": 0,
+          "username": "shimengxiaoqiy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001281686408216991",
+    "in_reply_to_user_id": "1499669471920746500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001279648265900044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimengxiaoqiy1 不是蓝白碗我不吃😋（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2001279640237924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8X5OsSaYAAAHKR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2001279648265900044",
+        "created_at": "2025-12-17T13:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001281686408216991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499669471920746500",
+              "start": 0,
+              "username": "shimengxiaoqiy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001281686408216991",
+        "in_reply_to_user_id": "1499669471920746500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001279648265900044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimengxiaoqiy1 不是蓝白碗我不吃😋（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001279640237924352"
+          ]
+        },
+        "author_id": "1499669471920746500",
+        "conversation_id": "2001279648265900044",
+        "created_at": "2025-12-17T13:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001279648265900044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5Ibpvxm6g",
+              "end": 77,
+              "expanded_url": "https://x.com/shimengxiaoqiy1/status/2001279648265900044/photo/1",
+              "media_key": "3_2001279640237924352",
+              "start": 54,
+              "url": "https://t.co/N5Ibpvxm6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001279648265900044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是？你在男生宿舍床上看见一个穿着可爱T恤裙过膝袜美少女而且裙子里面极有可能穿的是南极人大裤衩吗😭？ https://t.co/N5Ibpvxm6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 211,
+          "like_count": 3549,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 1539
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T08:54:07.000Z",
+        "description": "某不知名伪娘，喜欢可爱贴贴，请勿骚扰\n\n片想いの人@Iprintemps1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Iprintemps1"
+              }
+            ]
+          }
+        },
+        "id": "1499669471920746500",
+        "name": "小甜柒柒泡水",
+        "pinned_tweet_id": "1989663680360034625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988801501310095360/GESL6Mml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 160,
+          "like_count": 660,
+          "listed_count": 6,
+          "media_count": 25,
+          "tweet_count": 78
+        },
+        "username": "shimengxiaoqiy1",
+        "verified": false
+      }
+    ]
+  }
+}

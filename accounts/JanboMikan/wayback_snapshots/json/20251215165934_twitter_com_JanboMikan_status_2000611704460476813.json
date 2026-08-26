@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2000582053998268611",
+    "created_at": "2025-12-15T16:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T17:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000611704460476813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1044826686150377472",
+          "start": 0,
+          "username": "Fox___Candy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000611704460476813",
+    "in_reply_to_user_id": "1044826686150377472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000582053998268611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox___Candy 贴贴好！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000582040245170176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8N-xBzW8AAlpMt.jpg",
+        "width": 1012
+      },
+      {
+        "height": 1778,
+        "media_key": "3_2000582040245166081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8N-xBzW4AEGhCJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2000582053998268611",
+        "created_at": "2025-12-15T16:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000611704460476813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1044826686150377472",
+              "start": 0,
+              "username": "Fox___Candy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000611704460476813",
+        "in_reply_to_user_id": "1044826686150377472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000582053998268611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox___Candy 贴贴好！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000582040245170176",
+            "3_2000582040245166081"
+          ]
+        },
+        "author_id": "1044826686150377472",
+        "conversation_id": "2000582053998268611",
+        "created_at": "2025-12-15T15:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000582053998268611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWDK5Yj0FG",
+              "end": 51,
+              "expanded_url": "https://x.com/Fox___Candy/status/2000582053998268611/photo/1",
+              "media_key": "3_2000582040245170176",
+              "start": 28,
+              "url": "https://t.co/CWDK5Yj0FG"
+            },
+            {
+              "display_url": "pic.x.com/CWDK5Yj0FG",
+              "end": 51,
+              "expanded_url": "https://x.com/Fox___Candy/status/2000582053998268611/photo/1",
+              "media_key": "3_2000582040245166081",
+              "start": 28,
+              "url": "https://t.co/CWDK5Yj0FG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000582053998268611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2877,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你是喜欢宫子蹲下呢~还是喜欢美游蹲下呢~(„ಡωಡ„) https://t.co/CWDK5Yj0FG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 211,
+          "like_count": 3393,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-26T05:51:08.000Z",
+        "description": "pixiv ID:34667441 丨主推ba丨混更绘画跟cos丨183cm 71kg丨爱好绘画钢琴还有摄影~线下展子一般在广州活动~ 欢迎找我贴贴~小号@Fox___Candy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Fox___Candy2"
+              }
+            ]
+          }
+        },
+        "id": "1044826686150377472",
+        "location": "广州",
+        "name": "狸狸狸狸糖！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1044829296869756928/Cg0vtAvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 718,
+          "like_count": 2599,
+          "listed_count": 7,
+          "media_count": 116,
+          "tweet_count": 798
+        },
+        "username": "Fox___Candy",
+        "verified": false
+      }
+    ]
+  }
+}

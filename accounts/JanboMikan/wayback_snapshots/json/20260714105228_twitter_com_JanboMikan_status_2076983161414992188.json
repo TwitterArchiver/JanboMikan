@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2076652225020207419",
+    "created_at": "2026-07-14T10:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076983161414992188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076983161414992188",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076882040889413859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2076652225020207419",
+        "created_at": "2026-07-14T10:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076983161414992188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076983161414992188",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076882040889413859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242074475400548352",
+        "conversation_id": "2076652225020207419",
+        "created_at": "2026-07-14T04:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076882040889413859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1520639704517025792",
+              "start": 12,
+              "username": "NekoSaka0706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076882040889413859",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076652225020207419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @NekoSaka0706 小小的好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15346,
+          "following_count": 595,
+          "like_count": 20931,
+          "listed_count": 52,
+          "media_count": 356,
+          "tweet_count": 11066
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 生命体征维持中ㅣ路边一条\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 1731,
+          "like_count": 8615,
+          "listed_count": 6,
+          "media_count": 5870,
+          "tweet_count": 24128
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

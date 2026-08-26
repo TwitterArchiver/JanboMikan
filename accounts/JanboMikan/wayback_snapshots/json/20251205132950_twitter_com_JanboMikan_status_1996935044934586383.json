@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1996935044934586383",
+    "created_at": "2025-12-05T13:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996935044934586383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/JanboMikan/status/1995810181087732064",
+          "start": 75,
+          "url": "https://t.co/T7vNI1wVee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996935044934586383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995810181087732064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续：\n第三次总算买到大小合适的，马马虎虎。\n不过因为住宿，实际上也不怎么敢下床拍照。\n就放那吃灰了......\n所以我折腾这一大圈到底是在干嘛🫠。 https://t.co/T7vNI1wVee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1995404889254744064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EaLLcbUAAvjnw.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1996935044934586383",
+        "created_at": "2025-12-05T13:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996935044934586383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1995810181087732064",
+              "start": 75,
+              "url": "https://t.co/T7vNI1wVee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996935044934586383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995810181087732064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续：\n第三次总算买到大小合适的，马马虎虎。\n不过因为住宿，实际上也不怎么敢下床拍照。\n就放那吃灰了......\n所以我折腾这一大圈到底是在干嘛🫠。 https://t.co/T7vNI1wVee"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995404889254744064"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995810181087732064",
+        "created_at": "2025-12-02T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995810181087732064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDnyXxw02i",
+              "end": 164,
+              "expanded_url": "https://x.com/JanboMikan/status/1995810181087732064/photo/1",
+              "media_key": "3_1995404889254744064",
+              "start": 141,
+              "url": "https://t.co/SDnyXxw02i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995810181087732064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 58673,
+          "like_count": 385,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "网上买JK小皮鞋遭遇大坑，尺码太大和太小都遇到过。\n去驿站退货的时候打包得严严实实，可没人告诉我得事先拍一下鞋子的图啊。\n小哥虽然行云流水地拆箱拍照，但感觉一脸难绷的表情快压不住了......\n还有意只把鞋盒的盖子掀起一个小角怼着拍，谢谢你在大庭广众的视线下保护我😇💔。\n\n#男娘 https://t.co/SDnyXxw02i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 175,
+          "like_count": 2518,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2055298967769071861",
+    "created_at": "2026-05-16T00:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055449750103904395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        },
+        {
+          "end": 20,
+          "id": "2049186369361289216",
+          "start": 9,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055449750103904395",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055336855743111301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl @Ayn_kitkia 最近没灵感了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055298967769071861",
+        "created_at": "2026-05-16T00:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055449750103904395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 20,
+              "id": "2049186369361289216",
+              "start": 9,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055449750103904395",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055336855743111301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl @Ayn_kitkia 最近没灵感了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "2055298967769071861",
+        "created_at": "2026-05-15T17:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055336855743111301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "2049186369361289216",
+              "start": 12,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055336855743111301",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055315835904987390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @Ayn_kitkia 我们还是不知道蜜柑老师是哪里来的这么多灵感的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12925,
+          "following_count": 496,
+          "like_count": 17599,
+          "listed_count": 43,
+          "media_count": 272,
+          "tweet_count": 9093
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请打电话 | 有tg群,进群🚪/熟人,私信问连接 | qq爆毙别用qq找我 | https://t.co/K0l29xuUmd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lpngpkl",
+                "end": 98,
+                "expanded_url": "http://t.me/lpngpkl",
+                "start": 75,
+                "url": "https://t.co/K0l29xuUmd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "我的4i大姐姐老婆在哪里找.jpg 鴇鵬機工|Tokiho Engineering",
+        "pinned_tweet_id": "2053350127964660128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11400,
+          "following_count": 6988,
+          "like_count": 160874,
+          "listed_count": 26,
+          "media_count": 6759,
+          "tweet_count": 95906
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "オス♂//aya避難所✦本垢@AyanoAsahina\n我有精神病",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "location": "Minato-ku, Tokyo",
+        "name": "AyaNO₃",
+        "pinned_tweet_id": "2049359492446658688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051147515882622976/G53Dk8sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 127,
+          "like_count": 1346,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 730
+        },
+        "username": "Ayn_kitkia",
+        "verified": true
+      }
+    ]
+  }
+}

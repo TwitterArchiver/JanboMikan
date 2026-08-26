@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978884656968929541",
+    "created_at": "2025-10-17T01:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T02:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979003208975470879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865473418168307712",
+          "start": 0,
+          "username": "ynsh288158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979003208975470879",
+    "in_reply_to_user_id": "1865473418168307712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978884656968929541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynsh288158 建议最好用日本的那个啦。\n玩比贴重要，规律开发才有用~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1978884625993768960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZpFS_XIAAEeEb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1978884646902358016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZpGg4W4AAe9iH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1170,
+        "media_key": "3_1978884627365244928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZpFYGWMAAXfk9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978884656968929541",
+        "created_at": "2025-10-17T01:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979003208975470879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865473418168307712",
+              "start": 0,
+              "username": "ynsh288158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979003208975470879",
+        "in_reply_to_user_id": "1865473418168307712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978884656968929541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynsh288158 建议最好用日本的那个啦。\n玩比贴重要，规律开发才有用~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978884625993768960",
+            "3_1978884646902358016",
+            "3_1978884627365244928"
+          ]
+        },
+        "author_id": "1865473418168307712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978884656968929541",
+        "created_at": "2025-10-16T18:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978884656968929541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypHatTOCkf",
+              "end": 74,
+              "expanded_url": "https://x.com/ynsh288158/status/1978884656968929541/photo/1",
+              "media_key": "3_1978884625993768960",
+              "start": 51,
+              "url": "https://t.co/ypHatTOCkf"
+            },
+            {
+              "display_url": "pic.x.com/ypHatTOCkf",
+              "end": 74,
+              "expanded_url": "https://x.com/ynsh288158/status/1978884656968929541/photo/1",
+              "media_key": "3_1978884646902358016",
+              "start": 51,
+              "url": "https://t.co/ypHatTOCkf"
+            },
+            {
+              "display_url": "pic.x.com/ypHatTOCkf",
+              "end": 74,
+              "expanded_url": "https://x.com/ynsh288158/status/1978884656968929541/photo/1",
+              "media_key": "3_1978884627365244928",
+              "start": 51,
+              "url": "https://t.co/ypHatTOCkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978884656968929541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们说这个到底有没有用啊…（贴了好几个都没有贴好…好浪费……૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა） https://t.co/ypHatTOCkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 71,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:08:27.000Z",
+        "description": "江苏男娘～想交朋友ing（一起逛街，一起去漫展…）…",
+        "id": "1865473418168307712",
+        "name": "云沐（求转推～！）",
+        "pinned_tweet_id": "1977798448830447781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890778099878658048/W9Glgbx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 57,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "ynsh288158",
+        "verified": false
+      }
+    ]
+  }
+}

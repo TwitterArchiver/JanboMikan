@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033351772073607220",
+    "created_at": "2026-03-16T08:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033456692244230610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Andrew_Ai2700"
+        },
+        {
+          "end": 24,
+          "id": "1812363069487742976",
+          "start": 15,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033456692244230610",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033396519500677181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andrew_Ai2700 @mingji_A 哐哐复习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-16T08:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033456692244230610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Andrew_Ai2700"
+            },
+            {
+              "end": 24,
+              "id": "1812363069487742976",
+              "start": 15,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033456692244230610",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033396519500677181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andrew_Ai2700 @mingji_A 哐哐复习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430052755352166401",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-16T04:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033396519500677181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033396519500677181",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033351772073607220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 复习效率这么高😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8391,
+          "following_count": 404,
+          "like_count": 11669,
+          "listed_count": 33,
+          "media_count": 177,
+          "tweet_count": 6259
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳From China/05,185,65/🏫HIE/📡BI7AWY/🟪MTX/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD+STPD💊/在读机械狗一枚/全科通识，考试弱智，拆拿教育失败品/🉑🉑机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❌❌历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai～🍎🍊🍋🍏🫐",
+        "pinned_tweet_id": "2030713067164893246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 558,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 784
+        },
+        "username": "Andrew_Ai2700",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1792,
+          "like_count": 72522,
+          "listed_count": 9,
+          "media_count": 119,
+          "tweet_count": 14067
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010350225035325440"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011392863838605683",
+    "created_at": "2026-01-14T11:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011392863838605683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yff10XA6Pg",
+          "end": 108,
+          "expanded_url": "https://x.com/JanboMikan/status/2011392863838605683/photo/1",
+          "media_key": "3_2010350225035325440",
+          "start": 85,
+          "url": "https://t.co/yff10XA6Pg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011392863838605683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "师弟一脸兴奋地拿着手机凑过来：「师兄你看，这是我在会上刚交的朋友，是搞深度学习的。」\n我下意识摸了下屁股：「......为了发paper真的要做到这一步吗？」\n师弟：？ https://t.co/yff10XA6Pg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2955,
+        "media_key": "3_2010350225035325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Yy4N1bcAADakr.jpg",
+        "width": 2353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010350225035325440"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011392863838605683",
+        "created_at": "2026-01-14T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011392863838605683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yff10XA6Pg",
+              "end": 108,
+              "expanded_url": "https://x.com/JanboMikan/status/2011392863838605683/photo/1",
+              "media_key": "3_2010350225035325440",
+              "start": 85,
+              "url": "https://t.co/yff10XA6Pg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011392863838605683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "师弟一脸兴奋地拿着手机凑过来：「师兄你看，这是我在会上刚交的朋友，是搞深度学习的。」\n我下意识摸了下屁股：「......为了发paper真的要做到这一步吗？」\n师弟：？ https://t.co/yff10XA6Pg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 274,
+          "like_count": 5807,
+          "listed_count": 16,
+          "media_count": 101,
+          "tweet_count": 2813
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

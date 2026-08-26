@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1988532084185735254",
+    "created_at": "2025-11-12T12:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988589271381590125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806995588145467392",
+          "start": 0,
+          "username": "Nonzenki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988589271381590125",
+    "in_reply_to_user_id": "1806995588145467392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988532084185735254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nonzenki 折寿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988532074861748224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ivYuqa4AAl6jW.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1988532084185735254",
+        "created_at": "2025-11-12T12:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988589271381590125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806995588145467392",
+              "start": 0,
+              "username": "Nonzenki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988589271381590125",
+        "in_reply_to_user_id": "1806995588145467392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988532084185735254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonzenki 折寿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988532074861748224"
+          ]
+        },
+        "author_id": "1806995588145467392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1988532084185735254",
+        "created_at": "2025-11-12T08:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988532084185735254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "femboy"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "男の娘"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "rabbithole"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "maid"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "ラビットホール"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZVESe4akX",
+              "end": 73,
+              "expanded_url": "https://x.com/Nonzenki/status/1988532084185735254/photo/1",
+              "media_key": "3_1988532074861748224",
+              "start": 50,
+              "url": "https://t.co/hZVESe4akX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988532084185735254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祈祷\n\n#femboy #男の娘 #初音ミク #rabbithole #maid #ラビットホール https://t.co/hZVESe4akX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费肉眼可见贫穷的异世界厕纸番剧穿越第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 112,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:18:25.000Z",
+        "description": "06/东方project/喜欢cos/偶尔女装😉/历史/写作/单机游戏/都市传说/考古‖陪我一路走来的重要的人:@ShengMingSen  @MIcedblacktea @tuanyuehuan @JianYu233 @ZC225031_友跨但只友正常跨😃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "ShengMingSen"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "MIcedblacktea"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "tuanyuehuan"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "JianYu233"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "ZC225031_"
+              }
+            ]
+          }
+        },
+        "id": "1806995588145467392",
+        "location": "Unknown",
+        "name": "Neinzenki",
+        "pinned_tweet_id": "1854786234310443204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854494345191383040/QqhQvkPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 859,
+          "like_count": 24476,
+          "listed_count": 4,
+          "media_count": 288,
+          "tweet_count": 2961
+        },
+        "username": "Nonzenki",
+        "verified": false
+      }
+    ]
+  }
+}

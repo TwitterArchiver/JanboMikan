@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982646653220696065"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1982718912572883459",
+    "created_at": "2025-10-27T08:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982718912572883459"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "男娘"
+        },
+        {
+          "end": 86,
+          "start": 79,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYFgI2M9OU",
+          "end": 110,
+          "expanded_url": "https://x.com/JanboMikan/status/1982718912572883459/photo/1",
+          "media_key": "3_1982646653220696065",
+          "start": 87,
+          "url": "https://t.co/nYFgI2M9OU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982718912572883459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想看下面吗\n想看背面吗\n想看里面吗\n想看后面吗\n想看三视图吗\n想看解剖图吗\n想看CT断层扫描图吗\n想看四维空间里投影图吗\n想看弦理论超对称粒子图吗\n\n#男娘 #可爱的男孩子 https://t.co/nYFgI2M9OU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1982646653220696065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PGoGhWMAEdOrw.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982646653220696065"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1982718912572883459",
+        "created_at": "2025-10-27T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982718912572883459"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "男娘"
+            },
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYFgI2M9OU",
+              "end": 110,
+              "expanded_url": "https://x.com/JanboMikan/status/1982718912572883459/photo/1",
+              "media_key": "3_1982646653220696065",
+              "start": 87,
+              "url": "https://t.co/nYFgI2M9OU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982718912572883459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想看下面吗\n想看背面吗\n想看里面吗\n想看后面吗\n想看三视图吗\n想看解剖图吗\n想看CT断层扫描图吗\n想看四维空间里投影图吗\n想看弦理论超对称粒子图吗\n\n#男娘 #可爱的男孩子 https://t.co/nYFgI2M9OU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 91,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2051574367147135448",
+    "created_at": "2026-05-05T09:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051595901161115677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 19,
+          "id": "1431080795536433154",
+          "start": 10,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051595901161115677",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051574367147135448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @yuluoqwq 傻鱼😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2051432048657936384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgmlE0bsAAZ8KM.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2051574367147135448",
+        "created_at": "2026-05-05T09:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051595901161115677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 19,
+              "id": "1431080795536433154",
+              "start": 10,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051595901161115677",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051574367147135448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @yuluoqwq 傻鱼😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051432048657936384"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2051574367147135448",
+        "created_at": "2026-05-05T08:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051574367147135448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1431080795536433154",
+              "start": 25,
+              "username": "yuluoqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGAfSe76bv",
+              "end": 63,
+              "expanded_url": "https://x.com/mingji_A/status/2051574367147135448/photo/1",
+              "media_key": "3_2051432048657936384",
+              "start": 40,
+              "url": "https://t.co/vGAfSe76bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051574367147135448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鱼也会迷路，所以它选择停在你身上。🥰\n——来自 @yuluoqwq  的鲨鱼 https://t.co/vGAfSe76bv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12411,
+          "following_count": 492,
+          "like_count": 16958,
+          "listed_count": 43,
+          "media_count": 251,
+          "tweet_count": 8641
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3846,
+          "following_count": 2396,
+          "like_count": 92031,
+          "listed_count": 21,
+          "media_count": 180,
+          "tweet_count": 19188
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3794,
+          "following_count": 1627,
+          "like_count": 41702,
+          "listed_count": 13,
+          "media_count": 269,
+          "tweet_count": 5028
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

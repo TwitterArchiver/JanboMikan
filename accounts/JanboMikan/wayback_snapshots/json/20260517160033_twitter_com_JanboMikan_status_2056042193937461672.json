@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2055966562126041148",
+    "created_at": "2026-05-17T16:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056042193937461672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1506665379351121922",
+          "start": 0,
+          "username": "AmithLauto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056042193937461672",
+    "in_reply_to_user_id": "1506665379351121922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055998052973101409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmithLauto 也没那么雷霆x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2055966562126041148",
+        "created_at": "2026-05-17T16:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056042193937461672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506665379351121922",
+              "start": 0,
+              "username": "AmithLauto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056042193937461672",
+        "in_reply_to_user_id": "1506665379351121922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055998052973101409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmithLauto 也没那么雷霆x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506665379351121922",
+        "conversation_id": "2055966562126041148",
+        "created_at": "2026-05-17T13:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055998052973101409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998052973101409",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966562126041148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这个世界上怎么会有这么雷霆的文字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12998,
+          "following_count": 498,
+          "like_count": 17687,
+          "listed_count": 44,
+          "media_count": 274,
+          "tweet_count": 9157
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T16:13:24.000Z",
+        "description": "twi可能包含： 游戏/日常/学习 最近在玩: 中二节奏",
+        "id": "1506665379351121922",
+        "name": "Skylake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972414514076524544/RBt8eTW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 589,
+          "like_count": 17475,
+          "listed_count": 1,
+          "media_count": 1062,
+          "tweet_count": 3901
+        },
+        "username": "AmithLauto",
+        "verified": false
+      }
+    ]
+  }
+}

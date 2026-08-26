@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2011661224103026771",
+    "created_at": "2026-01-16T04:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T05:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012016470965043297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764603711316480000",
+          "start": 0,
+          "username": "Hug800mhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012016470965043297",
+    "in_reply_to_user_id": "1764603711316480000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011661224103026771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hug800mhz 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011661069853585408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rbFbUa8AA1lIv.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2011661150031921152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rbKGAbQAAuBjd.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2011661224103026771",
+        "created_at": "2026-01-16T04:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012016470965043297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764603711316480000",
+              "start": 0,
+              "username": "Hug800mhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012016470965043297",
+        "in_reply_to_user_id": "1764603711316480000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011661224103026771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hug800mhz 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011661069853585408",
+            "3_2011661150031921152"
+          ]
+        },
+        "author_id": "1764603711316480000",
+        "conversation_id": "2011661224103026771",
+        "created_at": "2026-01-15T04:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T05:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011661224103026771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pklc8upBn",
+              "end": 40,
+              "expanded_url": "https://x.com/Hug800mhz/status/2011661224103026771/photo/1",
+              "media_key": "3_2011661069853585408",
+              "start": 17,
+              "url": "https://t.co/8pklc8upBn"
+            },
+            {
+              "display_url": "pic.x.com/8pklc8upBn",
+              "end": 40,
+              "expanded_url": "https://x.com/Hug800mhz/status/2011661224103026771/photo/1",
+              "media_key": "3_2011661150031921152",
+              "start": 17,
+              "url": "https://t.co/8pklc8upBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011661224103026771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 15648,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "不知为何，看起来像装成熟的小孩姐 https://t.co/8pklc8upBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3897,
+          "following_count": 278,
+          "like_count": 5948,
+          "listed_count": 18,
+          "media_count": 102,
+          "tweet_count": 2887
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T10:48:18.000Z",
+        "description": "男娘, 清水, 无美颜; \n181cm | 60kg, 工科硕士在读; \n出于「想要向更多人分享自己照片」的目的而创建的账号; \n“线下遇到女装的我, 可以来摸摸腿搂搂腰, 我不介意的”",
+        "id": "1764603711316480000",
+        "name": "Hug",
+        "pinned_tweet_id": "1980863523925479631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764603912894713856/nnhOffTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 63,
+          "like_count": 995,
+          "listed_count": 10,
+          "media_count": 82,
+          "tweet_count": 207
+        },
+        "username": "Hug800mhz",
+        "verified": false
+      }
+    ]
+  }
+}

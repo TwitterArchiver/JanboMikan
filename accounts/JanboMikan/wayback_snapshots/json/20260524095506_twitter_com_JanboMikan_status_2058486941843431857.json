@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058369840990359747",
+    "created_at": "2026-05-24T09:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058486941843431857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        },
+        {
+          "end": 26,
+          "id": "1792933283040284673",
+          "start": 17,
+          "username": "tuamitx0"
+        },
+        {
+          "end": 36,
+          "id": "1812363069487742976",
+          "start": 27,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058486941843431857",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058412481614434452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Genshin_Ganyu_ @tuamitx0 @mingji_A 就是这么没羞没臊😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058369840990359747",
+        "created_at": "2026-05-24T09:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058486941843431857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            },
+            {
+              "end": 26,
+              "id": "1792933283040284673",
+              "start": 17,
+              "username": "tuamitx0"
+            },
+            {
+              "end": 36,
+              "id": "1812363069487742976",
+              "start": 27,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058486941843431857",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058412481614434452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Genshin_Ganyu_ @tuamitx0 @mingji_A 就是这么没羞没臊😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511574513967722505",
+        "conversation_id": "2058369840990359747",
+        "created_at": "2026-05-24T04:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058412481614434452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1792933283040284673",
+              "start": 12,
+              "username": "tuamitx0"
+            },
+            {
+              "end": 31,
+              "id": "1812363069487742976",
+              "start": 22,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058412481614434452",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058369840990359747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @tuamitx0 @mingji_A 又做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13172,
+          "following_count": 516,
+          "like_count": 18022,
+          "listed_count": 45,
+          "media_count": 285,
+          "tweet_count": 9392
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "天要下雨，猫要哈气，随它去吧\n椰羊老师 | BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美🥥🐑",
+        "pinned_tweet_id": "2041811802737238261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3896,
+          "following_count": 1104,
+          "like_count": 3071,
+          "listed_count": 9,
+          "media_count": 349,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 43,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 20,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst 🍫",
+        "pinned_tweet_id": "2053508177342406719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058159608733310976/X0ppTvKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 853,
+          "like_count": 31622,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 17911
+        },
+        "username": "tuamitx0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4190,
+          "following_count": 2548,
+          "like_count": 94035,
+          "listed_count": 22,
+          "media_count": 200,
+          "tweet_count": 20725
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983888294300807172",
+        "3_1983888294305001478"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1984576151302619627",
+    "created_at": "2025-11-01T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984576151302619627"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 48,
+          "start": 40,
+          "tag": "cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QY8auIjdd",
+          "end": 72,
+          "expanded_url": "https://x.com/JanboMikan/status/1984576151302619627/photo/1",
+          "media_key": "3_1983888294300807172",
+          "start": 49,
+          "url": "https://t.co/8QY8auIjdd"
+        },
+        {
+          "display_url": "pic.x.com/8QY8auIjdd",
+          "end": 72,
+          "expanded_url": "https://x.com/JanboMikan/status/1984576151302619627/photo/1",
+          "media_key": "3_1983888294305001478",
+          "start": 49,
+          "url": "https://t.co/8QY8auIjdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984576151302619627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你...去祭典了吧，和我不认识的水产一起......\n\n#男娘 #可爱的男孩子 #cosplay https://t.co/8QY8auIjdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1983888294300807172",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gv5H_a8AQc_rb.jpg",
+        "width": 525
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1983888294305001478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gv5IAa8AYSWy4.jpg",
+        "width": 525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983888294300807172",
+            "3_1983888294305001478"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1984576151302619627",
+        "created_at": "2025-11-01T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984576151302619627"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QY8auIjdd",
+              "end": 72,
+              "expanded_url": "https://x.com/JanboMikan/status/1984576151302619627/photo/1",
+              "media_key": "3_1983888294300807172",
+              "start": 49,
+              "url": "https://t.co/8QY8auIjdd"
+            },
+            {
+              "display_url": "pic.x.com/8QY8auIjdd",
+              "end": 72,
+              "expanded_url": "https://x.com/JanboMikan/status/1984576151302619627/photo/1",
+              "media_key": "3_1983888294305001478",
+              "start": 49,
+              "url": "https://t.co/8QY8auIjdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984576151302619627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你...去祭典了吧，和我不认识的水产一起......\n\n#男娘 #可爱的男孩子 #cosplay https://t.co/8QY8auIjdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 98,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

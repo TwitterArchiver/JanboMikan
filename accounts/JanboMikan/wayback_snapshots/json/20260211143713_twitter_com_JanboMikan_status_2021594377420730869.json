@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021041433554166196",
+    "created_at": "2026-02-11T14:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021594377420730869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1229429137833627648",
+          "start": 0,
+          "username": "ZY_zuoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021594377420730869",
+    "in_reply_to_user_id": "1229429137833627648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021594114345562604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZY_zuoye 好孩子！😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_2021594104371814400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4lIIcbIAAcKBh.jpg",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021041433554166196",
+        "created_at": "2026-02-11T14:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021594377420730869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1229429137833627648",
+              "start": 0,
+              "username": "ZY_zuoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021594377420730869",
+        "in_reply_to_user_id": "1229429137833627648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021594114345562604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZY_zuoye 好孩子！😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021594104371814400"
+          ]
+        },
+        "author_id": "1229429137833627648",
+        "conversation_id": "2021041433554166196",
+        "created_at": "2026-02-11T14:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021594114345562604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7viIVmyb7I",
+              "end": 44,
+              "expanded_url": "https://x.com/ZY_zuoye/status/2021594114345562604/photo/1",
+              "media_key": "3_2021594104371814400",
+              "start": 21,
+              "url": "https://t.co/7viIVmyb7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021594114345562604",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021041433554166196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 今日依旧严肃学习 https://t.co/7viIVmyb7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5331,
+          "following_count": 320,
+          "like_count": 8401,
+          "listed_count": 24,
+          "media_count": 136,
+          "tweet_count": 4322
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T15:35:40.000Z",
+        "description": "嗨嗨嗨!想找我聊天的话可以直接私信我,不管是高兴的事还是难过的事我都会听你说。另外,如果你好奇的话,我是男性05年出生,希望你有美好的一天～",
+        "id": "1229429137833627648",
+        "location": "蒙特利尔",
+        "name": "-作业-",
+        "pinned_tweet_id": "2019835740939821403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016786755580809220/Xn5sIE_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 773,
+          "like_count": 37312,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 380
+        },
+        "username": "ZY_zuoye",
+        "verified": false
+      }
+    ]
+  }
+}

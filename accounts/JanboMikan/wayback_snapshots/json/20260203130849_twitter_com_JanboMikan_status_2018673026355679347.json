@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2018640616457175147",
+    "created_at": "2026-02-03T13:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018673026355679347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429378004187328520",
+          "start": 0,
+          "username": "wasdak88177353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018673026355679347",
+    "in_reply_to_user_id": "1429378004187328520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018668028515471510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasdak88177353 空姐不是小姐！😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2018640616457175147",
+        "created_at": "2026-02-03T13:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018673026355679347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429378004187328520",
+              "start": 0,
+              "username": "wasdak88177353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018673026355679347",
+        "in_reply_to_user_id": "1429378004187328520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018668028515471510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasdak88177353 空姐不是小姐！😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429378004187328520",
+        "conversation_id": "2018640616457175147",
+        "created_at": "2026-02-03T12:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018668028515471510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018668028515471510",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018666347543330976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 不让起飞那我可就要找空姐打发时间了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4605,
+          "following_count": 304,
+          "like_count": 7536,
+          "listed_count": 26,
+          "media_count": 124,
+          "tweet_count": 3845
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T09:40:57.000Z",
+        "description": "wasd",
+        "id": "1429378004187328520",
+        "name": "wasdak",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 170
+        },
+        "username": "wasdak88177353",
+        "verified": false
+      }
+    ]
+  }
+}

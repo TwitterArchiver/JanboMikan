@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2004843279062647137",
+    "created_at": "2025-12-27T14:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004915175032586567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353996204422492160",
+          "start": 0,
+          "username": "meow_marmalade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004915175032586567",
+    "in_reply_to_user_id": "1353996204422492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004843279062647137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meow_marmalade 老师好能扭🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21400,
+        "height": 1278,
+        "media_key": "13_2004843210259247104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004843210259247104/img/06Iiqf06REaW8Qc3.jpg",
+        "public_metrics": {
+          "view_count": 852
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/vid/avc1/320x568/vEOWjQzdygBgR4Mb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/vid/avc1/480x852/jeQXkuxol0JigUma.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/vid/avc1/720x1278/Fix8D9mJKSi2nNIx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004843210259247104/pl/v0QOQekoVk_-s0vq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2004843279062647137",
+        "created_at": "2025-12-27T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004915175032586567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353996204422492160",
+              "start": 0,
+              "username": "meow_marmalade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004915175032586567",
+        "in_reply_to_user_id": "1353996204422492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004843279062647137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow_marmalade 老师好能扭🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004843210259247104"
+          ]
+        },
+        "author_id": "1353996204422492160",
+        "conversation_id": "2004843279062647137",
+        "created_at": "2025-12-27T09:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004843279062647137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErlL9w0muE",
+              "end": 27,
+              "expanded_url": "https://x.com/meow_marmalade/status/2004843279062647137/video/1",
+              "media_key": "13_2004843210259247104",
+              "start": 4,
+              "url": "https://t.co/ErlL9w0muE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004843279062647137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 2663,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "唐唐的 https://t.co/ErlL9w0muE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 218,
+          "like_count": 4284,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 1994
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T09:20:41.000Z",
+        "description": "那是我最喜欢的一束花 也是我最后送出的一束花",
+        "id": "1353996204422492160",
+        "location": "精神病院",
+        "name": "蜜柑Mikan",
+        "pinned_tweet_id": "1954892608234545198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902571162288451587/JHcsBssS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29515,
+          "following_count": 90,
+          "like_count": 20084,
+          "listed_count": 129,
+          "media_count": 177,
+          "tweet_count": 3195
+        },
+        "username": "meow_marmalade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2034079486036300039",
+    "created_at": "2026-03-18T09:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034204867133374897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017964048101580800",
+          "start": 0,
+          "username": "qiluoqqcA"
+        },
+        {
+          "end": 20,
+          "id": "1812363069487742976",
+          "start": 11,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034204867133374897",
+    "in_reply_to_user_id": "2017964048101580800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034145828940771570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiluoqqcA @mingji_A 我是清水🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2034079486036300039",
+        "created_at": "2026-03-18T09:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034204867133374897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017964048101580800",
+              "start": 0,
+              "username": "qiluoqqcA"
+            },
+            {
+              "end": 20,
+              "id": "1812363069487742976",
+              "start": 11,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034204867133374897",
+        "in_reply_to_user_id": "2017964048101580800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034145828940771570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiluoqqcA @mingji_A 我是清水🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017964048101580800",
+        "conversation_id": "2034079486036300039",
+        "created_at": "2026-03-18T05:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034145828940771570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034145828940771570",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034079486036300039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 666还有M的事 所以主包什么时候下海拍啊老这样看着眼馋啊😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8757,
+          "following_count": 407,
+          "like_count": 12166,
+          "listed_count": 34,
+          "media_count": 181,
+          "tweet_count": 6457
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T14:11:47.000Z",
+        "description": "Most of the resources are from the internet. If there is any copyright infringement, please notify me and I will delete them.",
+        "id": "2017964048101580800",
+        "name": "柠檬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017964211595595776/meon1bqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 4,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 287
+        },
+        "username": "qiluoqqcA",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 1824,
+          "like_count": 73920,
+          "listed_count": 9,
+          "media_count": 122,
+          "tweet_count": 14324
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

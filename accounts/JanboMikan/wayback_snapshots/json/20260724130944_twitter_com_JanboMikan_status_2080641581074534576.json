@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2080608937997676577",
+    "created_at": "2026-07-24T13:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080641581074534576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062730121853992960",
+          "start": 0,
+          "username": "ZaKosauce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080641581074534576",
+    "in_reply_to_user_id": "2062730121853992960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080611740350570943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaKosauce 是这样的x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2080608937997676577",
+        "created_at": "2026-07-24T13:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080641581074534576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062730121853992960",
+              "start": 0,
+              "username": "ZaKosauce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080641581074534576",
+        "in_reply_to_user_id": "2062730121853992960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080611740350570943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaKosauce 是这样的x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062730121853992960",
+        "conversation_id": "2080608937997676577",
+        "created_at": "2026-07-24T11:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080611740350570943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080611740350570943",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080608937997676577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这爹也是个人物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15755,
+          "following_count": 608,
+          "like_count": 21369,
+          "listed_count": 52,
+          "media_count": 367,
+          "tweet_count": 11343
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-05T03:00:56.000Z",
+        "description": "数字绘画新手 | 重度动漫爱好者 丨172 54kg\n🏳️‍⚧️ HRT2023.12.17 | 欢迎聊天/留言 | 过程分享为主| 健身减脂 | COS准备ing\n 风格及穿搭探索中丨自然记录向",
+        "id": "2062730121853992960",
+        "name": "text",
+        "pinned_tweet_id": "2079069900040232969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062731870522200064/XHWoeTrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 91,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "ZaKosauce",
+        "verified": true
+      }
+    ]
+  }
+}

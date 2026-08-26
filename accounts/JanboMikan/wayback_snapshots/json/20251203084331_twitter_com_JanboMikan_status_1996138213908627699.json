@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1995810181087732064",
+    "created_at": "2025-12-03T08:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T09:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996138213908627699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831709757406666753",
+          "start": 0,
+          "username": "QiuMing_74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996138213908627699",
+    "in_reply_to_user_id": "1831709757406666753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996128260976152586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMing_74 确实x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995810181087732064",
+        "created_at": "2025-12-03T08:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996138213908627699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831709757406666753",
+              "start": 0,
+              "username": "QiuMing_74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996138213908627699",
+        "in_reply_to_user_id": "1831709757406666753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996128260976152586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMing_74 确实x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831709757406666753",
+        "conversation_id": "1995810181087732064",
+        "created_at": "2025-12-03T08:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996128260976152586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996128260976152586",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995810181087732064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这是真的😢买过两个店子的乐福鞋，一个40码大特别多，一个40码挤脚😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 166,
+          "like_count": 2336,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:03:44.000Z",
+        "description": "让颜文字再次伟大！！(*σ´∀`)σ/可以是妈妈（？/尽量不键政……/有点淡推，回复不及时请谅解＼(；￢_￢)/绝赞赛博🐦‍⬛饲养中/想被忍者·soul凭依/随机掉落负面情绪帖，不过情绪好转了会删掉/@NicoAliceOwO是可爱男娘/@qingshixiang258超级温柔青石酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "NicoAliceOwO"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "qingshixiang258"
+              }
+            ]
+          }
+        },
+        "id": "1831709757406666753",
+        "location": "俄罗斯 诺文斯克特区 塔科夫市",
+        "name": "秋洺绝赞赛博🐦‍⬛饲养中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889898510629347329/e8TUATMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 925,
+          "like_count": 27594,
+          "listed_count": 4,
+          "media_count": 252,
+          "tweet_count": 4201
+        },
+        "username": "QiuMing_74",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2006496824266502512",
+    "created_at": "2026-01-01T11:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006688555708592633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1477204755613032451",
+          "start": 0,
+          "username": "Dirty_Deed_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006688555708592633",
+    "in_reply_to_user_id": "1477204755613032451",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006496824266502512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dirty_Deed_ hso"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71889,
+        "height": 720,
+        "media_key": "7_2006496740162306048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006496740162306048/pu/img/SsdcuGPr_bjOBYiZ.jpg",
+        "public_metrics": {
+          "view_count": 1586
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006496740162306048/pu/vid/avc1/480x270/9POBjR8pT_dOG20o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006496740162306048/pu/vid/avc1/640x360/exc8JDbjsdyjuPfg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006496740162306048/pu/vid/avc1/1280x720/cKSeEAyGaaXL3xg7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006496740162306048/pu/pl/B2Wth6wef8160qaR.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2006496824266502512",
+        "created_at": "2026-01-01T11:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006688555708592633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1477204755613032451",
+              "start": 0,
+              "username": "Dirty_Deed_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006688555708592633",
+        "in_reply_to_user_id": "1477204755613032451",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006496824266502512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dirty_Deed_ hso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006496740162306048"
+          ]
+        },
+        "author_id": "1477204755613032451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006496824266502512",
+        "created_at": "2025-12-31T22:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T23:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006496824266502512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSWJnqZngS",
+              "end": 45,
+              "expanded_url": "https://x.com/Dirty_Deed_/status/2006496824266502512/video/1",
+              "media_key": "7_2006496740162306048",
+              "start": 22,
+              "url": "https://t.co/gSWJnqZngS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006496824266502512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 3612,
+          "like_count": 223,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "米娜桑新年快乐！\n2026年的第一个视频！ https://t.co/gSWJnqZngS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 231,
+          "like_count": 4672,
+          "listed_count": 12,
+          "media_count": 86,
+          "tweet_count": 2208
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T09:07:22.000Z",
+        "description": "电波系警告⚠️，忘回消息警告⚠️，霖脾气很好（仅限朋友），推特不扩列，约玩请私信，常驻上海，生理性别男，有男朋友，XP：全包/绳缚/拘束.                       小汪酱：@Yoghri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 96,
+                "username": "Yoghri"
+              }
+            ]
+          }
+        },
+        "id": "1477204755613032451",
+        "location": "距离您 46729137291光年",
+        "name": "霖（咪咪喵喵版）",
+        "pinned_tweet_id": "1887542347149225991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887549213891850240/OhwpNLqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9934,
+          "following_count": 75,
+          "like_count": 1229,
+          "listed_count": 26,
+          "media_count": 149,
+          "tweet_count": 475
+        },
+        "username": "Dirty_Deed_",
+        "verified": false
+      }
+    ]
+  }
+}

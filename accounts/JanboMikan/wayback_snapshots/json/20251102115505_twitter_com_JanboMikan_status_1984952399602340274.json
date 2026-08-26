@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984931803237671341",
+    "created_at": "2025-11-02T11:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T12:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984952399602340274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984952399602340274",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984931803237671341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z 答题有什么奖励，能送我一条腐竹喵老师的原味吗（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2544,
+        "media_key": "3_1984928157510860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vhpIUbAAAZ_2n.jpg",
+        "width": 3392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984931803237671341",
+        "created_at": "2025-11-02T11:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984952399602340274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984952399602340274",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984931803237671341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z 答题有什么奖励，能送我一条腐竹喵老师的原味吗（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984928157510860800"
+          ]
+        },
+        "author_id": "1507794054511497219",
+        "conversation_id": "1984931803237671341",
+        "created_at": "2025-11-02T10:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984931803237671341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRSbCqyZNA",
+              "end": 182,
+              "expanded_url": "https://x.com/Miyu__Z/status/1984931803237671341/photo/1",
+              "media_key": "3_1984928157510860800",
+              "start": 159,
+              "url": "https://t.co/GRSbCqyZNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984931803237671341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每年的11月2日被称为\"裤袜之日\"(タイツの日)，由裤袜制造商\"M&amp;M SOCKS\"设立并推广，理由是裤袜的形态由两部分（形似“11”）缝合成一对（“2”）。有人认为它为平凡的生活增添了趣味和仪式感，也有人对此保持警惕，认为这只是消费主义的“甜蜜陷阱”。\n对此，你有什么所思所感？请写一篇文章，阐明你的看法。 https://t.co/GRSbCqyZNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 99,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "争取成为人类|| 里账，看情况放人: @fuzhu514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "fuzhu514"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "not gay（不要私信神秘图片了",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 275,
+          "like_count": 13054,
+          "listed_count": 7,
+          "media_count": 130,
+          "tweet_count": 2532
+        },
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

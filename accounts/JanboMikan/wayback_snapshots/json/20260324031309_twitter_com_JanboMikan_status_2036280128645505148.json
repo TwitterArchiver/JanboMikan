@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2036242184480194621",
+    "created_at": "2026-03-24T03:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036280128645505148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        },
+        {
+          "end": 17,
+          "id": "1812363069487742976",
+          "start": 8,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036280128645505148",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036255560509825311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg @mingji_A 剪剪你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2036255557389324288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEI7pBIbEAAnYI7.jpg",
+        "width": 613
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2036242184480194621",
+        "created_at": "2026-03-24T03:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036280128645505148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            },
+            {
+              "end": 17,
+              "id": "1812363069487742976",
+              "start": 8,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036280128645505148",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036255560509825311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg @mingji_A 剪剪你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036255557389324288"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "conversation_id": "2036242184480194621",
+        "created_at": "2026-03-24T01:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036255560509825311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKrbjq3oHr",
+              "end": 45,
+              "expanded_url": "https://x.com/wdlyrg/status/2036255560509825311/photo/1",
+              "media_key": "3_2036255557389324288",
+              "start": 22,
+              "url": "https://t.co/cKrbjq3oHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036255560509825311",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036242184480194621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A https://t.co/cKrbjq3oHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9399,
+          "following_count": 414,
+          "like_count": 13089,
+          "listed_count": 37,
+          "media_count": 190,
+          "tweet_count": 6776
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "1949960480191131693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 504,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 11987,
+          "tweet_count": 19193
+        },
+        "username": "wdlyrg",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 1932,
+          "like_count": 77598,
+          "listed_count": 12,
+          "media_count": 129,
+          "tweet_count": 15130
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2077622724118094256",
+    "created_at": "2026-07-16T08:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077673459900117127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431080795536433154",
+          "start": 0,
+          "username": "yuluoqwq"
+        },
+        {
+          "end": 21,
+          "id": "1724777638471098368",
+          "start": 10,
+          "username": "nyayumushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077673459900117127",
+    "in_reply_to_user_id": "1431080795536433154",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077622724118094256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuluoqwq @nyayumushi 🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077622710520143873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUy2PXWYAERYIq.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2077622724118094256",
+        "created_at": "2026-07-16T08:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077673459900117127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431080795536433154",
+              "start": 0,
+              "username": "yuluoqwq"
+            },
+            {
+              "end": 21,
+              "id": "1724777638471098368",
+              "start": 10,
+              "username": "nyayumushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077673459900117127",
+        "in_reply_to_user_id": "1431080795536433154",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077622724118094256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuluoqwq @nyayumushi 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077622710520143873"
+          ]
+        },
+        "author_id": "1431080795536433154",
+        "conversation_id": "2077622724118094256",
+        "created_at": "2026-07-16T05:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077622724118094256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1724777638471098368",
+              "start": 8,
+              "username": "nyayumushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6lXdz3wGd",
+              "end": 43,
+              "expanded_url": "https://x.com/yuluoqwq/status/2077622724118094256/photo/1",
+              "media_key": "3_2077622710520143873",
+              "start": 20,
+              "url": "https://t.co/C6lXdz3wGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077622724118094256",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1183,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺\n🪢/📷： @nyayumushi https://t.co/C6lXdz3wGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15474,
+          "following_count": 599,
+          "like_count": 21085,
+          "listed_count": 52,
+          "media_count": 358,
+          "tweet_count": 11156
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4416,
+          "following_count": 1680,
+          "like_count": 42737,
+          "listed_count": 14,
+          "media_count": 279,
+          "tweet_count": 5207
+        },
+        "url": "",
+        "username": "yuluoqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T13:13:39.000Z",
+        "description": "/166cm/47kg/已成年~/喜欢女装~/喜欢绳子~/喜欢可爱的孩子~/女装只是爱好~/只和熟人约线下哦~/清楚系~不可以涩涩~！",
+        "id": "1724777638471098368",
+        "location": "杭州",
+        "name": "喵喵虫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724778352974995456/MB0xDvTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14607,
+          "following_count": 883,
+          "like_count": 2334,
+          "listed_count": 40,
+          "media_count": 253,
+          "tweet_count": 2098
+        },
+        "url": "",
+        "username": "nyayumushi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015089675225190910",
+    "created_at": "2026-01-25T04:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015281739837653379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        },
+        {
+          "end": 19,
+          "id": "1673364955171782657",
+          "start": 8,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015281739837653379",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015261831787655623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg @kxk1388574 有点👽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 171,
+        "media_key": "3_2015261828008525824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_el9IvaQAAzV5G.jpg",
+        "width": 353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015089675225190910",
+        "created_at": "2026-01-25T04:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015281739837653379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            },
+            {
+              "end": 19,
+              "id": "1673364955171782657",
+              "start": 8,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015281739837653379",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015261831787655623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg @kxk1388574 有点👽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015261828008525824"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "conversation_id": "2015089675225190910",
+        "created_at": "2026-01-25T03:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015261831787655623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            },
+            {
+              "end": 23,
+              "id": "1976995735532138496",
+              "start": 12,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LzHkDKTUE",
+              "end": 55,
+              "expanded_url": "https://x.com/wdlyrg/status/2015261831787655623/photo/1",
+              "media_key": "3_2015261828008525824",
+              "start": 32,
+              "url": "https://t.co/8LzHkDKTUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015261831787655623",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015137359843754013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 @JanboMikan 这得40厘米了 https://t.co/8LzHkDKTUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4268,
+          "following_count": 282,
+          "like_count": 6648,
+          "listed_count": 21,
+          "media_count": 113,
+          "tweet_count": 3331
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "1949960480191131693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 504,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 10869,
+          "tweet_count": 17897
+        },
+        "username": "wdlyrg",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（不是色推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9162,
+          "following_count": 5765,
+          "like_count": 51022,
+          "listed_count": 11,
+          "media_count": 831,
+          "tweet_count": 6946
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021467714972487800",
+    "created_at": "2026-02-11T12:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021561526067556752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662792479824039936",
+          "start": 0,
+          "username": "ANYeliminate415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021561526067556752",
+    "in_reply_to_user_id": "1662792479824039936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021467714972487800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANYeliminate415 打包带走咯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021467711038255104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2yLElbcAAWVfV.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021467710853611532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2yLD5aAAwBmGi.jpg",
+        "width": 985
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2021467712174817281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2yLI0aAAEMRke.jpg",
+        "width": 911
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021467711814107141",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2yLHeaAAUfoAC.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021467714972487800",
+        "created_at": "2026-02-11T12:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021561526067556752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662792479824039936",
+              "start": 0,
+              "username": "ANYeliminate415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021561526067556752",
+        "in_reply_to_user_id": "1662792479824039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021467714972487800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANYeliminate415 打包带走咯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021467711038255104",
+            "3_2021467710853611532",
+            "3_2021467712174817281",
+            "3_2021467711814107141"
+          ]
+        },
+        "author_id": "1662792479824039936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021467714972487800",
+        "created_at": "2026-02-11T06:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021467714972487800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEAjn1meHO",
+              "end": 32,
+              "expanded_url": "https://x.com/ANYeliminate415/status/2021467714972487800/photo/1",
+              "media_key": "3_2021467711038255104",
+              "start": 9,
+              "url": "https://t.co/FEAjn1meHO"
+            },
+            {
+              "display_url": "pic.x.com/FEAjn1meHO",
+              "end": 32,
+              "expanded_url": "https://x.com/ANYeliminate415/status/2021467714972487800/photo/1",
+              "media_key": "3_2021467710853611532",
+              "start": 9,
+              "url": "https://t.co/FEAjn1meHO"
+            },
+            {
+              "display_url": "pic.x.com/FEAjn1meHO",
+              "end": 32,
+              "expanded_url": "https://x.com/ANYeliminate415/status/2021467714972487800/photo/1",
+              "media_key": "3_2021467712174817281",
+              "start": 9,
+              "url": "https://t.co/FEAjn1meHO"
+            },
+            {
+              "display_url": "pic.x.com/FEAjn1meHO",
+              "end": 32,
+              "expanded_url": "https://x.com/ANYeliminate415/status/2021467714972487800/photo/1",
+              "media_key": "3_2021467711814107141",
+              "start": 9,
+              "url": "https://t.co/FEAjn1meHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021467714972487800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 23995,
+          "like_count": 418,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "诶！\n这下不怪了 https://t.co/FEAjn1meHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5323,
+          "following_count": 320,
+          "like_count": 8388,
+          "listed_count": 23,
+          "media_count": 136,
+          "tweet_count": 4312
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T12:06:58.000Z",
+        "description": "5年音游fw，业余摄影师（航拍，cos，新闻）（沉迷:舟（推深海双人组），鸣（推椿），FPS，arcaea，pjsk，邦邦）\n属性偏双，纯绳，无性\n有兴趣加QQ429228767（加我记得看置顶，不看敲死你）",
+        "id": "1662792479824039936",
+        "location": "0792",
+        "name": "樱绫ANYeliminate",
+        "pinned_tweet_id": "1987552943793652172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932457015789662208/m9ZcUDKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 801,
+          "like_count": 618,
+          "listed_count": 9,
+          "media_count": 117,
+          "tweet_count": 608
+        },
+        "username": "ANYeliminate415",
+        "verified": false
+      }
+    ]
+  }
+}

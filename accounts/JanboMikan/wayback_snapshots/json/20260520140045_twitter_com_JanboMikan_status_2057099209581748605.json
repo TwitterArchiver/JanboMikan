@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2057053722296140126",
+    "created_at": "2026-05-20T14:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057099209581748605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956917582864277504",
+          "start": 0,
+          "username": "qianhebro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057099209581748605",
+    "in_reply_to_user_id": "1956917582864277504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057097017458135545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianhebro 非常正确的x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 327,
+        "media_key": "3_2057097013968461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxG1dIbYAAHRvE.jpg",
+        "width": 451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2057053722296140126",
+        "created_at": "2026-05-20T14:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057099209581748605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956917582864277504",
+              "start": 0,
+              "username": "qianhebro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057099209581748605",
+        "in_reply_to_user_id": "1956917582864277504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057097017458135545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianhebro 非常正确的x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057097013968461824"
+          ]
+        },
+        "author_id": "1956917582864277504",
+        "conversation_id": "2057053722296140126",
+        "created_at": "2026-05-20T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057097017458135545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qe5eW0D4d5",
+              "end": 42,
+              "expanded_url": "https://x.com/qianhebro/status/2057097017458135545/photo/1",
+              "media_key": "3_2057097013968461824",
+              "start": 19,
+              "url": "https://t.co/Qe5eW0D4d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057097017458135545",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057053722296140126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 对……对吗？ https://t.co/Qe5eW0D4d5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13076,
+          "following_count": 506,
+          "like_count": 17830,
+          "listed_count": 44,
+          "media_count": 278,
+          "tweet_count": 9253
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T03:15:41.000Z",
+        "description": "平凡即是喜乐。\n属于我的小贝壳：琳蕊リンレイ @zhngzhngji12079",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "zhngzhngji12079"
+              }
+            ]
+          }
+        },
+        "id": "1956917582864277504",
+        "location": "武汉每天不一样。",
+        "name": "千鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956918009752064000/cZTF2DJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 102,
+          "like_count": 9820,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 346
+        },
+        "username": "qianhebro",
+        "verified": false
+      }
+    ]
+  }
+}

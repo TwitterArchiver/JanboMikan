@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1985392457073508539",
+    "created_at": "2025-11-06T00:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T01:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986233969999008048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643453639003082758",
+          "start": 0,
+          "username": "xkkl9780156"
+        },
+        {
+          "end": 29,
+          "id": "1700935161301655552",
+          "start": 13,
+          "username": "qingshixiang258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986233969999008048",
+    "in_reply_to_user_id": "1643453639003082758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986205132003156338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkkl9780156 @qingshixiang258 9键确实不会用（不管哪种语言ww）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986205126563143680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5BrCgvbIAA7JsS.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1985392457073508539",
+        "created_at": "2025-11-06T00:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T01:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986233969999008048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643453639003082758",
+              "start": 0,
+              "username": "xkkl9780156"
+            },
+            {
+              "end": 29,
+              "id": "1700935161301655552",
+              "start": 13,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986233969999008048",
+        "in_reply_to_user_id": "1643453639003082758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986205132003156338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkkl9780156 @qingshixiang258 9键确实不会用（不管哪种语言ww）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986205126563143680"
+          ]
+        },
+        "author_id": "1643453639003082758",
+        "conversation_id": "1985392457073508539",
+        "created_at": "2025-11-05T22:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T23:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986205132003156338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 28,
+              "id": "1700935161301655552",
+              "start": 12,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQluCNnps6",
+              "end": 59,
+              "expanded_url": "https://x.com/xkkl9780156/status/1986205132003156338/photo/1",
+              "media_key": "3_1986205126563143680",
+              "start": 36,
+              "url": "https://t.co/XQluCNnps6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986205132003156338",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986045789718953987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @qingshixiang258 看个人习惯吧 https://t.co/XQluCNnps6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 102,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T03:21:04.000Z",
+        "description": "叫我凌冬就好~/时不时出现在各种地方的评论区/   东方project   月亮计划   /\n来私信我！来私信我！/后面有想到的再补啦☺️",
+        "id": "1643453639003082758",
+        "location": "Zhejiang",
+        "name": "凌冬✨",
+        "pinned_tweet_id": "1977653293565518068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976089467841912832/OTNfq9tg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 272,
+          "like_count": 1258,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 956
+        },
+        "username": "xkkl9780156",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1412,
+          "like_count": 33562,
+          "listed_count": 7,
+          "media_count": 919,
+          "tweet_count": 14913
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

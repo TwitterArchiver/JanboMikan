@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978249797032095808",
+    "created_at": "2025-10-15T01:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T02:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978266592916955199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978266592916955199",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978249797032095808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 *钻~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1871,
+        "media_key": "3_1978249786819215360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3QnsyxaAAAtEOM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1851,
+        "media_key": "3_1978249786815041536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3QnsywaUAAHcTP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978249797032095808",
+        "created_at": "2025-10-15T01:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978266592916955199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978266592916955199",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978249797032095808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 *钻~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978249786819215360",
+            "3_1978249786815041536"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "conversation_id": "1978249797032095808",
+        "created_at": "2025-10-15T00:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T01:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978249797032095808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W34O619FPJ",
+              "end": 51,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1978249797032095808/photo/1",
+              "media_key": "3_1978249786819215360",
+              "start": 28,
+              "url": "https://t.co/W34O619FPJ"
+            },
+            {
+              "display_url": "pic.x.com/W34O619FPJ",
+              "end": 51,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1978249797032095808/photo/1",
+              "media_key": "3_1978249786815041536",
+              "start": 28,
+              "url": "https://t.co/W34O619FPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978249797032095808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早起的孩子也有杉杉吃😋\n#男娘 #可爱の男孩子 #白丝 https://t.co/W34O619FPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/微信号：wunaisan26                   （看情况加人吧备注和私信是要的哦）",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907845496347176964/FhI661I3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 58,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 482
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

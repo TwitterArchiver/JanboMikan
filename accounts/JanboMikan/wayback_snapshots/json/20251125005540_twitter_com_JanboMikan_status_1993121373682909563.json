@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1993102016173031461",
+    "created_at": "2025-11-25T00:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T01:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993121373682909563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993121373682909563",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993102016173031461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 那北方在暖气房里热的够呛的大学生是不是叫小烤北"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1993102009654996992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jrt8aacAA5OF7.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1993102009759924224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jrt8zbgAARbCF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1993102016173031461",
+        "created_at": "2025-11-25T00:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993121373682909563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993121373682909563",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993102016173031461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 那北方在暖气房里热的够呛的大学生是不是叫小烤北"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993102009654996992",
+            "3_1993102009759924224"
+          ]
+        },
+        "author_id": "1874683133423132672",
+        "conversation_id": "1993102016173031461",
+        "created_at": "2025-11-24T23:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T00:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993102016173031461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1ej5vVqes",
+              "end": 51,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1993102016173031461/photo/1",
+              "media_key": "3_1993102009654996992",
+              "start": 28,
+              "url": "https://t.co/j1ej5vVqes"
+            },
+            {
+              "display_url": "pic.x.com/j1ej5vVqes",
+              "end": 51,
+              "expanded_url": "https://x.com/lnjijiji193046/status/1993102016173031461/photo/1",
+              "media_key": "3_1993102009759924224",
+              "start": 28,
+              "url": "https://t.co/j1ej5vVqes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993102016173031461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南方容易着凉的小孩是不是都叫小南凉（） #男娘 #白丝 https://t.co/j1ej5vVqes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 139,
+          "like_count": 1698,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/没回信息是在忙喵/属性偏M(微量S)/评论感兴趣的会互动/微信号:wunaisan26(备注自己推的ID看情况会加)",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992933809038516224/kjt0WRjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 127,
+          "like_count": 4937,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 1183
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      }
+    ]
+  }
+}

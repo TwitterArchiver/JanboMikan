@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2010712194514890979",
+    "created_at": "2026-01-13T00:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T01:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010869178069303752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010869178069303752",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010712194514890979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 起手式有点熟悉🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2010712185597775873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-d8FGAa0AE0J3-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2010712194514890979",
+        "created_at": "2026-01-13T00:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010869178069303752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010869178069303752",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010712194514890979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 起手式有点熟悉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010712185597775873"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2010712194514890979",
+        "created_at": "2026-01-12T13:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010712194514890979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxYtL5bPju",
+              "end": 141,
+              "expanded_url": "https://x.com/RainEngine2024/status/2010712194514890979/photo/1",
+              "media_key": "3_2010712185597775873",
+              "start": 118,
+              "url": "https://t.co/kxYtL5bPju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010712194514890979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 57779,
+          "like_count": 168,
+          "quote_count": 3,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "犹豫了很久还是决定告诉大家：我翻车了。\n\n说出来不单是给我的粉丝，更是给自己一个交代吧。\n\n在给群友装系统的时候由于不清楚12代i7不能装win10，导致电脑直接变砖\n\n虽然事情已经过去一个小时了了，但场面还是很尴尬，缓不过来了😭😭😭 https://t.co/kxYtL5bPju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3609,
+          "following_count": 263,
+          "like_count": 5636,
+          "listed_count": 14,
+          "media_count": 98,
+          "tweet_count": 2734
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴晴🍥",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5104,
+          "following_count": 715,
+          "like_count": 42308,
+          "listed_count": 6,
+          "media_count": 943,
+          "tweet_count": 6127
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

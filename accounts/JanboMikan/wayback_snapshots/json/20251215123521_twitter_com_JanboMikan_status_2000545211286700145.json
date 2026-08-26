@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2000468297628971375",
+    "created_at": "2025-12-15T12:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000545211286700145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000545211286700145",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000468297628971375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia 可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2000468137096196096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MXK_gbMAAAVjV.jpg",
+        "width": 2160
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2000468137096232960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MXK_gbwAAoWGv.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2000468297628971375",
+        "created_at": "2025-12-15T12:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000545211286700145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000545211286700145",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000468297628971375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000468137096196096",
+            "3_2000468137096232960"
+          ]
+        },
+        "author_id": "1559088842333769728",
+        "conversation_id": "2000468297628971375",
+        "created_at": "2025-12-15T07:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000468297628971375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q44oZBjZDF",
+              "end": 47,
+              "expanded_url": "https://x.com/hsnyuia/status/2000468297628971375/photo/1",
+              "media_key": "3_2000468137096196096",
+              "start": 24,
+              "url": "https://t.co/q44oZBjZDF"
+            },
+            {
+              "display_url": "pic.x.com/q44oZBjZDF",
+              "end": 47,
+              "expanded_url": "https://x.com/hsnyuia/status/2000468297628971375/photo/1",
+              "media_key": "3_2000468137096232960",
+              "start": 24,
+              "url": "https://t.co/q44oZBjZDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468297628971375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "眼妆没画好，化成黑眼圈说是。\n以及，粉底不够白 https://t.co/q44oZBjZDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 210,
+          "like_count": 3353,
+          "listed_count": 9,
+          "media_count": 67,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "俺をトランスに分類しないでください",
+        "id": "1559088842333769728",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1975265328822456504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967997570824990720/mxFlcf_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 1272,
+          "like_count": 11236,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 5064
+        },
+        "username": "hsnyuia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029874639154073763",
+    "created_at": "2026-03-06T11:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029888808490340551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1373465862527610881",
+          "start": 0,
+          "username": "lsla_error"
+        },
+        {
+          "end": 25,
+          "id": "3032768018",
+          "start": 12,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029888808490340551",
+    "in_reply_to_user_id": "1373465862527610881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029882647888154955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsla_error @Chiyorin8964 在风暴中牺牲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029874639154073763",
+        "created_at": "2026-03-06T11:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029888808490340551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1373465862527610881",
+              "start": 0,
+              "username": "lsla_error"
+            },
+            {
+              "end": 25,
+              "id": "3032768018",
+              "start": 12,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029888808490340551",
+        "in_reply_to_user_id": "1373465862527610881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029882647888154955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsla_error @Chiyorin8964 在风暴中牺牲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373465862527610881",
+        "conversation_id": "2029874639154073763",
+        "created_at": "2026-03-06T11:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029882647888154955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "3032768018",
+              "start": 12,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029882647888154955",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029880178147803260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @Chiyorin8964 一个头看见了，另一个呢😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7273,
+          "following_count": 387,
+          "like_count": 10711,
+          "listed_count": 33,
+          "media_count": 166,
+          "tweet_count": 5671
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T02:46:01.000Z",
+        "description": "",
+        "id": "1373465862527610881",
+        "location": "上海",
+        "name": "maga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484812570829541376/sjmEyOMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 110,
+          "like_count": 4909,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 434
+        },
+        "username": "lsla_error",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海/02/男/铁道/航空/Airsoft/摄影/BanG Dream 早稲田大学 M1 We live for love, not for hate 😘：@DurantRaym93677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "DurantRaym93677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 1213,
+          "like_count": 4340,
+          "listed_count": 6,
+          "media_count": 585,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

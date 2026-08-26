@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998044899326001384",
+    "created_at": "2025-12-08T16:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998064027336134984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "449621175",
+          "start": 0,
+          "username": "JayLai_1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998064027336134984",
+    "in_reply_to_user_id": "449621175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998056370550231265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayLai_1234 今日割五城，明日割十城x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 174,
+        "media_key": "3_1998056364091031553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qFrU7awAEOI83.jpg",
+        "width": 290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998044899326001384",
+        "created_at": "2025-12-08T16:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998064027336134984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "449621175",
+              "start": 0,
+              "username": "JayLai_1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998064027336134984",
+        "in_reply_to_user_id": "449621175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998056370550231265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayLai_1234 今日割五城，明日割十城x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998056364091031553"
+          ]
+        },
+        "author_id": "449621175",
+        "conversation_id": "1998044899326001384",
+        "created_at": "2025-12-08T15:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998056370550231265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5AzlvYlun",
+              "end": 35,
+              "expanded_url": "https://x.com/JayLai_1234/status/1998056370550231265/photo/1",
+              "media_key": "3_1998056364091031553",
+              "start": 12,
+              "url": "https://t.co/w5AzlvYlun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998056370550231265",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998044899326001384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan https://t.co/w5AzlvYlun"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 180,
+          "like_count": 2683,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-29T09:18:34.000Z",
+        "description": "",
+        "id": "449621175",
+        "name": "Jay",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 59,
+          "like_count": 20949,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "JayLai_1234",
+        "verified": false
+      }
+    ]
+  }
+}

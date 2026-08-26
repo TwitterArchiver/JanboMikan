@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2084957599112249509",
+    "created_at": "2026-08-05T12:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084980507453108619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084980507453108619",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084969016347832398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 那找不到了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2084957599112249509",
+        "created_at": "2026-08-05T12:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084980507453108619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084980507453108619",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084969016347832398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 那找不到了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796929111996456960",
+        "conversation_id": "2084957599112249509",
+        "created_at": "2026-08-05T11:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084969016347832398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084969016347832398",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084957599112249509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 看看原推文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15983,
+          "following_count": 614,
+          "like_count": 21807,
+          "listed_count": 53,
+          "media_count": 385,
+          "tweet_count": 11613
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "Main：｜東方｜秘封｜\n简/繁中文｜Eng｜機翻日本語|成分复杂｜\n無言フォロー失礼いたしまし\n里垢：@nrkfstb（posting nothing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "nrkfstb"
+              }
+            ]
+          }
+        },
+        "id": "1796929111996456960",
+        "location": "霧ノ湖",
+        "name": "グリニッジ鎮魂曲 ╭ᰩ ᭄╮",
+        "pinned_tweet_id": "2080909556591513886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066891890453356544/V5sDHkwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 1533,
+          "like_count": 21792,
+          "listed_count": 0,
+          "media_count": 810,
+          "tweet_count": 3098
+        },
+        "url": "",
+        "username": "nbrkfst0721",
+        "verified": false
+      }
+    ]
+  }
+}

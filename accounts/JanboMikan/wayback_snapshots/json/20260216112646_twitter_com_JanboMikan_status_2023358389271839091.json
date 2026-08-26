@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2023357092736926019",
+    "created_at": "2026-02-16T11:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023358389271839091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4825052178",
+          "start": 0,
+          "username": "haru_everydayy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023358389271839091",
+    "in_reply_to_user_id": "4825052178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023357092736926019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haru_everydayy 手里的魔爪也变成茅台了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023357082695794688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRoi-fagAARKEf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2023357092736926019",
+        "created_at": "2026-02-16T11:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023358389271839091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4825052178",
+              "start": 0,
+              "username": "haru_everydayy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023358389271839091",
+        "in_reply_to_user_id": "4825052178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023357092736926019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haru_everydayy 手里的魔爪也变成茅台了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023357082695794688"
+          ]
+        },
+        "author_id": "4825052178",
+        "conversation_id": "2023357092736926019",
+        "created_at": "2026-02-16T11:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023357092736926019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbxfF5TaBu",
+              "end": 43,
+              "expanded_url": "https://x.com/haru_everydayy/status/2023357092736926019/photo/1",
+              "media_key": "3_2023357082695794688",
+              "start": 20,
+              "url": "https://t.co/CbxfF5TaBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023357092736926019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷妹过年是不是就会变成二踢脚妹🤓☝️ https://t.co/CbxfF5TaBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5474,
+          "following_count": 324,
+          "like_count": 8916,
+          "listed_count": 24,
+          "media_count": 143,
+          "tweet_count": 4610
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-28T10:54:49.000Z",
+        "description": "一般30代男性社畜，问就114cm/514kg，是纯正牛马 \n清水推，私信已关，有正经工作，不接受任何形式的投喂/定制\n不欢迎任何类型的魔怔人，看到美少女和可爱男娘会回关",
+        "id": "4825052178",
+        "location": "沙勒",
+        "name": "Haruki Futaba",
+        "pinned_tweet_id": "1900158557342888396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875784948285894656/TvjgBFwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10284,
+          "following_count": 2586,
+          "like_count": 83,
+          "listed_count": 48,
+          "media_count": 282,
+          "tweet_count": 380
+        },
+        "username": "haru_everydayy",
+        "verified": false
+      }
+    ]
+  }
+}

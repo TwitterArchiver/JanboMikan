@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2021563422773772491",
+    "created_at": "2026-02-11T13:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021583932110655568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757245330641633280",
+          "start": 0,
+          "username": "rinnodoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021583932110655568",
+    "in_reply_to_user_id": "1757245330641633280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021563422773772491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinnodoka 你后面那位手怎么在动😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021563409423343616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4JNc2bIAArXBC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2021563422773772491",
+        "created_at": "2026-02-11T13:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021583932110655568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757245330641633280",
+              "start": 0,
+              "username": "rinnodoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021583932110655568",
+        "in_reply_to_user_id": "1757245330641633280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021563422773772491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinnodoka 你后面那位手怎么在动😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021563409423343616"
+          ]
+        },
+        "author_id": "1757245330641633280",
+        "conversation_id": "2021563422773772491",
+        "created_at": "2026-02-11T12:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021563422773772491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNa143G52w",
+              "end": 35,
+              "expanded_url": "https://x.com/rinnodoka/status/2021563422773772491/photo/1",
+              "media_key": "3_2021563409423343616",
+              "start": 12,
+              "url": "https://t.co/GNa143G52w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021563422773772491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与尊敬的蓝蓝路先生合影 https://t.co/GNa143G52w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5329,
+          "following_count": 320,
+          "like_count": 8397,
+          "listed_count": 23,
+          "media_count": 136,
+          "tweet_count": 4318
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:28:39.000Z",
+        "description": "早安，午安，晚安｜🍥She｜适度远离政治｜遇到困难睡大觉｜本体是猫，喜欢发猫｜🐟 @shizo_nana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "shizo_nana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodoka.world",
+                "end": 23,
+                "expanded_url": "https://nodoka.world",
+                "start": 0,
+                "url": "https://t.co/jsK1fmf0GE"
+              }
+            ]
+          }
+        },
+        "id": "1757245330641633280",
+        "location": "猫猫窝",
+        "name": "ノドか",
+        "pinned_tweet_id": "2016516400265961728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005857943758213120/34Npy49J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 299,
+          "like_count": 14414,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/jsK1fmf0GE",
+        "username": "rinnodoka",
+        "verified": false
+      }
+    ]
+  }
+}

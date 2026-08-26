@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2063576703608254545",
+    "created_at": "2026-06-08T00:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063786616653742143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1724250777777262592",
+          "start": 0,
+          "username": "chinocat7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063786616653742143",
+    "in_reply_to_user_id": "1724250777777262592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063722721188708612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chinocat7 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2063576703608254545",
+        "created_at": "2026-06-08T00:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063786616653742143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1724250777777262592",
+              "start": 0,
+              "username": "chinocat7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063786616653742143",
+        "in_reply_to_user_id": "1724250777777262592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063722721188708612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chinocat7 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724250777777262592",
+        "conversation_id": "2063576703608254545",
+        "created_at": "2026-06-07T20:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063722721188708612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063722721188708612",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063576703608254545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 老婆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14096,
+          "following_count": 540,
+          "like_count": 19017,
+          "listed_count": 48,
+          "media_count": 309,
+          "tweet_count": 10008
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T02:20:42.000Z",
+        "description": "想要變得可愛～/喜歡一切可愛的東西～/友跨/喜歡繩子，是被縛，想要被溫柔的人粗暴對待ww/华独🇹🇼",
+        "id": "1724250777777262592",
+        "location": "Hokkaidō, Japan",
+        "name": "yuukisnow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882096649708920832/YvxXSNqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 788,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 199
+        },
+        "username": "chinocat7",
+        "verified": false
+      }
+    ]
+  }
+}

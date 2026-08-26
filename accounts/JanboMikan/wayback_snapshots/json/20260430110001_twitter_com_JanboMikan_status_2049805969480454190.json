@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048723679107047424"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2049805969480454190",
+    "created_at": "2026-04-30T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049805969480454190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2X0GWqjfkI",
+          "end": 161,
+          "expanded_url": "https://x.com/JanboMikan/status/2049805969480454190/photo/1",
+          "media_key": "3_2048723679107047424",
+          "start": 138,
+          "url": "https://t.co/2X0GWqjfkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049805969480454190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电影散场。\n旁边水手服小姑娘起身时「吧嗒」掉了个金属件砸在地毯上，瞬间夹紧腿夺门而出。\n「美女你的——」\n我抓起那个还温热湿滑的底座一路猛追，终于在走廊尽头洗手间一把拽住她，把东西递了过去。\n她转头看清的瞬间，整张脸涨得通红。\n然后我们不约而同地抬头看了看门上的男厕所标志。 https://t.co/2X0GWqjfkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2723,
+        "media_key": "3_2048723679107047424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6HVOAbYAAW7Zk.jpg",
+        "width": 2377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048723679107047424"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2049805969480454190",
+        "created_at": "2026-04-30T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049805969480454190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2X0GWqjfkI",
+              "end": 161,
+              "expanded_url": "https://x.com/JanboMikan/status/2049805969480454190/photo/1",
+              "media_key": "3_2048723679107047424",
+              "start": 138,
+              "url": "https://t.co/2X0GWqjfkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049805969480454190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电影散场。\n旁边水手服小姑娘起身时「吧嗒」掉了个金属件砸在地毯上，瞬间夹紧腿夺门而出。\n「美女你的——」\n我抓起那个还温热湿滑的底座一路猛追，终于在走廊尽头洗手间一把拽住她，把东西递了过去。\n她转头看清的瞬间，整张脸涨得通红。\n然后我们不约而同地抬头看了看门上的男厕所标志。 https://t.co/2X0GWqjfkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12309,
+          "following_count": 488,
+          "like_count": 16649,
+          "listed_count": 43,
+          "media_count": 245,
+          "tweet_count": 8460
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

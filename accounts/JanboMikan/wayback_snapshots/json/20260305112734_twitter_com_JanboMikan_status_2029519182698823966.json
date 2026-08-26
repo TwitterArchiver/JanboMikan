@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029512251175002275",
+    "created_at": "2026-03-05T11:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T12:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029519182698823966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "449621175",
+          "start": 0,
+          "username": "JayLai_1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029519182698823966",
+    "in_reply_to_user_id": "449621175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029512827493572970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayLai_1234 水母是双性的😇x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029512251175002275",
+        "created_at": "2026-03-05T11:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029519182698823966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "449621175",
+              "start": 0,
+              "username": "JayLai_1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029519182698823966",
+        "in_reply_to_user_id": "449621175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029512827493572970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayLai_1234 水母是双性的😇x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "449621175",
+        "conversation_id": "2029512251175002275",
+        "created_at": "2026-03-05T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029512827493572970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029512827493572970",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029512251175002275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 能不能再同時當爸爸和媽媽？🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7242,
+          "following_count": 386,
+          "like_count": 10634,
+          "listed_count": 33,
+          "media_count": 165,
+          "tweet_count": 5615
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-29T09:18:34.000Z",
+        "description": "",
+        "id": "449621175",
+        "name": "Jay",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 62,
+          "like_count": 24864,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "username": "JayLai_1234",
+        "verified": false
+      }
+    ]
+  }
+}

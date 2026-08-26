@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015016737520210105",
+    "created_at": "2026-01-25T06:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015314303851929953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1126186155022512128",
+          "start": 0,
+          "username": "deguoxiongzai"
+        },
+        {
+          "end": 28,
+          "id": "933563089106083840",
+          "start": 15,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015314303851929953",
+    "in_reply_to_user_id": "1126186155022512128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015284003008598242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deguoxiongzai @AyanoAsahina 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015016737520210105",
+        "created_at": "2026-01-25T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015314303851929953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126186155022512128",
+              "start": 0,
+              "username": "deguoxiongzai"
+            },
+            {
+              "end": 28,
+              "id": "933563089106083840",
+              "start": 15,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015314303851929953",
+        "in_reply_to_user_id": "1126186155022512128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015284003008598242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deguoxiongzai @AyanoAsahina 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126186155022512128",
+        "conversation_id": "2015016737520210105",
+        "created_at": "2026-01-25T04:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015284003008598242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            },
+            {
+              "end": 25,
+              "id": "1976995735532138496",
+              "start": 14,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015284003008598242",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015076208522977662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina @JanboMikan 三分钟，连撤回都来不及了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 282,
+          "like_count": 6652,
+          "listed_count": 21,
+          "media_count": 113,
+          "tweet_count": 3335
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T18:04:37.000Z",
+        "description": "一个喜欢女装孩子的大叔",
+        "id": "1126186155022512128",
+        "location": "上海",
+        "name": "德国熊仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1126186324031983616/NRIcDkFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 112,
+          "like_count": 23399,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 16687
+        },
+        "username": "deguoxiongzai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "29♂//看女装的直接去亮点//都内一般会社員//偶尔搞点考斯普雷//如果想问任何问题➡️https://t.co/VACXZCUkde",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 68,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 45,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Ayano",
+        "pinned_tweet_id": "2015051218402591122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010961386386702336/YQLK9Dq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 314,
+          "like_count": 365,
+          "listed_count": 11,
+          "media_count": 31,
+          "tweet_count": 459
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

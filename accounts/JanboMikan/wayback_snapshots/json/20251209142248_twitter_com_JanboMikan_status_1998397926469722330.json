@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1998383618943758626",
+    "created_at": "2025-12-09T14:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T15:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998397926469722330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1156097249841041408",
+          "start": 0,
+          "username": "LightrainPure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998397926469722330",
+    "in_reply_to_user_id": "1156097249841041408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998396876450918869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightrainPure 好哦~谢谢捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1998383618943758626",
+        "created_at": "2025-12-09T14:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998397926469722330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1156097249841041408",
+              "start": 0,
+              "username": "LightrainPure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998397926469722330",
+        "in_reply_to_user_id": "1156097249841041408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998396876450918869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightrainPure 好哦~谢谢捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156097249841041408",
+        "conversation_id": "1998383618943758626",
+        "created_at": "2025-12-09T14:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998396876450918869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998396876450918869",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998383618943758626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 可爱捏，头发感觉可以拿夹板夹个内扣会整齐好看很多🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 181,
+          "like_count": 2753,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-30T07:00:38.000Z",
+        "description": "Java后端｜ 🍥HRT 2023.10.11 ｜日本语を勉强しています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainLazydo",
+                "end": 23,
+                "expanded_url": "https://t.me/RainLazydo",
+                "start": 0,
+                "url": "https://t.co/UVDPwmMnL0"
+              }
+            ]
+          }
+        },
+        "id": "1156097249841041408",
+        "name": "Yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764584461830889472/PczkEV6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1017,
+          "like_count": 2096,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/UVDPwmMnL0",
+        "username": "LightrainPure",
+        "verified": false
+      }
+    ]
+  }
+}

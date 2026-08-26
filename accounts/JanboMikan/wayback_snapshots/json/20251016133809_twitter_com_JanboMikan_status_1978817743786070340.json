@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978809315638071395",
+    "created_at": "2025-10-16T13:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978817743786070340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3311433336",
+          "start": 0,
+          "username": "0zonew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978817743786070340",
+    "in_reply_to_user_id": "3311433336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978809315638071395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0zonew 可爱捏~发任何一张图片主包都能模仿吗（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_1978809308159803392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YklOMaAAAIsI6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 793,
+        "media_key": "3_1978809312354193408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Ykld0bUAA2dmo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978809315638071395",
+        "created_at": "2025-10-16T13:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978817743786070340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3311433336",
+              "start": 0,
+              "username": "0zonew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978817743786070340",
+        "in_reply_to_user_id": "3311433336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978809315638071395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0zonew 可爱捏~发任何一张图片主包都能模仿吗（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978809308159803392",
+            "3_1978809312354193408"
+          ]
+        },
+        "author_id": "3311433336",
+        "conversation_id": "1978809315638071395",
+        "created_at": "2025-10-16T13:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978809315638071395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6sYrXJKog",
+              "end": 36,
+              "expanded_url": "https://x.com/0zonew/status/1978809315638071395/photo/1",
+              "media_key": "3_1978809308159803392",
+              "start": 13,
+              "url": "https://t.co/C6sYrXJKog"
+            },
+            {
+              "display_url": "pic.x.com/C6sYrXJKog",
+              "end": 36,
+              "expanded_url": "https://x.com/0zonew/status/1978809315638071395/photo/1",
+              "media_key": "3_1978809312354193408",
+              "start": 13,
+              "url": "https://t.co/C6sYrXJKog"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978809315638071395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个动作好像有点太刻晴了 https://t.co/C6sYrXJKog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 62,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-10T13:10:25.000Z",
+        "description": "网络世界的恶意是十分廉价的东西，但是真情实感的爱在哪里都一样宝贵。",
+        "id": "3311433336",
+        "location": "CN",
+        "name": "梦残花",
+        "pinned_tweet_id": "1943290355064942722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935014502015320065/TAHsyLb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8375,
+          "following_count": 892,
+          "like_count": 7281,
+          "listed_count": 34,
+          "media_count": 187,
+          "tweet_count": 1813
+        },
+        "username": "0zonew",
+        "verified": false
+      }
+    ]
+  }
+}

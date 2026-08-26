@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1992533591885017400",
+    "created_at": "2025-11-24T01:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T02:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992762313242558471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "343300619",
+          "start": 0,
+          "username": "WesSpringfield0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992762313242558471",
+    "in_reply_to_user_id": "343300619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992760218158059944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WesSpringfield0 是的是的（逃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1992533591885017400",
+        "created_at": "2025-11-24T01:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992762313242558471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "343300619",
+              "start": 0,
+              "username": "WesSpringfield0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992762313242558471",
+        "in_reply_to_user_id": "343300619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992760218158059944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WesSpringfield0 是的是的（逃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "343300619",
+        "conversation_id": "1992533591885017400",
+        "created_at": "2025-11-24T01:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992760218158059944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992760218158059944",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992533591885017400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这有啥关系，我觉得没啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 137,
+          "like_count": 1623,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-27T10:46:35.000Z",
+        "description": "くノ一、メイド、セーラー服など大好きです。ピチテカーヌ女学院の新入生です、宜しくお願いします。Bluesky ID: https://t.co/lHBAdYv3qF 🙇🏻‍♂️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wesleyspringfield.bsky.social",
+                "end": 82,
+                "expanded_url": "http://wesleyspringfield.bsky.social",
+                "start": 59,
+                "url": "https://t.co/lHBAdYv3qF"
+              }
+            ]
+          }
+        },
+        "id": "343300619",
+        "location": "Georgia, USA",
+        "name": "新入生のぽっぽや",
+        "pinned_tweet_id": "1977383186813378800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927112668323721217/U0jih-sh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 717,
+          "like_count": 12211,
+          "listed_count": 9,
+          "media_count": 1492,
+          "tweet_count": 27052
+        },
+        "username": "WesSpringfield0",
+        "verified": false
+      }
+    ]
+  }
+}

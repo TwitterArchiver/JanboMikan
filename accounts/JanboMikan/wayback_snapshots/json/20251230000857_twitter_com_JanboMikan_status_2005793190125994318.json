@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2004869872623194153",
+    "created_at": "2025-12-30T00:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T01:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005793190125994318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937791454807814145",
+          "start": 0,
+          "username": "doufutangbad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005793190125994318",
+    "in_reply_to_user_id": "1937791454807814145",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005679670008942841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doufutangbad 🦶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2004869872623194153",
+        "created_at": "2025-12-30T00:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T01:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005793190125994318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937791454807814145",
+              "start": 0,
+              "username": "doufutangbad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005793190125994318",
+        "in_reply_to_user_id": "1937791454807814145",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005679670008942841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doufutangbad 🦶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937791454807814145",
+        "conversation_id": "2004869872623194153",
+        "created_at": "2025-12-29T16:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T17:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005679670008942841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005679670008942841",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004869872623194153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 唔…这样啊\n那…\njio给我吃吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 228,
+          "like_count": 4498,
+          "listed_count": 9,
+          "media_count": 83,
+          "tweet_count": 2105
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T08:34:27.000Z",
+        "description": "大只男娘哦 05 183/63kg 深柜开发中♥ 日常负数小锁娘 喜欢伪街，伪音也有在练习啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/doufutangbad",
+                "end": 23,
+                "expanded_url": "https://t.me/doufutangbad",
+                "start": 0,
+                "url": "https://t.co/u9t0rMkrH0"
+              }
+            ]
+          }
+        },
+        "id": "1937791454807814145",
+        "location": "天津",
+        "name": "豆腐汤v坏",
+        "pinned_tweet_id": "2003497715746111838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937791603684646912/05tCIB8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 347,
+          "like_count": 1814,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/u9t0rMkrH0",
+        "username": "doufutangbad",
+        "verified": false
+      }
+    ]
+  }
+}

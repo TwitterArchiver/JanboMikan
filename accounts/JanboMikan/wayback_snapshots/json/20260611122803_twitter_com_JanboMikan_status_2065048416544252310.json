@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2065026259088798044",
+    "created_at": "2026-06-11T12:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065048416544252310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891297608632877056",
+          "start": 0,
+          "username": "xixinanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065048416544252310",
+    "in_reply_to_user_id": "1891297608632877056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065036134129062040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixinanoda 这是真老资历x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2065026259088798044",
+        "created_at": "2026-06-11T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065048416544252310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891297608632877056",
+              "start": 0,
+              "username": "xixinanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065048416544252310",
+        "in_reply_to_user_id": "1891297608632877056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065036134129062040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixinanoda 这是真老资历x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891297608632877056",
+        "conversation_id": "2065026259088798044",
+        "created_at": "2026-06-11T11:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065036134129062040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065036134129062040",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065026259088798044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 还是老资历！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14170,
+          "following_count": 542,
+          "like_count": 19196,
+          "listed_count": 49,
+          "media_count": 314,
+          "tweet_count": 10102
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T01:24:32.000Z",
+        "description": "🎂05.11.11/INFP/性别未知/想要超级多超级多的朋友/猫娘(?)/自视而缚，破茧成蝶。",
+        "id": "1891297608632877056",
+        "name": "喵呜喵呜夕夕酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055309358813319168/4f6neAMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 48,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 328
+        },
+        "username": "xixinanoda",
+        "verified": false
+      }
+    ]
+  }
+}

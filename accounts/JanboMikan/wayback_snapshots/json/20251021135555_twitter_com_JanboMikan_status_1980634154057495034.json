@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980535368127569920"
+      ],
+      "media_source_tweet_id": [
+        "1980535389871026394"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1980634154057495034",
+    "created_at": "2025-10-21T13:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980634154057495034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1889204408283717632",
+          "start": 3,
+          "username": "jyx14612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ynBeYqmAO",
+          "end": 115,
+          "expanded_url": "https://x.com/jyx14612/status/1980535389871026394/photo/1",
+          "media_key": "3_1980535368127569920",
+          "start": 92,
+          "url": "https://t.co/4ynBeYqmAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980634154057495034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980535389871026394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jyx14612: 创推才48小时\n130粉，但有几个几万的大v关注我了，不知道什么水平\n国内26天2万5粉\n不知道推特运营一个月多少？\n依旧是库存\n右边原肤色\n光环未带致歉 https://t.co/4ynBeYqmAO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980535368127569920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xGbIpXYAACR1Z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980535368127569920"
+          ],
+          "media_source_tweet_id": [
+            "1980535389871026394"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1980634154057495034",
+        "created_at": "2025-10-21T13:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980634154057495034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889204408283717632",
+              "start": 3,
+              "username": "jyx14612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ynBeYqmAO",
+              "end": 115,
+              "expanded_url": "https://x.com/jyx14612/status/1980535389871026394/photo/1",
+              "media_key": "3_1980535368127569920",
+              "start": 92,
+              "url": "https://t.co/4ynBeYqmAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980634154057495034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980535389871026394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jyx14612: 创推才48小时\n130粉，但有几个几万的大v关注我了，不知道什么水平\n国内26天2万5粉\n不知道推特运营一个月多少？\n依旧是库存\n右边原肤色\n光环未带致歉 https://t.co/4ynBeYqmAO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980535368127569920"
+          ]
+        },
+        "author_id": "1889204408283717632",
+        "conversation_id": "1980535389871026394",
+        "created_at": "2025-10-21T07:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980535389871026394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ynBeYqmAO",
+              "end": 101,
+              "expanded_url": "https://x.com/jyx14612/status/1980535389871026394/photo/1",
+              "media_key": "3_1980535368127569920",
+              "start": 78,
+              "url": "https://t.co/4ynBeYqmAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980535389871026394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4012,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "创推才48小时\n130粉，但有几个几万的大v关注我了，不知道什么水平\n国内26天2万5粉\n不知道推特运营一个月多少？\n依旧是库存\n右边原肤色\n光环未带致歉 https://t.co/4ynBeYqmAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 87,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:47:28.000Z",
+        "description": "19岁大二女生。脾气很好很好沟通，喜欢漂亮的孩子。",
+        "id": "1889204408283717632",
+        "location": "Jiang su",
+        "name": "K.slq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979833039287894016/hLc4_N2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 56,
+          "like_count": 95,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "username": "jyx14612",
+        "verified": false
+      }
+    ]
+  }
+}

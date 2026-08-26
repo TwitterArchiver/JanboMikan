@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994377034005655552",
+        "3_1994377034005700609",
+        "3_1994377034034991104",
+        "3_1994377034295083008"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994707915538653645",
+    "created_at": "2025-11-29T10:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994707915538653645"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aFWPTbXDEx",
+          "end": 129,
+          "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+          "media_key": "3_1994377034005655552",
+          "start": 106,
+          "url": "https://t.co/aFWPTbXDEx"
+        },
+        {
+          "display_url": "pic.x.com/aFWPTbXDEx",
+          "end": 129,
+          "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+          "media_key": "3_1994377034005700609",
+          "start": 106,
+          "url": "https://t.co/aFWPTbXDEx"
+        },
+        {
+          "display_url": "pic.x.com/aFWPTbXDEx",
+          "end": 129,
+          "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+          "media_key": "3_1994377034034991104",
+          "start": 106,
+          "url": "https://t.co/aFWPTbXDEx"
+        },
+        {
+          "display_url": "pic.x.com/aFWPTbXDEx",
+          "end": 129,
+          "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+          "media_key": "3_1994377034295083008",
+          "start": 106,
+          "url": "https://t.co/aFWPTbXDEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994707915538653645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那个……既然签了抵债契约，我也知道逃不掉了……\n没想到即使是在学校也要戴着这个羞耻的脚镣，每走一步都会响……\n\n现在的我，只是主人您的所有物而已。\n无论您想对我做什么过分的事情，我都必须接受……对吧？\n\n#男娘 https://t.co/aFWPTbXDEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_1994377034005655552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61zWIQasAAYNV-.jpg",
+        "width": 1200
+      },
+      {
+        "height": 686,
+        "media_key": "3_1994377034005700609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61zWIQbYAExBlU.jpg",
+        "width": 1200
+      },
+      {
+        "height": 686,
+        "media_key": "3_1994377034034991104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61zWIXaUAAqc5u.jpg",
+        "width": 1200
+      },
+      {
+        "height": 686,
+        "media_key": "3_1994377034295083008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61zWJVbAAA6Ij4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994377034005655552",
+            "3_1994377034005700609",
+            "3_1994377034034991104",
+            "3_1994377034295083008"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994707915538653645",
+        "created_at": "2025-11-29T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994707915538653645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aFWPTbXDEx",
+              "end": 129,
+              "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+              "media_key": "3_1994377034005655552",
+              "start": 106,
+              "url": "https://t.co/aFWPTbXDEx"
+            },
+            {
+              "display_url": "pic.x.com/aFWPTbXDEx",
+              "end": 129,
+              "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+              "media_key": "3_1994377034005700609",
+              "start": 106,
+              "url": "https://t.co/aFWPTbXDEx"
+            },
+            {
+              "display_url": "pic.x.com/aFWPTbXDEx",
+              "end": 129,
+              "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+              "media_key": "3_1994377034034991104",
+              "start": 106,
+              "url": "https://t.co/aFWPTbXDEx"
+            },
+            {
+              "display_url": "pic.x.com/aFWPTbXDEx",
+              "end": 129,
+              "expanded_url": "https://x.com/JanboMikan/status/1994707915538653645/photo/1",
+              "media_key": "3_1994377034295083008",
+              "start": 106,
+              "url": "https://t.co/aFWPTbXDEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994707915538653645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个……既然签了抵债契约，我也知道逃不掉了……\n没想到即使是在学校也要戴着这个羞耻的脚镣，每走一步都会响……\n\n现在的我，只是主人您的所有物而已。\n无论您想对我做什么过分的事情，我都必须接受……对吧？\n\n#男娘 https://t.co/aFWPTbXDEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 155,
+          "like_count": 2097,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

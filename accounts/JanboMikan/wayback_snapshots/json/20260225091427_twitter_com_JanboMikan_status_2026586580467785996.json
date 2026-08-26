@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2026250763107000809",
+    "created_at": "2026-02-25T09:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T10:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026586580467785996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1687782209355436032",
+          "start": 0,
+          "username": "Han_YiYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026586580467785996",
+    "in_reply_to_user_id": "1687782209355436032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026537304932950506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Han_YiYo 确实😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-25T09:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026586580467785996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687782209355436032",
+              "start": 0,
+              "username": "Han_YiYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026586580467785996",
+        "in_reply_to_user_id": "1687782209355436032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026537304932950506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Han_YiYo 确实😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687782209355436032",
+        "conversation_id": "2026250763107000809",
+        "created_at": "2026-02-25T05:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026537304932950506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026537304932950506",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250763107000809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 看到计算机一切都解释得通了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 356,
+          "like_count": 9799,
+          "listed_count": 29,
+          "media_count": 153,
+          "tweet_count": 5146
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T11:06:58.000Z",
+        "description": "中国人 今は日本語を勉強します\nヲタ芸初心者 ギター初心者 ベス初心者\nよろしくお願いします!\n神秘代码12530110",
+        "id": "1687782209355436032",
+        "location": "上海",
+        "name": "忘本あまね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977440177837711360/CvINPmbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 136,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 79
+        },
+        "username": "Han_YiYo",
+        "verified": false
+      }
+    ]
+  }
+}

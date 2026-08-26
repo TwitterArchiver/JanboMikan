@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2032411360022208636",
+    "created_at": "2026-03-14T16:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032861539917771019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662792479824039936",
+          "start": 0,
+          "username": "ANYeliminate415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032861539917771019",
+    "in_reply_to_user_id": "1662792479824039936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032845273014350224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANYeliminate415 🤗🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2032411360022208636",
+        "created_at": "2026-03-14T16:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032861539917771019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662792479824039936",
+              "start": 0,
+              "username": "ANYeliminate415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032861539917771019",
+        "in_reply_to_user_id": "1662792479824039936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032845273014350224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANYeliminate415 🤗🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662792479824039936",
+        "conversation_id": "2032411360022208636",
+        "created_at": "2026-03-14T15:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032845273014350224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032845273014350224",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032411360022208636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 你火了，带带我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 400,
+          "like_count": 11514,
+          "listed_count": 33,
+          "media_count": 175,
+          "tweet_count": 6152
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T12:06:58.000Z",
+        "description": "5年音游fw，业余摄影师（航拍，cos，新闻）（沉迷:舟（推深海双人组），鸣（推椿），FPS，arcaea，pjsk，邦邦）\n属性偏双，纯绳，无性\n有兴趣加QQ429228767（加我记得看置顶，不看敲死你）",
+        "id": "1662792479824039936",
+        "location": "0792",
+        "name": "樱绫ANYeliminate",
+        "pinned_tweet_id": "1987552943793652172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932457015789662208/m9ZcUDKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 806,
+          "like_count": 681,
+          "listed_count": 8,
+          "media_count": 126,
+          "tweet_count": 650
+        },
+        "username": "ANYeliminate415",
+        "verified": false
+      }
+    ]
+  }
+}

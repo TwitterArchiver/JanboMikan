@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1993973949286470115",
+    "created_at": "2025-11-27T14:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994048963029377060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621759778614812677",
+          "start": 0,
+          "username": "maruko00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994048963029377060",
+    "in_reply_to_user_id": "1621759778614812677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993973949286470115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maruko00o 【...】\n【...】\n【侵犯】◀️\n【...】"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993973930336694272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wEuaEbsAAD_mj.jpg",
+        "width": 2704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1993973949286470115",
+        "created_at": "2025-11-27T14:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994048963029377060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621759778614812677",
+              "start": 0,
+              "username": "maruko00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994048963029377060",
+        "in_reply_to_user_id": "1621759778614812677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993973949286470115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maruko00o 【...】\n【...】\n【侵犯】◀️\n【...】"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993973930336694272"
+          ]
+        },
+        "author_id": "1621759778614812677",
+        "conversation_id": "1993973949286470115",
+        "created_at": "2025-11-27T09:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993973949286470115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61f94n55wM",
+              "end": 179,
+              "expanded_url": "https://x.com/maruko00o/status/1993973949286470115/photo/1",
+              "media_key": "3_1993973930336694272",
+              "start": 156,
+              "url": "https://t.co/61f94n55wM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993973949286470115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的手指在发光的玻璃板上机械地向下滑动，一条推文进入了你的视线。\n\n一张拍摄者手持相机对镜自拍的照片。\n\n[检定：逻辑（网上冲浪）] \n骰子发出声响 ... (2/12) 失败\n\n逻辑思维： ...\n\n你的大脑试图分析这张图片，但神经突触拒绝连接。\n这是一个人类，在镜子前自拍。\n\n就是这样。没有更多的信息了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5474,
+          "like_count": 280,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你的手指在发光的玻璃板上机械地向下滑动，一条推文进入了你的视线。\n\n一张拍摄者手持相机对镜自拍的照片。\n\n[检定：逻辑（网上冲浪）] \n骰子发出声响 ... (2/12) 失败\n\n逻辑思维： ...\n\n你的大脑试图分析这张图片，但神经突触拒绝连接。\n这是一个人类，在镜子前自拍。\n\n就是这样。没有更多的信息了。 https://t.co/61f94n55wM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 145,
+          "like_count": 1885,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:37:23.000Z",
+        "description": "♂ || 没有其他平台账号 墙内平台均为盗图 || 二号机 @maruko0000o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "maruko0000o"
+              }
+            ]
+          }
+        },
+        "id": "1621759778614812677",
+        "location": "Beijing",
+        "name": "マルコ🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661384467229843459/RS46ZM2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34759,
+          "following_count": 912,
+          "like_count": 19344,
+          "listed_count": 187,
+          "media_count": 768,
+          "tweet_count": 3755
+        },
+        "username": "maruko00o",
+        "verified": true
+      }
+    ]
+  }
+}

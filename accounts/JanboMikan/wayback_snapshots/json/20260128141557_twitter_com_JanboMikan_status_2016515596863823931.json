@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2016489071930167609",
+    "created_at": "2026-01-28T14:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016515596863823931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1984725515023106051",
+          "start": 0,
+          "username": "Xuan_M0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016515596863823931",
+    "in_reply_to_user_id": "1984725515023106051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016489071930167609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan_M0o 一拳打断警察肋骨😋（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016488833106460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wB6O7aQAAXQ7k.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2016489071930167609",
+        "created_at": "2026-01-28T14:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016515596863823931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1984725515023106051",
+              "start": 0,
+              "username": "Xuan_M0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016515596863823931",
+        "in_reply_to_user_id": "1984725515023106051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016489071930167609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan_M0o 一拳打断警察肋骨😋（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016488833106460672"
+          ]
+        },
+        "author_id": "1984725515023106051",
+        "conversation_id": "2016489071930167609",
+        "created_at": "2026-01-28T12:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016489071930167609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "cos"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "rurudo"
+            },
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "天使警察エルちゃん"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "伪娘"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "男娘"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWJJJPhQgp",
+              "end": 84,
+              "expanded_url": "https://x.com/Xuan_M0o/status/2016489071930167609/photo/1",
+              "media_key": "3_2016488833106460672",
+              "start": 61,
+              "url": "https://t.co/hWJJJPhQgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016489071930167609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1462,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你这是在骚扰警察哦～\n乖乖跟我走一趟吧～🤍🖤\n\n#cos #rurudo #天使警察エルちゃん #伪娘 #男娘 #男の娘 https://t.co/hWJJJPhQgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 285,
+          "like_count": 7017,
+          "listed_count": 21,
+          "media_count": 117,
+          "tweet_count": 3545
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T20:54:03.000Z",
+        "description": "喜欢女装穿搭和可爱事物的男孩子♂/\n01年，坐标江苏，168cm，54kg/\n性别认同正常，偏双性恋/\n是二次元游戏宅，也喜欢旅游摄影w/\n水色系和地雷系重度依赖🤍🩵，但是性格并不地雷哦！/\n属性是偏温柔又严厉大哥哥（or大姐姐）类型的S/Dom Daddy，涉猎很广很包容w～",
+        "id": "1984725515023106051",
+        "location": "想要互关扩列可以私信哦～！",
+        "name": "Matsu茉",
+        "pinned_tweet_id": "1996888509815415089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985054814359949312/2EddkLkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3726,
+          "following_count": 189,
+          "like_count": 420,
+          "listed_count": 17,
+          "media_count": 121,
+          "tweet_count": 381
+        },
+        "username": "Xuan_M0o",
+        "verified": true
+      }
+    ]
+  }
+}

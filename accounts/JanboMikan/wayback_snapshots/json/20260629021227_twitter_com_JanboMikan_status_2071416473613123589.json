@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2070864371107213567",
+    "created_at": "2026-06-29T02:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071416473613123589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1676538919591251973",
+          "start": 0,
+          "username": "kisunehime"
+        },
+        {
+          "end": 28,
+          "id": "1606188226821005312",
+          "start": 12,
+          "username": "YukiFox_5848103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071416473613123589",
+    "in_reply_to_user_id": "1676538919591251973",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071220930073051283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kisunehime @YukiFox_5848103 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2070864371107213567",
+        "created_at": "2026-06-29T02:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071416473613123589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676538919591251973",
+              "start": 0,
+              "username": "kisunehime"
+            },
+            {
+              "end": 28,
+              "id": "1606188226821005312",
+              "start": 12,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071416473613123589",
+        "in_reply_to_user_id": "1676538919591251973",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071220930073051283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kisunehime @YukiFox_5848103 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676538919591251973",
+        "conversation_id": "2070864371107213567",
+        "created_at": "2026-06-28T13:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071220930073051283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 28,
+              "id": "1606188226821005312",
+              "start": 12,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071220930073051283",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070864371107213567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @YukiFox_5848103 好好都出去玩ouo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14654,
+          "following_count": 572,
+          "like_count": 20057,
+          "listed_count": 52,
+          "media_count": 336,
+          "tweet_count": 10607
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T10:32:26.000Z",
+        "description": "1.0繪師媽媽: @ShiinaYui_Ch\n2.0繪師媽媽:@KaikaMizutani\n建模老爸:@whiteJK14\n通用tag:#今天的狐狸也在努力社交\n直播：#狐姬出沒\n圖畫：#kisunehimeart\n梗圖和奇怪的東東：#狐不知道\n信件:kisunehime@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 68,
+                "tag": "今天的狐狸也在努力社交"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "狐姬出沒"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "tag": "kisunehimeart"
+              },
+              {
+                "end": 122,
+                "start": 117,
+                "tag": "狐不知道"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "ShiinaYui_Ch"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "KaikaMizutani"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "whiteJK14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kisunehime",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kisunehime",
+                "start": 0,
+                "url": "https://t.co/WkHXDrRi9N"
+              }
+            ]
+          }
+        },
+        "id": "1676538919591251973",
+        "location": "不知名的深山",
+        "name": "狐姬漾 kisunehime sama",
+        "pinned_tweet_id": "1872446099337908453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775714956010565632/-mE10emb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 699,
+          "like_count": 28222,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 12238
+        },
+        "url": "https://t.co/WkHXDrRi9N",
+        "username": "kisunehime",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T07:21:43.000Z",
+        "description": "这里是小白，一只可爱的白狐狸\n女装随缘更新\n最热爱的学科是物理\n永远向往自由\n（我是男孩子）",
+        "id": "1606188226821005312",
+        "name": "🦊Wh1te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056762063670972416/Z4knCr9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 874,
+          "like_count": 32234,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 19068
+        },
+        "url": "",
+        "username": "YukiFox_5848103",
+        "verified": false
+      }
+    ]
+  }
+}

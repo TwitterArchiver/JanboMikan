@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2074810731711619127",
+    "created_at": "2026-07-10T05:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075455066354725145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055498933535924224",
+          "start": 0,
+          "username": "rewolF0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075455066354725145",
+    "in_reply_to_user_id": "2055498933535924224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075427826384437506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rewolF0307 狠狠参考😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2074810731711619127",
+        "created_at": "2026-07-10T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075455066354725145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055498933535924224",
+              "start": 0,
+              "username": "rewolF0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075455066354725145",
+        "in_reply_to_user_id": "2055498933535924224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075427826384437506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rewolF0307 狠狠参考😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498933535924224",
+        "conversation_id": "2074810731711619127",
+        "created_at": "2026-07-10T03:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075427826384437506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427826384437506",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074810731711619127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 诶诶感觉这个拍照动作可以参考一下😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15073,
+          "following_count": 592,
+          "like_count": 20708,
+          "listed_count": 52,
+          "media_count": 350,
+          "tweet_count": 10948
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T04:01:59.000Z",
+        "description": "10年|高二|偶尔玩些音游，有点杂食|正在学习化妆|正在学习c语言和JavaScript|经常内耗，我也不知道为什么|喜欢听ACG歌曲，术力口以及草东|异装癖|无不良嗜好|喜欢发呆|想要有人陪",
+        "id": "2055498933535924224",
+        "location": "在你的怀里哦，我爱你喵",
+        "name": "朝花rewolF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073712160799424512/TxpIClce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "rewolF0307",
+        "verified": false
+      }
+    ]
+  }
+}

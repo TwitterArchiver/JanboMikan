@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2008856136850743680",
+    "created_at": "2026-01-08T15:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T16:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009282522702569561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1245309782656823299",
+          "start": 0,
+          "username": "Akkarineko"
+        },
+        {
+          "end": 25,
+          "id": "1365678062013083666",
+          "start": 12,
+          "username": "yuyuqing0725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009282522702569561",
+    "in_reply_to_user_id": "1245309782656823299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009281197189300716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akkarineko @yuyuqing0725 很好科普！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-08T15:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009282522702569561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1245309782656823299",
+              "start": 0,
+              "username": "Akkarineko"
+            },
+            {
+              "end": 25,
+              "id": "1365678062013083666",
+              "start": 12,
+              "username": "yuyuqing0725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009282522702569561",
+        "in_reply_to_user_id": "1245309782656823299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009281197189300716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akkarineko @yuyuqing0725 很好科普！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245309782656823299",
+        "conversation_id": "2008856136850743680",
+        "created_at": "2026-01-08T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009281197189300716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 25,
+              "id": "1365678062013083666",
+              "start": 12,
+              "username": "yuyuqing0725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009281197189300716",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008872296816222650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuyuqing0725 多吃膳食纤维多喝水保证大便通畅，忌油腻辛辣防止便秘或火烧屁股复发痔疮。\n手术其实也没什么，钱包-4K（有医保），屁股拉玻璃不至于（看地方手术技术和护理），但肯定要疼一个月的，术后半年差不多就恢复的可以玩了（开发进度半年回到解放前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 256,
+          "like_count": 5331,
+          "listed_count": 13,
+          "media_count": 94,
+          "tweet_count": 2570
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-01T11:19:32.000Z",
+        "description": "HTTP 401",
+        "id": "1245309782656823299",
+        "name": "幽靈貓貓",
+        "pinned_tweet_id": "1830845646309367859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444093490372100101/WU71Er1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 15494,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 5956
+        },
+        "username": "Akkarineko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T15:00:15.000Z",
+        "description": "193/180 ♂，如果能被喜欢很荣幸\n匿名提问：https://t.co/ZnlAoS4e89\n聊天频道：https://t.co/A0kTg2Efpo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu79791",
+                "end": 48,
+                "expanded_url": "https://ngl.link/yu79791",
+                "start": 25,
+                "url": "https://t.co/ZnlAoS4e89"
+              },
+              {
+                "display_url": "t.me/testyuyuyu",
+                "end": 77,
+                "expanded_url": "https://t.me/testyuyuyu",
+                "start": 54,
+                "url": "https://t.co/A0kTg2Efpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yutestyu",
+                "end": 23,
+                "expanded_url": "https://t.me/yutestyu",
+                "start": 0,
+                "url": "https://t.co/3oo73KLzNO"
+              }
+            ]
+          }
+        },
+        "id": "1365678062013083666",
+        "name": "yuyyyyyyy",
+        "pinned_tweet_id": "1999771711210950812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992979822331695104/EYtklChg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 826,
+          "like_count": 4009,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/3oo73KLzNO",
+        "username": "yuyuqing0725",
+        "verified": false
+      }
+    ]
+  }
+}

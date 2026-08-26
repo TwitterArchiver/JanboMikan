@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2029730604414292303",
+    "created_at": "2026-03-06T08:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029834895229604355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528551852195074049",
+          "start": 0,
+          "username": "zzruantang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029834895229604355",
+    "in_reply_to_user_id": "1528551852195074049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029774946680131878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzruantang_ 豪赤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2029730604414292303",
+        "created_at": "2026-03-06T08:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029834895229604355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528551852195074049",
+              "start": 0,
+              "username": "zzruantang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029834895229604355",
+        "in_reply_to_user_id": "1528551852195074049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029774946680131878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzruantang_ 豪赤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528551852195074049",
+        "conversation_id": "2029730604414292303",
+        "created_at": "2026-03-06T04:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029774946680131878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029774946680131878",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029759684929061173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 吃嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7271,
+          "following_count": 388,
+          "like_count": 10700,
+          "listed_count": 33,
+          "media_count": 165,
+          "tweet_count": 5662
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T01:43:29.000Z",
+        "description": "是♂，欢迎聊天但是不要下头，性取向正常超喜欢JK",
+        "id": "1528551852195074049",
+        "name": "🍬软糖",
+        "pinned_tweet_id": "1977591019156975788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029522232826068992/QrRYwcnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25992,
+          "following_count": 117,
+          "like_count": 1221,
+          "listed_count": 87,
+          "media_count": 193,
+          "tweet_count": 943
+        },
+        "username": "zzruantang_",
+        "verified": false
+      }
+    ]
+  }
+}

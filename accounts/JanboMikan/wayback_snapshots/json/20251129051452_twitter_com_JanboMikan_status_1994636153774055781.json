@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1994499006463185149",
+    "created_at": "2025-11-29T05:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994636153774055781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994636153774055781",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994499006463185149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl 拿来当抹布吧这样就不浪费了（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_1994499003161968640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63iRqxXAAA4fRQ.jpg",
+        "width": 415
+      },
+      {
+        "height": 1104,
+        "media_key": "3_1994499003816267776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63iRtNW0AALc1d.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1994499006463185149",
+        "created_at": "2025-11-29T05:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994636153774055781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994636153774055781",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994499006463185149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl 拿来当抹布吧这样就不浪费了（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994499003161968640",
+            "3_1994499003816267776"
+          ]
+        },
+        "author_id": "909909858949922818",
+        "conversation_id": "1994499006463185149",
+        "created_at": "2025-11-28T20:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T21:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994499006463185149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyxgUbe4Pw",
+              "end": 57,
+              "expanded_url": "https://x.com/rnpgpsl/status/1994499006463185149/photo/1",
+              "media_key": "3_1994499003161968640",
+              "start": 34,
+              "url": "https://t.co/nyxgUbe4Pw"
+            },
+            {
+              "display_url": "pic.x.com/nyxgUbe4Pw",
+              "end": 57,
+              "expanded_url": "https://x.com/rnpgpsl/status/1994499006463185149/photo/1",
+              "media_key": "3_1994499003816267776",
+              "start": 34,
+              "url": "https://t.co/nyxgUbe4Pw"
+            },
+            {
+              "display_url": "x.com/rnpgpsl/status…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/rnpgpsl/status/1992772202941325537",
+              "start": 58,
+              "url": "https://t.co/nVehf9IL5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994499006463185149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 923,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992772202941325537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想的：系带露外面\n我拍的：看不到一点\n\n没有烧🐔衣服色不了一点😞 https://t.co/nyxgUbe4Pw https://t.co/nVehf9IL5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 153,
+          "like_count": 2087,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "我怎么没有对象|\n接线下，48州可飞（weekend only, TNT+YUL另行通知）工程问题 labor 10~20/hr, parts另算其余不收费\n进群🚪/熟人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+YJ1lMWwYDs0wO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+YJ1lMWwYDs0wODAx",
+                "start": 0,
+                "url": "https://t.co/JOxivvsUPj"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Auburn, AL",
+        "name": "ootoi （论某人的重工业有多重，轻工业就有多轻）",
+        "pinned_tweet_id": "1992116574921351268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10869,
+          "following_count": 6340,
+          "like_count": 148820,
+          "listed_count": 26,
+          "media_count": 6275,
+          "tweet_count": 79328
+        },
+        "url": "https://t.co/JOxivvsUPj",
+        "username": "rnpgpsl",
+        "verified": false
+      }
+    ]
+  }
+}

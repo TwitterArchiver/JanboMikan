@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989872656016162816"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1989996872069488774",
+    "created_at": "2025-11-16T10:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989996872069488774"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYdzuP55c3",
+          "end": 124,
+          "expanded_url": "https://x.com/JanboMikan/status/1989996872069488774/photo/1",
+          "media_key": "3_1989872656016162816",
+          "start": 101,
+          "url": "https://t.co/bYdzuP55c3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989996872069488774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好，我是圣诞老人。\n由于要准备的礼物太多，我已提前进入中国。\n为防止在袜子中放错礼物，请你们把自己的袜子拍照发给我看看。\n为避免个别孩子作弊，请附上套袜子的腿照。\n\n注：拍得越涩礼物越好\n\n#男娘 https://t.co/bYdzuP55c3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1989872656016162816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G51yo0obQAA7uyR.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989872656016162816"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1989996872069488774",
+        "created_at": "2025-11-16T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989996872069488774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYdzuP55c3",
+              "end": 124,
+              "expanded_url": "https://x.com/JanboMikan/status/1989996872069488774/photo/1",
+              "media_key": "3_1989872656016162816",
+              "start": 101,
+              "url": "https://t.co/bYdzuP55c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989996872069488774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是圣诞老人。\n由于要准备的礼物太多，我已提前进入中国。\n为防止在袜子中放错礼物，请你们把自己的袜子拍照发给我看看。\n为避免个别孩子作弊，请附上套袜子的腿照。\n\n注：拍得越涩礼物越好\n\n#男娘 https://t.co/bYdzuP55c3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 117,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2071097126252421629",
+    "created_at": "2026-06-29T02:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071416761191399621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1390398574589063171",
+          "start": 0,
+          "username": "Zhouyiqing6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071416761191399621",
+    "in_reply_to_user_id": "1390398574589063171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071237114331599101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhouyiqing6 被攻略了这下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071097126252421629",
+        "created_at": "2026-06-29T02:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071416761191399621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1390398574589063171",
+              "start": 0,
+              "username": "Zhouyiqing6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071416761191399621",
+        "in_reply_to_user_id": "1390398574589063171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071237114331599101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhouyiqing6 被攻略了这下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390398574589063171",
+        "conversation_id": "2071097126252421629",
+        "created_at": "2026-06-28T14:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071237114331599101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 28,
+              "id": "1606188226821005312",
+              "start": 12,
+              "username": "YukiFox_5848103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071237114331599101",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071097126252421629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @YukiFox_5848103 何尝不是一种噶乐game🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14654,
+          "following_count": 572,
+          "like_count": 20061,
+          "listed_count": 52,
+          "media_count": 336,
+          "tweet_count": 10610
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T20:10:48.000Z",
+        "description": "一个闲逛的人#漫威#DC#",
+        "id": "1390398574589063171",
+        "name": "Slade Wilson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069307181825216512/gf6rzute_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 803,
+          "like_count": 5098,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "Zhouyiqing6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2073751083529482343",
+    "created_at": "2026-07-06T04:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073985687460917661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806234001260396544",
+          "start": 0,
+          "username": "shuangxue113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073985687460917661",
+    "in_reply_to_user_id": "1806234001260396544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073751083529482343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuangxue113 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073751074356469760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdxnWuaIAAnzsN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2073751083529482343",
+        "created_at": "2026-07-06T04:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073985687460917661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806234001260396544",
+              "start": 0,
+              "username": "shuangxue113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073985687460917661",
+        "in_reply_to_user_id": "1806234001260396544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073751083529482343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangxue113 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073751074356469760"
+          ]
+        },
+        "author_id": "1806234001260396544",
+        "conversation_id": "2073751083529482343",
+        "created_at": "2026-07-05T12:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073751083529482343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XP9Fu3XaNL",
+              "end": 164,
+              "expanded_url": "https://x.com/shuangxue113/status/2073751083529482343/photo/1",
+              "media_key": "3_2073751074356469760",
+              "start": 141,
+              "url": "https://t.co/XP9Fu3XaNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073751083529482343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十多年光阴，末了才明白，这圈子人儿也是最讲人情世故的。亲近的男娘们对彼此不吝赞誉，陌生的男娘们则往往缄口侧目。那台上的闪耀总基于既往积累的好感，而再华美的画儿也入不了未识的眼。\n圆滑伶俐者佳友成群，不善言辞只失掉一切，无可弥补。久未闻讯，才知她又在她身侧安眠。\n“原来他们认识。” https://t.co/XP9Fu3XaNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14902,
+          "following_count": 581,
+          "like_count": 20439,
+          "listed_count": 53,
+          "media_count": 345,
+          "tweet_count": 10823
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:52:37.000Z",
+        "description": "被人遗忘的男娘/有很多很多各种各样的白丝/账号内容大概已经没什么人看得见了/线下考虑中——😴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowRainGarden",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowRainGarden",
+                "start": 0,
+                "url": "https://t.co/krims3hIvi"
+              }
+            ]
+          }
+        },
+        "id": "1806234001260396544",
+        "location": "距您1.4公里",
+        "name": "霜雪没睡够Zzz",
+        "pinned_tweet_id": "1915024217449598984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940359123335331842/fNzppWN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6415,
+          "following_count": 148,
+          "like_count": 513,
+          "listed_count": 30,
+          "media_count": 425,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/krims3hIvi",
+        "username": "shuangxue113",
+        "verified": false
+      }
+    ]
+  }
+}

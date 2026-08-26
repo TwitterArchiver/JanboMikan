@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2053293949130080688",
+    "created_at": "2026-05-12T01:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054007294984429974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1271942631564521472",
+          "start": 0,
+          "username": "KoishinFlandre"
+        },
+        {
+          "end": 27,
+          "id": "1162603779780333569",
+          "start": 16,
+          "username": "luobomiao1"
+        },
+        {
+          "end": 37,
+          "id": "1431080795536433154",
+          "start": 28,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054007294984429974",
+    "in_reply_to_user_id": "1271942631564521472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053908732858536399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoishinFlandre @luobomiao1 @yuluoqwq 私享的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2053293949130080688",
+        "created_at": "2026-05-12T01:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054007294984429974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1271942631564521472",
+              "start": 0,
+              "username": "KoishinFlandre"
+            },
+            {
+              "end": 27,
+              "id": "1162603779780333569",
+              "start": 16,
+              "username": "luobomiao1"
+            },
+            {
+              "end": 37,
+              "id": "1431080795536433154",
+              "start": 28,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054007294984429974",
+        "in_reply_to_user_id": "1271942631564521472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053908732858536399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoishinFlandre @luobomiao1 @yuluoqwq 私享的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271942631564521472",
+        "conversation_id": "2053293949130080688",
+        "created_at": "2026-05-11T18:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T19:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053908732858536399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1162603779780333569",
+              "start": 12,
+              "username": "luobomiao1"
+            },
+            {
+              "end": 33,
+              "id": "1431080795536433154",
+              "start": 24,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053908732858536399",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053437441055625346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @luobomiao1 @yuluoqwq 看看作戰記錄😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12858,
+          "following_count": 494,
+          "like_count": 17383,
+          "listed_count": 45,
+          "media_count": 266,
+          "tweet_count": 8964
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T23:09:11.000Z",
+        "description": "咱喜歡你!這裡是來自河南的小藥娘一枚～重度抑鬱焦慮，有時候會發自己的照片喵，不時在線，可以來找咱私聊喵~姐姐 @ShengTian22332 hrt2024.8.31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "ShengTian22332"
+              }
+            ]
+          }
+        },
+        "id": "1271942631564521472",
+        "location": "幻想鄉 地靈殿",
+        "name": "koishi！🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2051974170133795322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793955184235913216/FhfDm6N1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 877,
+          "like_count": 30658,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 3618
+        },
+        "username": "KoishinFlandre",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-17T05:55:24.000Z",
+        "description": "不可不爱，没有人爱。不线下不线下不线下。小可爱直接加我！zn有🚪（仅是好友位）想看穿什么的可以打衣服费定制捏w（能接受的动作范围能做捏",
+        "id": "1162603779780333569",
+        "location": "5.20km",
+        "name": "萝卜喵喵",
+        "pinned_tweet_id": "1672291708275679232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937759794636509184/jkqByDwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11759,
+          "following_count": 290,
+          "like_count": 3408,
+          "listed_count": 35,
+          "media_count": 148,
+          "tweet_count": 1002
+        },
+        "username": "luobomiao1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 1634,
+          "like_count": 41920,
+          "listed_count": 11,
+          "media_count": 270,
+          "tweet_count": 5073
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

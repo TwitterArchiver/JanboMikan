@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2058503273720492451",
+    "created_at": "2026-05-25T08:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058828794434302099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028899853716320256",
+          "start": 0,
+          "username": "zzz1043903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058828794434302099",
+    "in_reply_to_user_id": "2028899853716320256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058753587447320737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1043903 好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2058503273720492451",
+        "created_at": "2026-05-25T08:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058828794434302099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028899853716320256",
+              "start": 0,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058828794434302099",
+        "in_reply_to_user_id": "2028899853716320256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058753587447320737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1043903 好啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028899853716320256",
+        "conversation_id": "2058503273720492451",
+        "created_at": "2026-05-25T03:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058753587447320737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058753587447320737",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058503273720492451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 完啦qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13217,
+          "following_count": 521,
+          "like_count": 18095,
+          "listed_count": 45,
+          "media_count": 288,
+          "tweet_count": 9448
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨| MTF 重抑\n含糖3.6.2026\n嚴重社恐長期宅家 | 社會自由主義萬歲\nOverdose♡🇲🇴🇭🇰🇹🇼🇨🇳\n我們都是中國人\n5.24.2010出廠|172cm 58.5kg",
+        "id": "2028899853716320256",
+        "location": "中華人民共和國",
+        "name": "許的什麼願🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 61,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 514
+        },
+        "username": "zzz1043903",
+        "verified": false
+      }
+    ]
+  }
+}

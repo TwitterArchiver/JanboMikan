@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978401520639951331",
+    "created_at": "2025-10-15T12:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978439478336250328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1442689290035777538",
+          "start": 0,
+          "username": "YaningSophie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978439478336250328",
+    "in_reply_to_user_id": "1442689290035777538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978401520639951331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaningSophie 原来我在下面聊天，而你......在上面拍女装啊~！！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1978400298462060544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SwluVboAAfS5E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978401520639951331",
+        "created_at": "2025-10-15T12:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978439478336250328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1442689290035777538",
+              "start": 0,
+              "username": "YaningSophie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978439478336250328",
+        "in_reply_to_user_id": "1442689290035777538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978401520639951331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaningSophie 原来我在下面聊天，而你......在上面拍女装啊~！！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978400298462060544"
+          ]
+        },
+        "author_id": "1442689290035777538",
+        "conversation_id": "1978401520639951331",
+        "created_at": "2025-10-15T10:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T11:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978401520639951331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "男娘"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "伪娘"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "露背毛衣"
+            },
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNzBPI8NW0",
+              "end": 135,
+              "expanded_url": "https://x.com/YaningSophie/status/1978401520639951331/photo/1",
+              "media_key": "3_1978400298462060544",
+              "start": 112,
+              "url": "https://t.co/xNzBPI8NW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978401520639951331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍友在聊天而我在偷偷拍女装٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ\n\n（原谅我直到才买床帘，在公共澡堂刮毛有一种露出的紧张感（？）至于拍这件战袍是因为只带了这一件）\n\n#男娘 #伪娘 #露背毛衣 #可爱の男孩子 \n#femboy https://t.co/xNzBPI8NW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 57,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T03:15:16.000Z",
+        "description": "05年养成系男娘，现役大学生，正在努力变可爱～\n欢迎私信我，看到应该都会回哦（鉴证的离我远一点！）\n清水推（尽管会转黄推就是了\n没有🚪，加好友主要看聊不聊得来。可爱的小男娘和小正太都快来加我！",
+        "id": "1442689290035777538",
+        "location": "America",
+        "name": "江边的鹤",
+        "pinned_tweet_id": "1934922443640222029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967822205049520128/2tvvfto__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 324,
+          "like_count": 1606,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 420
+        },
+        "username": "YaningSophie",
+        "verified": false
+      }
+    ]
+  }
+}

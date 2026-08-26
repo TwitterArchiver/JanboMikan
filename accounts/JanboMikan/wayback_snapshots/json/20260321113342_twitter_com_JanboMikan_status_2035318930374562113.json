@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2035310455313367081",
+    "created_at": "2026-03-21T11:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035318930374562113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1606188226821005312",
+          "start": 0,
+          "username": "YukiFox_5848103"
+        },
+        {
+          "end": 26,
+          "id": "1812363069487742976",
+          "start": 17,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035318930374562113",
+    "in_reply_to_user_id": "1606188226821005312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035311232786608325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiFox_5848103 @mingji_A 汪汪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035311222292455424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7gxewboAAEfnZ.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2035310455313367081",
+        "created_at": "2026-03-21T11:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035318930374562113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1606188226821005312",
+              "start": 0,
+              "username": "YukiFox_5848103"
+            },
+            {
+              "end": 26,
+              "id": "1812363069487742976",
+              "start": 17,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035318930374562113",
+        "in_reply_to_user_id": "1606188226821005312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035311232786608325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiFox_5848103 @mingji_A 汪汪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035311222292455424"
+          ]
+        },
+        "author_id": "1606188226821005312",
+        "conversation_id": "2035310455313367081",
+        "created_at": "2026-03-21T11:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035311232786608325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lt0rbasxC0",
+              "end": 51,
+              "expanded_url": "https://x.com/YukiFox_5848103/status/2035311232786608325/photo/1",
+              "media_key": "3_2035311222292455424",
+              "start": 28,
+              "url": "https://t.co/lt0rbasxC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035311232786608325",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035310455313367081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A （跳上来） https://t.co/lt0rbasxC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9286,
+          "following_count": 411,
+          "like_count": 12828,
+          "listed_count": 35,
+          "media_count": 188,
+          "tweet_count": 6651
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T07:21:43.000Z",
+        "description": "这里是小白，一只可爱的白狐狸\n女装随缘更新\n最热爱的学科是物理\n永远向往自由\n（我是男孩子）",
+        "id": "1606188226821005312",
+        "name": "🦊Wh1te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816317047141457927/VZeh4f_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 842,
+          "like_count": 30154,
+          "listed_count": 3,
+          "media_count": 1031,
+          "tweet_count": 18015
+        },
+        "username": "YukiFox_5848103",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 1903,
+          "like_count": 76526,
+          "listed_count": 11,
+          "media_count": 127,
+          "tweet_count": 14938
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

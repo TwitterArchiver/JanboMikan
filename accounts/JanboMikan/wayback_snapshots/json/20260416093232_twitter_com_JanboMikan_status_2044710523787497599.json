@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044592027820757284",
+    "created_at": "2026-04-16T09:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044710523787497599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363826773176188934",
+          "start": 0,
+          "username": "huige545"
+        },
+        {
+          "end": 22,
+          "id": "1408736706338033668",
+          "start": 10,
+          "username": "ACE_yumoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044710523787497599",
+    "in_reply_to_user_id": "1363826773176188934",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044664236635467793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huige545 @ACE_yumoooo 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044592027820757284",
+        "created_at": "2026-04-16T09:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044710523787497599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363826773176188934",
+              "start": 0,
+              "username": "huige545"
+            },
+            {
+              "end": 22,
+              "id": "1408736706338033668",
+              "start": 10,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044710523787497599",
+        "in_reply_to_user_id": "1363826773176188934",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044664236635467793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huige545 @ACE_yumoooo 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363826773176188934",
+        "conversation_id": "2044592027820757284",
+        "created_at": "2026-04-16T06:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044664236635467793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 24,
+              "id": "1408736706338033668",
+              "start": 12,
+              "username": "ACE_yumoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044664236635467793",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044592027820757284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @ACE_yumoooo 呜哇你们？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10867,
+          "following_count": 454,
+          "like_count": 15441,
+          "listed_count": 40,
+          "media_count": 224,
+          "tweet_count": 7864
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T12:23:45.000Z",
+        "description": "理应在最后的最后不说告别 | 是电子幽灵 | chat: https://t.co/qdcf50qqFM |Comme tu veux",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huige233",
+                "end": 52,
+                "expanded_url": "http://t.me/huige233",
+                "start": 29,
+                "url": "https://t.co/qdcf50qqFM"
+              }
+            ]
+          }
+        },
+        "id": "1363826773176188934",
+        "location": "一片死寂的荒地",
+        "name": "huige",
+        "pinned_tweet_id": "1860278144823099607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930209817706278912/EbzMEQRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 952,
+          "like_count": 15953,
+          "listed_count": 12,
+          "media_count": 963,
+          "tweet_count": 11855
+        },
+        "username": "huige545",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:39:48.000Z",
+        "description": "175/59(不减了喵) ，零糖，同好无🚪，最喜欢就是绳子和涩涩了！\n在020 欢迎扩列！扩列私聊喵\n全网不同名！！\n防迷路@AceYumo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "AceYumo"
+              }
+            ]
+          }
+        },
+        "id": "1408736706338033668",
+        "name": "雨墨",
+        "pinned_tweet_id": "2038209678816194668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946795106712870912/hbMjJYHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 172,
+          "like_count": 1197,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 193
+        },
+        "username": "ACE_yumoooo",
+        "verified": false
+      }
+    ]
+  }
+}

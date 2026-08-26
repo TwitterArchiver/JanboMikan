@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2073324113633132656",
+    "created_at": "2026-07-04T16:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073439814104621072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555947590406905856",
+          "start": 0,
+          "username": "_xyxyx_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073439814104621072",
+    "in_reply_to_user_id": "1555947590406905856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073325293176258618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xyxyx_OvO 你好群友🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2073324113633132656",
+        "created_at": "2026-07-04T16:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073439814104621072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555947590406905856",
+              "start": 0,
+              "username": "_xyxyx_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073439814104621072",
+        "in_reply_to_user_id": "1555947590406905856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073325293176258618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xyxyx_OvO 你好群友🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555947590406905856",
+        "conversation_id": "2073324113633132656",
+        "created_at": "2026-07-04T08:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073325293176258618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 23,
+              "id": "1967299260183158784",
+              "start": 12,
+              "username": "1p0xy_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073325293176258618",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073324113633132656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @1p0xy_star 我的天呐这不是我么🐖🐖🐖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14824,
+          "following_count": 579,
+          "like_count": 20350,
+          "listed_count": 52,
+          "media_count": 344,
+          "tweet_count": 10769
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:03:23.000Z",
+        "description": "hrt2026.4.24丨ASD ADHD 重度焦虑  \n希望大家永远开心",
+        "id": "1555947590406905856",
+        "location": "宜家鲨鲨的胃里",
+        "name": "xyxyx🍅🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062344076113084416/Au67qkNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 795,
+          "like_count": 2669,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "_xyxyx_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

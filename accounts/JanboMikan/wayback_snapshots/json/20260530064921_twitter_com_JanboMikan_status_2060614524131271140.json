@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060614508188778497"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "2060614524131271140",
+    "created_at": "2026-05-30T06:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060614524131271140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNB61MK5Tb",
+          "end": 27,
+          "expanded_url": "https://x.com/JanboMikan/status/2060614524131271140/photo/1",
+          "media_key": "3_2060614508188778497",
+          "start": 4,
+          "url": "https://t.co/nNB61MK5Tb"
+        },
+        {
+          "display_url": "x.com/TainiiMikan/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/TainiiMikan/status/2060607727861420213",
+          "start": 28,
+          "url": "https://t.co/38hiWdKTXz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060614524131271140",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060607727861420213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🍊😗🧋 https://t.co/nNB61MK5Tb https://t.co/38hiWdKTXz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060614508188778497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjF-kObwAEEFtz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2104,
+        "media_key": "3_2060607716100575232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi_zNuakAAfa7P.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060614508188778497"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2060614524131271140",
+        "created_at": "2026-05-30T06:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060614524131271140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNB61MK5Tb",
+              "end": 27,
+              "expanded_url": "https://x.com/JanboMikan/status/2060614524131271140/photo/1",
+              "media_key": "3_2060614508188778497",
+              "start": 4,
+              "url": "https://t.co/nNB61MK5Tb"
+            },
+            {
+              "display_url": "x.com/TainiiMikan/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/TainiiMikan/status/2060607727861420213",
+              "start": 28,
+              "url": "https://t.co/38hiWdKTXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060614524131271140",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060607727861420213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🍊😗🧋 https://t.co/nNB61MK5Tb https://t.co/38hiWdKTXz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060607716100575232"
+          ]
+        },
+        "author_id": "2497764032",
+        "conversation_id": "2060607727861420213",
+        "created_at": "2026-05-30T06:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060607727861420213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1408736706338033668",
+              "start": 21,
+              "username": "ACE_yumoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xERIMGRqJd",
+              "end": 57,
+              "expanded_url": "https://x.com/TainiiMikan/status/2060607727861420213/photo/1",
+              "media_key": "3_2060607716100575232",
+              "start": 34,
+              "url": "https://t.co/xERIMGRqJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060607727861420213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在星巴克严肃品尝绿猫袜子。\n\n w/ @ACE_yumoooo https://t.co/xERIMGRqJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13608,
+          "following_count": 531,
+          "like_count": 18474,
+          "listed_count": 46,
+          "media_count": 295,
+          "tweet_count": 9695
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 128,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1006
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

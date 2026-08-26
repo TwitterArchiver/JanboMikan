@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978324995190256054",
+    "created_at": "2025-10-15T12:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978434181471277392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938506841476276224",
+          "start": 0,
+          "username": "zhumao_Mutsumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978434181471277392",
+    "in_reply_to_user_id": "1938506841476276224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978324995190256054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhumao_Mutsumi 闪闪发光的小皮鞋...\n姐姐踩我w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_1978324992191533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RsGUnakAAByYw.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978324995190256054",
+        "created_at": "2025-10-15T12:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978434181471277392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938506841476276224",
+              "start": 0,
+              "username": "zhumao_Mutsumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978434181471277392",
+        "in_reply_to_user_id": "1938506841476276224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978324995190256054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhumao_Mutsumi 闪闪发光的小皮鞋...\n姐姐踩我w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978324992191533056"
+          ]
+        },
+        "author_id": "1938506841476276224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1978324995190256054",
+        "created_at": "2025-10-15T05:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978324995190256054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "男の娘"
+            },
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "cosplay"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "暁山瑞希"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDfRvuYWdO",
+              "end": 64,
+              "expanded_url": "https://x.com/zhumao_Mutsumi/status/1978324995190256054/photo/1",
+              "media_key": "3_1978324992191533056",
+              "start": 41,
+              "url": "https://t.co/bDfRvuYWdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978324995190256054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2894,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊瑞希宝宝你是一只一只小猫咪啊啊啊啊\n#男の娘 #cosplay #暁山瑞希 https://t.co/bDfRvuYWdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 52,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T07:57:20.000Z",
+        "description": "159\\52kg\\飞柱xnn\\睦头厨\\下头雷批\n又蠢又笨\\断箭入脑人\\烤批邦批\n清水微涩（？）\n平常喜欢发一些足和腿（）是腿控喵",
+        "id": "1938506841476276224",
+        "name": "猪猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959605586104041472/FfZUB8Zh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 72,
+          "like_count": 155,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 45
+        },
+        "username": "zhumao_Mutsumi",
+        "verified": false
+      }
+    ]
+  }
+}

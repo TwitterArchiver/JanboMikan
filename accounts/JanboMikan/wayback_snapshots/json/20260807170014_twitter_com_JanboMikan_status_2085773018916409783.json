@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2085319983614074938",
+    "created_at": "2026-08-07T17:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085773018916409783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994720929709174784",
+          "start": 0,
+          "username": "bth95147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085773018916409783",
+    "in_reply_to_user_id": "1994720929709174784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085416691287359657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bth95147 括约肌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2085319983614074938",
+        "created_at": "2026-08-07T17:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085773018916409783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994720929709174784",
+              "start": 0,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085773018916409783",
+        "in_reply_to_user_id": "1994720929709174784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085416691287359657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bth95147 括约肌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994720929709174784",
+        "conversation_id": "2085319983614074938",
+        "created_at": "2026-08-06T17:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085416691287359657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085416691287359657",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085319983614074938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 练的什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16020,
+          "following_count": 617,
+          "like_count": 21900,
+          "listed_count": 53,
+          "media_count": 389,
+          "tweet_count": 11676
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T10:53:09.000Z",
+        "description": "Golang | Chemistry | 🏳️‍⚧️🍥\n主人的小鱼干 @NanoCatfish 🐟\n提问箱 https://t.co/0j9zGBlULL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "NanoCatfish"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ask-bth.neko.surf",
+                "end": 77,
+                "expanded_url": "http://ask-bth.neko.surf",
+                "start": 54,
+                "url": "https://t.co/0j9zGBlULL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bth95147.github.io",
+                "end": 23,
+                "expanded_url": "http://bth95147.github.io",
+                "start": 0,
+                "url": "https://t.co/VQlRoNUK3l"
+              }
+            ]
+          }
+        },
+        "id": "1994720929709174784",
+        "location": "SD",
+        "name": "𝘽𝙩𝙃",
+        "pinned_tweet_id": "2066796313690374173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070789036810346496/wdKPDiy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 335,
+          "like_count": 577,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/VQlRoNUK3l",
+        "username": "bth95147",
+        "verified": true
+      }
+    ]
+  }
+}

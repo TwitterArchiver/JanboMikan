@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999652357525897217"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999653530655998168",
+    "created_at": "2025-12-13T01:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999653546002972824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKvbqzXhfc",
+          "end": 107,
+          "expanded_url": "https://x.com/JanboMikan/status/1999653546002972824/photo/1",
+          "media_key": "3_1999652357525897217",
+          "start": 84,
+          "url": "https://t.co/sKvbqzXhfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999653546002972824",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999653542123209159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4. ping0\n最后说下ping0看啥，IP类型/风控/共享人数/大模型检测信息全部都是不精确的，他家只有ASN、ASN所属、原生/广播IP是准确的（而且很准确）。 https://t.co/sKvbqzXhfc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1999652357525897217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8AxOXyagAENQ7Q.jpg",
+        "width": 964
+      },
+      {
+        "height": 559,
+        "media_key": "3_1999652080013967362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Aw-N-agAIUhfT.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999652357525897217"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999653530655998168",
+        "created_at": "2025-12-13T01:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999653546002972824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKvbqzXhfc",
+              "end": 107,
+              "expanded_url": "https://x.com/JanboMikan/status/1999653546002972824/photo/1",
+              "media_key": "3_1999652357525897217",
+              "start": 84,
+              "url": "https://t.co/sKvbqzXhfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999653546002972824",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999653542123209159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4. ping0\n最后说下ping0看啥，IP类型/风控/共享人数/大模型检测信息全部都是不精确的，他家只有ASN、ASN所属、原生/广播IP是准确的（而且很准确）。 https://t.co/sKvbqzXhfc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999652080013967362"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1999653530655998168",
+        "created_at": "2025-12-13T01:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999653542123209159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEaloutsMB",
+              "end": 89,
+              "expanded_url": "https://x.com/JanboMikan/status/1999653542123209159/photo/1",
+              "media_key": "3_1999652080013967362",
+              "start": 66,
+              "url": "https://t.co/hEaloutsMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999653542123209159",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999653538042106182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3. ipdata\n打开后不用看别的，直接点开Threats，看有没有Proxy/Tor/Abuse等等。\n下面分数参考意义不大。 https://t.co/hEaloutsMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dash.cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://dash.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/fLSVVl1DF6"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1998383618943758626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998395883550089217/G-3T7vtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 197,
+          "like_count": 3053,
+          "listed_count": 9,
+          "media_count": 61,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/fLSVVl1DF6",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2047125290334494957",
+    "created_at": "2026-04-23T04:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047173044624589005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "156219202",
+          "start": 0,
+          "username": "ToshinoAyano"
+        },
+        {
+          "end": 23,
+          "id": "1812363069487742976",
+          "start": 14,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047173044624589005",
+    "in_reply_to_user_id": "156219202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047142633135649106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToshinoAyano @mingji_A 来😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2047125290334494957",
+        "created_at": "2026-04-23T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047173044624589005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "156219202",
+              "start": 0,
+              "username": "ToshinoAyano"
+            },
+            {
+              "end": 23,
+              "id": "1812363069487742976",
+              "start": 14,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047173044624589005",
+        "in_reply_to_user_id": "156219202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047142633135649106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToshinoAyano @mingji_A 来😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156219202",
+        "conversation_id": "2047125290334494957",
+        "created_at": "2026-04-23T02:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047142633135649106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047142633135649106",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047125290334494957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 怎么这么有趣，雪糕也要参加一个！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11583,
+          "following_count": 468,
+          "like_count": 16155,
+          "listed_count": 43,
+          "media_count": 235,
+          "tweet_count": 8170
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-16T09:46:30.000Z",
+        "description": "椰子味的Potong，精神不正常～ 木有qq，也木有其他的通讯方式！日常/树洞号小蛋糕@SweetCream37012提问箱：https://t.co/Z6eakkatCP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "SweetCream37012"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/toshinoayano",
+                "end": 86,
+                "expanded_url": "http://ngl.link/toshinoayano",
+                "start": 63,
+                "url": "https://t.co/Z6eakkatCP"
+              }
+            ]
+          }
+        },
+        "id": "156219202",
+        "location": "Singapore",
+        "name": "小雪糕🍦",
+        "pinned_tweet_id": "2042802747909791965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890028735317061632/5yyb6lQk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 1830,
+          "like_count": 22032,
+          "listed_count": 10,
+          "media_count": 106,
+          "tweet_count": 10488
+        },
+        "username": "ToshinoAyano",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 2267,
+          "like_count": 90332,
+          "listed_count": 16,
+          "media_count": 166,
+          "tweet_count": 18193
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}
