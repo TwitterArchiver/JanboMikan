@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981165470716727296",
+        "3_1981165470251175936",
+        "3_1981165470481838080",
+        "3_1981165470343483392"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1981314667810345129",
+    "created_at": "2025-10-23T11:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T12:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981314667810345129"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 6,
+          "tag": "男娘"
+        },
+        {
+          "end": 17,
+          "start": 10,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvBYU2jvCj",
+          "end": 41,
+          "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+          "media_key": "3_1981165470716727296",
+          "start": 18,
+          "url": "https://t.co/bvBYU2jvCj"
+        },
+        {
+          "display_url": "pic.x.com/bvBYU2jvCj",
+          "end": 41,
+          "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+          "media_key": "3_1981165470251175936",
+          "start": 18,
+          "url": "https://t.co/bvBYU2jvCj"
+        },
+        {
+          "display_url": "pic.x.com/bvBYU2jvCj",
+          "end": 41,
+          "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+          "media_key": "3_1981165470481838080",
+          "start": 18,
+          "url": "https://t.co/bvBYU2jvCj"
+        },
+        {
+          "display_url": "pic.x.com/bvBYU2jvCj",
+          "end": 41,
+          "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+          "media_key": "3_1981165470343483392",
+          "start": 18,
+          "url": "https://t.co/bvBYU2jvCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981314667810345129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脱了喵w\n\n#男娘 #可爱的男孩子 https://t.co/bvBYU2jvCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1981165470716727296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36Df7tXEAAgL_q.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1981165470251175936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36Df5-XUAAYsSr.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1981165470481838080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36Df61W8AAhfMy.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1981165470343483392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36Df6UX0AAkLwg.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981165470716727296",
+            "3_1981165470251175936",
+            "3_1981165470481838080",
+            "3_1981165470343483392"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1981314667810345129",
+        "created_at": "2025-10-23T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981314667810345129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvBYU2jvCj",
+              "end": 41,
+              "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+              "media_key": "3_1981165470716727296",
+              "start": 18,
+              "url": "https://t.co/bvBYU2jvCj"
+            },
+            {
+              "display_url": "pic.x.com/bvBYU2jvCj",
+              "end": 41,
+              "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+              "media_key": "3_1981165470251175936",
+              "start": 18,
+              "url": "https://t.co/bvBYU2jvCj"
+            },
+            {
+              "display_url": "pic.x.com/bvBYU2jvCj",
+              "end": 41,
+              "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+              "media_key": "3_1981165470481838080",
+              "start": 18,
+              "url": "https://t.co/bvBYU2jvCj"
+            },
+            {
+              "display_url": "pic.x.com/bvBYU2jvCj",
+              "end": 41,
+              "expanded_url": "https://x.com/JanboMikan/status/1981314667810345129/photo/1",
+              "media_key": "3_1981165470343483392",
+              "start": 18,
+              "url": "https://t.co/bvBYU2jvCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981314667810345129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脱了喵w\n\n#男娘 #可爱的男孩子 https://t.co/bvBYU2jvCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 88,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1982341423698419726",
+    "created_at": "2025-10-27T00:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982598416841748488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871502099202330624",
+          "start": 0,
+          "username": "keplerD080311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982598416841748488",
+    "in_reply_to_user_id": "1871502099202330624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982583182529802554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keplerD080311 禁止视奸🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1982341423698419726",
+        "created_at": "2025-10-27T00:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982598416841748488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871502099202330624",
+              "start": 0,
+              "username": "keplerD080311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982598416841748488",
+        "in_reply_to_user_id": "1871502099202330624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982583182529802554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keplerD080311 禁止视奸🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871502099202330624",
+        "conversation_id": "1982341423698419726",
+        "created_at": "2025-10-26T23:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982583182529802554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982583182529802554",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982341423698419726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 就要时间😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 91,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T10:24:17.000Z",
+        "description": "09年xnn（172/45kg）\n喜欢普拉娜的宅（）\n喜歡攝影/音遊（冰与火之舞/phigros/phira）/FPS（The FINALS）是hcm（）\n希望和各位成为好朋友wwww\n生日🎂：20090210（水瓶座）\nQQ：3617571542\n现目标是300fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+g4WBaE-KK_JjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+g4WBaE-KK_JjYjY1",
+                "start": 0,
+                "url": "https://t.co/hG7A7cSLBF"
+              }
+            ]
+          }
+        },
+        "id": "1871502099202330624",
+        "location": "什亭之匣/ipad",
+        "name": "𝐀.𝐑.𝐎.𝐍.𝐀🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982317191102857216/i27maU88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 336,
+          "like_count": 2275,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/hG7A7cSLBF",
+        "username": "keplerD080311",
+        "verified": false
+      }
+    ]
+  }
+}

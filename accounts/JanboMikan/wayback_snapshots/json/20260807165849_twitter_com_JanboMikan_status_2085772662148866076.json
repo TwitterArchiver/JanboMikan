@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2085319983614074938",
+    "created_at": "2026-08-07T16:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085772662148866076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791898542379782144",
+          "start": 0,
+          "username": "Margarette63331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085772662148866076",
+    "in_reply_to_user_id": "1791898542379782144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085360653808918601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Margarette63331 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2085319983614074938",
+        "created_at": "2026-08-07T16:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085772662148866076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791898542379782144",
+              "start": 0,
+              "username": "Margarette63331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085772662148866076",
+        "in_reply_to_user_id": "1791898542379782144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085360653808918601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Margarette63331 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791898542379782144",
+        "conversation_id": "2085319983614074938",
+        "created_at": "2026-08-06T13:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085360653808918601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这绝对是一首悲痛的歌曲，歌词的创意来源一位朋友 dy 纸飞机和波音747 （不要误会 ，并不是他有这个问题，而是他的一句话让我想要写这首歌），歌词可以说是精雕细琢 有血有泪，希望大家永远不会感同身受。作词：月底没钱君作曲&演唱：Ai by 月底没钱君制作者：月底没钱君, 视频播放量 1772025、弹幕量 2478、点赞数 125690、投硬币枚数 61561、收藏人数 59962、转发人数 68042, 视频作者 月底没钱君, 作者简介 专注Ai艺术创作，有希望Up做的主题欢迎私信，商务合作请站内私信。歌曲首发一般在【酷狗/QQ/酷我】，搜【月底没钱君】即可。，相关视频：【很大的痔】《美少女也有很大的痔》，大悲咒（高品质珍藏版），这首热门歌曲献给每一位童年坎坷的人 | 《Without You》现已上线，死别——凤凰传奇 Cover，“你就想摘我的果 你还想捻我的花”，原创曲《蟑螂满屋，粥批难寻》——“我的出租屋里真的有很多蟑螂”，爱要坦荡荡但是R&B，《费城大道东》“每一次呐喊，都让大道为之震颤”，你的伤悲是草做的，《雨蝶》微醺版R&B",
+              "display_url": "bilibili.com/video/BV1j3Fnz…",
+              "end": 68,
+              "expanded_url": "https://www.bilibili.com/video/BV1j3FnziEmC/?share_source=copy_web&vd_source=be641c9749baf8c3f6e906c89dd392c4",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2085360708607426561/agf18AW8?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085360708607426561/agf18AW8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "全新单曲《很大的痔》“医生说这是很大的痔，不治会出很大的事”_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1j3FnziEmC/?share_source=copy_web&vd_source=be641c9749baf8c3f6e906c89dd392c4",
+              "url": "https://t.co/wd65ttMfr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085360653808918601",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085319983614074938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 【全新单曲《很大的痔》“医生说这是很大的痔，不治会出很大的事”】 https://t.co/wd65ttMfr0\n\n奖励评论区的各位来听这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16020,
+          "following_count": 616,
+          "like_count": 21896,
+          "listed_count": 53,
+          "media_count": 389,
+          "tweet_count": 11673
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T18:28:11.000Z",
+        "description": "我们被我们所塑造的东西塑造着。——狐狸小姐\n每天打开X是为了和想互动的人互动",
+        "id": "1791898542379782144",
+        "name": "某方的结语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078466763180982272/N8C82ALK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 244,
+          "like_count": 5877,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2326
+        },
+        "url": "",
+        "username": "Margarette63331",
+        "verified": false
+      }
+    ]
+  }
+}

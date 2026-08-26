@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2023563047571423508",
+    "created_at": "2026-02-17T01:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T02:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023576712211308907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4810307533",
+          "start": 0,
+          "username": "Amigiri_Awayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023576712211308907",
+    "in_reply_to_user_id": "4810307533",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023576374121033845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amigiri_Awayuki 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2023563047571423508",
+        "created_at": "2026-02-17T01:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023576712211308907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4810307533",
+              "start": 0,
+              "username": "Amigiri_Awayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023576712211308907",
+        "in_reply_to_user_id": "4810307533",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023576374121033845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amigiri_Awayuki 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4810307533",
+        "conversation_id": "2023563047571423508",
+        "created_at": "2026-02-17T01:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023576374121033845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023576374121033845",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023563047571423508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan prpr!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5487,
+          "following_count": 327,
+          "like_count": 8980,
+          "listed_count": 24,
+          "media_count": 143,
+          "tweet_count": 4649
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-25T02:29:31.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazeneko.notion.site/Index-4c5bf647…",
+                "end": 23,
+                "expanded_url": "https://kazeneko.notion.site/Index-4c5bf64795af4629b9b69fbbc9a525aa",
+                "start": 0,
+                "url": "https://t.co/4HfqthgCfh"
+              }
+            ]
+          }
+        },
+        "id": "4810307533",
+        "name": "天霧淡雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/691450171620614144/hOM65cI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5304,
+          "following_count": 2871,
+          "like_count": 1773,
+          "listed_count": 14,
+          "media_count": 621,
+          "tweet_count": 2019
+        },
+        "url": "https://t.co/4HfqthgCfh",
+        "username": "Amigiri_Awayuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984814862044905472"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984803208351653999",
+    "created_at": "2025-11-02T02:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T03:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984814926238793997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907640932893339654",
+          "start": 0,
+          "username": "Ran_Mitake37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UnZDptIqeG",
+          "end": 46,
+          "expanded_url": "https://x.com/JanboMikan/status/1984814926238793997/photo/1",
+          "media_key": "3_1984814862044905472",
+          "start": 23,
+          "url": "https://t.co/UnZDptIqeG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984814926238793997",
+    "in_reply_to_user_id": "1907640932893339654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984803208351653999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran_Mitake37 好的，满足你（逃 https://t.co/UnZDptIqeG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1984814862044905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4t6md0aQAAb8Mv.jpg",
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984803205998657542",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4tv__qbQAYkjrB.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984814862044905472"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984803208351653999",
+        "created_at": "2025-11-02T02:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984814926238793997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907640932893339654",
+              "start": 0,
+              "username": "Ran_Mitake37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnZDptIqeG",
+              "end": 46,
+              "expanded_url": "https://x.com/JanboMikan/status/1984814926238793997/photo/1",
+              "media_key": "3_1984814862044905472",
+              "start": 23,
+              "url": "https://t.co/UnZDptIqeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984814926238793997",
+        "in_reply_to_user_id": "1907640932893339654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984803208351653999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran_Mitake37 好的，满足你（逃 https://t.co/UnZDptIqeG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984803205998657542"
+          ]
+        },
+        "author_id": "1907640932893339654",
+        "conversation_id": "1984803208351653999",
+        "created_at": "2025-11-02T02:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984803208351653999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahluMRkKi9",
+              "end": 38,
+              "expanded_url": "https://x.com/Ran_Mitake37/status/1984803208351653999/photo/1",
+              "media_key": "3_1984803205998657542",
+              "start": 15,
+              "url": "https://t.co/ahluMRkKi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984803208351653999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "到了必不可少的铜丝你环节了！ https://t.co/ahluMRkKi9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 99,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:47:04.000Z",
+        "description": "♂️ 无糖 \\ 1??cm??kg??yo \\ 随机回fo \\ 高频率评论区互动 \\ 爱哈气爱撒娇爱熬夜的坏猫 \\ ⚠️不转R18 \\ 永久清水绝对擦边 \\ ⚠️不线下 \\ ⚠️不要和我建政 \\ ⚠️单身但拒绝恋爱 \\ 挂个小男娘@mhtqwq \\ 铲屎官@aesir641796 \\ 请理性打赏 \\ 祝你天天开心owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 115,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "aesir641796"
+              }
+            ]
+          }
+        },
+        "id": "1907640932893339654",
+        "location": "Hyperbolic Space",
+        "name": "Ran",
+        "pinned_tweet_id": "1968744855187718370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965132236245925891/DWGhNYMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6222,
+          "following_count": 660,
+          "like_count": 538,
+          "listed_count": 16,
+          "media_count": 144,
+          "tweet_count": 4352
+        },
+        "username": "Ran_Mitake37",
+        "verified": false
+      }
+    ]
+  }
+}

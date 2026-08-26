@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2033351772073607220",
+    "created_at": "2026-03-16T08:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033456994213077360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1646014497600204801",
+          "start": 0,
+          "username": "ming5feng"
+        },
+        {
+          "end": 20,
+          "id": "1812363069487742976",
+          "start": 11,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033456994213077360",
+    "in_reply_to_user_id": "1646014497600204801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033403153690103843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming5feng @mingji_A 无敌了😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-16T08:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033456994213077360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1646014497600204801",
+              "start": 0,
+              "username": "ming5feng"
+            },
+            {
+              "end": 20,
+              "id": "1812363069487742976",
+              "start": 11,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033456994213077360",
+        "in_reply_to_user_id": "1646014497600204801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033403153690103843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming5feng @mingji_A 无敌了😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646014497600204801",
+        "conversation_id": "2033351772073607220",
+        "created_at": "2026-03-16T04:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033403153690103843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1812363069487742976",
+              "start": 12,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033403153690103843",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033351772073607220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @mingji_A 知识可以通过性传播（确信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8391,
+          "following_count": 404,
+          "like_count": 11680,
+          "listed_count": 33,
+          "media_count": 177,
+          "tweet_count": 6262
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:57:04.000Z",
+        "description": "坐标东南省会，性别男，清水，互关请私戳。全平台不同名。互fo欢迎，感谢喜欢☀️。寄拍/定制/原味ok",
+        "id": "1646014497600204801",
+        "name": "铭风风风风风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724758849624887296/4XzGcxjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11959,
+          "following_count": 1175,
+          "like_count": 7565,
+          "listed_count": 62,
+          "media_count": 286,
+          "tweet_count": 3491
+        },
+        "username": "ming5feng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1792,
+          "like_count": 72522,
+          "listed_count": 9,
+          "media_count": 119,
+          "tweet_count": 14067
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

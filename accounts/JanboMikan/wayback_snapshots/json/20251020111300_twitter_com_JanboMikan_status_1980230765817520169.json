@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979914847484793330",
+    "created_at": "2025-10-20T11:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980230765817520169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857742660808880128",
+          "start": 0,
+          "username": "LingNotLen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980230765817520169",
+    "in_reply_to_user_id": "1857742660808880128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979914847484793330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingNotLen 我来救你（掏刀）🤓～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3865,
+        "height": 1280,
+        "media_key": "7_1979914460580990976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979914460580990976/pu/img/VvhvFgUIoSIgBmX9.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979914460580990976/pu/vid/avc1/320x568/pFnniH20VXSgNt-D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979914460580990976/pu/vid/avc1/480x852/BOx0jSYqkBjgJ5gK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979914460580990976/pu/vid/avc1/720x1280/J2x_mEkxcavrzXji.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979914460580990976/pu/pl/KVVOxPUMDx31JYJa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979914847484793330",
+        "created_at": "2025-10-20T11:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980230765817520169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857742660808880128",
+              "start": 0,
+              "username": "LingNotLen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980230765817520169",
+        "in_reply_to_user_id": "1857742660808880128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979914847484793330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingNotLen 我来救你（掏刀）🤓～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979914460580990976"
+          ]
+        },
+        "author_id": "1857742660808880128",
+        "conversation_id": "1979914847484793330",
+        "created_at": "2025-10-19T14:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979914847484793330"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3A3MYId6XE",
+              "end": 46,
+              "expanded_url": "https://x.com/LingNotLen/status/1979914847484793330/video/1",
+              "media_key": "7_1979914460580990976",
+              "start": 23,
+              "url": "https://t.co/3A3MYId6XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979914847484793330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被奇怪的东西寄生了！救命喵！ #男娘 #伪娘 https://t.co/3A3MYId6XE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 85,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T11:09:13.000Z",
+        "description": "渴望性爱的小男娘/可怜的大学生/26小时高强度刷推/会回关同好/不吃糖/喜欢猫猫/喜欢Blue Archive/FPS玩家/会不定期私信骚扰/喜欢姐姐和男娘/随时随地欢迎来找咱聊天哦/目前的目标是把毛毛全部杀掉！",
+        "id": "1857742660808880128",
+        "location": "南极洲！",
+        "name": "泠月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857742850760519680/oSMqSsLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 246,
+          "like_count": 2022,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 458
+        },
+        "username": "LingNotLen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1982420726960505339",
+    "created_at": "2025-10-27T03:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982651459083833600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982651459083833600",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982420726960505339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao 玩洗衣机的大姐姐......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4536,
+        "media_key": "3_1982416128694489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L09zvXEAA3HB4.jpg",
+        "width": 3068
+      },
+      {
+        "height": 3500,
+        "media_key": "3_1982415867766886400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L0untX0AANAMf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3500,
+        "media_key": "3_1982420536681508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L4-YxXMAA-43h.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1982420726960505339",
+        "created_at": "2025-10-27T03:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651459083833600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651459083833600",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982420726960505339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 玩洗衣机的大姐姐......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982416128694489088",
+            "3_1982415867766886400",
+            "3_1982420536681508864"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1982420726960505339",
+        "created_at": "2025-10-26T12:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982420726960505339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcPM4fKd7K",
+              "end": 58,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1982420726960505339/photo/1",
+              "media_key": "3_1982416128694489088",
+              "start": 35,
+              "url": "https://t.co/JcPM4fKd7K"
+            },
+            {
+              "display_url": "pic.x.com/JcPM4fKd7K",
+              "end": 58,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1982420726960505339/photo/1",
+              "media_key": "3_1982415867766886400",
+              "start": 35,
+              "url": "https://t.co/JcPM4fKd7K"
+            },
+            {
+              "display_url": "pic.x.com/JcPM4fKd7K",
+              "end": 58,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1982420726960505339/photo/1",
+              "media_key": "3_1982420536681508864",
+              "start": 35,
+              "url": "https://t.co/JcPM4fKd7K"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00dabde4090bf3b3"
+        },
+        "id": "1982420726960505339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6050,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "22台舞萌！（）\n（无意拍摄没见过那么多）\n📌油尖旺区弥敦道688号 https://t.co/JcPM4fKd7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 91,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜男的不HRT｜雙相｜家暴當｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1982377138096672817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 1089,
+          "like_count": 243,
+          "listed_count": 7,
+          "media_count": 2126,
+          "tweet_count": 10645
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

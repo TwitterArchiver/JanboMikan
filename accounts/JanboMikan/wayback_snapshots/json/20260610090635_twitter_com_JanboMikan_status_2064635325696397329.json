@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2064634921751392480",
+    "created_at": "2026-06-10T09:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064635325696397329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064635325696397329",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064634921751392480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 🍊❓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2064634919213731840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcOhSaaEAARJat.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2064634921751392480",
+        "created_at": "2026-06-10T09:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064635325696397329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064635325696397329",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064634921751392480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 🍊❓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064634919213731840"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2064634921751392480",
+        "created_at": "2026-06-10T09:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064634921751392480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bHgslLWHul",
+              "end": 161,
+              "expanded_url": "https://x.com/mingji_A/status/2064634921751392480/photo/1",
+              "media_key": "3_2064634919213731840",
+              "start": 138,
+              "url": "https://t.co/bHgslLWHul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064634921751392480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蜜柑优秀品质：\n勇敢：两根都塞进来\n节约：无套也行\n贪心：我还要\n创新：要不去楼梯间\n耐心：没关系，我还受得了\n宽容：都有第一次，射快点没什么\n淡泊：射哪都行\n自强：我可以自己动\n色欲：都脱了\n暴怒：榨死你\n懒惰：你自己动\n自由：怎么来都可以\n法治：先爽\n敬业：还可以两小时 https://t.co/bHgslLWHul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14134,
+          "following_count": 540,
+          "like_count": 19103,
+          "listed_count": 49,
+          "media_count": 312,
+          "tweet_count": 10068
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4493,
+          "following_count": 2625,
+          "like_count": 95297,
+          "listed_count": 25,
+          "media_count": 222,
+          "tweet_count": 22000
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

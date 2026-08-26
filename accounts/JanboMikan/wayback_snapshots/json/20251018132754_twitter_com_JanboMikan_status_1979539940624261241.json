@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979105805690355783",
+    "created_at": "2025-10-18T13:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979539940624261241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807044386104238080",
+          "start": 0,
+          "username": "cishenfeiwoyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979539940624261241",
+    "in_reply_to_user_id": "1807044386104238080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979105805690355783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishenfeiwoyou 抱抱~要加油呀ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979105805690355783",
+        "created_at": "2025-10-18T13:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979539940624261241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807044386104238080",
+              "start": 0,
+              "username": "cishenfeiwoyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979539940624261241",
+        "in_reply_to_user_id": "1807044386104238080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979105805690355783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishenfeiwoyou 抱抱~要加油呀ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807044386104238080",
+        "conversation_id": "1979105805690355783",
+        "created_at": "2025-10-17T08:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979105805690355783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979105805690355783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喘不过气…\n抑郁症好难受…什么时候才能好呢…\n睡着时呼吸困难…噩梦不断\n醒着的时候浑身疼…发抖…随时都要晕过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ✘直男勿扰Ⅰ☯东方厨Ⅰ矿物爱好者Ⅰ爱听摇滚",
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "🏳️‍⚧️小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938723770027646976/K78_fKnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 270,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 87
+        },
+        "username": "cishenfeiwoyou",
+        "verified": false
+      }
+    ]
+  }
+}

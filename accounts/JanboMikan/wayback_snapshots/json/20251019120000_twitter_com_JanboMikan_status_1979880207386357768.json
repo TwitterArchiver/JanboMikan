@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979093393293647872"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979880207386357768",
+    "created_at": "2025-10-19T12:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979880207386357768"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "男娘"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "伪娘"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "水手服"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "黑丝"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "过膝袜"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "女装"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/480g7745xn",
+          "end": 56,
+          "expanded_url": "https://x.com/JanboMikan/status/1979880207386357768/photo/1",
+          "media_key": "3_1979093393293647872",
+          "start": 33,
+          "url": "https://t.co/480g7745xn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979880207386357768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正面来贴！\n\n#男娘 #伪娘 #水手服 #黑丝 #过膝袜 #女装 https://t.co/480g7745xn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1979093393293647872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cm9JyXIAAX10b.jpg",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979093393293647872"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979880207386357768",
+        "created_at": "2025-10-19T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979880207386357768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "伪娘"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "水手服"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "黑丝"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "过膝袜"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/480g7745xn",
+              "end": 56,
+              "expanded_url": "https://x.com/JanboMikan/status/1979880207386357768/photo/1",
+              "media_key": "3_1979093393293647872",
+              "start": 33,
+              "url": "https://t.co/480g7745xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979880207386357768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正面来贴！\n\n#男娘 #伪娘 #水手服 #黑丝 #过膝袜 #女装 https://t.co/480g7745xn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 85,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

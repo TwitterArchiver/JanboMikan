@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2013500597878624695",
+    "created_at": "2026-01-20T12:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013584885256986671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 23,
+          "id": "1745799972576968705",
+          "start": 10,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013584885256986671",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013500597878624695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @bubblepipe42 「能用钱抽我的脸吗🥺」"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52933,
+        "height": 1920,
+        "media_key": "13_2013500437538693120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013500437538693120/img/kxkI71EVMax6VnER.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013500437538693120/vid/avc1/720x1280/vpLsWBie1HOjnvir.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013500437538693120/vid/avc1/480x852/31775VEkld4CCEii.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013500437538693120/pl/sk_alvj1kXvdCNS9.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013500437538693120/vid/avc1/320x568/AEsZVPExlyuf4yTs.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013500437538693120/vid/avc1/1080x1920/cQR_ACOThgq400SZ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2013500597878624695",
+        "created_at": "2026-01-20T12:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013584885256986671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 23,
+              "id": "1745799972576968705",
+              "start": 10,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013584885256986671",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013500597878624695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @bubblepipe42 「能用钱抽我的脸吗🥺」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013500437538693120"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2013500597878624695",
+        "created_at": "2026-01-20T06:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T07:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013500597878624695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7QsSdww2j",
+              "end": 26,
+              "expanded_url": "https://x.com/Ted_yeet/status/2013500597878624695/video/1",
+              "media_key": "13_2013500437538693120",
+              "start": 3,
+              "url": "https://t.co/c7QsSdww2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013500597878624695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 765,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不做 https://t.co/c7QsSdww2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2011967109530861740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 277,
+          "like_count": 6271,
+          "listed_count": 19,
+          "media_count": 108,
+          "tweet_count": 3113
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "还活着",
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 1512,
+          "like_count": 39150,
+          "listed_count": 11,
+          "media_count": 390,
+          "tweet_count": 8054
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2009630534163628315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 826,
+          "like_count": 6219,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1499
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

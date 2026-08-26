@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1989634246206714042",
+    "created_at": "2025-11-15T15:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989714110884262260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1140709394755149826",
+          "start": 0,
+          "username": "Kiki1358_Pe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989714110884262260",
+    "in_reply_to_user_id": "1140709394755149826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989634246206714042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiki1358_Pe 藏你鼙鼓里，绝对难找😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989634236979224577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yZzAgaIAE5yaD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1989634246206714042",
+        "created_at": "2025-11-15T15:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989714110884262260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1140709394755149826",
+              "start": 0,
+              "username": "Kiki1358_Pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989714110884262260",
+        "in_reply_to_user_id": "1140709394755149826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989634246206714042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiki1358_Pe 藏你鼙鼓里，绝对难找😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989634236979224577"
+          ]
+        },
+        "author_id": "1140709394755149826",
+        "conversation_id": "1989634246206714042",
+        "created_at": "2025-11-15T09:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989634246206714042"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "悉尼"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "男娘"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "男娘露出"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "原味"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "原味胖次"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dDAEla1Ng",
+              "end": 83,
+              "expanded_url": "https://x.com/Kiki1358_Pe/status/1989634246206714042/photo/1",
+              "media_key": "3_1989634236979224577",
+              "start": 60,
+              "url": "https://t.co/2dDAEla1Ng"
+            },
+            {
+              "display_url": "x.com/kiki1358_pe/st…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/kiki1358_pe/status/1912479861467431232",
+              "start": 84,
+              "url": "https://t.co/NH7jqBdPT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989634246206714042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912479861467431232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经美美洗完澡开始制作yw力，不知道推友们有没有什么推荐的藏匿地点捏（\n#悉尼 #男娘 #男娘露出 #原味 #原味胖次 https://t.co/2dDAEla1Ng https://t.co/NH7jqBdPT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD || 是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 115,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-17T19:54:47.000Z",
+        "description": "Femboi MtX🏳️‍⚧️Bi switch /190cm 60kg 16cm Φ4.55cm (Condom size 56mm+) 悉尼/福州/DM open cheers～ 推广请自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kiki1358x",
+                "end": 23,
+                "expanded_url": "http://t.me/kiki1358x",
+                "start": 0,
+                "url": "https://t.co/BQj6zDMFjv"
+              }
+            ]
+          }
+        },
+        "id": "1140709394755149826",
+        "location": "福州 or Sydney",
+        "name": "kiki1358",
+        "pinned_tweet_id": "1961464196161482784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794951474478522368/SHT41wHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 976,
+          "like_count": 3799,
+          "listed_count": 22,
+          "media_count": 55,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/BQj6zDMFjv",
+        "username": "Kiki1358_Pe",
+        "verified": false
+      }
+    ]
+  }
+}

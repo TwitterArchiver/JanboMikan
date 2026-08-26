@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2015981952906756315",
+    "created_at": "2026-01-28T01:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T02:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016326139829170502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736852827237203968",
+          "start": 0,
+          "username": "wsng12094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016326139829170502",
+    "in_reply_to_user_id": "1736852827237203968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015981952906756315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsng12094 可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2015979491949215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oyqrQbAAAgf9A.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2015981952906756315",
+        "created_at": "2026-01-28T01:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T02:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016326139829170502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736852827237203968",
+              "start": 0,
+              "username": "wsng12094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016326139829170502",
+        "in_reply_to_user_id": "1736852827237203968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015981952906756315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsng12094 可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015979491949215744"
+          ]
+        },
+        "author_id": "1736852827237203968",
+        "conversation_id": "2015981952906756315",
+        "created_at": "2026-01-27T02:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015981952906756315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSISxJSsLK",
+              "end": 34,
+              "expanded_url": "https://x.com/wsng12094/status/2015981952906756315/photo/1",
+              "media_key": "3_2015979491949215744",
+              "start": 11,
+              "url": "https://t.co/MSISxJSsLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015981952906756315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1172,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冬天了自然要冻柚子（ https://t.co/MSISxJSsLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4362,
+          "following_count": 285,
+          "like_count": 6984,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 3525
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T20:56:26.000Z",
+        "description": "性别男/身高163体重46kg/只会分享一些家里蹲的日常，请不要在私信里问咱个人信息",
+        "id": "1736852827237203968",
+        "name": "咖波之形",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976486757161172992/aRwjZ-Dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 169,
+          "like_count": 1135,
+          "listed_count": 14,
+          "media_count": 152,
+          "tweet_count": 284
+        },
+        "username": "wsng12094",
+        "verified": false
+      }
+    ]
+  }
+}

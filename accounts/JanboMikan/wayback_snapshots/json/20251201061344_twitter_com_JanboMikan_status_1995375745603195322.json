@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1995160551799075089",
+    "created_at": "2025-12-01T06:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T07:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995375745603195322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821304109451931648",
+          "start": 0,
+          "username": "Fisa_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995375745603195322",
+    "in_reply_to_user_id": "1821304109451931648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995160551799075089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fisa_wo 被同学带着去玩过\n然后入门失败\n老年人手脚不灵活😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995160551799075089",
+        "created_at": "2025-12-01T06:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995375745603195322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821304109451931648",
+              "start": 0,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995375745603195322",
+        "in_reply_to_user_id": "1821304109451931648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995160551799075089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fisa_wo 被同学带着去玩过\n然后入门失败\n老年人手脚不灵活😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821304109451931648",
+        "conversation_id": "1995160551799075089",
+        "created_at": "2025-11-30T15:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995160551799075089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/MomoseReina/status/1995110985430904915",
+              "start": 22,
+              "url": "https://t.co/bMW92WjJaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995160551799075089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995110985430904915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直都相信每一个推u这辈子都会染上舞萌的 https://t.co/bMW92WjJaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 160,
+          "like_count": 2234,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T21:55:18.000Z",
+        "description": "喜欢大家❤️喜欢初音❤️喜欢自己❤️| 小号❤️:@fisa_ling（女装）\n老婆❤️:@Chise_wo             \n🚫键政！！见证！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "fisa_ling"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Chise_wo"
+              }
+            ]
+          }
+        },
+        "id": "1821304109451931648",
+        "location": "Japan",
+        "name": "翎",
+        "pinned_tweet_id": "1993696090265460847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994726714845663232/aM7xRvCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1435,
+          "like_count": 16383,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 3268
+        },
+        "username": "Fisa_wo",
+        "verified": false
+      }
+    ]
+  }
+}

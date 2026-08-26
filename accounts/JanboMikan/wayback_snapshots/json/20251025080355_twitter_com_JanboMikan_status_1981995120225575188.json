@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1981963939987570714",
+    "created_at": "2025-10-25T08:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T09:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981995120225575188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1560862380115972096",
+          "start": 0,
+          "username": "xxnlng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981995120225575188",
+    "in_reply_to_user_id": "1560862380115972096",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981974047480258950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxnlng2 o(≧▽≦)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1981963939987570714",
+        "created_at": "2025-10-25T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981995120225575188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1560862380115972096",
+              "start": 0,
+              "username": "xxnlng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981995120225575188",
+        "in_reply_to_user_id": "1560862380115972096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981974047480258950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxnlng2 o(≧▽≦)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560862380115972096",
+        "conversation_id": "1981963939987570714",
+        "created_at": "2025-10-25T06:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981974047480258950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981974047480258950",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981963939987570714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 乖巧捏(●'◡'●)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 88,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T05:33:01.000Z",
+        "description": "喜欢❤️空心菜，喜欢讲骚话的抽象小南娘，微社恐",
+        "id": "1560862380115972096",
+        "location": "Aizuwakamatsu-shi, Fukushima",
+        "name": "阿丧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980086737184460800/kw1gbWLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 28,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 178
+        },
+        "username": "xxnlng2",
+        "verified": false
+      }
+    ]
+  }
+}

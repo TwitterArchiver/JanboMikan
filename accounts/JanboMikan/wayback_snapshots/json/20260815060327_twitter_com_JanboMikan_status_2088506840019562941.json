@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2088219079186493717",
+    "created_at": "2026-08-15T06:03:27.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088506840019562941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1226524206856310786",
+          "start": 0,
+          "username": "RWDHLYER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088506840019562941",
+    "in_reply_to_user_id": "1226524206856310786",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088501850266120660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RWDHLYER 😥😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2088219079186493717",
+        "created_at": "2026-08-15T06:03:27.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088506840019562941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1226524206856310786",
+              "start": 0,
+              "username": "RWDHLYER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088506840019562941",
+        "in_reply_to_user_id": "1226524206856310786",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088501850266120660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RWDHLYER 😥😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226524206856310786",
+        "conversation_id": "2088219079186493717",
+        "created_at": "2026-08-15T05:43:38.000Z",
+        "display_text_range": [
+          12,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088501850266120660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088501850266120660",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088219079186493717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我姐姐知道我会偷穿她的衣服，但是她没有在意过，直到我出COS她说希望我往变帅的方向不要往变美的方向。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2088506840019562941",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16919,
+          "following_count": 626,
+          "like_count": 22213,
+          "listed_count": 54,
+          "media_count": 399,
+          "tweet_count": 11902
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-09T15:12:25.000Z",
+        "description": "乖乖的小男娘一枚，想要有朝一日能完成手术蜕变，喜欢的宝宝可以来找我玩哦，門52/520/5200",
+        "id": "1226524206856310786",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088501850266120660",
+        "name": "杏杏杏宝🏳️‍⚧️（MTF努力生存中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226524206856310786/1770042876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018333349941796864/k3rYuDOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 791
+        },
+        "url": "",
+        "username": "RWDHLYER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

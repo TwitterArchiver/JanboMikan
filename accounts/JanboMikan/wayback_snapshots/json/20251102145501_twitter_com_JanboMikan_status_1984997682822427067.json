@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984878142247629123",
+    "created_at": "2025-11-02T14:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984997682822427067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930929865789931520",
+          "start": 0,
+          "username": "mi_huan030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984997682822427067",
+    "in_reply_to_user_id": "1930929865789931520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984994270164705393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_huan030 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984878142247629123",
+        "created_at": "2025-11-02T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984997682822427067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930929865789931520",
+              "start": 0,
+              "username": "mi_huan030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984997682822427067",
+        "in_reply_to_user_id": "1930929865789931520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984994270164705393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_huan030 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930929865789931520",
+        "conversation_id": "1984878142247629123",
+        "created_at": "2025-11-02T14:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984994270164705393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984994270164705393",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984878142247629123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我也这样😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 99,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:09:01.000Z",
+        "description": "各得其所｜豪🐱@sanmiguelnoodle｜里@mihuansleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "sanmiguelnoodle"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "mihuansleep"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mihuan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mihuan1",
+                "start": 0,
+                "url": "https://t.co/4qvoOYAuDS"
+              }
+            ]
+          }
+        },
+        "id": "1930929865789931520",
+        "name": "mi huan🐾",
+        "pinned_tweet_id": "1984940679718715552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973475440745652225/OHryGGmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 417,
+          "like_count": 13377,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 3293
+        },
+        "url": "https://t.co/4qvoOYAuDS",
+        "username": "mi_huan030",
+        "verified": false
+      }
+    ]
+  }
+}

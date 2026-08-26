@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1984213767870415347",
+    "created_at": "2025-11-01T00:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T01:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984413222678774219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1879217030043430912",
+          "start": 0,
+          "username": "5shiyuyuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984413222678774219",
+    "in_reply_to_user_id": "1879217030043430912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984330219143249953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5shiyuyuo 呜被催了～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1984213767870415347",
+        "created_at": "2025-11-01T00:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T01:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984413222678774219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1879217030043430912",
+              "start": 0,
+              "username": "5shiyuyuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984413222678774219",
+        "in_reply_to_user_id": "1879217030043430912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984330219143249953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5shiyuyuo 呜被催了～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879217030043430912",
+        "conversation_id": "1984213767870415347",
+        "created_at": "2025-10-31T18:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T19:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984330219143249953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984330219143249953",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984213767870415347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 催催你的😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / ACGN || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983549912014045184/cecPaC5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 98,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T17:20:46.000Z",
+        "description": "男的 身高185 年龄保密\n成分复杂，是傻逼二游人\n你问头像？以前自己画的t公司小唐喵，涂色没弄好导致了不好\n小号qq1819622294",
+        "id": "1879217030043430912",
+        "location": "唏，已上天堂惹",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879217360994979840/tcoKZcHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 68,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 884
+        },
+        "username": "5shiyuyuo",
+        "verified": false
+      }
+    ]
+  }
+}

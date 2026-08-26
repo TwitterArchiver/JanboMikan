@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979270469082906920",
+    "created_at": "2025-10-18T01:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T02:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979357780499927223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865473418168307712",
+          "start": 0,
+          "username": "ynsh288158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979357780499927223",
+    "in_reply_to_user_id": "1865473418168307712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979270469082906920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynsh288158 （钻入）（猛吸）~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2258,
+        "media_key": "3_1979270448882814976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fH_JQWkAA5hAM.jpg",
+        "width": 1773
+      },
+      {
+        "height": 2256,
+        "media_key": "3_1979270449113559040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fH_KHXcAA3TKA.jpg",
+        "width": 1773
+      },
+      {
+        "height": 2262,
+        "media_key": "3_1979270449570697216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fH_L0W0AAimjD.jpg",
+        "width": 1773
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979270448954109952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fH_JhWcAAZXVY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979270469082906920",
+        "created_at": "2025-10-18T01:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T02:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979357780499927223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865473418168307712",
+              "start": 0,
+              "username": "ynsh288158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979357780499927223",
+        "in_reply_to_user_id": "1865473418168307712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979270469082906920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynsh288158 （钻入）（猛吸）~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979270448882814976",
+            "3_1979270449113559040",
+            "3_1979270449570697216",
+            "3_1979270448954109952"
+          ]
+        },
+        "author_id": "1865473418168307712",
+        "conversation_id": "1979270469082906920",
+        "created_at": "2025-10-17T19:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T20:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979270469082906920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wZIXmZt8y",
+              "end": 86,
+              "expanded_url": "https://x.com/ynsh288158/status/1979270469082906920/photo/1",
+              "media_key": "3_1979270448882814976",
+              "start": 63,
+              "url": "https://t.co/9wZIXmZt8y"
+            },
+            {
+              "display_url": "pic.x.com/9wZIXmZt8y",
+              "end": 86,
+              "expanded_url": "https://x.com/ynsh288158/status/1979270469082906920/photo/1",
+              "media_key": "3_1979270449113559040",
+              "start": 63,
+              "url": "https://t.co/9wZIXmZt8y"
+            },
+            {
+              "display_url": "pic.x.com/9wZIXmZt8y",
+              "end": 86,
+              "expanded_url": "https://x.com/ynsh288158/status/1979270469082906920/photo/1",
+              "media_key": "3_1979270449570697216",
+              "start": 63,
+              "url": "https://t.co/9wZIXmZt8y"
+            },
+            {
+              "display_url": "pic.x.com/9wZIXmZt8y",
+              "end": 86,
+              "expanded_url": "https://x.com/ynsh288158/status/1979270469082906920/photo/1",
+              "media_key": "3_1979270448954109952",
+              "start": 63,
+              "url": "https://t.co/9wZIXmZt8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979270469082906920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 714,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天女仆装和过膝袜都到啦～！꒰｡ › ·̮ ‹ ｡꒱大家喜欢白丝还是黑丝呀～？\n（唔…唔呀！不要再往里钻了啦！你个杂鱼！！） https://t.co/9wZIXmZt8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:08:27.000Z",
+        "description": "江苏男娘～想交朋友ing（一起逛街，一起去漫展…）…",
+        "id": "1865473418168307712",
+        "name": "云沐（求转推～！）",
+        "pinned_tweet_id": "1977798448830447781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890778099878658048/W9Glgbx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 60,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "username": "ynsh288158",
+        "verified": false
+      }
+    ]
+  }
+}

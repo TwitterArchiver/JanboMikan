@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2069737303509958939",
+    "created_at": "2026-06-24T16:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069813468744790313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896404668462301185",
+          "start": 0,
+          "username": "garconch12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069813468744790313",
+    "in_reply_to_user_id": "1896404668462301185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069775377082573080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garconch12 那更贵了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2069737303509958939",
+        "created_at": "2026-06-24T16:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813468744790313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896404668462301185",
+              "start": 0,
+              "username": "garconch12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813468744790313",
+        "in_reply_to_user_id": "1896404668462301185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069775377082573080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garconch12 那更贵了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896404668462301185",
+        "conversation_id": "2069737303509958939",
+        "created_at": "2026-06-24T13:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069775377082573080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069775377082573080",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069737303509958939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这太有道理了，od一下各种维生素片用药片淀粉补充碳水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14494,
+          "following_count": 565,
+          "like_count": 19835,
+          "listed_count": 51,
+          "media_count": 330,
+          "tweet_count": 10475
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T03:38:08.000Z",
+        "description": "青韭/用来记录个人交易/失败的商学生/amateur photographer/……ing/请不要挡住阳光",
+        "id": "1896404668462301185",
+        "name": "不问不侃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021033277021356033/qUUb39EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2114,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "garconch12",
+        "verified": true
+      }
+    ]
+  }
+}

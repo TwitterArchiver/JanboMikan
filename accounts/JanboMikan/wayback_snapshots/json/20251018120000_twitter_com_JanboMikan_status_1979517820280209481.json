@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979093105560158208",
+        "3_1979093105556037632"
+      ]
+    },
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979517820280209481",
+    "created_at": "2025-10-18T12:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979517820280209481"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "男娘"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "伪娘"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "过膝袜"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "黑丝"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "女装"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NSca18wvJy",
+          "end": 70,
+          "expanded_url": "https://x.com/JanboMikan/status/1979517820280209481/photo/1",
+          "media_key": "3_1979093105560158208",
+          "start": 47,
+          "url": "https://t.co/NSca18wvJy"
+        },
+        {
+          "display_url": "pic.x.com/NSca18wvJy",
+          "end": 70,
+          "expanded_url": "https://x.com/JanboMikan/status/1979517820280209481/photo/1",
+          "media_key": "3_1979093105556037632",
+          "start": 47,
+          "url": "https://t.co/NSca18wvJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979517820280209481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过膝袜的底下......\n——其实还是丝袜！！？\n\n#男娘 #伪娘 #过膝袜 #黑丝 #女装 https://t.co/NSca18wvJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1979093105560158208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cmsZ5WgAAKTrz.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1979093105556037632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cmsZ4XoAAPh1l.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979093105560158208",
+            "3_1979093105556037632"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979517820280209481",
+        "created_at": "2025-10-18T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979517820280209481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "伪娘"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "过膝袜"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "黑丝"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSca18wvJy",
+              "end": 70,
+              "expanded_url": "https://x.com/JanboMikan/status/1979517820280209481/photo/1",
+              "media_key": "3_1979093105560158208",
+              "start": 47,
+              "url": "https://t.co/NSca18wvJy"
+            },
+            {
+              "display_url": "pic.x.com/NSca18wvJy",
+              "end": 70,
+              "expanded_url": "https://x.com/JanboMikan/status/1979517820280209481/photo/1",
+              "media_key": "3_1979093105556037632",
+              "start": 47,
+              "url": "https://t.co/NSca18wvJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979517820280209481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过膝袜的底下......\n——其实还是丝袜！！？\n\n#男娘 #伪娘 #过膝袜 #黑丝 #女装 https://t.co/NSca18wvJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

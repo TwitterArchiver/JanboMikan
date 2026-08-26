@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2044295672195874936",
+    "created_at": "2026-04-15T09:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044347882434949337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335519728173940736",
+          "start": 0,
+          "username": "Raychan_da"
+        },
+        {
+          "end": 21,
+          "id": "1431080795536433154",
+          "start": 12,
+          "username": "yuluoqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044347882434949337",
+    "in_reply_to_user_id": "1335519728173940736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044318319713661425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raychan_da @yuluoqwq 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2044295672195874936",
+        "created_at": "2026-04-15T09:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044347882434949337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335519728173940736",
+              "start": 0,
+              "username": "Raychan_da"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044347882434949337",
+        "in_reply_to_user_id": "1335519728173940736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044318319713661425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raychan_da @yuluoqwq 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335519728173940736",
+        "conversation_id": "2044295672195874936",
+        "created_at": "2026-04-15T07:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044318319713661425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 21,
+              "id": "1431080795536433154",
+              "start": 12,
+              "username": "yuluoqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044318319713661425",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044295672195874936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @yuluoqwq 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10846,
+          "following_count": 453,
+          "like_count": 15315,
+          "listed_count": 40,
+          "media_count": 222,
+          "tweet_count": 7793
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T09:41:46.000Z",
+        "description": "等那个你来坐我的船/抚平我摇摇晃晃的不安/思绪不断/平衡生的重量/伊人啊 愿你不会为难/与我为伴/想成为恋人能拿出来炫耀的人/可爱音游大神姐姐@ShengTian22332/偶尔发不好看的kigurumi内容/角色：天童爱丽丝·才羽桃井",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "ShengTian22332"
+              }
+            ]
+          }
+        },
+        "id": "1335519728173940736",
+        "location": "Minatism Cathedral",
+        "name": "Ray酱飞奔来哒⭐",
+        "pinned_tweet_id": "1913550344417874304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766699121766010880/-vzPGkD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 2013,
+          "like_count": 11266,
+          "listed_count": 4,
+          "media_count": 547,
+          "tweet_count": 3896
+        },
+        "username": "Raychan_da",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T02:27:12.000Z",
+        "description": "雨落 发点想发的",
+        "id": "1431080795536433154",
+        "location": "Tokyo-to, Japan",
+        "name": "yuluo",
+        "pinned_tweet_id": "1862160439897186583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744863351635836928/TQkM33Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 1546,
+          "like_count": 40789,
+          "listed_count": 13,
+          "media_count": 261,
+          "tweet_count": 4843
+        },
+        "username": "yuluoqwq",
+        "verified": true
+      }
+    ]
+  }
+}

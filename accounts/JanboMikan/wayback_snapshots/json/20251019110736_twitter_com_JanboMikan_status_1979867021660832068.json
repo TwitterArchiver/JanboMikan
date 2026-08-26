@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979862683206947169",
+    "created_at": "2025-10-19T11:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T12:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979867021660832068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4455570672",
+          "start": 0,
+          "username": "cchong_x"
+        },
+        {
+          "end": 20,
+          "id": "1282036593784582144",
+          "start": 10,
+          "username": "Wakana233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979867021660832068",
+    "in_reply_to_user_id": "4455570672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979862683206947169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cchong_x @Wakana233 偷偷亲亲w~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1979862673538818048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ninKBWIAAkkBf.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979862683206947169",
+        "created_at": "2025-10-19T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979867021660832068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4455570672",
+              "start": 0,
+              "username": "cchong_x"
+            },
+            {
+              "end": 20,
+              "id": "1282036593784582144",
+              "start": 10,
+              "username": "Wakana233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979867021660832068",
+        "in_reply_to_user_id": "4455570672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979862683206947169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cchong_x @Wakana233 偷偷亲亲w~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979862673538818048"
+          ]
+        },
+        "author_id": "4455570672",
+        "conversation_id": "1979862683206947169",
+        "created_at": "2025-10-19T10:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979862683206947169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1282036593784582144",
+              "start": 16,
+              "username": "Wakana233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fK1SF6830R",
+              "end": 50,
+              "expanded_url": "https://x.com/cchong_x/status/1979862683206947169/photo/1",
+              "media_key": "3_1979862673538818048",
+              "start": 27,
+              "url": "https://t.co/fK1SF6830R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979862683206947169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要一起吗拍照？就当是留个纪念。\n@Wakana233 https://t.co/fK1SF6830R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 85,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T18:35:05.000Z",
+        "description": "一些生活小零碎（兴趣使然的JK（坐骑是地瓜（等待退休的二刺螈",
+        "id": "4455570672",
+        "location": "萨门",
+        "name": "懒虫虫虫虫虫虫",
+        "pinned_tweet_id": "1961384929591525572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967461971349188608/ZVbrrvkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 714,
+          "like_count": 5221,
+          "listed_count": 19,
+          "media_count": 317,
+          "tweet_count": 2343
+        },
+        "username": "cchong_x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-11T19:38:50.000Z",
+        "description": "兴趣使然的穿搭推 | 现实逃避 | 小心眼阴暗B | JK制服 | 牢二刺螈 | 照片高P非本人 | 不扩列（美少女除外） | @Aoyama2233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Aoyama2233"
+              }
+            ]
+          }
+        },
+        "id": "1282036593784582144",
+        "name": "和奏QvQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967131731661844480/I_Z96_8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3058,
+          "following_count": 1524,
+          "like_count": 4397,
+          "listed_count": 10,
+          "media_count": 24,
+          "tweet_count": 978
+        },
+        "username": "Wakana233",
+        "verified": false
+      }
+    ]
+  }
+}

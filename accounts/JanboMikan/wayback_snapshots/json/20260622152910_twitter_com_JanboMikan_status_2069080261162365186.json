@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2068914736675033313",
+    "created_at": "2026-06-22T15:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069080261162365186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521868547600764929",
+          "start": 0,
+          "username": "douhaosensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069080261162365186",
+    "in_reply_to_user_id": "1521868547600764929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068914736675033313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douhaosensei 躺过了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2660,
+        "media_key": "3_2068914705947852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZC9qaagAANRoZ.jpg",
+        "width": 3548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2068914736675033313",
+        "created_at": "2026-06-22T15:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069080261162365186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521868547600764929",
+              "start": 0,
+              "username": "douhaosensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069080261162365186",
+        "in_reply_to_user_id": "1521868547600764929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068914736675033313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douhaosensei 躺过了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068914705947852800"
+          ]
+        },
+        "author_id": "1521868547600764929",
+        "conversation_id": "2068914736675033313",
+        "created_at": "2026-06-22T04:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068914736675033313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGnCFNdWAu",
+              "end": 28,
+              "expanded_url": "https://x.com/douhaosensei/status/2068914736675033313/photo/1",
+              "media_key": "3_2068914705947852800",
+              "start": 5,
+              "url": "https://t.co/WGnCFNdWAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068914736675033313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1618,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要躺会吗 https://t.co/WGnCFNdWAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14428,
+          "following_count": 560,
+          "like_count": 19731,
+          "listed_count": 50,
+          "media_count": 328,
+          "tweet_count": 10414
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:05:19.000Z",
+        "description": "图片仅供参考，谨以实物为准\n170/61|05年男生|爱玩cos|萌新绳匠|萝莉控大叔|高p哥布林|\n⁺✞ʚ拉菲重度依赖ɞ✟₊\n以清水为主| 国内抖音b站同名",
+        "id": "1521868547600764929",
+        "name": "逗號先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925232706922979331/xvY-m6tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 165,
+          "like_count": 2366,
+          "listed_count": 12,
+          "media_count": 87,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "douhaosensei",
+        "verified": false
+      }
+    ]
+  }
+}

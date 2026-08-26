@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2046182098906833033",
+    "created_at": "2026-04-21T01:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046395406922449239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791898542379782144",
+          "start": 0,
+          "username": "Margarette63331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046395406922449239",
+    "in_reply_to_user_id": "1791898542379782144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046260953948541303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Margarette63331 晃晃晃~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046182098906833033",
+        "created_at": "2026-04-21T01:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046395406922449239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791898542379782144",
+              "start": 0,
+              "username": "Margarette63331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046395406922449239",
+        "in_reply_to_user_id": "1791898542379782144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046260953948541303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Margarette63331 晃晃晃~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791898542379782144",
+        "conversation_id": "2046182098906833033",
+        "created_at": "2026-04-20T16:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046260953948541303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046260953948541303",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046182098906833033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 摇篮椅喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11292,
+          "following_count": 458,
+          "like_count": 15829,
+          "listed_count": 41,
+          "media_count": 230,
+          "tweet_count": 8024
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T18:28:11.000Z",
+        "description": "我们被我们所塑造的东西塑造着。——狐狸小姐\n每天打开X是为了和想互动的人互动",
+        "id": "1791898542379782144",
+        "name": "某方的结语",
+        "pinned_tweet_id": "2040268722867503404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969456593596248064/wHfYrTj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 245,
+          "like_count": 4493,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1956
+        },
+        "username": "Margarette63331",
+        "verified": false
+      }
+    ]
+  }
+}

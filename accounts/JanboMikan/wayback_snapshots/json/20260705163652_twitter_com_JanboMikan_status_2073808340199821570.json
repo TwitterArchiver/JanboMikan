@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2073361187417534576",
+    "created_at": "2026-07-05T16:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073808340199821570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032792248333852672",
+          "start": 0,
+          "username": "l4712284471246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073808340199821570",
+    "in_reply_to_user_id": "2032792248333852672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073650750325231980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l4712284471246 那很痛了z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2073650742104322048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcWXP9acAAGRuq.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2073361187417534576",
+        "created_at": "2026-07-05T16:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073808340199821570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032792248333852672",
+              "start": 0,
+              "username": "l4712284471246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073808340199821570",
+        "in_reply_to_user_id": "2032792248333852672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073650750325231980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l4712284471246 那很痛了z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073650742104322048"
+          ]
+        },
+        "author_id": "2032792248333852672",
+        "conversation_id": "2073361187417534576",
+        "created_at": "2026-07-05T06:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073650750325231980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMBqPhwcbR",
+              "end": 63,
+              "expanded_url": "https://x.com/l4712284471246/status/2073650750325231980/photo/1",
+              "media_key": "3_2073650742104322048",
+              "start": 40,
+              "url": "https://t.co/HMBqPhwcbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073650750325231980",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073361187417534576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 老師您筆下的角色扣除金針菇了，我也把自己視網膜扣出來了 https://t.co/HMBqPhwcbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14867,
+          "following_count": 580,
+          "like_count": 20409,
+          "listed_count": 53,
+          "media_count": 345,
+          "tweet_count": 10803
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:13:56.000Z",
+        "description": "我不會寫簡介ㄟ，歡迎私信(畢竟很閒)，因為每週都有五天時間是住宿在學校裡面，所以說只有週五週六和週日可以回復私信的說|大號「@KOISHI514_514」\ntg聊天群💬：https://t.co/STTR2S6p5E\ndiscord聊天群💬：\nhttps://t.co/aZiJKBSD1r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "KOISHI514_514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+v-mdMXFDP9k0O…",
+                "end": 108,
+                "expanded_url": "https://t.me/+v-mdMXFDP9k0OTll",
+                "start": 85,
+                "url": "https://t.co/STTR2S6p5E"
+              },
+              {
+                "display_url": "discord.gg/H8WXVvhKcA",
+                "end": 145,
+                "expanded_url": "https://discord.gg/H8WXVvhKcA",
+                "start": 122,
+                "url": "https://t.co/aZiJKBSD1r"
+              }
+            ]
+          }
+        },
+        "id": "2032792248333852672",
+        "name": "孔雀石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067798163944083456/pn5U0QEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 104,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "l4712284471246",
+        "verified": false
+      }
+    ]
+  }
+}

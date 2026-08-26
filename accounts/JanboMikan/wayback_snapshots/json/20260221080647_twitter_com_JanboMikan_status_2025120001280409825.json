@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2024438823372148939",
+    "created_at": "2026-02-21T08:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025120001280409825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998370283724603392",
+          "start": 0,
+          "username": "HonmaSakura_3rd"
+        },
+        {
+          "end": 27,
+          "id": "1354545024046821376",
+          "start": 17,
+          "username": "KURANAGA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025120001280409825",
+    "in_reply_to_user_id": "1998370283724603392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025034138622067030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HonmaSakura_3rd @KURANAGA0 还有这种招数🥴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-21T08:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025120001280409825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998370283724603392",
+              "start": 0,
+              "username": "HonmaSakura_3rd"
+            },
+            {
+              "end": 27,
+              "id": "1354545024046821376",
+              "start": 17,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025120001280409825",
+        "in_reply_to_user_id": "1998370283724603392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025034138622067030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HonmaSakura_3rd @KURANAGA0 还有这种招数🥴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998370283724603392",
+        "conversation_id": "2024438823372148939",
+        "created_at": "2026-02-21T02:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025034138622067030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1354545024046821376",
+              "start": 12,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025034138622067030",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024480301087674556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @KURANAGA0 给他设置是一个鱼板和彩虹旗的屏蔽词，就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 336,
+          "like_count": 9372,
+          "listed_count": 25,
+          "media_count": 148,
+          "tweet_count": 4890
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T12:33:21.000Z",
+        "description": "縁結び、徒は寂しさを増す\n系缘之结：@jylydcaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "jylydcaw"
+              }
+            ]
+          }
+        },
+        "id": "1998370283724603392",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "本間桜ちゃん",
+        "pinned_tweet_id": "1998382478135099430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020148999135850496/eH7yxPvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 23,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 134
+        },
+        "username": "HonmaSakura_3rd",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "我的生活没你们浪漫 我的生活很有压力 还有些不好的回忆 我现在最想做的 就是用未来 把它们统统改变",
+        "id": "1354545024046821376",
+        "location": "致以辉煌的人们",
+        "name": "三原怜",
+        "pinned_tweet_id": "2023747710600528369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006116554845671424/Ni1Sr3p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 683,
+          "like_count": 7070,
+          "listed_count": 3,
+          "media_count": 1031,
+          "tweet_count": 8106
+        },
+        "username": "KURANAGA0",
+        "verified": false
+      }
+    ]
+  }
+}

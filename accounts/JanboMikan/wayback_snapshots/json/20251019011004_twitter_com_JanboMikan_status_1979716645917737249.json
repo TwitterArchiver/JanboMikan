@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1979705274614350123",
+    "created_at": "2025-10-19T01:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979716645917737249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1241004820590235649",
+          "start": 0,
+          "username": "iTEfJGeHUbifblv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979716645917737249",
+    "in_reply_to_user_id": "1241004820590235649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979705274614350123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iTEfJGeHUbifblv 腿好细好可爱~！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979705270289776640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lTdFOXQAASDuT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979705269681639425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lTdC9X0AERBOj.jpg",
+        "width": 1213
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979705270856015872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lTdHVXYAAqg0i.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979705270864330753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lTdHXWQAENOPw.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1979705274614350123",
+        "created_at": "2025-10-19T01:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979716645917737249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1241004820590235649",
+              "start": 0,
+              "username": "iTEfJGeHUbifblv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979716645917737249",
+        "in_reply_to_user_id": "1241004820590235649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979705274614350123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iTEfJGeHUbifblv 腿好细好可爱~！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979705270289776640",
+            "3_1979705269681639425",
+            "3_1979705270856015872",
+            "3_1979705270864330753"
+          ]
+        },
+        "author_id": "1241004820590235649",
+        "conversation_id": "1979705274614350123",
+        "created_at": "2025-10-19T00:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T01:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979705274614350123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "伪娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "cd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0cmwOBOu6",
+              "end": 42,
+              "expanded_url": "https://x.com/iTEfJGeHUbifblv/status/1979705274614350123/photo/1",
+              "media_key": "3_1979705270289776640",
+              "start": 19,
+              "url": "https://t.co/x0cmwOBOu6"
+            },
+            {
+              "display_url": "pic.x.com/x0cmwOBOu6",
+              "end": 42,
+              "expanded_url": "https://x.com/iTEfJGeHUbifblv/status/1979705274614350123/photo/1",
+              "media_key": "3_1979705269681639425",
+              "start": 19,
+              "url": "https://t.co/x0cmwOBOu6"
+            },
+            {
+              "display_url": "pic.x.com/x0cmwOBOu6",
+              "end": 42,
+              "expanded_url": "https://x.com/iTEfJGeHUbifblv/status/1979705274614350123/photo/1",
+              "media_key": "3_1979705270856015872",
+              "start": 19,
+              "url": "https://t.co/x0cmwOBOu6"
+            },
+            {
+              "display_url": "pic.x.com/x0cmwOBOu6",
+              "end": 42,
+              "expanded_url": "https://x.com/iTEfJGeHUbifblv/status/1979705274614350123/photo/1",
+              "media_key": "3_1979705270864330753",
+              "start": 19,
+              "url": "https://t.co/x0cmwOBOu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979705274614350123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水手服豪堪捏 #男娘 #伪娘 #cd https://t.co/x0cmwOBOu6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 84,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T14:13:12.000Z",
+        "description": "是167的小短腿男娘，交友36门。",
+        "id": "1241004820590235649",
+        "location": "。",
+        "name": "Azure",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896978755207196672/kTYYATw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10658,
+          "following_count": 6,
+          "like_count": 239,
+          "listed_count": 41,
+          "media_count": 79,
+          "tweet_count": 81
+        },
+        "username": "iTEfJGeHUbifblv",
+        "verified": false
+      }
+    ]
+  }
+}

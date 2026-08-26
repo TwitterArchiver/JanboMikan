@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2020452554157785277",
+    "created_at": "2026-02-09T14:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020868018738229294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901188596868222976",
+          "start": 0,
+          "username": "fanTarnished"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020868018738229294",
+    "in_reply_to_user_id": "1901188596868222976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020864302022893793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanTarnished 😭😭😭一起哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2020452554157785277",
+        "created_at": "2026-02-09T14:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020868018738229294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901188596868222976",
+              "start": 0,
+              "username": "fanTarnished"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020868018738229294",
+        "in_reply_to_user_id": "1901188596868222976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020864302022893793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanTarnished 😭😭😭一起哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901188596868222976",
+        "conversation_id": "2020452554157785277",
+        "created_at": "2026-02-09T14:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020864302022893793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020864302022893793",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020452554157785277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 既要生发还有脱毛的哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 杂鱼小号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5043,
+          "following_count": 316,
+          "like_count": 8192,
+          "listed_count": 23,
+          "media_count": 132,
+          "tweet_count": 4184
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T08:28:22.000Z",
+        "description": "闲坐无事，观世之变。‖个人爱好:单机游戏，二次元动漫，音乐，书📖‖我的PC端steam好友码:1239935093‖不常在线，如有需要可联系我的邮箱:fantuisezhe@gmail.com",
+        "id": "1901188596868222976",
+        "location": "Singapore",
+        "name": "tuisezhe fan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901982510063689728/vFXvuTaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 107,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 354
+        },
+        "username": "fanTarnished",
+        "verified": false
+      }
+    ]
+  }
+}

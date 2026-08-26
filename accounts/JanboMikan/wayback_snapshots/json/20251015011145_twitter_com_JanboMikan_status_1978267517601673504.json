@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1978085162400305319",
+    "created_at": "2025-10-15T01:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T02:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978267517601673504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958185871846604800",
+          "start": 0,
+          "username": "RctmdzN88153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978267517601673504",
+    "in_reply_to_user_id": "1958185871846604800",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978085162400305319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RctmdzN88153 prpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978085127273267200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OR8WKbQAABhFR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978085127852056576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OR8YUa4AAvuXi.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1978085162400305319",
+        "created_at": "2025-10-15T01:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T02:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978267517601673504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958185871846604800",
+              "start": 0,
+              "username": "RctmdzN88153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978267517601673504",
+        "in_reply_to_user_id": "1958185871846604800",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978085162400305319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RctmdzN88153 prpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978085127273267200",
+            "3_1978085127852056576"
+          ]
+        },
+        "author_id": "1958185871846604800",
+        "conversation_id": "1978085162400305319",
+        "created_at": "2025-10-14T13:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T14:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978085162400305319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L73bM8YGEd",
+              "end": 32,
+              "expanded_url": "https://x.com/RctmdzN88153/status/1978085162400305319/photo/1",
+              "media_key": "3_1978085127273267200",
+              "start": 9,
+              "url": "https://t.co/L73bM8YGEd"
+            },
+            {
+              "display_url": "pic.x.com/L73bM8YGEd",
+              "end": 32,
+              "expanded_url": "https://x.com/RctmdzN88153/status/1978085162400305319/photo/1",
+              "media_key": "3_1978085127852056576",
+              "start": 9,
+              "url": "https://t.co/L73bM8YGEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978085162400305319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6501,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "选择题：1or2 https://t.co/L73bM8YGEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 43,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T15:14:43.000Z",
+        "description": "是小狗狗一枚碎碎念很喜欢喜欢我的宝宝＋v188|388|520|1314纯绿没区别身高156|42\n小号@chunyuhanyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "chunyuhanyy"
+              }
+            ]
+          }
+        },
+        "id": "1958185871846604800",
+        "name": "萌主涵",
+        "pinned_tweet_id": "1974078486840246777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958211054259126272/hL7Qfb72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 41,
+          "like_count": 4140,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 1443
+        },
+        "username": "RctmdzN88153",
+        "verified": false
+      }
+    ]
+  }
+}

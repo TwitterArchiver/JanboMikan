@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2060773806965166300",
+    "created_at": "2026-05-30T23:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060873315355668685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060873315355668685",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060773806965166300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ted_yeet 我不信深圳的医院没见过这种情况x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2060773797599289345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlW2bhWoAEAa_j.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2060773806965166300",
+        "created_at": "2026-05-30T23:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060873315355668685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060873315355668685",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060773806965166300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ted_yeet 我不信深圳的医院没见过这种情况x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060773797599289345"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2060773806965166300",
+        "created_at": "2026-05-30T17:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060773806965166300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVz2qul9nA",
+              "end": 98,
+              "expanded_url": "https://x.com/Ted_yeet/status/2060773806965166300/photo/1",
+              "media_key": "3_2060773797599289345",
+              "start": 75,
+              "url": "https://t.co/mVz2qul9nA"
+            },
+            {
+              "display_url": "x.com/ted_yeet/statu…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/ted_yeet/status/2060752526035579032",
+              "start": 99,
+              "url": "https://t.co/lJEdJAxkga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060773806965166300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6652,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060752526035579032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "明天现场挂不上就挂急诊外科然后摇妇科下来会诊\n急诊：我这里有个阴道出血的男病人你们下来看一下\n妇科：你听听在说什么话，抢救把吗啡打歪打你自己手上了？ https://t.co/mVz2qul9nA https://t.co/lJEdJAxkga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13630,
+          "following_count": 530,
+          "like_count": 18534,
+          "listed_count": 46,
+          "media_count": 297,
+          "tweet_count": 9741
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 1723,
+          "like_count": 51730,
+          "listed_count": 19,
+          "media_count": 513,
+          "tweet_count": 12046
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

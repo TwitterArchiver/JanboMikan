@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "1980589890074034375",
+    "created_at": "2025-10-22T07:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980892136074887653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676761964612313088",
+          "start": 0,
+          "username": "aoman1645822"
+        },
+        {
+          "end": 24,
+          "id": "1881446128602030080",
+          "start": 14,
+          "username": "xihuanxxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980892136074887653",
+    "in_reply_to_user_id": "1676761964612313088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980837002435248391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoman1645822 @xihuanxxq 你赢啦...！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "1980589890074034375",
+        "created_at": "2025-10-22T07:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980892136074887653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676761964612313088",
+              "start": 0,
+              "username": "aoman1645822"
+            },
+            {
+              "end": 24,
+              "id": "1881446128602030080",
+              "start": 14,
+              "username": "xihuanxxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980892136074887653",
+        "in_reply_to_user_id": "1676761964612313088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980837002435248391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoman1645822 @xihuanxxq 你赢啦...！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676761964612313088",
+        "conversation_id": "1980589890074034375",
+        "created_at": "2025-10-22T03:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T04:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980837002435248391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881446128602030080",
+              "start": 0,
+              "username": "xihuanxxq"
+            },
+            {
+              "end": 22,
+              "id": "1976995735532138496",
+              "start": 11,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980837002435248391",
+        "in_reply_to_user_id": "1881446128602030080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980700890811232433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanxxq @JanboMikan 幸好我是大唧唧男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "♂ / CD / 二次元 || M.S. in Software Engineering",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMgExK"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1980281098799317281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976999811275800577/pzZer03c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 88,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/kDhqyMgExK",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T01:16:36.000Z",
+        "description": "同好请加我聊天谢谢喵",
+        "id": "1676761964612313088",
+        "name": "海特",
+        "pinned_tweet_id": "1978636924475830416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977052891279245312/Y-kOgd1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 103,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 142
+        },
+        "username": "aoman1645822",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T20:58:22.000Z",
+        "description": "一个喜欢玩屁股的……男娘？娼年？受？皮炎婊子？感觉像四爱男受。求厦门同城的男娘，cd加🐧互推，有空的时候可以一起贴贴",
+        "id": "1881446128602030080",
+        "name": "受",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881446571151409152/zzae2D7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 117,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 203
+        },
+        "username": "xihuanxxq",
+        "verified": false
+      }
+    ]
+  }
+}
