@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2092930130670932182",
+    "created_at": "2026-08-27T13:04:06.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092961354265375097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692515156289630208",
+          "start": 0,
+          "username": "yngjn9963594953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092961354265375097",
+    "in_reply_to_user_id": "1692515156289630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092934393140740181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngjn9963594953 这也是裙子吗x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_2092934381807730688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuYuz3aAAANd5N.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2092930130670932182",
+        "created_at": "2026-08-27T13:04:06.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092961354265375097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692515156289630208",
+              "start": 0,
+              "username": "yngjn9963594953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092961354265375097",
+        "in_reply_to_user_id": "1692515156289630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092934393140740181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngjn9963594953 这也是裙子吗x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092934381807730688"
+          ]
+        },
+        "author_id": "1692515156289630208",
+        "conversation_id": "2092930130670932182",
+        "created_at": "2026-08-27T11:16:58.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092934393140740181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDACpg20XT",
+              "end": 44,
+              "expanded_url": "https://x.com/yngjn9963594953/status/2092934393140740181/photo/1",
+              "media_key": "3_2092934381807730688",
+              "start": 21,
+              "url": "https://t.co/lDACpg20XT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092934393140740181",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092934381807730688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092930130670932182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 你应该穿这件才对 https://t.co/lDACpg20XT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2092961354265375097",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18515,
+          "following_count": 640,
+          "like_count": 22791,
+          "listed_count": 55,
+          "media_count": 414,
+          "tweet_count": 12215
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-18T12:34:14.000Z",
+        "description": "01年生产的无糖可乐，♂，会出好康的cos和其他系列穿搭，可以扩，但别发太奇怪的东西就行",
+        "id": "1692515156289630208",
+        "is_identity_verified": false,
+        "location": "幻想乡，红魔馆",
+        "most_recent_tweet_id": "2092939912358326418",
+        "name": "星海🍥official",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692515156289630208/1757072886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065899672343068672/rBNfrM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 303,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "yngjn9963594953",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

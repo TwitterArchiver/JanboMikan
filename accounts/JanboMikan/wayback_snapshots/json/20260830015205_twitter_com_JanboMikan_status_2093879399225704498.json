@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2093292522701472138",
+    "created_at": "2026-08-30T01:52:05.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093879399225704498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "852318054595780608",
+          "start": 0,
+          "username": "mugimugi2016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093879399225704498",
+    "in_reply_to_user_id": "852318054595780608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093850977459954043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mugimugi2016 大叔也很雷霆啊x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2093292522701472138",
+        "created_at": "2026-08-30T01:52:05.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093879399225704498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "852318054595780608",
+              "start": 0,
+              "username": "mugimugi2016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093879399225704498",
+        "in_reply_to_user_id": "852318054595780608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093850977459954043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mugimugi2016 大叔也很雷霆啊x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852318054595780608",
+        "conversation_id": "2093292522701472138",
+        "created_at": "2026-08-29T23:59:09.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093850977459954043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093850977459954043",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093292522701472138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 大叔:我去，这么雷霆，不早说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2093879399225704498",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18742,
+          "following_count": 642,
+          "like_count": 22888,
+          "listed_count": 56,
+          "media_count": 416,
+          "tweet_count": 12276
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-13T00:30:34.000Z",
+        "description": "#MyGo！！！！！\nLoveLiver，あんしゅか推し🧡💙，BanG Dreamer，よろしく!!!😆\n#トゲナシトゲアリ\n#崩壊3rd ＃崩壊スターレイル",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "MyGo"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "トゲナシトゲアリ"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "崩壊3rd"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "tag": "崩壊スターレイル"
+              }
+            ]
+          }
+        },
+        "id": "852318054595780608",
+        "is_identity_verified": false,
+        "location": "日本 静岡",
+        "most_recent_tweet_id": "2093865314673140127",
+        "name": "むぎ〜🍊⛵",
+        "pinned_tweet_id": "1977214346574147619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/852318054595780608/1718864402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856697985083535360/xNFZjdX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 665,
+          "like_count": 13152,
+          "listed_count": 12,
+          "media_count": 280,
+          "tweet_count": 3214
+        },
+        "url": "",
+        "username": "mugimugi2016",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2093292522701472138",
+    "created_at": "2026-08-30T01:50:35.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093879020601647430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1107815831474323456",
+          "start": 0,
+          "username": "XjhRuby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093879020601647430",
+    "in_reply_to_user_id": "1107815831474323456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093694093432135872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XjhRuby 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2093292522701472138",
+        "created_at": "2026-08-30T01:50:35.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093879020601647430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1107815831474323456",
+              "start": 0,
+              "username": "XjhRuby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093879020601647430",
+        "in_reply_to_user_id": "1107815831474323456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093694093432135872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XjhRuby 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1107815831474323456",
+        "conversation_id": "2093292522701472138",
+        "created_at": "2026-08-29T13:35:45.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093694093432135872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093694093432135872",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093292522701472138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 看了下是抽象男娘，关注了🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2093879020601647430",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18742,
+          "following_count": 642,
+          "like_count": 22880,
+          "listed_count": 56,
+          "media_count": 416,
+          "tweet_count": 12272
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-19T01:27:31.000Z",
+        "description": "一个展示自己爱好、XP、恋物癖的账号，偶尔可能会有18+，不露脸是因为我长得很丑，介意勿点",
+        "id": "1107815831474323456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093829613613125773",
+        "name": "Ruby_Xjh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1107815831474323456/1718750606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1107816762618187776/kNVEIO4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1056,
+          "like_count": 3095,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "XjhRuby",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

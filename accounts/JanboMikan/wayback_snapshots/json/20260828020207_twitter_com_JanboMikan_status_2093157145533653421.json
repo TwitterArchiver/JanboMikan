@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2092567744441118997",
+    "created_at": "2026-08-28T02:02:07.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093157145533653421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279397518812393472",
+          "start": 0,
+          "username": "juzi_0601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093157145533653421",
+    "in_reply_to_user_id": "1279397518812393472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093147492007424251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juzi_0601 那不到了x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_2093147485615341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxajFaawAAvqs9.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2092567744441118997",
+        "created_at": "2026-08-28T02:02:07.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093157145533653421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1279397518812393472",
+              "start": 0,
+              "username": "juzi_0601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093157145533653421",
+        "in_reply_to_user_id": "1279397518812393472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093147492007424251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juzi_0601 那不到了x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093147485615341568"
+          ]
+        },
+        "author_id": "1279397518812393472",
+        "conversation_id": "2092567744441118997",
+        "created_at": "2026-08-28T01:23:45.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093147492007424251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Om4TPnu2OB",
+              "end": 56,
+              "expanded_url": "https://x.com/juzi_0601/status/2093147492007424251/photo/1",
+              "media_key": "3_2093147485615341568",
+              "start": 33,
+              "url": "https://t.co/Om4TPnu2OB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093147492007424251",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093147485615341568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092567744441118997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 这种太累脑了，就和我单位的那些老学究一样 https://t.co/Om4TPnu2OB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2093157145533653421",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18580,
+          "following_count": 640,
+          "like_count": 22808,
+          "listed_count": 55,
+          "media_count": 414,
+          "tweet_count": 12228
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-04T12:52:01.000Z",
+        "description": "不經常在線，偶爾上線，清水推，",
+        "id": "1279397518812393472",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2093148138601340950",
+        "name": "ミカン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279397518812393472/1748022480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945234797615337472/aY8YcvzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 313,
+          "like_count": 2722,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 4890
+        },
+        "url": "",
+        "username": "juzi_0601",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2096345826394010037",
+    "created_at": "2026-09-07T04:26:34.000Z",
+    "display_text_range": [
+      24,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096817377954672879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "Rainstryin"
+        },
+        {
+          "end": 23,
+          "id": "1717173144639700992",
+          "start": 12,
+          "username": "Orion25_GD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096817377954672879",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096816882334695818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainstryin @Orion25_GD 那很好了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2096345826394010037",
+        "created_at": "2026-09-07T04:26:34.000Z",
+        "display_text_range": [
+          24,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096817377954672879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "Rainstryin"
+            },
+            {
+              "end": 23,
+              "id": "1717173144639700992",
+              "start": 12,
+              "username": "Orion25_GD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096817377954672879",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096816882334695818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainstryin @Orion25_GD 那很好了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697936336228126721",
+        "conversation_id": "2096345826394010037",
+        "created_at": "2026-09-07T04:24:36.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096816882334695818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717173144639700992",
+              "start": 0,
+              "username": "Orion25_GD"
+            },
+            {
+              "end": 23,
+              "id": "1976995735532138496",
+              "start": 12,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096816882334695818",
+        "in_reply_to_user_id": "1717173144639700992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096345826394010037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orion25_GD @JanboMikan 你火出圈了()"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2096817377954672879",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20527,
+          "following_count": 650,
+          "like_count": 23148,
+          "listed_count": 62,
+          "media_count": 424,
+          "tweet_count": 12411
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "退役老男娘，野人大学生｜CS大亡｜游戏群909853647欢迎来玩｜我喜欢你@lin1446847｜避难所小号限时回归@Rainstry1n｜如有冒犯在此致歉T.T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "lin1446847"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Rainstry1n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "is_identity_verified": false,
+        "location": "MYTV",
+        "most_recent_tweet_id": "2096816882334695818",
+        "name": "雨斯特云云☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697936336228126721/1787594936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095071034399657984/suN4tZu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1728,
+          "like_count": 116048,
+          "listed_count": 6,
+          "media_count": 343,
+          "tweet_count": 7108
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-25T13:36:09.000Z",
+        "description": "17, Girl, 21st century Spartacist, Young Hegelian, #1 Lassalle hater\n\nCo founder and Supreme commander of @free_andorra\n\nOwns @gdtwtconfess Priv: @sneakiestgorl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "free_andorra"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "gdtwtconfess"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "sneakiestgorl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CgKgHM9v3",
+                "end": 23,
+                "expanded_url": "https://discord.gg/CgKgHM9v3",
+                "start": 0,
+                "url": "https://t.co/5LCoNvz5Mf"
+              }
+            ]
+          }
+        },
+        "id": "1717173144639700992",
+        "is_identity_verified": false,
+        "location": "Boston, MA",
+        "most_recent_tweet_id": "2096807500469150199",
+        "name": "Orion 💖🚩⚙️",
+        "pinned_tweet_id": "2096682382120071382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717173144639700992/1786471565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075927033641607168/PtxkLlsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 473,
+          "like_count": 5262,
+          "listed_count": 14,
+          "media_count": 2057,
+          "tweet_count": 10787
+        },
+        "url": "https://t.co/5LCoNvz5Mf",
+        "username": "Orion25_GD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
