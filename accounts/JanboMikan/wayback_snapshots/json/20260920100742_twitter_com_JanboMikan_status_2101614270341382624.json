@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2101497997167333493",
+    "created_at": "2026-09-20T10:07:42.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101614270341382624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967299260183158784",
+          "start": 0,
+          "username": "1p0xy_star"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101614270341382624",
+    "in_reply_to_user_id": "1967299260183158784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101497997167333493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1p0xy_star 筋膜枪是你这么用的吗😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29966,
+        "height": 1920,
+        "media_key": "13_2101497746490527745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101497746490527745/img/PC_eNFPBBIKTebqq.jpg",
+        "public_metrics": {
+          "view_count": 1062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101497746490527745/pl/yqv4vHyPjlUTmGR1.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101497746490527745/vid/avc1/480x852/aQB4UevGwr3nMiJg.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101497746490527745/vid/avc1/1080x1920/T1muP1yi0HTD7Fvm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101497746490527745/vid/avc1/720x1280/LzEYc-iPbeOkfdbP.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101497746490527745/vid/avc1/320x568/Oa7wv0AlvX_JbxAC.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2101497997167333493",
+        "created_at": "2026-09-20T10:07:42.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101614270341382624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967299260183158784",
+              "start": 0,
+              "username": "1p0xy_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101614270341382624",
+        "in_reply_to_user_id": "1967299260183158784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101497997167333493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1p0xy_star 筋膜枪是你这么用的吗😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101497746490527745"
+          ]
+        },
+        "author_id": "1967299260183158784",
+        "conversation_id": "2101497997167333493",
+        "created_at": "2026-09-20T02:25:41.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101497997167333493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "sissy"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "锁内射精"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "雌堕"
+            },
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "sissygasm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcT7l2uUWa",
+              "end": 67,
+              "expanded_url": "https://x.com/1p0xy_star/status/2101497997167333493/video/1",
+              "media_key": "13_2101497746490527745",
+              "start": 44,
+              "url": "https://t.co/kcT7l2uUWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101497997167333493",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101497746490527745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2350,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "终究还是走到了这一步🥺\n#男娘 #sissy #锁内射精 #雌堕 #sissygasm https://t.co/kcT7l2uUWa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2101614270341382624",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22376,
+          "following_count": 665,
+          "like_count": 23739,
+          "listed_count": 63,
+          "media_count": 438,
+          "tweet_count": 12742
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T18:47:58.000Z",
+        "description": "#男娘 #femboy｜DM welcomed",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男娘"
+              },
+              {
+                "end": 11,
+                "start": 4,
+                "tag": "femboy"
+              }
+            ]
+          }
+        },
+        "id": "1967299260183158784",
+        "is_identity_verified": false,
+        "location": "沪/粤A/Illinois",
+        "most_recent_tweet_id": "2101505841136607532",
+        "name": "星へ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967302757112811521/jdWxU0zC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 178,
+          "like_count": 233,
+          "listed_count": 10,
+          "media_count": 89,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "1p0xy_star",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

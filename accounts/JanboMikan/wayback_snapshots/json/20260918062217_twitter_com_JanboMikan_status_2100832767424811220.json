@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2100595139970253050",
+    "created_at": "2026-09-18T06:22:17.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100832767424811220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100832767424811220",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100829100298383410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 我为什么要看你看剩下的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2100595139970253050",
+        "created_at": "2026-09-18T06:22:17.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100832767424811220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100832767424811220",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100829100298383410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 我为什么要看你看剩下的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2100595139970253050",
+        "created_at": "2026-09-18T06:07:43.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100829100298383410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100829100298383410",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100619854231593411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 来我房间看剩下两只"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2100832767424811220",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22088,
+          "following_count": 660,
+          "like_count": 23644,
+          "listed_count": 62,
+          "media_count": 436,
+          "tweet_count": 12693
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "Power by meat, alcohol and lesbian sex with my wives",
+        "id": "1499442786453663745",
+        "is_identity_verified": false,
+        "location": "Cantonia",
+        "most_recent_tweet_id": "2100829100298383410",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499442786453663745/1696346242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6894,
+          "following_count": 1817,
+          "like_count": 56652,
+          "listed_count": 23,
+          "media_count": 587,
+          "tweet_count": 13637
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

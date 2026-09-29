@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2103076982724440136",
+    "created_at": "2026-09-25T05:07:21.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103350622112403490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1155352900924661760",
+          "start": 0,
+          "username": "GskSimon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103350622112403490",
+    "in_reply_to_user_id": "1155352900924661760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103279753461706969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GskSimon 淘宝以图搜图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2103076982724440136",
+        "created_at": "2026-09-25T05:07:21.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103350622112403490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1155352900924661760",
+              "start": 0,
+              "username": "GskSimon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103350622112403490",
+        "in_reply_to_user_id": "1155352900924661760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103279753461706969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GskSimon 淘宝以图搜图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1155352900924661760",
+        "conversation_id": "2103076982724440136",
+        "created_at": "2026-09-25T00:25:44.000Z",
+        "display_text_range": [
+          12,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103279753461706969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103279753461706969",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103076982724440136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 每天从蜜柑老师的段子里试图寻找同款衣服链接(｡•ˇ‸ˇ•｡)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2103350622112403490",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22822,
+          "following_count": 676,
+          "like_count": 23961,
+          "listed_count": 64,
+          "media_count": 443,
+          "tweet_count": 12871
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-28T05:42:51.000Z",
+        "description": "女装初心者",
+        "id": "1155352900924661760",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2103279753461706969",
+        "name": "Simon_Inner",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326755982572019713/cZawFpZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 94,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "GskSimon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

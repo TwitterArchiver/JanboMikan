@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2098003550949474366",
+    "created_at": "2026-09-11T12:25:24.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098387432635080722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974168475842326530",
+          "start": 0,
+          "username": "Xiaohan46_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098387432635080722",
+    "in_reply_to_user_id": "1974168475842326530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098373506211946607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaohan46_awa 双向是吧x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2098003550949474366",
+        "created_at": "2026-09-11T12:25:24.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098387432635080722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974168475842326530",
+              "start": 0,
+              "username": "Xiaohan46_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098387432635080722",
+        "in_reply_to_user_id": "1974168475842326530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098373506211946607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaohan46_awa 双向是吧x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974168475842326530",
+        "conversation_id": "2098003550949474366",
+        "created_at": "2026-09-11T11:30:04.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098373506211946607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098373506211946607",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098003550949474366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 双向奔赴说是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2098387432635080722",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21627,
+          "following_count": 657,
+          "like_count": 23361,
+          "listed_count": 61,
+          "media_count": 430,
+          "tweet_count": 12552
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-03T17:43:57.000Z",
+        "description": "（头像及背景图来自B站@小猫烧NekoYaki的定制表情包喵）\n高二牲，是小南梁，目前只敢在兄弟家女装；偶尔会在这边发点照片（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1474259902",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1474259902",
+                "start": 0,
+                "url": "https://t.co/aKG0LuSzt2"
+              }
+            ]
+          }
+        },
+        "id": "1974168475842326530",
+        "is_identity_verified": false,
+        "location": "B站关注晓寒谢谢喵）",
+        "most_recent_tweet_id": "2098373506211946607",
+        "name": "是晓寒呐_",
+        "pinned_tweet_id": "2081617458457378879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974168475842326530/1785130137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081611797937987584/nUnQ88Iy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 94,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/aKG0LuSzt2",
+        "username": "Xiaohan46_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

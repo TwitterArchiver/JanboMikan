@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2102640500071395579",
+    "created_at": "2026-09-24T08:54:57.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103045510353571966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685834512490729472",
+          "start": 0,
+          "username": "mavinci20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103045510353571966",
+    "in_reply_to_user_id": "1685834512490729472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103016911143653698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mavinci20 咪咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2102640500071395579",
+        "created_at": "2026-09-24T08:54:57.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103045510353571966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685834512490729472",
+              "start": 0,
+              "username": "mavinci20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103045510353571966",
+        "in_reply_to_user_id": "1685834512490729472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103016911143653698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mavinci20 咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685834512490729472",
+        "conversation_id": "2102640500071395579",
+        "created_at": "2026-09-24T07:01:18.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103016911143653698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103016911143653698",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102640500071395579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2103045510353571966",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22810,
+          "following_count": 676,
+          "like_count": 23947,
+          "listed_count": 64,
+          "media_count": 442,
+          "tweet_count": 12854
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-31T02:07:39.000Z",
+        "description": "snowfall",
+        "id": "1685834512490729472",
+        "is_identity_verified": false,
+        "location": "Cat Planet",
+        "most_recent_tweet_id": "2103016911143653698",
+        "name": "Innocence.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685834512490729472/1780025364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949081381658894336/kHrjMAJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 603,
+          "like_count": 18246,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 4301
+        },
+        "url": "",
+        "username": "mavinci20",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

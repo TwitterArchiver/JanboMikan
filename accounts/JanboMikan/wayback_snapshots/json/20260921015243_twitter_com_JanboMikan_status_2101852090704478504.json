@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2101627440976069116",
+    "created_at": "2026-09-21T01:52:43.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101852090704478504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1120396941311893504",
+          "start": 0,
+          "username": "WilliamsBo0914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101852090704478504",
+    "in_reply_to_user_id": "1120396941311893504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101812717908881654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamsBo0914 正确的x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2101627440976069116",
+        "created_at": "2026-09-21T01:52:43.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101852090704478504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1120396941311893504",
+              "start": 0,
+              "username": "WilliamsBo0914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101852090704478504",
+        "in_reply_to_user_id": "1120396941311893504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101812717908881654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamsBo0914 正确的x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120396941311893504",
+        "conversation_id": "2101627440976069116",
+        "created_at": "2026-09-20T23:16:16.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101812717908881654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101812717908881654",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101627440976069116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 打扮的這麼可愛 一定是男孩子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2101852090704478504",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22529,
+          "following_count": 667,
+          "like_count": 23784,
+          "listed_count": 63,
+          "media_count": 439,
+          "tweet_count": 12760
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-22T18:40:21.000Z",
+        "description": "目前都已經25了可憐的單身男沒有任何交往過\n往著魔法師的年紀在前進\n溫柔會煮飯會做家事也沒有任何機會認識異性",
+        "id": "1120396941311893504",
+        "is_identity_verified": false,
+        "location": "台灣 桃園市",
+        "most_recent_tweet_id": "2101812717908881654",
+        "name": "妮娜威廉斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120396941311893504/1663974476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980794239970611200/aMw2O7Fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 538,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "WilliamsBo0914",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

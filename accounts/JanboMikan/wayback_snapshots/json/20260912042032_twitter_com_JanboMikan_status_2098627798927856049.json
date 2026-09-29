@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2098622037086626200",
+    "created_at": "2026-09-12T04:20:32.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T05:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098627798927856049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049186369361289216",
+          "start": 0,
+          "username": "Ayn_kitkia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098627798927856049",
+    "in_reply_to_user_id": "2049186369361289216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098622037086626200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayn_kitkia 宝宝你是一个宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2098622032766472192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_NnqzakAA_X54.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2098622037086626200",
+        "created_at": "2026-09-12T04:20:32.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098627798927856049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049186369361289216",
+              "start": 0,
+              "username": "Ayn_kitkia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098627798927856049",
+        "in_reply_to_user_id": "2049186369361289216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098622037086626200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayn_kitkia 宝宝你是一个宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098622032766472192"
+          ]
+        },
+        "author_id": "2049186369361289216",
+        "conversation_id": "2098622037086626200",
+        "created_at": "2026-09-12T03:57:38.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T04:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098622037086626200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFGc1Mj8y3",
+              "end": 32,
+              "expanded_url": "https://x.com/Ayn_kitkia/status/2098622037086626200/photo/1",
+              "media_key": "3_2098622032766472192",
+              "start": 9,
+              "url": "https://t.co/iFGc1Mj8y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098622037086626200",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098622032766472192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 174,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人間関係の断捨離 https://t.co/iFGc1Mj8y3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2098627798927856049",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21746,
+          "following_count": 658,
+          "like_count": 23412,
+          "listed_count": 61,
+          "media_count": 430,
+          "tweet_count": 12578
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T18:02:21.000Z",
+        "description": "オス♂//aya避難所\n光学異性体💎@AyanoAsahina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "AyanoAsahina"
+              }
+            ]
+          }
+        },
+        "id": "2049186369361289216",
+        "is_identity_verified": false,
+        "location": "Minato-ku, Tokyo",
+        "most_recent_tweet_id": "2098623969880641593",
+        "name": "Arya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049186369361289216/1780581084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096475023599116288/vfxebGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 266,
+          "like_count": 7430,
+          "listed_count": 16,
+          "media_count": 100,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "Ayn_kitkia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

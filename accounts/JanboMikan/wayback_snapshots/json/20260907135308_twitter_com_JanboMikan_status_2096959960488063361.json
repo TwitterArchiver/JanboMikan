@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2096885274387358161",
+    "created_at": "2026-09-07T13:53:08.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T14:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096959960488063361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036478263669956615",
+          "start": 0,
+          "username": "lloofesenf14719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096959960488063361",
+    "in_reply_to_user_id": "2036478263669956615",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096956437822120341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lloofesenf14719 那很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2096885274387358161",
+        "created_at": "2026-09-07T13:53:08.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096959960488063361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036478263669956615",
+              "start": 0,
+              "username": "lloofesenf14719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096959960488063361",
+        "in_reply_to_user_id": "2036478263669956615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096956437822120341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lloofesenf14719 那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036478263669956615",
+        "conversation_id": "2096885274387358161",
+        "created_at": "2026-09-07T13:39:09.000Z",
+        "display_text_range": [
+          27,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096956437822120341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 26,
+              "id": "1633715238322466817",
+              "start": 12,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096956437822120341",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096885274387358161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @plumedream233 你lucky"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2096959960488063361",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20664,
+          "following_count": 651,
+          "like_count": 23177,
+          "listed_count": 61,
+          "media_count": 426,
+          "tweet_count": 12435
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T16:20:47.000Z",
+        "description": "aspiring femboy\n240,000 iq cpu brain\nminor\ndelusional\naddress: 990 Upper Changi Road North, Singapore 506968\nsocials: https://t.co/T7jOwzfa1X",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/4b3hryw2",
+                "end": 141,
+                "expanded_url": "https://tinyurl.com/4b3hryw2",
+                "start": 118,
+                "url": "https://t.co/T7jOwzfa1X"
+              }
+            ]
+          }
+        },
+        "id": "2036478263669956615",
+        "is_identity_verified": false,
+        "location": "Great Exardia, Immerkind",
+        "most_recent_tweet_id": "2096956938496139643",
+        "name": "1 10058689490",
+        "pinned_tweet_id": "2086669764110496158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036478263669956615/1787055868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089688967692353536/QjCJZuJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 152,
+          "like_count": 18180,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 5154
+        },
+        "url": "",
+        "username": "lloofesenf14719",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

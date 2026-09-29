@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2099815491774849524",
+    "created_at": "2026-09-16T14:55:41.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100237191738012046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2089250141660454912",
+          "start": 0,
+          "username": "jyclhxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100237191738012046",
+    "in_reply_to_user_id": "2089250141660454912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100017978607640756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jyclhxz 拜耳的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2099815491774849524",
+        "created_at": "2026-09-16T14:55:41.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100237191738012046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2089250141660454912",
+              "start": 0,
+              "username": "jyclhxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100237191738012046",
+        "in_reply_to_user_id": "2089250141660454912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100017978607640756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jyclhxz 拜耳的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089250141660454912",
+        "conversation_id": "2099815491774849524",
+        "created_at": "2026-09-16T00:24:37.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100017978607640756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100017978607640756",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099815491774849524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 哈？这是哪个牌子的蛋白粉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2100237191738012046",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22006,
+          "following_count": 658,
+          "like_count": 23589,
+          "listed_count": 62,
+          "media_count": 435,
+          "tweet_count": 12666
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T07:18:24.000Z",
+        "description": "我就是个臭养老鼠的，不要伤害我呜呜呜呜呜（有养老鼠方面的问题私信找我喵）",
+        "id": "2089250141660454912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100034449115131919",
+        "name": "谨以此梨花相赠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089250141660454912/1786952044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089557321273708544/j5M2SmyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "jyclhxz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

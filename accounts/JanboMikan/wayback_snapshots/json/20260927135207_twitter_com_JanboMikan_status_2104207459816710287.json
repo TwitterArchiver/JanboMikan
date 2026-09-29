@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2103801764462125418",
+    "created_at": "2026-09-27T13:52:07.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104207459816710287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1125278739762253824",
+          "start": 0,
+          "username": "a033352285"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104207459816710287",
+    "in_reply_to_user_id": "1125278739762253824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104149795938222544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a033352285 那很糟糕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2103801764462125418",
+        "created_at": "2026-09-27T13:52:07.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104207459816710287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1125278739762253824",
+              "start": 0,
+              "username": "a033352285"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104207459816710287",
+        "in_reply_to_user_id": "1125278739762253824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104149795938222544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a033352285 那很糟糕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125278739762253824",
+        "conversation_id": "2103801764462125418",
+        "created_at": "2026-09-27T10:02:59.000Z",
+        "display_text_range": [
+          12,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104149795938222544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104149795938222544",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103801764462125418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan HR：喔，那你回去等通知吧\n（好結局：HR知道公司內部風氣，不讓你進是保護你）\n（壞結局：HR就是那個不接受的人）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2104207459816710287",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23068,
+          "following_count": 675,
+          "like_count": 24040,
+          "listed_count": 64,
+          "media_count": 446,
+          "tweet_count": 12929
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-06T05:58:53.000Z",
+        "description": "高三，男的\n超菜cos/原🍕/穹軌/攝影📷\n📷：Fuji X-S10",
+        "id": "1125278739762253824",
+        "is_identity_verified": false,
+        "location": "ROC Taiwan 台灣",
+        "most_recent_tweet_id": "2104149795938222544",
+        "name": "可樂三單推",
+        "pinned_tweet_id": "1589675932914450432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125278739762253824/1613984077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466047133904437249/jdIcHCUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1229,
+          "like_count": 20184,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 5227
+        },
+        "url": "",
+        "username": "a033352285",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

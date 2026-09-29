@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2098586644639264967",
+    "created_at": "2026-09-12T01:37:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T02:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098586644639264967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098586644639264967",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 866
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097770631366328653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: [Long Thread] Hello everyone. Recent controversies over transphobia among Chinese lesbians have drawn international at…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2098586644639264967",
+        "created_at": "2026-09-12T01:37:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098586644639264967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098586644639264967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 866
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097770631366328653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: [Long Thread] Hello everyone. Recent controversies over transphobia among Chinese lesbians have drawn international at…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2097770631366328653",
+        "created_at": "2026-09-09T19:34:27.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097770631366328653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097770631366328653",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 645,
+                "id": "20007447",
+                "start": 640,
+                "username": "wgsi"
+              }
+            ]
+          },
+          "text": "[Long Thread] Hello everyone. Recent controversies over transphobia among Chinese lesbians have drawn international attention, and I’ve received numerous messages from people who are curious/concerned about the current living conditions of trans women in China. I wish to take this opportunity to explain the structural oppression and struggles for survival that trans women in China currently face. The target audience of this thread includes fellow trans people and allies around the world and to cis people who view us with skepticism or outright hostility. My name is amber. I am a trans woman who grew up in China and a PhD student at @wgsi. My research focuses on transfem community history in China since 1980. This is a long thread. Please feel free to repost, bookmark, save, and share it on other platforms. I will also update it in response to feedback.\n各位好。近期，中国女同的恐跨争议在推特上引起了国际关注，有许多人都对中国跨性别女性的生存状况感到好奇和担忧，也有部分人对我们受到的压迫嗤之以鼻。因此，我希望借此机会介绍中国跨性别女性目前面临的结构性压迫和生存困境。本帖的目标受众既包括来自世界各地的同类和友跨人士，也包括那些对我们心生怀疑乃至抱着明确敌意的顺性别者们。我是amber，是一名在中国长大的跨性别女性，也是多伦多大学性别研究系（WGSI）的博士生；我的研究方向是1980年之后的中国跨性别女性社群历史。本贴较长，大家可以任意转发收藏保存并传播，我也会基于后续反馈对此贴进行更新。1/10"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2160,
+          "impression_count": 131540,
+          "like_count": 3265,
+          "quote_count": 46,
+          "reply_count": 22,
+          "retweet_count": 866
+        },
+        "reply_settings": "everyone",
+        "text": "[Long Thread] Hello everyone. Recent controversies over transphobia among Chinese lesbians have drawn international attention, and I’ve received numerous messages from people who are curious/concerned about the current living conditions of trans women in China. I wish to take"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2098586644639264967",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21724,
+          "following_count": 658,
+          "like_count": 23393,
+          "listed_count": 61,
+          "media_count": 430,
+          "tweet_count": 12571
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098585428001427902",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10741,
+          "following_count": 1280,
+          "like_count": 9589,
+          "listed_count": 14,
+          "media_count": 455,
+          "tweet_count": 5655
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

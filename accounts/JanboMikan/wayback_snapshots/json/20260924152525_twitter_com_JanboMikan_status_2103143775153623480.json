@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2103036212332331026",
+    "created_at": "2026-09-24T15:25:25.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103143775153623480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103143775153623480",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103036212332331026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 天天新衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3982,
+        "media_key": "3_2102997997294678018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9ZiVAbcAIMtVw.jpg",
+        "width": 2987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2103036212332331026",
+        "created_at": "2026-09-24T15:25:25.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103143775153623480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103143775153623480",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103036212332331026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 天天新衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102997997294678018"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2103036212332331026",
+        "created_at": "2026-09-24T08:18:00.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103036212332331026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeYkxyGvJF",
+              "end": 47,
+              "expanded_url": "https://x.com/mingji_A/status/2103036212332331026/photo/1",
+              "media_key": "3_2102997997294678018",
+              "start": 24,
+              "url": "https://t.co/HeYkxyGvJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103036212332331026",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102997997294678018"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝的是冰水，尿出来却是热的，也许人是个烧杯。😗 https://t.co/HeYkxyGvJF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2103143775153623480",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22813,
+          "following_count": 676,
+          "like_count": 23964,
+          "listed_count": 64,
+          "media_count": 443,
+          "tweet_count": 12868
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2103122092082553325",
+        "name": "銘紀Å",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812363069487742976/1767595151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4985,
+          "following_count": 2913,
+          "like_count": 96729,
+          "listed_count": 26,
+          "media_count": 262,
+          "tweet_count": 23557
+        },
+        "url": "",
+        "username": "mingji_A",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

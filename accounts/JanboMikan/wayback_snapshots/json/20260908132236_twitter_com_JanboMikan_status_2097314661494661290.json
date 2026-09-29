@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2096885274387358161",
+    "created_at": "2026-09-08T13:22:36.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T14:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097314661494661290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824554521042849792",
+          "start": 0,
+          "username": "bobob64317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097314661494661290",
+    "in_reply_to_user_id": "1824554521042849792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097183459982925874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobob64317 还有例图x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2097183442790494208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqxOthbsAAlcqi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2096885274387358161",
+        "created_at": "2026-09-08T13:22:36.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097314661494661290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824554521042849792",
+              "start": 0,
+              "username": "bobob64317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097314661494661290",
+        "in_reply_to_user_id": "1824554521042849792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097183459982925874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobob64317 还有例图x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097183442790494208"
+          ]
+        },
+        "author_id": "1824554521042849792",
+        "conversation_id": "2096885274387358161",
+        "created_at": "2026-09-08T04:41:15.000Z",
+        "display_text_range": [
+          27,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097183459982925874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 26,
+              "id": "1633715238322466817",
+              "start": 12,
+              "username": "plumedream233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVlIVNX76D",
+              "end": 64,
+              "expanded_url": "https://x.com/bobob64317/status/2097183459982925874/photo/1",
+              "media_key": "3_2097183442790494208",
+              "start": 41,
+              "url": "https://t.co/oVlIVNX76D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097183459982925874",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097183442790494208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096885274387358161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @plumedream233 恭喜喵，煮包文案太强了（） https://t.co/oVlIVNX76D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2097314661494661290",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20954,
+          "following_count": 651,
+          "like_count": 23223,
+          "listed_count": 61,
+          "media_count": 427,
+          "tweet_count": 12470
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T21:11:51.000Z",
+        "description": "随便发点东西，照片是自己，梗图是搬的，上线不定时，图可能有点低质，感谢在茫茫人海中看到了我",
+        "id": "1824554521042849792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097186043397324904",
+        "name": "bobob",
+        "pinned_tweet_id": "2095568658731028784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824554521042849792/1730504418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844760577945563139/btP1q7ZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 453,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "bobob64317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

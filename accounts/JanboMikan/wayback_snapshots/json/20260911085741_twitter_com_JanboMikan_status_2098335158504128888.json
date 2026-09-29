@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2098054844343095669",
+    "created_at": "2026-09-11T08:57:41.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098335158504128888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2091430858758479872",
+          "start": 0,
+          "username": "rewolF100307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098335158504128888",
+    "in_reply_to_user_id": "2091430858758479872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098054844343095669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rewolF100307 热知识：hrt不一定要切x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2098054831688892416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3JwOIbwAAeEFD.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2098054844343095669",
+        "created_at": "2026-09-11T08:57:41.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098335158504128888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2091430858758479872",
+              "start": 0,
+              "username": "rewolF100307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098335158504128888",
+        "in_reply_to_user_id": "2091430858758479872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098054844343095669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rewolF100307 热知识：hrt不一定要切x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098054831688892416"
+          ]
+        },
+        "author_id": "2091430858758479872",
+        "conversation_id": "2098054844343095669",
+        "created_at": "2026-09-10T14:23:49.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098054844343095669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AyX7uwAsm7",
+              "end": 146,
+              "expanded_url": "https://x.com/rewolF100307/status/2098054844343095669/photo/1",
+              "media_key": "3_2098054831688892416",
+              "start": 123,
+              "url": "https://t.co/AyX7uwAsm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098054844343095669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098054831688892416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 21467,
+          "like_count": 607,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "男娘和药娘谈恋爱，几个月后药娘发现男娘在偷偷吃糖\n“唉，你要是也想变性，那我以后吃谁的牛子呢?”\n“放心，咱们变性的钱要是正常打工攒出来估计咱都自杀了，所以咱一起靠嗦别人的牛子挣钱吧”\n“呜呜，人家只想吃你的……”\n     -珍爱生命不要麦- https://t.co/AyX7uwAsm7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2098335158504128888",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21570,
+          "following_count": 656,
+          "like_count": 23336,
+          "listed_count": 61,
+          "media_count": 429,
+          "tweet_count": 12536
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T07:48:39.000Z",
+        "description": "大号@rewolF0307 有一点死了，想要寻回咱的推u们🥺\n防失联:@rewolF_xyn\n🏳️‍⚧️|Birth 2010.03.07|喜欢玩泰拉瑞亚，MC这一类的游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "rewolF0307"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "rewolF_xyn"
+              }
+            ]
+          }
+        },
+        "id": "2091430858758479872",
+        "is_identity_verified": false,
+        "location": "饱饱怀里",
+        "most_recent_tweet_id": "2098273594027782615",
+        "name": "朝花rewolF 2.0(被邪恶奶隆封印大号故试图寻回推u)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091430858758479872/1787472802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092280222867746816/8qIhnqGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 95,
+          "like_count": 2386,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "rewolF100307",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

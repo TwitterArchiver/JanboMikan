@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2099815491774849524",
+    "created_at": "2026-09-15T12:30:27.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099838255994917127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "Ixoryss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099838255994917127",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099816638975729794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ixoryss 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2099815491774849524",
+        "created_at": "2026-09-15T12:30:27.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099838255994917127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099838255994917127",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099816638975729794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971003340602486784",
+        "conversation_id": "2099815491774849524",
+        "created_at": "2026-09-15T11:04:34.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099816638975729794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099816638975729794",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099815491774849524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 那很美味了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2099838255994917127",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21950,
+          "following_count": 660,
+          "like_count": 23565,
+          "listed_count": 62,
+          "media_count": 434,
+          "tweet_count": 12649
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "嵌入式开发/产品结构\n174 50kg\nMinecraft. 音游. Factorio\n好老婆/好妹妹 @Steven10000086",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Steven10000086"
+              }
+            ]
+          }
+        },
+        "id": "971003340602486784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099816638975729794",
+        "name": "镜子里的猫",
+        "pinned_tweet_id": "2097130307287945667",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/971003340602486784/1770846516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076057451217182720/UPD3hkGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 376,
+          "like_count": 1002,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 2246
+        },
+        "url": "",
+        "username": "Ixoryss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

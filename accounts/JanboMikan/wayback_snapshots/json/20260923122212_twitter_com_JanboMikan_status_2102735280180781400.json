@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2102714599577464891",
+    "created_at": "2026-09-23T12:22:12.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T13:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102735280180781400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1909051456512262144",
+          "start": 0,
+          "username": "zkw2046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102735280180781400",
+    "in_reply_to_user_id": "1909051456512262144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102721723636564416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zkw2046 😋😗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2102714599577464891",
+        "created_at": "2026-09-23T12:22:12.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102735280180781400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1909051456512262144",
+              "start": 0,
+              "username": "zkw2046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102735280180781400",
+        "in_reply_to_user_id": "1909051456512262144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102721723636564416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zkw2046 😋😗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909051456512262144",
+        "conversation_id": "2102714599577464891",
+        "created_at": "2026-09-23T11:28:20.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102721723636564416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102721723636564416",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102714599577464891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 到底是怎么想出这种文案的😨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2102735280180781400",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22815,
+          "following_count": 675,
+          "like_count": 23916,
+          "listed_count": 64,
+          "media_count": 442,
+          "tweet_count": 12833
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T01:13:36.000Z",
+        "description": "",
+        "id": "1909051456512262144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102723250551939204",
+        "name": "川辞",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909051902660321280/JSDRy64d_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "zkw2046",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

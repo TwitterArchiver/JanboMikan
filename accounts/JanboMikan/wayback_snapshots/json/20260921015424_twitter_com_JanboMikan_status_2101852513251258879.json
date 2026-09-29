@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2101627440976069116",
+    "created_at": "2026-09-21T01:54:24.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101852513251258879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684581549738721282",
+          "start": 0,
+          "username": "jiangna45827949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101852513251258879",
+    "in_reply_to_user_id": "1684581549738721282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101698601646948734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangna45827949 b站认识的x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2101627440976069116",
+        "created_at": "2026-09-21T01:54:24.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101852513251258879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684581549738721282",
+              "start": 0,
+              "username": "jiangna45827949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101852513251258879",
+        "in_reply_to_user_id": "1684581549738721282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101698601646948734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangna45827949 b站认识的x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684581549738721282",
+        "conversation_id": "2101627440976069116",
+        "created_at": "2026-09-20T15:42:48.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101698601646948734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101698601646948734",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101627440976069116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 一家恶搞之家认识的🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2101852513251258879",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22529,
+          "following_count": 667,
+          "like_count": 23789,
+          "listed_count": 63,
+          "media_count": 439,
+          "tweet_count": 12762
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T15:08:48.000Z",
+        "description": "随便发发吧",
+        "id": "1684581549738721282",
+        "is_identity_verified": false,
+        "location": "距离你1km",
+        "most_recent_tweet_id": "2101708445019984149",
+        "name": "jiangnan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684581549738721282/1690811426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686011397207912448/EbFbIMo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 295,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "jiangna45827949",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

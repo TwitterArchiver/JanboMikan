@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2100177878810059106",
+    "created_at": "2026-09-16T14:54:10.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100236809532035207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100236809532035207",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100214310815531153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg 害怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2100214297968492546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSV1xs6bwAI88jC.jpg",
+        "width": 817
+      },
+      {
+        "height": 500,
+        "media_key": "3_2100214304452857856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSV1yFEbUAAN7_C.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2100177878810059106",
+        "created_at": "2026-09-16T14:54:10.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100236809532035207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100236809532035207",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100214310815531153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg 害怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100214297968492546",
+            "3_2100214304452857856"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100177878810059106",
+        "created_at": "2026-09-16T13:24:46.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100214310815531153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YiUkjDmu1f",
+              "end": 35,
+              "expanded_url": "https://x.com/wdlyrg/status/2100214310815531153/photo/1",
+              "media_key": "3_2100214297968492546",
+              "start": 12,
+              "url": "https://t.co/YiUkjDmu1f"
+            },
+            {
+              "display_url": "pic.x.com/YiUkjDmu1f",
+              "end": 35,
+              "expanded_url": "https://x.com/wdlyrg/status/2100214310815531153/photo/1",
+              "media_key": "3_2100214304452857856",
+              "start": 12,
+              "url": "https://t.co/YiUkjDmu1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100214310815531153",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100214297968492546"
+          },
+          {
+            "media_key": "3_2100214304452857856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100177878810059106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan https://t.co/YiUkjDmu1f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2100236809532035207",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22006,
+          "following_count": 658,
+          "like_count": 23581,
+          "listed_count": 62,
+          "media_count": 435,
+          "tweet_count": 12659
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100219050009989337",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "2048349307766812905",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 508,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 14812,
+          "tweet_count": 22459
+        },
+        "url": "",
+        "username": "wdlyrg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

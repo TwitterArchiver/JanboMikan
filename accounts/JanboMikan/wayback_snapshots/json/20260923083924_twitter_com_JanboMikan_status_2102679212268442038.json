@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2102352213469217097",
+    "created_at": "2026-09-23T08:39:24.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102679212268442038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967080764119678976",
+          "start": 0,
+          "username": "RCSC_REDCROSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102679212268442038",
+    "in_reply_to_user_id": "1967080764119678976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102657160534732878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RCSC_REDCROSS 那不知道了x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2102352213469217097",
+        "created_at": "2026-09-23T08:39:24.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102679212268442038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967080764119678976",
+              "start": 0,
+              "username": "RCSC_REDCROSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102679212268442038",
+        "in_reply_to_user_id": "1967080764119678976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102657160534732878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RCSC_REDCROSS 那不知道了x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967080764119678976",
+        "conversation_id": "2102352213469217097",
+        "created_at": "2026-09-23T07:11:47.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102657160534732878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102657160534732878",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102352213469217097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 日雌不是戊酸雌二醇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2102679212268442038",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22802,
+          "following_count": 675,
+          "like_count": 23901,
+          "listed_count": 64,
+          "media_count": 441,
+          "tweet_count": 12826
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T04:19:50.000Z",
+        "description": "紅十字運動/ 医療急救 / MTF🏳‍⚧🍥(含糖ing)/有證含糖/RCS of the ROC/民國99年-2010年出廠99.10.19/中華民國台灣派🇹🇼/(已炸櫃)/hrt:民國114年-25年 10.10 /關注會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "redcross.org.tw",
+                "end": 23,
+                "expanded_url": "https://www.redcross.org.tw",
+                "start": 0,
+                "url": "https://t.co/9rfNWvR0qi"
+              }
+            ]
+          }
+        },
+        "id": "1967080764119678976",
+        "is_identity_verified": false,
+        "location": "中华民国-新北市-板桥区",
+        "most_recent_tweet_id": "2102657160534732878",
+        "name": "安卡🍥🏳‍⚧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967080764119678976/1759161119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100463783416315904/WV9cqpUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 362,
+          "like_count": 1389,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/9rfNWvR0qi",
+        "username": "RCSC_REDCROSS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
