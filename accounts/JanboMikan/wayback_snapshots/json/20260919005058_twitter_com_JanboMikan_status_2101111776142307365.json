@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2100540266101068207",
+    "created_at": "2026-09-19T00:50:58.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T01:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101111776142307365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "895396687216123905",
+          "start": 0,
+          "username": "Death_rod5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101111776142307365",
+    "in_reply_to_user_id": "895396687216123905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100969562879742337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Death_rod5 故意不小心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2100540266101068207",
+        "created_at": "2026-09-19T00:50:58.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101111776142307365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "895396687216123905",
+              "start": 0,
+              "username": "Death_rod5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101111776142307365",
+        "in_reply_to_user_id": "895396687216123905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100969562879742337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Death_rod5 故意不小心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895396687216123905",
+        "conversation_id": "2100540266101068207",
+        "created_at": "2026-09-18T15:25:52.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100969562879742337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100969562879742337",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100540266101068207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 细节电脑没锁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2101111776142307365",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22126,
+          "following_count": 661,
+          "like_count": 23669,
+          "listed_count": 62,
+          "media_count": 437,
+          "tweet_count": 12710
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-09T21:29:41.000Z",
+        "description": "我的心沉没在了我从未抵达的远方",
+        "id": "895396687216123905",
+        "is_identity_verified": false,
+        "location": "Mukden, Greater Asia",
+        "most_recent_tweet_id": "2100972330491187432",
+        "name": "土堡王",
+        "pinned_tweet_id": "2011106033155113417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/895396687216123905/1593285051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089354365916286976/qokshIXl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 4991,
+          "like_count": 245752,
+          "listed_count": 17,
+          "media_count": 635,
+          "tweet_count": 74094
+        },
+        "url": "",
+        "username": "Death_rod5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

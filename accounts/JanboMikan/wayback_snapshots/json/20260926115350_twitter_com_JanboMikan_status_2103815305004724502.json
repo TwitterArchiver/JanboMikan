@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976995735532138496",
+    "conversation_id": "2103439376877289770",
+    "created_at": "2026-09-26T11:53:50.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103815305004724502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991803878271262720",
+          "start": 0,
+          "username": "Teak492193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103815305004724502",
+    "in_reply_to_user_id": "1991803878271262720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103704839335145868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teak492193 那没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976995735532138496",
+        "conversation_id": "2103439376877289770",
+        "created_at": "2026-09-26T11:53:50.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103815305004724502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991803878271262720",
+              "start": 0,
+              "username": "Teak492193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103815305004724502",
+        "in_reply_to_user_id": "1991803878271262720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103704839335145868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teak492193 那没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991803878271262720",
+        "conversation_id": "2103439376877289770",
+        "created_at": "2026-09-26T04:34:53.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103704839335145868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103704839335145868",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103439376877289770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 我宣布堪比何六诚的出现了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2103815305004724502",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22844,
+          "following_count": 675,
+          "like_count": 23996,
+          "listed_count": 64,
+          "media_count": 445,
+          "tweet_count": 12900
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T09:40:39.000Z",
+        "description": "cnm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/Si6ai41VdB"
+              }
+            ]
+          }
+        },
+        "id": "1991803878271262720",
+        "is_identity_verified": false,
+        "location": "你背后",
+        "most_recent_tweet_id": "2103782470995018043",
+        "name": "teak 45",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991803878271262720/1775593241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082190324785659904/N1n2PQrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 44,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/Si6ai41VdB",
+        "username": "Teak492193",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
